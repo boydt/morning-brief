@@ -132,7 +132,7 @@
     historyLimit: HISTORY_PAGE,
     historyEls: new Map(),    // date -> <details>
     loadedHistory: new Set(),
-    deepOpen: new Map(),      // key -> bool
+    deepOpen: new Map(),      // key -> true once Boyd expands a deep dive (this page session only; never persisted)
     asked: store.get(ASKED_KEY, {}), // key -> ISO time Boyd asked (this browser only)
     round: { sha: null, sources: new Set() },
     refreshing: false,
@@ -214,7 +214,7 @@
   function buildButton(date, it) {
     const k = key(date, it.id);
     if (hasDetails(it)) {
-      const open = state.deepOpen.get(k) !== false;
+      const open = state.deepOpen.get(k) === true;   // deep dives are collapsed by default
       return h('button', { class: 'btn done', type: 'button', 'aria-expanded': String(open), onclick: () => { state.deepOpen.set(k, !open); patchCard(date, it.id); } },
         open ? '▾ Hide deep dive' : '▸ Show deep dive');
     }
@@ -228,7 +228,7 @@
     const src = it.source && typeof it.source === 'object' ? it.source : null;
     const url = src && safeUrl(src.url);
     let srcName = src && src.name; if (!srcName && url) srcName = new URL(url).hostname;
-    const open = state.deepOpen.get(k) !== false;
+    const open = state.deepOpen.get(k) === true;
     return h('article', { class: 'card', id: `item-${date}-${it.id}` },
       h('div', { class: 'headline-row' },
         h('span', { class: 'badge', title: 'Headline code' }, String(it.id)),

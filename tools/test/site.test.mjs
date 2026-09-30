@@ -103,21 +103,30 @@ try {
     ok(`[${vp.tag}] no horizontal overflow`, await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth), await page.evaluate(() => `${document.documentElement.scrollWidth}/${window.innerWidth}`));
     await shot(page, `${vp.tag}-today.png`);
 
+    const detailItems = allItems.filter((i) => i.details_md);
+    ok(`[${vp.tag}] all ${detailItems.length} deep dive(s) collapsed on load, button says "Show deep dive"`,
+      (await page.locator('.deep').count()) === 0 && (await page.locator('#today .btn.done').count()) === detailItems.length &&
+      (await page.locator('#today .btn.done').allInnerTexts()).every((t) => /Show deep dive/.test(t) && !/Hide/.test(t)));
     if (withDetails) {
-      const c = page.locator(`[id="item-${TODAY}-${withDetails.id}"]`);
-      const info = await c.evaluate((el) => { const d = el.querySelector('.deep'), hd = el.querySelector('.headline');
+      const c = () => page.locator(`[id="item-${TODAY}-${withDetails.id}"]`);
+      await c().scrollIntoViewIfNeeded();
+      const t0 = await c().evaluate((el) => el.getBoundingClientRect().top);
+      await c().locator('.btn').click();
+      const t1 = await c().evaluate((el) => el.getBoundingClientRect().top);
+      const info = await c().evaluate((el) => { const d = el.querySelector('.deep'), hd = el.querySelector('.headline');
         return { deep: !!d, after: !!d && !!(hd.compareDocumentPosition(d) & Node.DOCUMENT_POSITION_FOLLOWING), strong: d ? d.querySelectorAll('strong').length : 0,
-          links: d ? [...d.querySelectorAll('a')].every((a) => a.target === '_blank') : false, time: d && d.querySelector('time') ? d.querySelector('time').textContent : '' }; });
-      ok(`[${vp.tag}] ${withDetails.id} deep dive renders inline inside its card under the headline`, info.deep && info.after && info.strong > 0 && info.links, JSON.stringify(info));
+          links: d ? [...d.querySelectorAll('a')].every((a) => a.target === '_blank') : false, time: d && d.querySelector('time') ? d.querySelector('time').textContent : '',
+          btn: el.querySelector('.btn').textContent }; });
+      ok(`[${vp.tag}] "Show deep dive" expands ${withDetails.id}'s deep dive inline under the headline; button → "Hide deep dive"`, info.deep && info.after && info.strong > 0 && info.links && /Hide deep dive/.test(info.btn), JSON.stringify(info));
       ok(`[${vp.tag}] deep-dive time shown in Arizona time`, /MST$/.test(info.time), info.time);
+      ok(`[${vp.tag}] expanding keeps the card in place`, Math.abs(t1 - t0) <= 1, `${t0.toFixed(1)} → ${t1.toFixed(1)}`);
       await page.evaluate((id) => { const el = document.getElementById(id); el.scrollIntoView({ block: 'start' }); window.scrollBy(0, -70); }, `item-${TODAY}-${withDetails.id}`);
-      await shot(page, `${vp.tag}-${withDetails.id}-deepdive.png`);
-      // Toggle keeps the card in place.
-      const t0 = await c.evaluate((el) => el.getBoundingClientRect().top);
-      await c.locator('.btn').click();
-      const t1 = await page.locator(`[id="item-${TODAY}-${withDetails.id}"]`).evaluate((el) => el.getBoundingClientRect().top);
-      ok(`[${vp.tag}] hide/show deep dive keeps scroll stable`, Math.abs(t1 - t0) <= 1 && (await page.locator(`[id="item-${TODAY}-${withDetails.id}"] .deep`).count()) === 0, `${t0.toFixed(1)} → ${t1.toFixed(1)}`);
-      await page.locator(`[id="item-${TODAY}-${withDetails.id}"] .btn`).click();
+      await shot(page, `${vp.tag}-${withDetails.id}-deepdive-expanded.png`);
+      const t2 = await c().evaluate((el) => el.getBoundingClientRect().top);
+      await c().locator('.btn').click();
+      const t3 = await c().evaluate((el) => el.getBoundingClientRect().top);
+      ok(`[${vp.tag}] "Hide deep dive" collapses it and keeps scroll stable`, Math.abs(t3 - t2) <= 1 && (await c().locator('.deep').count()) === 0 && /Show deep dive/.test(await c().locator('.btn').innerText()), `${t2.toFixed(1)} → ${t3.toFixed(1)}`);
+      await c().locator('.btn').click(); // leave it expanded → must be collapsed again after reload
     }
 
     // More info: ONE click → clipboard has the text, toast shows it, nothing opens.
@@ -147,6 +156,7 @@ try {
     await page.reload({ waitUntil: 'networkidle' }); await page.waitForSelector('#today .card'); await sleep(200);
     const yAfter = await page.evaluate(() => window.scrollY);
     ok(`[${vp.tag}] reload keeps reading position`, Math.abs(yAfter - yBefore) <= 2, `${yBefore} → ${yAfter}`);
+    ok(`[${vp.tag}] expanded deep dive is NOT remembered across reload (collapsed again)`, (await page.locator('.deep').count()) === 0);
     ok(`[${vp.tag}] "Asked April" persists across reload (this browser)`, /Asked April/.test(await page.locator(`[id="item-${TODAY}-${it.id}"] .btn`).innerText()));
     ok(`[${vp.tag}] no console errors / failed requests / popups on live preview`, problems.length === 0, problems.join('; '));
     await ctx.close();
@@ -218,13 +228,28 @@ try {
       tItem.details_updated = '2026-09-30T17:30:00Z';
       const idxReqs = rq7.filter((u) => u.includes('/index.json')).length;
       await p7.locator('#refresh').click(); await p7.waitForFunction(() => !window.__brief.state.refreshing);
-      const deep = p7.locator(`[id="item-${TODAY}-${target.id}"] .deep`);
+      const tCard = () => p7.locator(`[id="item-${TODAY}-${target.id}"]`);
+      const deep = () => tCard().locator('.deep');
       const topAfter = await p7.locator(`[id="item-${TODAY}-${reading.id}"]`).evaluate((el) => el.getBoundingClientRect().top);
       const yAfter = await p7.evaluate(() => scrollY);
-      ok(`[${vp.tag}] Refresh patched ${target.id}'s new deep dive inline (no page reload)`, (await deep.count()) === 1 && (await deep.locator('li').count()) === 2 && /10:30 AM MST/.test(await deep.locator('time').innerText()) && rq7.filter((u) => u.includes('/index.json')).length === idxReqs + 1);
-      ok(`[${vp.tag}] Refresh kept the reading position (card above grew, view did not jump)`, Math.abs(topAfter - topBefore) <= 1 && yAfter > yBefore, `top ${topBefore.toFixed(1)}→${topAfter.toFixed(1)}, scrollY ${yBefore}→${yAfter}`);
+      ok(`[${vp.tag}] Refresh brought in ${target.id}'s new deep dive COLLAPSED (button "Show deep dive")`, (await deep().count()) === 0 && /Show deep dive/.test(await tCard().locator('.btn').innerText()) && rq7.filter((u) => u.includes('/index.json')).length === idxReqs + 1);
+      ok(`[${vp.tag}] Refresh kept the reading position`, Math.abs(topAfter - topBefore) <= 1, `top ${topBefore.toFixed(1)}→${topAfter.toFixed(1)}, scrollY ${yBefore}→${yAfter}`);
       ok(`[${vp.tag}] only the changed card was re-rendered`, await p7.evaluate((id) => document.getElementById(id).__marker === 7, `item-${TODAY}-${reading.id}`));
       ok(`[${vp.tag}] status reports the update`, /1 update/.test(await p7.locator('#status').innerText()));
+      await tCard().scrollIntoViewIfNeeded();
+      await tCard().locator('.btn').click();
+      ok(`[${vp.tag}] Show deep dive → new deep dive renders inline (Arizona time)`, (await deep().count()) === 1 && (await deep().locator('li').count()) === 2 && /10:30 AM MST/.test(await deep().locator('time').innerText()));
+      // Boyd has it open; April revises it and another item changes; Refresh must keep it open and not move the view.
+      updated = JSON.parse(JSON.stringify(updated));
+      updated.sections.flatMap((x) => x.items).find((x) => x.id === target.id).details_md += '\n\n**Revised:** added a paragraph.';
+      updated.sections.flatMap((x) => x.items).find((x) => x.id === firstNoDetails[20].id).summary_md += ' (updated)';
+      await p7.evaluate((id) => { const el = document.getElementById(id); el.scrollIntoView({ block: 'start' }); window.scrollBy(0, -80); el.__marker = 8; }, `item-${TODAY}-${reading.id}`);
+      await sleep(100);
+      const tb2 = await p7.locator(`[id="item-${TODAY}-${reading.id}"]`).evaluate((el) => el.getBoundingClientRect().top);
+      await p7.locator('#refresh').click(); await p7.waitForFunction(() => !window.__brief.state.refreshing);
+      const ta2 = await p7.locator(`[id="item-${TODAY}-${reading.id}"]`).evaluate((el) => el.getBoundingClientRect().top);
+      ok(`[${vp.tag}] Refresh keeps a deep dive the user opened this session OPEN (with April's revision)`, (await deep().count()) === 1 && /Revised:/.test(await deep().innerText()) && /Hide deep dive/.test(await tCard().locator('.btn').innerText()));
+      ok(`[${vp.tag}] second Refresh (2 changed cards) did not move the view`, Math.abs(ta2 - tb2) <= 1 && /2 updates/.test(await p7.locator('#status').innerText()) && (await p7.evaluate((id) => document.getElementById(id).__marker === 8, `item-${TODAY}-${reading.id}`)), `top ${tb2.toFixed(1)}→${ta2.toFixed(1)}`);
       await p7.evaluate((id) => { const el = document.getElementById(id); el.scrollIntoView({ block: 'start' }); window.scrollBy(0, -70); }, `item-${TODAY}-${target.id}`);
       await shot(p7, `${vp.tag}-refresh-patched-deepdive.png`);
       ok(`[${vp.tag}] refresh flow: no console errors`, pr7.length === 0, pr7.join('; '));
@@ -262,7 +287,10 @@ try {
     const h29 = p4.locator('details.hday').first();
     await h29.locator('summary').click();
     await p4.waitForFunction(() => document.querySelector('details.hday').querySelectorAll('.card').length > 0);
-    ok(`[${vp.tag}] history day expands on click (lazy-loaded) with inline deep dives`, (await h29.locator('.card').count()) > 0 && (await h29.locator('.deep').count()) >= 1);
+    const histDeepBtn = h29.locator('.btn.done').first();
+    ok(`[${vp.tag}] history day expands on click (lazy-loaded); its deep dives start collapsed`, (await h29.locator('.card').count()) > 0 && (await h29.locator('.deep').count()) === 0 && /Show deep dive/.test(await histDeepBtn.innerText()));
+    await histDeepBtn.click();
+    ok(`[${vp.tag}] history deep dive expands on "Show deep dive"`, (await h29.locator('.deep').count()) === 1);
     await h29.locator('summary').click();
     ok(`[${vp.tag}] history day collapses on click`, !(await h29.evaluate((d) => d.open)));
     ok(`[${vp.tag}] fixture: no console errors / failed requests`, pr4.length === 0, pr4.join('; '));
