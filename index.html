@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f6f7f9" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0f1115" media="(prefers-color-scheme: dark)">
+<meta name="robots" content="noindex, nofollow">
+<title>Morning Brief</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>☀️</text></svg>">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">☀️ <span>Morning Brief</span></div>
+    <div class="status" id="status" aria-live="polite"></div>
+  </div>
+</header>
+<main id="app">
+  <section id="today" aria-label="Latest brief"><div class="loading">Loading…</div></section>
+  <section id="history" aria-label="Previous days" hidden>
+    <h2 class="history-title">🗂️ Previous days</h2>
+    <div id="history-list"></div>
+    <button id="load-older" class="btn ghost" type="button" hidden>Show older days</button>
+  </section>
+</main>
+<footer class="foot">Briefs by April · reload the page for the latest</footer>
+<noscript><p class="empty">This page needs JavaScript to show the brief.</p></noscript>
+<script src="assets/vendor/marked.umd.js"></script>
+<script src="assets/vendor/purify.min.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

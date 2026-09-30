@@ -1,0 +1,423 @@
+{
+  "date": "2026-09-30",
+  "title": "Morning Brief",
+  "intro_md": "Wednesday, Sept. 30: cooler inflation lifts stocks at the open, US troops leave Iraq, OpenAI goes after the app store, and there are flood warnings in the White Mountains.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Iran says it has received the official US response to its plan to end the war",
+          "summary_md": "Foreign Minister Abbas Araghchi presented Washington's reply to President Pezeshkian's Cabinet on Wednesday; officials didn't say what it contained or whether it was a rejection. Trump had publicly rejected Tehran's offer to reopen the Strait of Hormuz within a week, and on Tuesday Treasury added sanctions on 10 people and entities accused of supplying Iran's military. The rial hit a record low of more than 2.5 million to the dollar.",
+          "source": {
+            "name": "AP (via ClickOnDetroit)",
+            "url": "https://www.clickondetroit.com/news/world/2026/09/30/iran-indicates-its-received-an-official-us-response-to-its-latest-offer-on-ending-the-war/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "The last US troops leave Iraq, ending Operation Inherent Resolve",
+          "summary_md": "The last troops left mainly from the air base at Erbil on Wednesday. Iraqis celebrated, though many worry Iran-backed militias or Islamic State could fill the gap. The Pentagon says it will keep giving Iraqi partners training and intelligence support.",
+          "source": {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/us-forces-exit-iraq-emboldening-irans-proxies-islamic-state-2026-09-30/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Fight between pilots forces an Israel-bound FlyDubai jet into an emergency landing in Saudi Arabia",
+          "summary_md": "Flight FZ 1073 from Dubai dropped from 33,000 to 17,000 feet in about a minute and landed in Tabuk. It sent its distress call at about 10:44 PM AZ Tuesday and landed about 11:45 PM AZ. An Israeli official said one pilot had a knife, and Israel scrambled warplanes because it feared a hijacking. Both pilots were hospitalized, and the investigation is ongoing.",
+          "source": {
+            "name": "AP (via Anchorage Daily News)",
+            "url": "https://www.adn.com/nation-world/2026/09/30/clash-between-pilots-and-nosedive-raise-terrorism-fears-in-passenger-jet-bound-for-israel/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Russian strikes on the Kyiv region kill 4 and target the power grid",
+          "summary_md": "Russia kept up its weekslong missile and drone barrage around Kyiv, killing four people including a child in Vyshhorod. It also hit the power grid and a key internet exchange point as Ukraine heads into winter.",
+          "source": {
+            "name": "AP (via The Gazette)",
+            "url": "https://www.thegazette.com/news/national/ap-news-in-brief-at-6-04-a-m-edt/article_23c1883d-56d8-5cf3-ba73-06050dacdbd3.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "August inflation comes in cooler than expected: core PCE at 3.0%, and Q2 GDP revised up to 2.2%",
+          "summary_md": "Headline PCE rose 0.3% for the month and 3.4% from a year earlier; economists expected 3.7%. Core was 3.0% against 3.3% expected. Spending rose 0.9%, and traders pushed their expected next Fed hike from October to December.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "Hormel will buy chicken processor Brakebush for $1.06 billion",
+          "summary_md": "The Skippy maker is expanding in protein with Wisconsin-based Brakebush, which had nearly $1.2 billion in sales over the last 12 months. The deal should close in Q1 of fiscal 2027, and Hormel shares rose about 2% premarket.",
+          "source": {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/retail-consumer/hormel-foods-acquire-brakebush-106-billion-2026-09-30/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "Tesla lines up $30 billion in credit to fund its AI, solar and chip-fab spending",
+          "summary_md": "The facilities include a $20 billion delayed-draw term loan plus $8 billion and $2 billion revolvers. Tesla says it has no borrowings under them and doesn't plan to draw on them in 2026. Analysts expect negative free cash flow of about $9.8 billion.",
+          "source": {
+            "name": "Reuters (via The Economic Times)",
+            "url": "https://economictimes.indiatimes.com/news/international/business/tesla-lines-up-30-billion-credit-lines-as-capex-ai-push-accelerate-elon-musk/articleshow/134587937.cms"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "Mattel names Condé Nast CEO Roger Lynch as its new chairman and CEO",
+          "summary_md": "Lynch, a Mattel board member since 2018, becomes chairman Oct. 2 and CEO by Nov. 2, succeeding Ynon Kreiz. Mattel is pushing into digital games and took full control of its Mattel163 mobile studio this year.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/30/mattel-roger-lynch-ceo.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B5",
+          "headline_md": "The Fed finalizes its overhaul of bank stress tests",
+          "summary_md": "The Fed will take public comment on major changes to its models and scenarios. Each bank's stress capital buffer will now be the average of its last two results, which the Fed says should cut year-over-year swings in capital requirements by 50%.",
+          "source": {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/finance/fed-finalizes-bank-stress-test-overhaul-2026-09-30/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "Hybrid-casual and hyper-casual numbers: Colony Flow passes $11M, Mystery Dumpling hits 9M downloads in its launch month, and Tencent leads Circle's $25M raise",
+          "summary_md": "Colony Flow (ABI Games) has made $11M in lifetime IAP revenue by putting ants in place of Pixel Flow's conveyor belts. Mystery Dumpling: Unbox ASMR was a top-5 hyper-casual title in August, and Circle Games (Sort Express) raised a $25M Series A. A Newzoo/Google study finds 46% of online consumers play HTML5 web games every month.",
+          "source": {
+            "name": "Mobilegamer.biz",
+            "url": "https://mobilegamer.biz/data-digest-circles-25m-raise-augusts-biggest-earners-japans-top-titles-webgame-stats-more/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "King's Minecraft Blast puzzle game is back in soft launch",
+          "summary_md": "The King and Mojang spin-off is live on Google Play in Malaysia only. It has new art and a new trailer, Candy Crush-style map progression, a building meta, Raid Tournaments and weekly leaderboards. An earlier iOS test in November 2025 was pulled after about a month.",
+          "source": {
+            "name": "Mobilegamer.biz",
+            "url": "https://mobilegamer.biz/kings-minecraft-blast-is-back-in-soft-launch/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "Mario Kart Tour shuts down after seven years",
+          "summary_md": "Nintendo took the servers offline at 11:00 PM AZ on Sept. 29, and there is no offline version, so players lose their collections. The DeNA-built racer launched in September 2019.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/mario-kart-tour-shuts-down-after-seven-years-on-mobile/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "General Intuition, which trains AI on gameplay clips, raises $220M at a $6.2B valuation",
+          "summary_md": "Its models learn from billions of action-labelled videos from Medal and are aimed at autonomy in games and the real world. It is starting to offer the models to partners. Backers include Valor, Atreides, Point72, Khosla and General Catalyst.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/general-intuition-raises-220m-at-62bn-valuation/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "Trump and AI leaders sign a voluntary White House accord to police their own frontier models",
+          "summary_md": "The signers were Anthropic's Amodei, OpenAI's Brockman, Google's Pichai, Meta's Zuckerberg, xAI's Musk and Nvidia's Huang. They pledge monitoring controls, internal oversight teams and independent external auditors. The accord has no enforcement, and critics called it too vague.",
+          "source": {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development"
+          },
+          "details_md": "**What happened:** After a White House lunch on Tuesday, Trump and six tech leaders signed the one-page [White House Accord on Super Intelligence](https://www.washingtonexaminer.com/news/white-house/4747747/full-trump-white-house-accord-ai-super-intelligence/), subtitled \"Joint Commitment on Frontier Responsibilities.\" The signers were Anthropic's Dario Amodei, OpenAI President Greg Brockman, Google's Sundar Pichai, Meta's Mark Zuckerberg, xAI's Elon Musk and Nvidia's Jensen Huang ([Al Jazeera](https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development)).\n\n**What they committed to:** Four layers of controls. First, internal monitoring of model capabilities and alignment around cyber, bio and chemical threats, including making sure models don't \"hack or access technical systems in unintended ways.\" Second, an internal team to check those controls. Third, an independent external auditor or evaluator. Fourth, an independent board committee that receives the reports. The companies will also meet regularly to set standards ([full text](https://www.washingtonexaminer.com/news/white-house/4747747/full-trump-white-house-accord-ai-super-intelligence/)).\n\n**Binding?** No. There are no penalties, and it says only that it \"may make sense\" to write the steps into law someday ([UPI](https://www.upi.com/Top_News/US/2026/09/30/Trump-tech-executives-AI-accord/9521790748592/)). It doesn't name the auditors ([Al Jazeera](https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development)). Trump called it \"morally binding\" ([AP via Euronews](https://www.euronews.com/2026/09/30/top-ai-and-tech-firms-sign-morally-binding-accord-to-self-police-development-after-meeting)).\n\n**Reactions:** Zuckerberg called it \"a meaningful step forward\" ([UPI](https://www.upi.com/Top_News/US/2026/09/30/Trump-tech-executives-AI-accord/9521790748592/)), and Amodei called it \"a start\" ([Axios](https://www.axios.com/2026/09/30/ai-constitution-trump-white-house)). Sen. Mark Warner is pushing his bill for mandatory testing before deployment ([UPI](https://www.upi.com/Top_News/US/2026/09/30/Trump-tech-executives-AI-accord/9521790748592/)). UNSW's Toby Walsh asked, \"What other trillion-dollar industry marks its own homework?\" ([Al Jazeera](https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development)).\n\n**Why it matters for you:** Nothing changes directly for app or game developers, because the accord covers frontier-model makers. Any effect would come through vendors' release decisions. For example, OpenAI held back its latest model on Monday after in-house testing found safety risks ([Al Jazeera](https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development)).\n\n**Watch next:** Trump says he'll name an overseer in the coming days and may create a committee of about 10 people ([AP via Euronews](https://www.euronews.com/2026/09/30/top-ai-and-tech-firms-sign-morally-binding-accord-to-self-police-development-after-meeting); [Reuters via HT](https://www.hindustantimes.com/world-news/trump-and-ai-ceos-sign-ai-safety-pact-what-they-agreed-to-at-white-house-101790727624434.html)).",
+          "details_updated": "2026-09-30T07:50:37-07:00"
+        },
+        {
+          "id": "A2",
+          "headline_md": "OpenAI DevDay: Dots always-on agents, the GPT-6.1 Sol model and a $500/month ChatGPT Pro plan",
+          "summary_md": "Dots, OpenAI's answer to Meta's Muse, launches first for Pro, Business Premium and Enterprise subscribers. OpenAI also says ChatGPT now has 1.2 billion weekly users.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "FTC ramps up a sweeping probe of Anthropic, OpenAI and other frontier AI labs",
+          "summary_md": "A senior FTC official told the Post the agency will issue civil investigative demands in the coming weeks to compel executive testimony and documents on consumer risks. The investigation is under the FTC Act's unfair-or-deceptive-practices rules. Reuters picked up the report at about 6:53 AM AZ.",
+          "source": {
+            "name": "New York Post",
+            "url": "https://nypost.com/2026/09/30/us-news/ftc-opens-sweeping-probe-of-anthropic-openai-and-other-super-intelligence-models/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "OpenAI is reportedly in talks to raise $30B+ at about a $1.4 trillion valuation",
+          "summary_md": "Bloomberg reports the round would bridge to an IPO that Altman has ruled out for 2026. The same report puts OpenAI's run-rate revenue at $40B in August, up 70% since July.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "OpenAI's DevDay moves take direct aim at the app store model",
+          "summary_md": "ChatGPT will suggest apps in the middle of a conversation and host interactive plugin extensions. OpenAI also added \"Sign in with ChatGPT\" with 16 launch partners and a 30+ partner enterprise marketplace that includes Adobe and Figma. There is no billing or revenue-share layer yet.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "AppLovin sues Unity to stop its Ad Quality SDK from collecting MAX auction data",
+          "summary_md": "AppLovin wants a restraining order making Unity disable the collection within 5 business days and change the SDK within 30 days. It alleges the data trains Unity's competing ad models. Unity calls it litigation by a \"dominant incumbent.\" A hearing was set for today at 11 AM AZ.",
+          "source": {
+            "name": "Digiday",
+            "url": "https://digiday.com/marketing/mobile-ad-giants-applovin-and-unity-locked-in-legal-dispute-over-data-collection/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Adobe adds hands-on Photoshop, Express and Acrobat editors to its ChatGPT plugin",
+          "summary_md": "A side panel lets users switch between prompting and direct edits to images, designs and PDFs, using sliders scoped to a selection, and the edits flow back into the chat as context. It is rolling out globally on ChatGPT web and app.",
+          "source": {
+            "name": "The Agile Brand Guide",
+            "url": "https://agilebrandguide.com/adobe-adds-hands-on-editing-controls-to-its-chatgpt-plugin-at-openai-devday/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "Apple's new EU App Store terms take effect tomorrow, Oct. 1",
+          "summary_md": "EU apps can offer alternative payment processing and out-of-app offers alongside Apple In-App Purchase. Once a developer picks a payment setup, it must keep it across EU storefronts for 12 months. New child-safety requirements and IAP button and badge guidelines also apply.",
+          "source": {
+            "name": "Apple Developer",
+            "url": "https://developer.apple.com/support/payment-options-on-the-app-store-in-the-eu"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T5",
+          "headline_md": "Apple Pay launches in India after nine-plus years of delays",
+          "summary_md": "It's available on iPhone, iPad and Apple Watch, with Mac support \"coming soon.\" At launch it only works with Axis Bank Visa and Mastercard credit cards.",
+          "source": {
+            "name": "AppleInsider",
+            "url": "https://appleinsider.com/articles/26/09/30/india-finally-gets-apple-pay-after-more-than-nine-years-of-negotiations"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": "Times are when each price was quoted, in AZ time. I couldn't find a source I could open with Tuesday's closing index levels, so they're not included.",
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Stocks open higher after the soft PCE report (6:30 AM AZ)",
+          "summary_md": "At the open, the Dow was up 74.9 (0.15%) at 51,424.84, the S&P 500 up 18.1 (0.24%) at 7,688.99, and the Nasdaq up 95.3 (0.36%) at 26,892.80. Alphabet was up 1.4% premarket, and Intel, AMD and Broadcom also rose.",
+          "source": {
+            "name": "Reuters (via The Globe and Mail)",
+            "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-wall-street-futures-extend-gains-after-economic-data/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Treasury yields ease off 2007 highs, and the odds of an October Fed hike drop to about 37%",
+          "summary_md": "In European trading (early AZ morning; exact time not given), the 10-year yield was 5.2363%, down 1.9 bps, but still headed for a 47+ bp rise this month. After the PCE data (5:30 AM AZ), LSEG put the odds of an October hike at about 37%, down from 45%.",
+          "source": {
+            "name": "Reuters (via The Globe and Mail)",
+            "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-wall-street-futures-extend-gains-after-economic-data/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Premarket movers (4:38 AM AZ): Boeing up, Northrop, Moderna, Concentrix and Cal-Maine down",
+          "summary_md": "Boeing rose 2% on its $20B F/A-XX fighter contract, while Northrop Grumman fell 3.5% and Robinhood gained 2%. Concentrix fell 9.5% on weak results, Moderna dropped 6%+ after a Citi downgrade to sell, and Cal-Maine fell 6.5%+ on a wider-than-expected loss.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-premarket-hood-ba-mrna-.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "Oil climbs as US-Iran talks stall (5:51 AM AZ)",
+          "summary_md": "Brent November, which expires today, was up 0.6% at $103.19 and the December contract up 1.7% at $97.78. WTI was up 1.3% at $90.57. Brent is headed for a monthly gain of about 14%, its biggest since July.",
+          "source": {
+            "name": "Reuters (via Global Banking & Finance Review)",
+            "url": "https://www.globalbankingandfinance.com/oil-climbs-trump-denies-he-willing-ease-sanctions-iran/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "Gold rises after the PCE data but is still headed for a monthly loss",
+          "summary_md": "Spot gold was up 0.7% at $4,209.71/oz and US gold futures up 1.5% at $4,241.90, though spot is down 5.4% in September. The quote came after the 5:30 AM AZ PCE release; CNBC didn't give an exact time.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/09/30/gold-on-track-for-monthly-decline-as-investors-await-us-inflation-data.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M6",
+          "headline_md": "Bitcoin hovers near $83,000, and Lighter sinks 17% on Robinhood's perps plan (3:11 AM AZ)",
+          "summary_md": "Bitcoin was at $83,164, down 0.57% since 5 PM AZ Tuesday and off a Tuesday peak of $84,400. The Lighter (LIT) token fell 17% in 24 hours after Robinhood said it will offer crypto perpetual futures to US customers.",
+          "source": {
+            "name": "CoinDesk",
+            "url": "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": null,
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "Phoenix, AZ: Sunny, high 82°F, low 67°F, no alerts",
+          "summary_md": "Sunny today with a high near 82°F and a light SSW wind around 5 mph. Mostly clear tonight with a low around 67°F. The chance of rain is 5% today and 1% tonight, NWS forecasts no measurable rain, and there are no active alerts. NWS Phoenix forecast updated 3:42 AM AZ.",
+          "source": {
+            "name": "National Weather Service (weather.gov)",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "Show Low, AZ: Showers and storms, high 57°F, low 45°F, ⚠️ Flood Warning until 10:45 AM AZ",
+          "summary_md": "Cloudy with showers and thunderstorms today, a high near 57°F and SW winds of 13–16 mph gusting to 25. The chance of rain is 90%, and the NWS grid shows about 0.17 in. more from 5 AM to 5 PM AZ with no snow. Tonight there's a 30% chance of storms before 11 PM, with a low around 45°F. A **Flood Warning** for Apache, Gila and Navajo counties runs until 10:45 AM AZ after 2–3 in. of rain Tuesday; creeks and washes are flooding, and Show Low is named. Turn around, don't drown. NWS Flagstaff forecast updated 3:14 AM AZ.",
+          "source": {
+            "name": "National Weather Service (weather.gov)",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "Snowflake, AZ: Storms before 5 PM, high 62°F, low 47°F, ⚠️ Flood Warning until 10:45 AM AZ",
+          "summary_md": "Showers and thunderstorms before 5 PM, then a slight chance. It'll be mostly cloudy with a high near 62°F, cooling to about 59 in the afternoon, and SW wind around 14 mph gusting to 22. The chance of rain is 90%, and the NWS grid shows about 0.17 in. from 5 AM to 5 PM AZ with no snow. Tonight there's a 20% chance of storms before 11 PM, with a low around 47°F. Snowflake is inside the same Navajo County **Flood Warning**, which runs until 10:45 AM AZ. NWS Flagstaff forecast updated 3:14 AM AZ.",
+          "source": {
+            "name": "National Weather Service (weather.gov)",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "AP investigation: warnings were ignored as Venezuela built coastal towers that couldn't survive the June quakes",
+          "summary_md": "It's worth your time because it traces, with engineers, seismologists and frame-by-frame video analysis, exactly how a 2011 housing push on known-dangerous ground turned the June 24 quakes into a catastrophe that killed more than 6,500 people.",
+          "source": {
+            "name": "AP (via The Seattle Times)",
+            "url": "https://www.seattletimes.com/nation-world/world/ap-investigation-warnings-ignored-as-venezuela-coastal-towers-faced-quake-forces-they-couldnt-take/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}

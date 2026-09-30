@@ -1,0 +1,12 @@
+node_modules/
+tools/test/node_modules/
+tools/test/results/
+test-results/
+playwright-report/
+screenshots/
+*.png
+*.log
+*.tmp
+.DS_Store
+.env
+.env.*

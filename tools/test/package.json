@@ -1,0 +1,8 @@
+{
+  "name": "morning-brief-tests",
+  "private": true,
+  "type": "module",
+  "description": "Playwright checks for the static Morning Brief site (dev only; nothing here is published).",
+  "scripts": { "test": "node site.test.mjs" },
+  "devDependencies": { "playwright-core": "^1.50.0" }
+}
