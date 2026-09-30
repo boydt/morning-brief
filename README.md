@@ -4,9 +4,12 @@ A static web page for Boyd's daily morning briefs. The briefs are written by Apr
 
 This is plain HTML, CSS and JavaScript. It has **no server, no build step, no `.env` and no secrets**. Boyd publishes it himself by importing this repository into **Grok Build**. Nothing in this repo deploys anything.
 
+**The published page reads its data live from this public GitHub repo.** New briefs and deep dives appear as soon as `tools/sync.sh` pushes them to `main`. **You only need to republish for design or code changes** (`index.html`, `assets/`), not for data.
+
 ## Structure
 ```
 index.html              the page (at the repo root)
+assets/config.js        data source settings (GitHub raw URL, repo/branch, bundled path, April's chat link)
 assets/app.js           front-end logic (plain JS)
 assets/styles.css       styles (light/dark via prefers-color-scheme, mobile-friendly)
 assets/vendor/          marked 18.0.14 + DOMPurify 3.4.16 (local copies, MIT/Apache-2.0 licences included)
@@ -17,7 +20,21 @@ tools/sync.sh           copy April's files → rebuild index → commit → git 
 tools/preview.sh        local static preview on http://127.0.0.1:8787/
 tools/test/             Playwright checks (dev only; `npm install` there first)
 ```
-The page loads `data/index.json` and the day files through **relative paths** (no leading slash). That means it works on any static host, in a sub-folder, or with `python3 -m http.server`.
+## Where the page gets its data
+Set in `assets/config.js` (`dataBaseUrl` = `https://raw.githubusercontent.com/boydt/morning-brief/main/data/`). For each file, the page tries these sources in order:
+1. **GitHub raw, pinned to the latest commit on `main`.** The page resolves the commit with one call to `api.github.com/repos/boydt/morning-brief/commits/main` and then reads `raw.githubusercontent.com/boydt/morning-brief/<sha>/data/…?t=<now>` (`cache: 'no-store'`).
+   - Commit-pinned URLs never go stale.
+   - Plain `raw…/main/…` is cached by GitHub's CDN for up to 5 minutes, even with a unique `?t=` query.
+2. **`dataBaseUrl` itself** (raw `main`, cache-busted). The page uses this when the GitHub API is unavailable, for example because of its limit of 60 unauthenticated requests per hour per IP. When the API reports it is rate-limited, the page stops calling it until the limit resets. In this mode, updates can take up to about 5 minutes to show.
+3. **GitHub contents API** (`application/vnd.github.raw`), as a secondary source.
+4. **The bundled `data/` copy that ships with the published site**, reached by relative paths. The top bar then shows a subtle "⚠ Offline copy" note.
+
+There is **no background polling**. Data loads:
+- when the page opens;
+- when Boyd taps **↻ Refresh** in the top bar, which re-fetches without reloading, re-renders only the headline cards that changed, and keeps the reading position;
+- once when the tab becomes visible again after being hidden for 10+ minutes. If that finds a new day's brief, a small "Show" banner appears instead of the page jumping.
+
+All paths are relative (no leading slash), so the page works on any static host, in a sub-folder, or with `python3 -m http.server`.
 
 ## Data contract
 `data/YYYY-MM-DD.json`:
@@ -53,9 +70,10 @@ There's no backend. Clicking **More info**:
    - Nothing opens automatically; Boyd clicks the link himself.
    - The Grok Bot link docs describe no message-prefill parameter, so none is used.
    - If copying fails, the toast says so and pre-selects the text.
-3. The button changes to "✓ Asked April · copy again". This is remembered only in this browser (localStorage).
+3. The toast also says "April's answer will appear under this headline after you tap ↻ Refresh."
+4. The button changes to "✓ Asked April · copy again". This is remembered only in this browser (localStorage).
 
-After April writes `details_md` (and `tools/sync.sh` has published it), **reload the page** to see the deep dive. There is no background polling. Data loads when the page opens or reloads, and the reading position is kept across reloads.
+After April writes `details_md` and `tools/sync.sh` has pushed it, Boyd taps **↻ Refresh** (or reloads). The deep dive then appears inside that headline's card, and the view doesn't jump.
 
 ## Updating the data
 April writes her day files to `/workspace/news-site/data/` for now. Then:
@@ -76,7 +94,10 @@ Opening `index.html` straight from disk (`file://`) won't work, because browsers
 ```bash
 cd tools/test && npm install && LIVE=http://127.0.0.1:8787/ SHOTS=/tmp/mb-shots node site.test.mjs
 ```
-The tests check:
+The tests mock only `api.github.com`, because the box's shared IP is often rate-limited; `raw.githubusercontent.com` is fetched for real. They check:
+- the page reads its data from GitHub, pinned to the latest commit;
+- it falls back to raw `main` when the API is rate-limited, and to the bundled copy when GitHub is blocked;
+- Refresh patches in a changed deep dive without moving the scroll position, and there is no idle polling;
 - the page loads, with the history list collapsed and expanding when clicked;
 - deep dives render inline;
 - one click copies the exact message, with no popup or new window;
@@ -85,4 +106,5 @@ The tests check:
 - the site works when hosted in a sub-folder.
 
 ## Publishing
-Boyd publishes the site through **Grok Build** by importing this repository (`main`). This repo has no hosting URL and no deploy config. Note that anything published is public unless Grok Build's own access controls are turned on.
+Boyd publishes the site through **Grok Build** by importing this repository (`main`). This repo has no hosting URL and no deploy config. After that, data updates need no republishing, because the page reads the public repo at runtime. Republish only after changing `index.html` or `assets/`.
+The repo is **public**, so the briefs and deep dives in `data/` are readable by anyone. Anything published is also public unless Grok Build's own access controls are turned on.

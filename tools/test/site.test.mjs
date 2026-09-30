@@ -13,6 +13,7 @@ const LIVE = process.env.LIVE || 'http://127.0.0.1:8787/';
 const SHOTS = process.env.SHOTS || path.join(REPO, 'tools/test/results');
 const CHROME = process.env.CHROME_PATH || '/usr/bin/google-chrome';
 const SAMPLES = process.env.SAMPLES || '/workspace/news-site/sample-data';
+const DATA_MAIN = 'https://raw.githubusercontent.com/boydt/morning-brief/main/data/';
 const CHAT = 'grokbot://app/v1/agent?id=30d1a93b-3a8a-435f-8b71-efa1bd39e86a';
 fs.mkdirSync(SHOTS, { recursive: true });
 const results = [];
@@ -49,26 +50,50 @@ const expected = (date, it) => `More info please on ${date} ${it.id}: ${plain(it
 const firstNoDetails = allItems.filter((i) => !i.details_md);
 const withDetails = allItems.find((i) => i.details_md);
 
+// ---- remote (GitHub) helpers ----
+const PIN_SHA = process.env.PIN_SHA || execFileSync('git', ['-C', REPO, 'rev-parse', 'origin/main']).toString().trim();
+const isRemote = (u) => /^https:\/\/(raw\.githubusercontent\.com|api\.github\.com)\//.test(u);
+// Mock ONLY the GitHub API (the box's shared IP is often rate-limited); raw.githubusercontent.com is real.
+async function mockApi(ctx, mode = 'ok') {
+  await ctx.route('https://api.github.com/**', (route) => {
+    if (mode === 'ratelimited') return route.fulfill({ status: 403, headers: { 'access-control-allow-origin': '*', 'access-control-expose-headers': 'x-ratelimit-remaining, x-ratelimit-reset', 'x-ratelimit-remaining': '0', 'x-ratelimit-reset': String(Math.floor(Date.now() / 1000) + 3600) }, body: '{"message":"API rate limit exceeded"}' });
+    if (/\/commits\//.test(route.request().url())) return route.fulfill({ status: 200, headers: { 'access-control-allow-origin': '*', 'content-type': 'text/plain' }, body: PIN_SHA });
+    return route.abort();
+  });
+}
+const blockRemote = (ctx) => ctx.route(/^https:\/\/(raw\.githubusercontent\.com|api\.github\.com)\//, (r) => r.abort('internetdisconnected'));
+
 const browser = await chromium.launch({ executablePath: CHROME, headless: true, args: ['--no-sandbox'] });
-async function newCtx(vp, { perms = true, origin } = {}) {
+async function newCtx(vp, { perms = true, origin, api = 'ok', offline = false } = {}) {
   const ctx = await browser.newContext({ viewport: { width: vp.width, height: vp.height }, isMobile: !!vp.isMobile, hasTouch: !!vp.isMobile, deviceScaleFactor: vp.dpr || 1 });
+  if (offline) await blockRemote(ctx); else await mockApi(ctx, api);
   if (perms) await ctx.grantPermissions(['clipboard-read', 'clipboard-write'], { origin: origin || new URL(LIVE).origin });
   const pages = []; ctx.on('page', (p) => pages.push(p));
   const page = await ctx.newPage(); pages.length = 0;
-  const problems = [];
+  const problems = [], requests = [];
+  const expectRemoteFail = offline || api !== 'ok';
+  page.on('request', (r) => requests.push(r.url()));
   page.on('pageerror', (e) => problems.push('pageerror: ' + e.message));
-  page.on('console', (m) => { if (m.type() === 'error') problems.push('console: ' + m.text()); });
-  page.on('response', (r) => { if (r.status() >= 400) problems.push(`HTTP ${r.status()} ${r.url()}`); });
+  page.on('console', (m) => { if (m.type() === 'error' && !(expectRemoteFail && /Failed to load resource/.test(m.text()))) problems.push('console: ' + m.text()); });
+  page.on('response', (r) => { if (r.status() >= 400 && !(expectRemoteFail && isRemote(r.url()))) problems.push(`HTTP ${r.status()} ${r.url()}`); });
   page.on('popup', (p) => problems.push('popup: ' + p.url()));
-  return { ctx, page, pages, problems };
+  return { ctx, page, pages, problems, requests };
 }
 
 try {
   for (const vp of [{ tag: 'desktop', width: 1280, height: 900 }, { tag: 'mobile', width: 390, height: 844, isMobile: true, dpr: 2 }]) {
     // ================= LIVE preview =================
-    const { ctx, page, pages, problems } = await newCtx(vp);
+    const { ctx, page, pages, problems, requests } = await newCtx(vp);
     await page.goto(LIVE, { waitUntil: 'networkidle' });
     await page.waitForSelector('#today .card');
+    {
+      const pinned = `https://raw.githubusercontent.com/boydt/morning-brief/${PIN_SHA}/data/`;
+      const usedRemote = requests.some((u) => u.startsWith(pinned + 'index.json?t=')) && requests.some((u) => u.startsWith(pinned + `${TODAY}.json?t=`));
+      const usedLocal = requests.some((u) => /127\.0\.0\.1:\d+\/data\//.test(u));
+      ok(`[${vp.tag}] data fetched at runtime from GitHub raw (pinned to main's commit, cache-busted), not the bundled copy`, usedRemote && !usedLocal && (await page.evaluate(() => [...window.__brief.state.round.sources].join(','))) === 'github',
+        requests.filter(isRemote).map((u) => u.replace(/t=\d+/, 't=…')).join(' | '));
+      ok(`[${vp.tag}] Refresh button in top bar, status shows live time`, (await page.locator('#refresh').isVisible()) && /Updated .* MST/.test(await page.locator('#status').innerText()));
+    }
     const cards = await page.locator('#today .card').count();
     ok(`[${vp.tag}] today's real brief (${TODAY}) loads with all ${allItems.length} headlines`, cards === allItems.length && /today|latest/i.test(await page.locator('.day-kicker').innerText()), `${cards} cards; ${await page.locator('.day-date').innerText()}`);
     ok(`[${vp.tag}] not marked as sample`, (await page.locator('.pill.sample').count()) === 0);
@@ -112,6 +137,7 @@ try {
     ok(`[${vp.tag}] toast: "Open April’s chat" link (href correct, no target, not auto-clicked)`, (await link.getAttribute('href')) === CHAT && (await link.getAttribute('target')) === null);
     await page.evaluate(() => navigator.clipboard.writeText('SENTINEL2'));
     await page.locator('#toast-copy').click(); await sleep(300);
+    ok(`[${vp.tag}] toast says April's answer appears after tapping Refresh`, /April’s answer will appear under this headline after you tap ↻ Refresh/.test(await page.locator('#toast-hint').innerText()));
     ok(`[${vp.tag}] "Copy again" copies the message again`, (await page.evaluate(() => navigator.clipboard.readText())) === expected(TODAY, it) && /Copied/.test(await page.locator('#toast-copy').innerText()));
     await shot(page, `${vp.tag}-moreinfo-toast.png`);
     ok(`[${vp.tag}] button shows "Asked April" afterwards`, /Asked April/.test(await card.locator('.btn').innerText()));
@@ -150,8 +176,82 @@ try {
       await c3.close();
     }
 
-    // ================= fixture: sub-folder host + sample history =================
-    const { ctx: c4, page: p4, problems: pr4 } = await newCtx(vp, { origin: 'http://127.0.0.1:8795' });
+    // ================= remote: rate-limited API → raw main =================
+    {
+      const { ctx: c5, page: p5, requests: rq5, problems: pr5 } = await newCtx(vp, { api: 'ratelimited' });
+      await p5.goto(LIVE, { waitUntil: 'networkidle' }); await p5.waitForSelector('#today .card');
+      const src = await p5.evaluate(() => [...window.__brief.state.round.sources].join(','));
+      const apiCalls1 = rq5.filter((u) => u.startsWith('https://api.github.com/')).length;
+      await p5.locator('#refresh').click(); await p5.waitForFunction(() => !window.__brief.state.refreshing);
+      const apiCalls2 = rq5.filter((u) => u.startsWith('https://api.github.com/')).length;
+      ok(`[${vp.tag}] API rate-limited → reads raw main?t=… and stops calling the API`, src === 'github-main' && rq5.some((u) => u.startsWith(DATA_MAIN + 'index.json?t=')) && apiCalls1 === 1 && apiCalls2 === 1 && pr5.length === 0, `sources=${src} apiCalls=${apiCalls1}->${apiCalls2} ${pr5.join('; ')}`);
+      await c5.close();
+    }
+    // ================= remote blocked → bundled fallback =================
+    {
+      const { ctx: c6, page: p6, requests: rq6, problems: pr6 } = await newCtx(vp, { offline: true });
+      await p6.goto(LIVE, { waitUntil: 'networkidle' }); await p6.waitForSelector('#today .card');
+      const st = await p6.locator('#status').innerText();
+      ok(`[${vp.tag}] GitHub unreachable → bundled data/ copy + subtle "Offline copy" note`, (await p6.locator('#today .card').count()) === allItems.length && /Offline copy/.test(st) && rq6.some((u) => /127\.0\.0\.1:\d+\/data\/index\.json/.test(u)) && pr6.length === 0, `${st} ${pr6.join('; ')}`);
+      await shot(p6, `${vp.tag}-offline-fallback.png`);
+      await c6.close();
+    }
+    // ================= Refresh patches a changed deep dive without moving scroll =================
+    {
+      const { ctx: c7, page: p7, problems: pr7, requests: rq7 } = await newCtx(vp);
+      let updated = null;
+      await c7.route(/^https:\/\/raw\.githubusercontent\.com\/.*\/data\/\d{4}-\d{2}-\d{2}\.json/, async (route) => {
+        if (!updated) return route.continue();
+        return route.fulfill({ status: 200, headers: { 'access-control-allow-origin': '*', 'content-type': 'application/json' }, body: JSON.stringify(updated) });
+      });
+      await p7.goto(LIVE, { waitUntil: 'networkidle' }); await p7.waitForSelector('#today .card');
+      await p7.locator('#refresh').click(); await p7.waitForFunction(() => !window.__brief.state.refreshing);
+      ok(`[${vp.tag}] Refresh with nothing new → "no changes"`, /no changes/.test(await p7.locator('#status').innerText()));
+      const target = firstNoDetails[3], reading = firstNoDetails[12];
+      await p7.evaluate((id) => { const el = document.getElementById(id); el.scrollIntoView({ block: 'start' }); window.scrollBy(0, -80); el.__marker = 7; }, `item-${TODAY}-${reading.id}`);
+      await sleep(100);
+      const topBefore = await p7.locator(`[id="item-${TODAY}-${reading.id}"]`).evaluate((el) => el.getBoundingClientRect().top);
+      const yBefore = await p7.evaluate(() => scrollY);
+      updated = JSON.parse(JSON.stringify(today));
+      const tItem = updated.sections.flatMap((x) => x.items).find((x) => x.id === target.id);
+      tItem.details_md = `**Simulated update (test)**\n\n- first point\n- second point with a [link](https://example.com/x)\n\n` + 'Filler sentence to make the card taller. '.repeat(15);
+      tItem.details_updated = '2026-09-30T17:30:00Z';
+      const idxReqs = rq7.filter((u) => u.includes('/index.json')).length;
+      await p7.locator('#refresh').click(); await p7.waitForFunction(() => !window.__brief.state.refreshing);
+      const deep = p7.locator(`[id="item-${TODAY}-${target.id}"] .deep`);
+      const topAfter = await p7.locator(`[id="item-${TODAY}-${reading.id}"]`).evaluate((el) => el.getBoundingClientRect().top);
+      const yAfter = await p7.evaluate(() => scrollY);
+      ok(`[${vp.tag}] Refresh patched ${target.id}'s new deep dive inline (no page reload)`, (await deep.count()) === 1 && (await deep.locator('li').count()) === 2 && /10:30 AM MST/.test(await deep.locator('time').innerText()) && rq7.filter((u) => u.includes('/index.json')).length === idxReqs + 1);
+      ok(`[${vp.tag}] Refresh kept the reading position (card above grew, view did not jump)`, Math.abs(topAfter - topBefore) <= 1 && yAfter > yBefore, `top ${topBefore.toFixed(1)}→${topAfter.toFixed(1)}, scrollY ${yBefore}→${yAfter}`);
+      ok(`[${vp.tag}] only the changed card was re-rendered`, await p7.evaluate((id) => document.getElementById(id).__marker === 7, `item-${TODAY}-${reading.id}`));
+      ok(`[${vp.tag}] status reports the update`, /1 update/.test(await p7.locator('#status').innerText()));
+      await p7.evaluate((id) => { const el = document.getElementById(id); el.scrollIntoView({ block: 'start' }); window.scrollBy(0, -70); }, `item-${TODAY}-${target.id}`);
+      await shot(p7, `${vp.tag}-refresh-patched-deepdive.png`);
+      ok(`[${vp.tag}] refresh flow: no console errors`, pr7.length === 0, pr7.join('; '));
+      await c7.close();
+    }
+    // ================= tab visible again after 10+ min → one quiet re-fetch =================
+    {
+      const { ctx: c8, page: p8, requests: rq8 } = await newCtx(vp);
+      await p8.clock.install();
+      await p8.goto(LIVE, { waitUntil: 'networkidle' }); await p8.waitForSelector('#today .card');
+      await p8.evaluate(() => window.scrollTo(0, 2000));
+      const vis = (v) => p8.evaluate((v) => { Object.defineProperty(document, 'visibilityState', { value: v, configurable: true }); document.dispatchEvent(new Event('visibilitychange')); }, v);
+      const count = () => rq8.filter((u) => u.includes('/index.json')).length;
+      const n0 = count();
+      await p8.clock.runFor(30 * 60 * 1000); await sleep(200);
+      const idle = count() - n0;
+      await vis('hidden'); await p8.clock.fastForward(5 * 60 * 1000); await vis('visible'); await sleep(500);
+      const short = count() - n0;
+      await vis('hidden'); await p8.clock.fastForward(11 * 60 * 1000); await vis('visible');
+      await p8.waitForFunction(() => !window.__brief.state.refreshing); await sleep(800);
+      const long = count() - n0;
+      ok(`[${vp.tag}] no background polling; re-fetch only after 10+ min hidden, without scrolling`, idle === 0 && short === 0 && long === 1 && (await p8.evaluate(() => scrollY)) === 2000, `idle=${idle} after5min=${short} after11min=${long}`);
+      await c8.close();
+    }
+
+    // ================= fixture: sub-folder host + sample history (bundled data; GitHub blocked) =================
+    const { ctx: c4, page: p4, problems: pr4 } = await newCtx(vp, { origin: 'http://127.0.0.1:8795', offline: true });
     await p4.goto(FIXURL, { waitUntil: 'networkidle' });
     await p4.waitForSelector('#today .card');
     const hd = p4.locator('details.hday');

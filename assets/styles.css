@@ -122,3 +122,13 @@ main { padding-top: 18px; padding-bottom: 40px; }
 .btn.asked { color: var(--accent); }
 .toast { max-height: calc(100vh - 90px); overflow: auto; }
 .toast-hint { font-size: 12.5px; color: var(--muted); margin-top: 8px; }
+.topbar-right { display: flex; align-items: center; gap: 10px; min-width: 0; }
+.btn.refresh { min-height: 30px; padding: 4px 11px; font-size: 13px; flex: none; }
+.btn.refresh[aria-busy="true"] { opacity: .6; cursor: progress; }
+.status.note { color: #9a6700; }
+@media (prefers-color-scheme: dark) { .status.note { color: #e3b341; } }
+@media (max-width: 480px) { .refresh-label { display: none; } .btn.refresh { padding: 4px 10px; font-size: 15px; } }
+.stale { position: fixed; z-index: 19; top: calc(60px + env(safe-area-inset-top)); left: 50%; transform: translateX(-50%);
+  display: flex; align-items: center; gap: 10px; background: var(--card); border: 1px solid var(--border); border-radius: 999px;
+  padding: 6px 8px 6px 14px; box-shadow: 0 6px 20px rgba(16,24,40,.15); font-size: 14px; font-weight: 600; white-space: nowrap; }
+html { overflow-anchor: none; }

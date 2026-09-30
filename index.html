@@ -15,7 +15,10 @@
 <header class="topbar">
   <div class="topbar-inner">
     <div class="brand">☀️ <span>Morning Brief</span></div>
-    <div class="status" id="status" aria-live="polite"></div>
+    <div class="topbar-right">
+      <div class="status" id="status" aria-live="polite"></div>
+      <button id="refresh" class="btn refresh" type="button" title="Check for new briefs and deep dives" aria-label="Refresh">↻<span class="refresh-label"> Refresh</span></button>
+    </div>
   </div>
 </header>
 <main id="app">
@@ -26,8 +29,9 @@
     <button id="load-older" class="btn ghost" type="button" hidden>Show older days</button>
   </section>
 </main>
-<footer class="foot">Briefs by April · reload the page for the latest</footer>
+<footer class="foot">Briefs by April · tap ↻ Refresh for the latest</footer>
 <noscript><p class="empty">This page needs JavaScript to show the brief.</p></noscript>
+<script src="assets/config.js"></script>
 <script src="assets/vendor/marked.umd.js"></script>
 <script src="assets/vendor/purify.min.js"></script>
 <script src="assets/app.js"></script>

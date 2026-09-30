@@ -1,11 +1,21 @@
-/* Morning Brief — static front-end. No server: reads data/index.json and data/<date>.json
-   via RELATIVE paths, so it works on any static host, in a sub-folder, or via `python3 -m http.server`.
-   Uses vendored marked + DOMPurify (assets/vendor). No background polling: data loads on open/reload. */
+/* Morning Brief — static front-end (no server).
+   Data is read at RUNTIME from the public GitHub repo (see assets/config.js), so new briefs and deep
+   dives appear without republishing. If GitHub can't be reached, the bundled data/ copy is used.
+   No background polling: data loads on open, on the Refresh button, and once when the tab comes back
+   after 10+ minutes. Uses vendored marked + DOMPurify (assets/vendor). */
 (() => {
   'use strict';
   const TZ = 'America/Phoenix';
   const HISTORY_PAGE = 7;
-  const APRIL_CHAT_URL = 'grokbot://app/v1/agent?id=30d1a93b-3a8a-435f-8b71-efa1bd39e86a';
+  const CFG = window.MORNING_BRIEF_CONFIG || {};
+  const DATA_BASE_URL = CFG.dataBaseUrl || 'https://raw.githubusercontent.com/boydt/morning-brief/main/data/';
+  const GITHUB_REPO = CFG.githubRepo === undefined ? 'boydt/morning-brief' : CFG.githubRepo;
+  const GITHUB_BRANCH = CFG.githubBranch || 'main';
+  const LOCAL_DATA = CFG.localDataPath || 'data/';
+  const APRIL_CHAT_URL = CFG.aprilChatUrl || 'grokbot://app/v1/agent?id=30d1a93b-3a8a-435f-8b71-efa1bd39e86a';
+  const FETCH_TIMEOUT_MS = 8000;
+  const REFETCH_AFTER_HIDDEN_MS = 10 * 60 * 1000;
+  const API_BLOCK_KEY = 'morning-brief:api-blocked-until';
   const ASKED_KEY = 'morning-brief:asked';
   const SCROLL_KEY = 'morning-brief:scroll';
   const DEFAULT_ICONS = { world: '🌍', business: '💼', games: '🎮', ai: '🤖', tech: '💻', markets: '📈', weather: '🌤️', 'worth-reading': '📚' };
@@ -51,11 +61,64 @@
   }
   const key = (date, id) => `${date}|${id}`;
   const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
-  async function getJSON(relPath) {
-    // Relative URL (no leading slash). 'no-cache' = revalidate with the host, so a reload shows fresh data.
-    const r = await fetch(relPath, { cache: 'no-cache' });
-    if (!r.ok) throw new Error(`${relPath} → HTTP ${r.status}`);
-    return r.json();
+  // ---------- data sources ----------
+  // Order per file: (1) raw.githubusercontent.com pinned to the latest commit SHA of main (immutable URL,
+  // so never stale), (2) DATA_BASE_URL (raw main, may lag up to ~5 min behind a push because of
+  // GitHub's CDN), (3) GitHub contents API, (4) bundled relative data/ copy.
+  // The SHA costs ONE GitHub API call per load/refresh ("cache: no-cache" → conditional request; a 304
+  // does not count toward the 60/hour unauthenticated limit). On rate limit, API use pauses until reset.
+  const apiBlocked = () => { try { return Date.now() < Number(localStorage.getItem(API_BLOCK_KEY) || 0); } catch { return false; } };
+  function noteApiResponse(r) {
+    if ((r.status === 403 || r.status === 429) && r.headers.get('x-ratelimit-remaining') === '0') {
+      const reset = Number(r.headers.get('x-ratelimit-reset')) * 1000 || Date.now() + 15 * 60 * 1000;
+      try { localStorage.setItem(API_BLOCK_KEY, String(reset)); } catch {}
+    }
+  }
+  async function fetchWithTimeout(url, opts = {}) {
+    const ctrl = new AbortController();
+    const t = setTimeout(() => ctrl.abort(), FETCH_TIMEOUT_MS);
+    try { return await fetch(url, { ...opts, signal: ctrl.signal }); } finally { clearTimeout(t); }
+  }
+  const bust = (url) => url + (url.includes('?') ? '&' : '?') + 't=' + Date.now();
+  function pinnedBase(sha) {
+    const m = /^https:\/\/raw\.githubusercontent\.com\/([^/]+)\/([^/]+)\/([^/]+)\/(.*)$/.exec(DATA_BASE_URL);
+    return m && sha ? `https://raw.githubusercontent.com/${m[1]}/${m[2]}/${sha}/${m[4]}` : null;
+  }
+  // A "round" is one consistent snapshot (page load / Refresh): the resolved commit SHA + which sources served.
+  async function newRound() {
+    const round = { sha: null, sources: new Set() };
+    if (GITHUB_REPO && !apiBlocked()) {
+      try {
+        const r = await fetchWithTimeout(`https://api.github.com/repos/${GITHUB_REPO}/commits/${encodeURIComponent(GITHUB_BRANCH)}`,
+          { headers: { Accept: 'application/vnd.github.sha' }, cache: 'no-cache' });
+        noteApiResponse(r);
+        if (r.ok) { const sha = (await r.text()).trim(); if (/^[0-9a-f]{40}$/.test(sha)) round.sha = sha; }
+      } catch { /* offline / blocked: fall through to raw main */ }
+    }
+    return round;
+  }
+  async function fetchData(file, round) {
+    const tries = [];
+    const pinned = pinnedBase(round.sha);
+    if (pinned) tries.push(['github', () => fetchWithTimeout(bust(pinned + file), { cache: 'no-store' })]);
+    tries.push(['github-main', () => fetchWithTimeout(bust(DATA_BASE_URL + file), { cache: 'no-store' })]);
+    if (GITHUB_REPO && !apiBlocked()) tries.push(['github-api', async () => {
+      const r = await fetchWithTimeout(`https://api.github.com/repos/${GITHUB_REPO}/contents/data/${file}?ref=${encodeURIComponent(round.sha || GITHUB_BRANCH)}`,
+        { headers: { Accept: 'application/vnd.github.raw' }, cache: 'no-store' });
+      noteApiResponse(r); return r;
+    }]);
+    tries.push(['bundled', () => fetchWithTimeout(LOCAL_DATA + file, { cache: 'no-cache' })]);
+    let lastErr = null;
+    for (const [kind, go] of tries) {
+      try {
+        const r = await go();
+        if (!r.ok) { lastErr = new Error(`${file}: HTTP ${r.status} (${kind})`); continue; }
+        const json = await r.json();
+        round.sources.add(kind);
+        return json;
+      } catch (e) { lastErr = e; }
+    }
+    throw lastErr || new Error(`${file}: unavailable`);
   }
   const store = {
     get(k, fallback) { try { return JSON.parse(localStorage.getItem(k)) ?? fallback; } catch { return fallback; } },
@@ -71,6 +134,8 @@
     loadedHistory: new Set(),
     deepOpen: new Map(),      // key -> bool
     asked: store.get(ASKED_KEY, {}), // key -> ISO time Boyd asked (this browser only)
+    round: { sha: null, sources: new Set() },
+    refreshing: false,
   };
 
   const sectionsOf = (day) => (Array.isArray(day && day.sections) ? day.sections.filter((s) => s && typeof s === 'object') : []);
@@ -135,7 +200,7 @@
       box,
       h('div', { class: 'toast-actions' }, again,
         h('a', { class: 'btn primary', id: 'toast-open', href: APRIL_CHAT_URL }, '💬 Open April’s chat')),
-      h('div', { class: 'toast-hint' }, 'Paste it in April’s chat. Her deep dive appears under the headline after you reload this page.'));
+      h('div', { class: 'toast-hint', id: 'toast-hint' }, 'April’s answer will appear under this headline after you tap ↻ Refresh.'));
     document.body.append(toast);
   }
   function updateToastStatus(ok) {
@@ -178,16 +243,28 @@
         h('div', { class: 'md', html: md(it.details_md) })) : null);
   }
 
-  // Re-render one card in place (user toggles only). Keeps the clicked card's on-screen position.
+  // Run fn() while keeping the first visible headline card at the same spot on screen,
+  // so re-rendering content above/below never moves what Boyd is reading.
+  function keepScroll(fn) {
+    const headerH = ($('.topbar') || { offsetHeight: 0 }).offsetHeight;
+    let id = null, top = 0;
+    for (const c of document.querySelectorAll('.card')) {
+      const r = c.getBoundingClientRect();
+      if (r.height && r.bottom > headerH) { id = c.id; top = r.top; break; }
+    }
+    fn();
+    const el = id && document.getElementById(id);
+    if (el) { const d = el.getBoundingClientRect().top - top; if (Math.abs(d) > 0.5) window.scrollBy(0, d); }
+  }
+  const itemSig = (it) => JSON.stringify(it);
+  const structSig = (day) => JSON.stringify([day.title, day.intro_md, sectionsOf(day).map((s) => [s.id, s.title, s.icon, s.body_md, itemsOf(s).map((i) => String(i.id))])]);
+
+  // Re-render one card in place.
   function patchCard(date, id) {
     const it = findItem(date, id);
     const old = document.getElementById(`item-${date}-${id}`);
     if (!it || !old) return;
-    const top = old.getBoundingClientRect().top;
-    const card = buildCard(date, it);
-    old.replaceWith(card);
-    const delta = card.getBoundingClientRect().top - top;
-    if (Math.abs(delta) > 0.5) window.scrollBy(0, delta);
+    keepScroll(() => old.replaceWith(buildCard(date, it)));
   }
 
   function renderSections(date, day, into) {
@@ -232,7 +309,11 @@
     $('#load-older').hidden = all.length <= state.historyLimit;
     const list = $('#history-list');
     for (const meta of all.slice(0, state.historyLimit)) {
-      if (state.historyEls.has(meta.date)) continue;
+      if (state.historyEls.has(meta.date)) {
+        const cnt = state.historyEls.get(meta.date).querySelector('.hday-count');
+        const txt = `${meta.headline_count ?? '?'} headlines`; if (cnt.textContent !== txt) cnt.textContent = txt;
+        continue;
+      }
       const body = h('div', { class: 'hday-body' }, h('div', { class: 'loading' }, 'Loading…'));
       const el = h('details', { class: 'hday', 'data-date': meta.date },
         h('summary', {},
@@ -242,38 +323,137 @@
       el.addEventListener('toggle', async () => {
         if (!el.open || state.loadedHistory.has(meta.date)) return;
         try {
-          const json = await getJSON(`data/${meta.date}.json`);
+          const json = await fetchData(`${meta.date}.json`, state.round);
           state.dayData.set(meta.date, json);
           renderSections(meta.date, json, body);
           state.loadedHistory.add(meta.date);
         } catch {
           body.textContent = ''; body.append(h('div', { class: 'empty' }, 'Couldn’t load this day. Close and reopen it to retry.'));
-        }
+        } finally { setStatus(); }
       });
       state.historyEls.set(meta.date, el);
       list.append(el);
     }
   }
 
+  // ---------- loading & refresh ----------
+  function setStatus(extra) {
+    const st = $('#status');
+    const src = state.round.sources;
+    const offline = src.has('bundled');
+    st.classList.toggle('note', offline);
+    st.textContent = offline ? '⚠ Offline copy' : `Updated ${fmtTime(state.loadedAt || new Date())}${extra ? ' · ' + extra : ''}`;
+    st.title = offline ? 'Couldn’t reach GitHub, showing the copy bundled with the site. Tap Refresh to try again.'
+      : src.has('github') ? `Live data from GitHub (commit ${state.round.sha.slice(0, 7)})`
+      : src.has('github-main') ? 'Live data from GitHub (may lag a few minutes behind the latest push)' : 'Live data from GitHub';
+  }
+  const normIndex = (idx) => (Array.isArray(idx) ? idx : (idx && idx.days) || []).filter((d) => d && DATE_RE.test(d.date)).sort((a, b) => (a.date < b.date ? 1 : -1));
+
   async function load() {
     try {
-      const idx = await getJSON('data/index.json');
-      const days = (Array.isArray(idx) ? idx : (idx && idx.days) || []).filter((d) => d && DATE_RE.test(d.date));
-      days.sort((a, b) => (a.date < b.date ? 1 : -1));
-      state.days = days;
-      state.latest = days.length ? days[0].date : null;
-      if (state.latest) state.dayData.set(state.latest, await getJSON(`data/${state.latest}.json`));
+      state.round = await newRound();
+      state.days = normIndex(await fetchData('index.json', state.round));
+      state.latest = state.days.length ? state.days[0].date : null;
+      if (state.latest) state.dayData.set(state.latest, await fetchData(`${state.latest}.json`, state.round));
       renderTop();
       renderHistory();
-      $('#status').textContent = `Loaded ${fmtTime(new Date())}`;
+      state.loadedAt = new Date();
+      setStatus();
       restoreScroll();
     } catch (e) {
       $('#today').innerHTML = '';
-      $('#today').append(h('div', { class: 'empty' }, 'Couldn’t load the brief. ', h('a', { href: '' }, 'Reload'), ' to try again.'));
+      $('#today').append(h('div', { class: 'empty' }, 'Couldn’t load the brief. Tap ↻ Refresh or ', h('a', { href: '' }, 'reload'), ' to try again.'));
       $('#status').textContent = '⚠ Load failed';
       console.warn(e);
     }
   }
+
+  // Re-fetch without reloading; patch only what changed; never move the reading position.
+  // A brand-new day is shown directly on a manual Refresh (scrolls to top — that's what Boyd asked for);
+  // on the automatic re-fetch it only offers a "Show" banner.
+  async function refresh({ auto = false } = {}) {
+    if (state.refreshing) return;
+    if (!state.latest) return load();
+    state.refreshing = true;
+    const btn = $('#refresh'); btn.setAttribute('aria-busy', 'true'); btn.disabled = true;
+    let changed = 0;
+    try {
+      const round = await newRound();
+      const days = normIndex(await fetchData('index.json', round));
+      const newest = days.length ? days[0].date : null;
+      const fresh = new Map();
+      for (const date of new Set([newest, state.latest, ...state.loadedHistory])) {
+        if (!date || !days.some((d) => d.date === date)) continue;
+        try { fresh.set(date, await fetchData(`${date}.json`, round)); } catch { /* keep what we have */ }
+      }
+      state.round = round;
+      if (newest && newest !== state.latest) {
+        const show = () => {
+          state.days = days; state.latest = newest;
+          for (const [d, j] of fresh) state.dayData.set(d, j);
+          for (const el of state.historyEls.values()) el.remove();
+          state.historyEls.clear(); state.loadedHistory.clear();
+          renderTop(); renderHistory(); window.scrollTo(0, 0);
+          const b = $('#stale'); if (b) b.remove();
+        };
+        if (auto) showNewDayBanner(newest, show); else show();
+        changed++;
+      } else {
+        state.days = days;
+        for (const [date, json] of fresh) changed += applyDay(date, json);
+        keepScroll(() => renderHistory());
+      }
+      state.loadedAt = new Date();
+      setStatus(auto ? '' : changed ? `${changed} update${changed > 1 ? 's' : ''}` : 'no changes');
+    } catch (e) {
+      setStatus(); $('#status').textContent = '⚠ Refresh failed'; console.warn(e);
+    } finally {
+      state.refreshing = false; btn.removeAttribute('aria-busy'); btn.disabled = false;
+    }
+    return changed;
+  }
+
+  // Apply a fresh copy of an already-rendered day. Returns number of changed cards (or 1 for a re-render).
+  function applyDay(date, json) {
+    const old = state.dayData.get(date);
+    if (!old || JSON.stringify(old) === JSON.stringify(json)) return 0;
+    state.dayData.set(date, json);
+    const isTop = date === state.latest;
+    const container = isTop ? $('#today .day-body') : state.historyEls.get(date) && state.historyEls.get(date).querySelector('.hday-body');
+    if (!container) return 0;
+    if (structSig(old) !== structSig(json)) {
+      keepScroll(() => { if (isTop) renderTop(); else renderSections(date, json, container); });
+      return 1;
+    }
+    let n = 0;
+    const oldItems = new Map(sectionsOf(old).flatMap((s) => itemsOf(s)).map((i) => [String(i.id), itemSig(i)]));
+    for (const s of sectionsOf(json)) for (const it of itemsOf(s)) {
+      if (oldItems.get(String(it.id)) === itemSig(it)) continue;
+      const el = document.getElementById(`item-${date}-${it.id}`);
+      if (!el) continue;
+      const wasDeep = !!el.querySelector('.deep');
+      keepScroll(() => { const card = buildCard(date, it); el.replaceWith(card); if (!wasDeep && hasDetails(it)) { card.classList.add('flash'); setTimeout(() => card.classList.remove('flash'), 2500); } });
+      n++;
+    }
+    return n;
+  }
+
+  function showNewDayBanner(date, show) {
+    if ($('#stale')) $('#stale').remove();
+    const bar = h('div', { id: 'stale', class: 'stale', role: 'status' },
+      h('span', {}, `🆕 ${fmtDate(date, { weekday: 'short', month: 'short', day: 'numeric' })} brief is out`),
+      h('button', { class: 'btn primary', type: 'button', onclick: show }, 'Show'),
+      h('button', { class: 'toast-x', type: 'button', 'aria-label': 'Dismiss', onclick: () => bar.remove() }, '×'));
+    document.body.append(bar);
+  }
+
+  let hiddenAt = null;
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'hidden') { hiddenAt = Date.now(); return; }
+    const away = hiddenAt ? Date.now() - hiddenAt : 0; hiddenAt = null;
+    if (away >= REFETCH_AFTER_HIDDEN_MS) refresh({ auto: true });
+  });
+  $('#refresh').addEventListener('click', () => refresh());
 
   // Keep the reading position across reloads (content renders async, so do it by hand).
   if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
@@ -286,5 +466,6 @@
   window.addEventListener('pagehide', () => { try { sessionStorage.setItem(SCROLL_KEY, JSON.stringify({ path: location.pathname, y: window.scrollY })); } catch {} });
 
   $('#load-older').addEventListener('click', () => { state.historyLimit += HISTORY_PAGE; renderHistory(); });
+  window.__brief = { state, refresh }; // for tests / debugging
   load();
 })();
