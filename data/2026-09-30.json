@@ -171,6 +171,80 @@
       ]
     },
     {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": null,
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "PS5 emulation speeds up: Demon's Souls and Astro Bot reach playable frame rates, and a native AnyPS5 layer appears",
+          "summary_md": "In TechSpot's roundup, KytyPS5 runs Demon's Souls at 40–50 fps on an RTX 5090 and i9-14900K, Astro Bot is playable but unstable, and Wolverine reaches its main menu at about 2 fps; KytyPS5 has shipped more than 300 GitHub builds, several a day. A third project, AnyPS5, converts PS5 executables to run natively and shows Dreaming Sarah at 60 fps on a GTX 1050 Ti, but it has no public build yet.",
+          "source": {
+            "name": "TechSpot",
+            "url": "https://www.techspot.com/news/114034-playstation-5-emulation-evolving-rapidly-native-ps5-pc.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "ProsperoEden, a Switch emulator for jailbroken PS5s, makes Vulkan its default renderer",
+          "summary_md": "The v1.000.020 pre-release (Sep 29, 8:36 PM AZ) sets Vulkan as the default with OpenGL still available, and adds a browser for game files on external and USB drives. On Sep 28, Tom's Hardware reported that the earlier OpenGL-only builds ran Cuphead and Metroid Dread at 40+ fps but left Breath of the Wild unplayable.",
+          "source": {
+            "name": "ProsperoEden on GitHub",
+            "url": "https://github.com/blackbearreloaded/ProsperoEden/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "Half-Life's cancelled Dreamcast port has been decompiled, restoring its online multiplayer",
+          "summary_md": "Modder maximqad reverse-engineered the leaked 2001 Dreamcast prototype, freeing its source code for fixes and mods, and rebuilt the stripped-out networking so multiplayer runs from the game's native code. To play, you rebuild the prototype's GDI image with the custom code injected.",
+          "source": {
+            "name": "Time Extension",
+            "url": "https://www.timeextension.com/news/2026/09/half-life-dreamcast-has-been-decompiled-freeing-source-code-and-adding-online-multiplayer"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "Super Mario Kart Deluxe, one of the biggest SNES ROM hacks in the works, is dated for Dec 25, 2026",
+          "summary_md": "MrL314 and ScouBsmk's hack adds 8 characters, 6 cups, a mission mode with bosses, mirror mode, speed classes up to 300cc and new multiplayer modes such as Shine Thief. It's reportedly compatible with real SNES hardware as well as emulators.",
+          "source": {
+            "name": "Time Extension",
+            "url": "https://www.timeextension.com/news/2026/09/after-years-of-hard-work-one-of-the-most-ambitious-super-mario-kart-snes-hacks-of-all-time-finally-has-a-release-date"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "Ayaneo's Konkr Pocket Block Android emulation handheld launches from $79",
+          "summary_md": "The vertical, Game Boy-style handheld pairs a MediaTek Helio G85 with a 3.33-inch 960×720 screen for $79 (2GB/32GB) or $99 (3GB/64GB), and Ayaneo's CEO claims it can play PSP games. The launch marketing drops the \"AI-powered\" pitch from its May reveal, though an AI livestream is planned for October.",
+          "source": {
+            "name": "GamesRadar+",
+            "url": "https://www.gamesradar.com/hardware/handhelds/ayaneo-launches-its-pocket-block-for-usd79-and-im-glad-the-game-boy-clone-has-ditched-the-ai-pitch/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E6",
+          "headline_md": "Blaze delays TheC64 and The Spectrum handhelds to April 22, 2027",
+          "summary_md": "Blaze pushed both emulation handhelds back from Oct 15, 2026, saying their construction wasn't meeting its standards. The Evercade Nexus still ships Oct 30.",
+          "source": {
+            "name": "Time Extension",
+            "url": "https://www.timeextension.com/news/2026/09/blazes-c64-and-zx-spectrum-handhelds-have-been-delayed-to-april-2027"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
       "id": "ai",
       "title": "AI",
       "icon": "🤖",
@@ -363,12 +437,12 @@
       "id": "weather",
       "title": "Weather",
       "icon": "🌤️",
-      "body_md": null,
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | – | – | – | – | – | – | – | – | – | 1% | 1% | 1% | 1% | 1% | 1% | 0% | 0% | 0% | 0% |\n| Show Low | – | – | – | – | – | – | – | – | – | 44% 🌧 | 44% 🌧 | 44% 🌧 | 21% 🌧 | 21% 🌧 | 21% 🌧 | 10% | 10% | 10% | 3% |\n| Snowflake | – | – | – | – | – | – | – | – | – | 42% 🌧 | 42% 🌧 | 42% 🌧 | 20% 🌧 | 20% 🌧 | 20% 🌧 | 7% | 7% | 7% | 2% |\n\nChance of precipitation by hour, AZ time. Source: [National Weather Service hourly forecast](https://www.weather.gov/) · fetched 2:17 PM AZ; past hours shown as –.",
       "items": [
         {
           "id": "X1",
-          "headline_md": "Phoenix, AZ: Sunny, high 82°F, low 67°F, no alerts",
-          "summary_md": "Sunny today with a high near 82°F and a light SSW wind around 5 mph. Mostly clear tonight with a low around 67°F. The chance of rain is 5% today and 1% tonight, NWS forecasts no measurable rain, and there are no active alerts. NWS Phoenix forecast updated 3:42 AM AZ.",
+          "headline_md": "Phoenix, AZ: Sunny, high 82°F, low 69°F, no alerts",
+          "summary_md": "Sunny this afternoon with a high near 82°F and southwest wind 0–5 mph, then clear tonight with a low around 69°F. The chance of rain is 1% this afternoon and tonight, NWS forecasts no measurable rain, and there are no active alerts. Thursday is sunny with a high near 91°F. NWS Phoenix forecast updated 11:48 AM AZ.",
           "source": {
             "name": "National Weather Service (weather.gov)",
             "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
@@ -378,8 +452,8 @@
         },
         {
           "id": "X2",
-          "headline_md": "Show Low, AZ: Showers and storms, high 57°F, low 45°F, ⚠️ Flood Warning until 10:45 AM AZ",
-          "summary_md": "Cloudy with showers and thunderstorms today, a high near 57°F and SW winds of 13–16 mph gusting to 25. The chance of rain is 90%, and the NWS grid shows about 0.17 in. more from 5 AM to 5 PM AZ with no snow. Tonight there's a 30% chance of storms before 11 PM, with a low around 45°F. A **Flood Warning** for Apache, Gila and Navajo counties runs until 10:45 AM AZ after 2–3 in. of rain Tuesday; creeks and washes are flooding, and Show Low is named. Turn around, don't drown. NWS Flagstaff forecast updated 3:14 AM AZ.",
+          "headline_md": "Show Low, AZ: Chance of storms before 5 PM, high 55°F, low 45°F, no alerts",
+          "summary_md": "A chance of showers and thunderstorms before 5 PM, then a slight chance. It's cloudy with a high near 55°F and SW wind around 13 mph gusting to 24. The chance of precipitation is 40% this afternoon and 20% tonight, with storms possible before 8 PM. The NWS grid shows about 0.05 in. of rain for 11 AM–5 PM AZ and 0.01 in. for 5–11 PM, with no snow. Tonight turns partly cloudy with a low around 45°F, and Thursday is sunny with a high near 66°F. This morning's Flood Warning is no longer active, and there are no current alerts. NWS Flagstaff forecast updated 11:34 AM AZ.",
           "source": {
             "name": "National Weather Service (weather.gov)",
             "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
@@ -389,8 +463,8 @@
         },
         {
           "id": "X3",
-          "headline_md": "Snowflake, AZ: Storms before 5 PM, high 62°F, low 47°F, ⚠️ Flood Warning until 10:45 AM AZ",
-          "summary_md": "Showers and thunderstorms before 5 PM, then a slight chance. It'll be mostly cloudy with a high near 62°F, cooling to about 59 in the afternoon, and SW wind around 14 mph gusting to 22. The chance of rain is 90%, and the NWS grid shows about 0.17 in. from 5 AM to 5 PM AZ with no snow. Tonight there's a 20% chance of storms before 11 PM, with a low around 47°F. Snowflake is inside the same Navajo County **Flood Warning**, which runs until 10:45 AM AZ. NWS Flagstaff forecast updated 3:14 AM AZ.",
+          "headline_md": "Snowflake, AZ: Chance of storms before 5 PM, high 59°F, low 46°F, no alerts",
+          "summary_md": "A chance of showers and thunderstorms before 5 PM, then a slight chance. It's mostly cloudy with a high near 59°F and west wind around 13 mph gusting to 26. The chance of precipitation is 40% this afternoon and 20% tonight, with storms possible before 8 PM. The NWS grid shows about 0.09 in. of rain for 11 AM–5 PM AZ and 0.01 in. for 5–11 PM, with no snow. Tonight is partly cloudy with patchy fog 2–5 AM and a low around 46°F. Thursday brings patchy fog 8–11 AM, then sun and a high near 68°F. This morning's Flood Warning is no longer active, and there are no current alerts. NWS Flagstaff forecast updated 11:34 AM AZ.",
           "source": {
             "name": "National Weather Service (weather.gov)",
             "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
