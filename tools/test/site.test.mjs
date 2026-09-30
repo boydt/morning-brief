@@ -58,6 +58,22 @@ const EMU_SECTION = { id: 'emulation', items: [
   fs.writeFileSync(f, JSON.stringify(d));
   const e = fixIndex.days.find((x) => x.date === EMU_DATE); e.headline_count = d.sections.reduce((n, x) => n + (x.items || []).length, 0);
 }
+// SAMPLE hourly precipitation matrix in the weather section's body_md (fixture copy only).
+const WX_HOURS = ['5a', '6a', '7a', '8a', '9a', '10a', '11a', '12p', '1p', '2p', '3p', '4p', '5p', '6p', '7p', '8p', '9p', '10p', '11p'];
+const WX_ROWS = {
+  Phoenix:   ['0%', '0%', '0%', '0%', '0%', '0%', '0%', '5%', '5%', '10%', '10%', '10%', '5%', '5%', '0%', '0%', '0%', '0%', '0%'],
+  'Show Low': ['30% 🌧', '40% 🌧', '50% 🌧', '60% 🌧', '70% 🌧', '80% 🌧', '90% 🌧', '90% 🌧', '80% 🌧', '70% 🌧', '60% 🌧', '50% 🌧', '40% 🌧', '30% 🌧', '20%', '20%', '10%', '10%', '–'],
+  Snowflake: ['20%', '30% 🌧', '40% ❄', '50% 🌧', '60% 🌧', '75% 🌧', '85% 🌧', '90% 🌧', '85% 🌧', '70% 🌧', '55% 🌧', '45% 🌧', '35% 🌧', '25%', '15%', '10%', '5%', '–', '–'],
+};
+const WX_TABLE_MD = `_Sample data (test only)._\n\n| City | ${WX_HOURS.join(' | ')} |\n|${' --- |'.repeat(WX_HOURS.length + 1)}\n` +
+  Object.entries(WX_ROWS).map(([c, v]) => `| ${c} | ${v.join(' | ')} |`).join('\n') +
+  `\n\nSource (sample): NWS hourly forecast grids, illustrative values.`;
+{
+  const f = path.join(FIX, 'data', `${EMU_DATE}.json`);
+  const d = JSON.parse(fs.readFileSync(f, 'utf8'));
+  d.sections.find((x) => x.id === 'weather').body_md = WX_TABLE_MD;
+  fs.writeFileSync(f, JSON.stringify(d));
+}
 fixIndex.days.sort((a, b) => (a.date < b.date ? 1 : -1));
 fs.writeFileSync(path.join(FIX, 'data/index.json'), JSON.stringify(fixIndex));
 const fixSrv = spawn('python3', ['-m', 'http.server', '8795', '--bind', '127.0.0.1', '--directory', HOST], { stdio: 'ignore' });
@@ -357,6 +373,50 @@ try {
     ok(`[${vp.tag}] emulation: E2 "Show deep dive" expands inline under the headline, card stays put`, inf.deep && inf.after && inf.li === 3 && inf.time === 'Sep 30, 1:45 PM MST' && /Hide deep dive/.test(inf.btn) && Math.abs(inf.top - top0) <= 1, JSON.stringify(inf));
     await p4.evaluate(() => { const el = document.querySelector('#today .section[data-section="emulation"]'); el.scrollIntoView({ block: 'start' }); window.scrollBy(0, -70); });
     await shot(p4, `${vp.tag}-emulation-deepdive-expanded.png`);
+
+    // ---- weather hourly precipitation table (sample, fixture copy only) ----
+    await p4.locator('#toast .toast-x').click().catch(() => {});
+    const wx = p4.locator('#today .section[data-section="weather"] .section-body');
+    const tbl = await wx.evaluate((el) => {
+      const wrap = el.querySelector('.table-wrap'), t = wrap && wrap.querySelector('table');
+      if (!t) return null;
+      const cs = getComputedStyle(wrap);
+      return { heads: t.querySelectorAll('thead th').length, rows: t.querySelectorAll('tbody tr').length,
+        firstHead: t.querySelector('thead th').textContent, cities: [...t.querySelectorAll('tbody td:first-child')].map((c) => c.textContent),
+        overflowX: cs.overflowX, sticky: getComputedStyle(t.querySelector('tbody td')).position,
+        note: /Source \(sample\)/.test(el.textContent) && !wrap.contains([...el.querySelectorAll('p')].pop()),
+        tabular: getComputedStyle(t).fontVariantNumeric,
+        scrollW: wrap.scrollWidth, clientW: wrap.clientWidth };
+    });
+    ok(`[${vp.tag}] weather body_md GFM table renders (City + 19 hours, 3 city rows, note below)`, tbl && tbl.heads === 20 && tbl.rows === 3 && tbl.firstHead === 'City' && tbl.cities.join(',') === 'Phoenix,Show Low,Snowflake' && tbl.note, JSON.stringify(tbl));
+    ok(`[${vp.tag}] table: scroll container (overflow-x:auto), sticky City column, tabular numbers`, tbl && tbl.overflowX === 'auto' && tbl.sticky === 'sticky' && /tabular-nums/.test(tbl.tabular));
+    const tints = await wx.evaluate((el) => [...el.querySelectorAll('tbody tr:nth-child(2) td')].slice(1, 9).map((td) => `${td.textContent}=${td.className || '-'}`).join(' '));
+    const tintOk = await wx.evaluate((el) => {
+      const cells = [...el.querySelectorAll('tbody td')].filter((td) => td.cellIndex > 0);
+      const cls = (t) => cells.find((c) => c.textContent.trim() === t)?.className || '';
+      return cls('0%') === '' && cls('–') === '' && cls('10%') === 'pct-1' && cls('40% 🌧') === 'pct-2' && cls('60% 🌧') === 'pct-3' && cls('90% 🌧') === 'pct-4' && cells.some((c) => c.textContent === '40% ❄');
+    });
+    ok(`[${vp.tag}] table: percentage tint classes by value, text (incl. 🌧/❄) unchanged`, tintOk, tints);
+    await p4.evaluate(() => { const el = document.querySelector('#today .section[data-section="weather"]'); el.scrollIntoView({ block: 'start' }); window.scrollBy(0, -70); });
+    await sleep(150);
+    ok(`[${vp.tag}] table: no page-level horizontal overflow`, await p4.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth && document.body.scrollWidth <= window.innerWidth), await p4.evaluate(() => `${document.documentElement.scrollWidth}/${window.innerWidth}`));
+    await shot(p4, `${vp.tag}-weather-table.png`);
+    // Scroll the table inside its container: City column must stay put, other columns move.
+    const sc = await wx.evaluate(async (el) => {
+      const wrap = el.querySelector('.table-wrap');
+      const city = wrap.querySelector('tbody tr td:first-child'), col5 = wrap.querySelector('tbody tr td:nth-child(6)');
+      const b = { city: city.getBoundingClientRect().left, col5: col5.getBoundingClientRect().left, wrap: wrap.getBoundingClientRect().left };
+      wrap.scrollLeft = 160; await new Promise((r) => requestAnimationFrame(() => requestAnimationFrame(r)));
+      const a = { city: city.getBoundingClientRect().left, col5: col5.getBoundingClientRect().left, scrollLeft: wrap.scrollLeft };
+      const topEl = document.elementFromPoint(city.getBoundingClientRect().left + 5, city.getBoundingClientRect().top + city.getBoundingClientRect().height / 2);
+      return { needsScroll: wrap.scrollWidth > wrap.clientWidth, b, a, cityOnTop: topEl === city || city.contains(topEl), pageX: window.scrollX };
+    });
+    if (sc.needsScroll) {
+      ok(`[${vp.tag}] table scrolls inside its container; City column stays sticky and on top`, sc.a.scrollLeft > 0 && Math.abs(sc.a.city - sc.b.city) <= 1 && sc.a.col5 < sc.b.col5 - 100 && sc.cityOnTop && sc.pageX === 0, JSON.stringify(sc));
+      await shot(p4, `${vp.tag}-weather-table-scrolled.png`);
+    } else {
+      ok(`[${vp.tag}] table fits without scrolling at this width (container still overflow-x:auto)`, sc.pageX === 0, JSON.stringify(sc));
+    }
     ok(`[${vp.tag}] fixture: no console errors / failed requests`, pr4.length === 0, pr4.join('; '));
     await c4.close();
   }

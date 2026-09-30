@@ -31,7 +31,31 @@
     }
   });
   const PURIFY = { FORBID_TAGS: ['style', 'form', 'input', 'button', 'textarea', 'select', 'iframe'], FORBID_ATTR: ['style'] };
-  const md = (s) => DOMPurify.sanitize(marked.parse(String(s ?? '')), PURIFY);
+  // Block markdown (GFM on: tables, strikethrough, autolinks). DOMPurify keeps table/thead/tbody/tr/th/td
+  // by default. After sanitizing, every table is wrapped in a horizontally scrollable container and
+  // cells holding a percentage (e.g. "60% 🌧") get a subtle tint class by value (pct-1 … pct-4).
+  function enhanceTables(html) {
+    if (!/<table/i.test(html)) return html;
+    const t = document.createElement('template');
+    t.innerHTML = html;
+    for (const table of t.content.querySelectorAll('table')) {
+      const wrap = document.createElement('div');
+      wrap.className = 'table-wrap';
+      wrap.setAttribute('role', 'region');
+      wrap.setAttribute('tabindex', '0');
+      wrap.setAttribute('aria-label', 'Table (scrolls sideways)');
+      table.replaceWith(wrap); wrap.append(table);
+      for (const td of table.querySelectorAll('td')) {
+        const m = /(\d{1,3})\s*%/.exec(td.textContent);
+        if (!m) continue;
+        const v = Math.min(100, Number(m[1]));
+        td.dataset.pct = String(v);
+        if (v > 0) td.classList.add(v >= 75 ? 'pct-4' : v >= 50 ? 'pct-3' : v >= 25 ? 'pct-2' : 'pct-1');
+      }
+    }
+    return t.innerHTML;
+  }
+  const md = (s) => enhanceTables(DOMPurify.sanitize(marked.parse(String(s ?? '')), PURIFY));
   const mdInline = (s) => DOMPurify.sanitize(marked.parseInline(String(s ?? '')), PURIFY);
   const safeUrl = (u) => { try { const x = new URL(String(u)); return /^https?:$/.test(x.protocol) ? x.href : null; } catch { return null; } };
   const plain = (mdText) => { const d = document.createElement('div'); d.innerHTML = mdInline(mdText || ''); return d.textContent.replace(/\s+/g, ' ').trim(); };
