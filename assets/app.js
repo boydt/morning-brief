@@ -18,8 +18,9 @@
   const API_BLOCK_KEY = 'morning-brief:api-blocked-until';
   const ASKED_KEY = 'morning-brief:asked';
   const SCROLL_KEY = 'morning-brief:scroll';
-  const DEFAULT_ICONS = { world: '🌍', business: '💼', games: '🎮', ai: '🤖', tech: '💻', markets: '📈', weather: '🌤️', 'worth-reading': '📚' };
-  const DEFAULT_TITLES = { world: 'World', business: 'Business', games: 'Games', ai: 'AI', tech: 'Tech', markets: 'Markets', weather: 'Weather', 'worth-reading': 'Worth Reading' };
+  // Sections render in the order April writes them (e.g. "emulation" right after "games").
+  const DEFAULT_ICONS = { world: '🌍', business: '💼', games: '🎮', emulation: '🕹️', ai: '🤖', tech: '💻', markets: '📈', weather: '🌤️', 'worth-reading': '📚' };
+  const DEFAULT_TITLES = { world: 'World', business: 'Business', games: 'Games', emulation: 'Video Game Emulation', ai: 'AI', tech: 'Tech', markets: 'Markets', weather: 'Weather', 'worth-reading': 'Worth Reading' };
 
   // ---------- markdown (sanitized) ----------
   marked.use({ gfm: true, breaks: false });

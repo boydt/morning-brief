@@ -34,6 +34,30 @@ for (const f of fs.existsSync(SAMPLES) ? fs.readdirSync(SAMPLES) : []) {
   fs.writeFileSync(path.join(FIX, 'data', f), JSON.stringify(day));
   fixIndex.days.push({ date: m[1], title: day.title, headline_count: day.sections.reduce((n, s) => n + (s.items || []).length, 0) });
 }
+// SAMPLE "emulation" section injected right after "games" in the fixture's copy of the newest day.
+// icon/title deliberately omitted to prove the defaults (🕹️ / "Video Game Emulation") are applied.
+const EMU_DATE = fixIndex.days.slice().sort((a, b) => (a.date < b.date ? 1 : -1))[0].date;
+const EMU_SECTION = { id: 'emulation', items: [
+  { id: 'E1', headline_md: '**Sample:** PS5 emulator gets a commercial title to in-game on a desktop PC',
+    summary_md: 'Illustrative placeholder for testing. The project notes are said to cover shader caching and *frame pacing* fixes.',
+    source: { name: 'Example Emulation News (sample)', url: 'https://example.com/sample/emulation/e1' }, details_md: null, details_updated: null },
+  { id: 'E2', headline_md: 'Sample: r/decomp project reaches a 100% matching decompilation of a classic platformer',
+    summary_md: 'Illustrative placeholder. A PC port built from the decompiled source is expected to follow.',
+    source: { name: 'Sample Decomp Digest', url: 'https://example.com/sample/emulation/e2' },
+    details_md: '**Sample deep dive (test data)**\n\n- **Matching decomp:** the rebuilt code compiles to a byte-identical ROM.\n- **Why it matters:** enables native ports and mods.\n- **Read more:** [example link](https://example.com/sample/emulation/e2-more)',
+    details_updated: '2026-09-30T13:45:00-07:00' },
+  { id: 'E3', headline_md: 'Sample: Court filing in an emulation-related copyright case (illustrative)',
+    summary_md: 'Placeholder legal-news item for layout testing only.',
+    source: { name: 'Example Legal Wire (sample)', url: 'https://example.com/sample/emulation/e3' }, details_md: null, details_updated: null },
+] };
+{
+  const f = path.join(FIX, 'data', `${EMU_DATE}.json`);
+  const d = JSON.parse(fs.readFileSync(f, 'utf8'));
+  d.sections = d.sections.filter((x) => x.id !== 'emulation');
+  d.sections.splice(d.sections.findIndex((x) => x.id === 'games') + 1, 0, EMU_SECTION);
+  fs.writeFileSync(f, JSON.stringify(d));
+  const e = fixIndex.days.find((x) => x.date === EMU_DATE); e.headline_count = d.sections.reduce((n, x) => n + (x.items || []).length, 0);
+}
 fixIndex.days.sort((a, b) => (a.date < b.date ? 1 : -1));
 fs.writeFileSync(path.join(FIX, 'data/index.json'), JSON.stringify(fixIndex));
 const fixSrv = spawn('python3', ['-m', 'http.server', '8795', '--bind', '127.0.0.1', '--directory', HOST], { stdio: 'ignore' });
@@ -293,6 +317,46 @@ try {
     ok(`[${vp.tag}] history deep dive expands on "Show deep dive"`, (await h29.locator('.deep').count()) === 1);
     await h29.locator('summary').click();
     ok(`[${vp.tag}] history day collapses on click`, !(await h29.evaluate((d) => d.open)));
+
+    // ---- emulation section (sample, fixture copy only) ----
+    await p4.evaluate(() => window.scrollTo(0, 0));
+    const order = await p4.locator('#today .section').evaluateAll((els) => els.map((e) => e.dataset.section));
+    ok(`[${vp.tag}] emulation section renders right after games`, order.indexOf('emulation') === order.indexOf('games') + 1, order.join(','));
+    const emu = p4.locator('#today .section[data-section="emulation"]');
+    ok(`[${vp.tag}] emulation: default icon 🕹️ + title "Video Game Emulation" + count 3`,
+      (await emu.locator('.section-icon').innerText()) === '🕹️' && (await emu.locator('.section-title').innerText()) === 'Video Game Emulation' && (await emu.locator('.section-count').innerText()) === '3');
+    ok(`[${vp.tag}] emulation: E1–E3 each have code badge, source link (new tab), button`,
+      JSON.stringify(await emu.locator('.badge').allInnerTexts()) === '["E1","E2","E3"]' && (await emu.locator('.source a[target="_blank"][rel*="noopener"]').count()) === 3 && (await emu.locator('.card .btn').count()) === 3);
+    const styleOf = (sel) => p4.locator(sel).first().evaluate((el) => { const c = getComputedStyle(el); return ['background-color', 'border-top', 'border-radius', 'padding', 'box-shadow', 'font-size', 'font-weight', 'color', 'margin-top'].map((k) => c.getPropertyValue(k)).join('|'); });
+    const same = [];
+    // Compare like with like: a "More info" button with a "More info" button, a deep-dive button with a deep-dive button.
+    for (const part of ['.section', '.section-head', '.section-icon', '.section-title', '.card', '.badge', '.headline', '.summary', '.source', '.btn:not(.done):not(.asked)', '.btn.done']) {
+      const a = await styleOf(`#today .section[data-section="games"] ${part === '.section' ? '' : part}`.trim());
+      const b = await styleOf(`#today .section[data-section="emulation"] ${part === '.section' ? '' : part}`.trim());
+      if (a !== b) same.push(`${part}: ${a} ≠ ${b}`);
+    }
+    ok(`[${vp.tag}] emulation: identical computed styles to the games section (section, head, icon, title, card, badge, headline, summary, source, More-info + deep-dive buttons)`, same.length === 0, same.join(' ; '));
+    ok(`[${vp.tag}] emulation: E2 deep dive collapsed by default ("Show deep dive")`, (await emu.locator('.deep').count()) === 0 && /Show deep dive/.test(await emu.locator('[id$="-E2"] .btn').innerText()));
+    ok(`[${vp.tag}] emulation: no horizontal overflow`, await p4.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth));
+    await p4.evaluate(() => { const el = document.querySelector('#today .section[data-section="emulation"]'); el.scrollIntoView({ block: 'start' }); window.scrollBy(0, -70); });
+    await shot(p4, `${vp.tag}-emulation-section.png`);
+    // More info on E1 copies the right message.
+    const e1 = EMU_SECTION.items[0];
+    await p4.evaluate(() => navigator.clipboard.writeText('SENTINEL'));
+    await emu.locator('[id$="-E1"] .btn').click(); await sleep(400);
+    const clipE = await p4.evaluate(() => navigator.clipboard.readText());
+    ok(`[${vp.tag}] emulation: More info on E1 copies the exact message, toast shown, no popup`, clipE === expected(EMU_DATE, e1) && (await p4.locator('#toast.ok').count()) === 1 && c4.pages().length === 1, clipE);
+    await p4.locator('#toast .toast-x').click();
+    // E2 deep dive expands inline under its headline.
+    const e2 = emu.locator('[id$="-E2"]');
+    const top0 = await e2.evaluate((el) => el.getBoundingClientRect().top);
+    await e2.locator('.btn').click();
+    const e2b = emu.locator('[id$="-E2"]');
+    const inf = await e2b.evaluate((el) => { const d = el.querySelector('.deep'), hd = el.querySelector('.headline');
+      return { deep: !!d, after: !!d && !!(hd.compareDocumentPosition(d) & Node.DOCUMENT_POSITION_FOLLOWING), li: d ? d.querySelectorAll('li').length : 0, time: d ? d.querySelector('time').textContent : '', top: el.getBoundingClientRect().top, btn: el.querySelector('.btn').textContent }; });
+    ok(`[${vp.tag}] emulation: E2 "Show deep dive" expands inline under the headline, card stays put`, inf.deep && inf.after && inf.li === 3 && inf.time === 'Sep 30, 1:45 PM MST' && /Hide deep dive/.test(inf.btn) && Math.abs(inf.top - top0) <= 1, JSON.stringify(inf));
+    await p4.evaluate(() => { const el = document.querySelector('#today .section[data-section="emulation"]'); el.scrollIntoView({ block: 'start' }); window.scrollBy(0, -70); });
+    await shot(p4, `${vp.tag}-emulation-deepdive-expanded.png`);
     ok(`[${vp.tag}] fixture: no console errors / failed requests`, pr4.length === 0, pr4.join('; '));
     await c4.close();
   }
