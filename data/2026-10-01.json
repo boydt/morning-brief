@@ -178,8 +178,8 @@
         },
         {
           "id": "E3",
-          "headline_md": "suyu 0.0.11: Steam export tool + static AOT recompiler jumps Mario Kart 8 Deluxe toward 60 FPS",
-          "summary_md": "The Switch fork's Sept. 27 release adds end-to-end Windows standalone game exports (settings, shaders, optional Steam library entry) and ABI 6 static recompiler work. On a Ryzen 9950X3D / RX 9070 XT, strict static AOT MK8D rose from ~24 to ~56 FPS; an M5 MacBook Pro hit 60 FPS in the developer's tests. Also adds a Vulkan libretro core.",
+          "headline_md": "suyu 0.0.11 adds a \"send to Steam library\" game export and an experimental recompiler that runs Mario Kart 8 Deluxe near 60 FPS",
+          "summary_md": "The Switch emulator's Sep 24 release can package a game as its own app and add it to your Steam library as a non-Steam shortcut (Valve isn't involved). The developer's own tests show its new ahead-of-time recompiler reaching 56–60 fps, roughly matching the existing default mode.",
           "source": {
             "name": "Pants Pants Revolution",
             "url": "https://pantspantsrevolution.com/suyu-v0-0-11-adds-steam-game-exports-and-static-aot-speed-bo/"
