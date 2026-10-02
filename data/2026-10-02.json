@@ -179,6 +179,91 @@
       ]
     },
     {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "*Avengers: Endgame Encore* re-release wins the Sep 25-27 weekend with $26.1M",
+          "summary_md": "Final domestic numbers for Sep 25-27: *Endgame Encore* $26.1M, *Resident Evil* $23.0M (down 62%, $103.2M total), *Heart of the Beast* $20.0M, *Primetime* $19.2M and *Forgotten Island* $13.0M. *Spider-Man: Brand New Day* is up to $950.6M domestic.",
+          "source": {
+            "name": "The Numbers",
+            "url": "https://www.the-numbers.com/box-office-chart/weekend/2026/09/25"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Overperformers: A24's *Primetime* opens to $19.2M on a $15M budget; *Endgame Encore* takes $86M worldwide",
+          "summary_md": "For the Sep 25-27 weekend, *Primetime* had A24's third-best opening ever, and *Resident Evil* reached $196.5M worldwide against a $75M budget. Two well-reviewed films opened soft for their budgets: *Heart of the Beast* ($82M) and *Forgotten Island* ($80M).",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/box-office/avengers-endgame-encore-box-office-win-primetime-scores-big-opening-weekend-1236876819/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "This weekend (Oct 2-4): *Verity* is headed for No. 1 and Tom Cruise's *Digger* looks like a bomb",
+          "summary_md": "Colleen Hoover thriller *Verity* made $4.5M in Thursday previews; Amazon MGM projects a $27M-$30M opening on a $40M budget. *Digger* made $1.2M in previews; Warner Bros. expects $12M-$15M on a $125M production budget.",
+          "source": {
+            "name": "The Hollywood Reporter",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/digger-box-office-tom-cruise-previews-warner-bros-verity-1236720902/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "Best-reviewed films in theaters: *Resident Evil* 96%, *Forgotten Island* 95%; this week's new releases score low",
+          "summary_md": "On Rotten Tomatoes' critics scores as of Oct 2: *Resident Evil* 96%, *Forgotten Island* 95%, *Avengers: Endgame*, *The Odyssey* and *Coyote vs. Acme* 94% each, *Spider-Man: Brand New Day* 90%, *Primetime* 86% and *Heart of the Beast* 85%. New this week, *Digger* is at 52% and *Verity* at about 39%.",
+          "source": {
+            "name": "Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/browse/movies_in_theaters/sort:popular"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "*Godzilla Minus Zero* gets rave first reactions at its NYFF world premiere; opens in the US Nov 6",
+          "summary_md": "Takashi Yamazaki's sequel to the Oscar-winning *Godzilla Minus One* drew glowing early reactions after its Sep 26 New York Film Festival press screening. It is the first Godzilla film rated R and the first Japanese feature shot for IMAX.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/news/godzilla-minus-zero-first-reactions-1236875514/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V6",
+          "headline_md": "Warner Bros. film chiefs De Luca and Abdy are out ahead of the Paramount merger closing Oct 6",
+          "summary_md": "According to multiple sources, Michael De Luca and Pamela Abdy won't join David Ellison's combined company, and Paramount's Dana Goldberg and Josh Greenstein are expected to run both film studios. *Digger* is Warner Bros.' last release as a standalone studio.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/news/michael-de-luca-pamela-abdy-exit-warner-bros-paramount-merger-close-1236897365/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V7",
+          "headline_md": "Judge approves Paramount's antitrust settlement: at least 30 films a year, each with a 45-day theatrical window",
+          "summary_md": "The Sep 30 consent decree with 12 states clears the Paramount-Warner Bros. Discovery deal to close Oct 6. The combined company must release at least 30 films a year for two years, then 32, or face penalties, and must raise domestic production spending by $300M a year.",
+          "source": {
+            "name": "Quartz",
+            "url": "https://qz.com/paramount-warner-bros-antitrust-settlement-approved-100126"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
       "id": "ai",
       "title": "AI",
       "icon": "🤖",
