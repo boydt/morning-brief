@@ -1,0 +1,428 @@
+{
+  "date": "2026-10-03",
+  "title": "Morning Brief",
+  "intro_md": "Saturday, Oct. 3: North Korea fires a ballistic missile after a DMZ mine row, G7 agrees to release 100 million barrels of oil and diesel, Verity is pacing for ~$32M while Cruise's Digger looks like a ~$10M bomb, and Ars says PS5 emulation is suddenly running Astro Bot and Demon's Souls on PC.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "North Korea fires a ballistic missile toward the East Sea after rejecting Seoul's mine apology demand",
+          "summary_md": "South Korea and Japan said Pyongyang launched from the Wonsan area around 6:30 AM local Saturday; the missile flew more than 700 km (434 miles) toward the East Sea / Sea of Japan. Comes a day after Kim Yo-jong dismissed Seoul's claim that North Korean mines wounded three South Korean soldiers in the DMZ and ridiculed President Lee Jae Myung's dialogue overture. Seoul's NSC convened an emergency meeting; US/Japan intelligence sharing stepped up.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Russia damages Kyiv's Northern Bridge, suspending traffic for a third day of bridge strikes",
+          "summary_md": "AP (via The Hill): an early Saturday strike damaged the road surface and trolleybus wires on Kyiv's Northern Bridge; Mayor Vitalii Klitschko reported no casualties. Comes a day after assaults forced full or partial closure of three of Kyiv's six Dnipro road bridges. Separately, Ukraine said Moscow launched Banderol cruise / loitering munitions at Odesa; Russia said Ukrainian drones hit Kaluga overnight.",
+          "source": {
+            "name": "The Hill (AP)",
+            "url": "https://thehill.com/homenews/ap/ap-international/ap-russia-strikes-kyivs-northern-bridge-in-a-new-tactic-to-disrupt-life-in-the-ukrainian-capital/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Update: Tehran source says Iran is preparing for a \"major round of fighting\" as US carrier #3 steams in",
+          "summary_md": "A Tehran source told The National Saturday that Iran is gearing up for renewed major fighting even as diplomacy stalls; assessments there are that \"the war is resuming.\" USS Theodore Roosevelt (third carrier strike group) is en route to CENTCOM. Iran floated a seven-day Hormuz plan via Qatar and offered to transfer its 60% enriched uranium to a third party after dilution; Washington wants Hormuz reopened first. Camp David meeting on Iran/Houthis also reported.",
+          "source": {
+            "name": "The National",
+            "url": "https://www.thenationalnews.com/news/mena/2026/10/03/iran-gearing-up-for-major-round-of-fighting-with-us-source-says/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "UAE: Flydubai co-pilot used a cockpit crash axe in the Tel Aviv-bound attack; suspect named as Omani national",
+          "summary_md": "UAE prosecutor general said the co-pilot attacked Capt. Smit Machchhar with the crash axe trying to take control; the Dubai–Tel Aviv flight plunged ~17,000 ft before passengers overpowered the attacker and reserve pilots landed in Saudi Arabia. Multiple outlets name the suspect Hamam al-Hammami (no official confirmation); Netanyahu called him suicidal and radicalized. UAE is probing possible terrorist motive; captain stable in Abu Dhabi.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "G7 agrees to release 100 million barrels of oil and diesel via the IEA to ease record fuel prices",
+          "summary_md": "After a Macron-chaired Friday leaders call, G7 said it will implement a coordinated IEA release of 100 million barrels over four months, with a substantial diesel release in the first 20 days and talks on more diesel if needed. Aimed at prices spiked by the Iran war and Ukraine strikes on Russian refineries; US diesel recently hit ~$6.50/gal (AAA). Brent briefly dipped below $100 then recovered near $102. Trump dropped a threatened US diesel export ban.",
+          "source": {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "USTR: a \"handful\" of G20 members rejected US push to curb excess industrial capacity",
+          "summary_md": "US Trade Representative's office said Friday most G20 trade ministers backed a draft on excess capacity / non-market policies, but a few firmly rejected it — \"severely disappointed\" the US G20 presidency. Only Mexico and Argentina signed a separate US-led forced-labor supply-chain statement. USTR is also running a Section 301 probe into 16 partners on excess capacity expected to yield new duties. Ministers did agree to condemn weaponizing food trade.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/03/handful-of-g20-countries-reject-us-stance-on-industrial-capacity-.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "Tesla Cybercab: 169 authorized in Texas after a rocky first month; expansion is the hard part",
+          "summary_md": "A month after the Austin launch, Texas DMV records show 169 Cybercabs authorized for commercial use (up from 45). Paying riders have complained about long waits, wrong drop-offs and door/trunk glitches; NHTSA opened an audit query (Tesla got an extension past Sept. 30). Waymo has 1,154 AVs authorized in Texas and 500k+ paid rides/week nationwide. Tesla stock rose ~4.7% Friday on better-than-expected Q3 deliveries but is still −18% YTD.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "Only 2 of 202 Q2 casual launches hit $10M+ net — Century's Just Desserts ($20M) and CookieRun Classic ($10M)",
+          "summary_md": "Gamigion (AppMagic + Turbine, as of early Sept): Q2 '26 English-named casual cohort had a 1.0% $10M success rate. Century Games' Just Desserts: Revenge & Merge is its best merge launch since Tasty Travels; Devsisters' CookieRun Classic global relaunch (Jun 25) is mostly Thai reactivations. The two winners made 51% of the cohort's IAP+ad revenue; 5% of launches hit $1M+ annualized.",
+          "source": {
+            "name": "Gamigion",
+            "url": "https://www.gamigion.com/202-casual-games-launched-in-q2-what-can-we-learn/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "Clash of Clans permanently cuts Gem prices for Ore (~half the cost to max Epic Equipment)",
+          "summary_md": "Supercell (Oct 2): Shiny Ore 1→0.5 Gems, Glowy 5→3, Starry 35→20 — not a limited sale. Trader already used the new prices since July; October Medal Event shop and the next full update roll them out everywhere. Maxing a piece of Epic Equipment via Gems drops roughly by half. More Ore-economy changes planned later in October.",
+          "source": {
+            "name": "Supercell",
+            "url": "https://supercell.com/en/games/clashofclans/blog/news/more-ore-for-your-gems/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "Adjust Türkiye 2026: hypercasual still ~53% of game installs but only ~18% of sessions; mid-core flips that",
+          "summary_md": "Oct 1 report (via GameDev Reports): Turkish mobile game sessions +6% YoY in H1'26. Hypercasual: 53% of installs / 18% of sessions; mid-core: 12% of installs / 51% of sessions (avg session ~43 min). Casual installs +49% YoY, sessions +76%. Fastest install growth: card battlers (+47%), trivia (+34%), idle RPG (+29%). Turkish developers earned $2.76B worldwide; local spend $347M.",
+          "source": {
+            "name": "GameDev Reports (Adjust)",
+            "url": "https://gamedevreports.substack.com/p/adjust-the-mobile-market-of-turkiye-58c"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": null,
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "Breakthrough: Ars — PS5 emulation on PC is suddenly running Astro Bot and Demon's Souls at playable rates",
+          "summary_md": "Update vs. yesterday's \"no verified breakthrough\" note: Kyle Orland (Oct 1) reports SharpEmu now lists 10 playable titles, six \"fully playable at 60 fps\" including Astro Bot and the PS5 Demon's Souls remaster. KytyPS5's first public build (last week) already shows 134 titles with controllable gameplay (many still buggy). AnyPS5 (static re-link / Game Porting Toolkit-style) has ~76% of system libs and demo footage of PS5 Dead Cells as a native PC exe. Credible Ars reporting — still early, not a finished library.",
+          "source": {
+            "name": "Ars Technica",
+            "url": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "shadPS4 v0.19.0 \"The Shadoween special\" ships with a big GPU / playable-games push",
+          "summary_md": "Official Oct 1 release (first in over a month): major video-core and shader-recompiler work, texture-cache fix that avoids associating color images with stencil (the Uncharted-world fix), sparse buffer arenas, H.265/HEVC vdec2, online trophy support via ShadNet, DLC-as-ZAR, and many library fixes. Download page + compatibility list updated.",
+          "source": {
+            "name": "shadPS4 blog",
+            "url": "https://shadps4.net/blog/shadps4-v0190-codename-the-shadoween-special/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "No verified Switch 2 commercial-game emulator breakthrough in the last 24–48 hours",
+          "summary_md": "PS5 progress is real (see E1). I did not find a credible Switch 2 emulator running commercial games start-to-finish in recent coverage. Treat any \"download Switch 2 emulator\" links as scam risks unless a major outlet verifies them.",
+          "source": {
+            "name": "Ars Technica (context)",
+            "url": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Update (Oct 2–4 weekend, early Fri estimates): Verity ~$32M #1; Cruise's Digger tracking ~$10M",
+          "summary_md": "Final weekend figures land Sunday. Verity (Amazon MGM) did ~$14.5M Friday incl. $4.5M Thursday previews; industry now sees ~$32M from 3,510 theaters on a ~$40M budget (above the $27–30M forecast). Digger (Warner Bros. / Iñárritu) tracking ~$10M from 3,321 theaters (some high-single-digit takes) on a $125–160M+ budget — would be Cruise's softest opening since Lions for Lambs (2007). Other early top-five: Resident Evil ~$11.5M, Heart of the Beast ~$10.3M, Primetime ~$7.6M.",
+          "source": {
+            "name": "OutLoud! Culture",
+            "url": "https://outloudculture.com/2026/10/02/verity-takes-the-box-office-crown-as-tom-cruises-digger-heads-for-his-lowest-opening-in-19-years/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Critics scores (as of this morning): Resident Evil still elite; Verity 34%, Digger 51%",
+          "summary_md": "Rotten Tomatoes: Digger 51% Tomatometer (237 reviews) / 71% audience; Verity 34% Tomatometer (126 reviews) / 71% audience. Holdovers remain the critical standouts from prior reporting (Resident Evil ~96%, Forgotten Island ~95%). Audience scores for both new wide releases are far kinder than critics.",
+          "source": {
+            "name": "Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/digger_2026"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Digger is Warner Bros.' last release as a standalone studio before the Paramount merger closes Oct 6",
+          "summary_md": "Timing note from Friday coverage: De Luca and Abdy are out; Dana Goldberg and Josh Greenstein are expected to run both film studios at the combined company. Warner is still positioning Digger as an awards play despite the soft open tracking.",
+          "source": {
+            "name": "OutLoud! Culture",
+            "url": "https://outloudculture.com/2026/10/02/verity-takes-the-box-office-crown-as-tom-cruises-digger-heads-for-his-lowest-opening-in-19-years/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "Box Office Report weekend model (pre-Friday): Verity $27M, Heart of the Beast $12M, RE $11.8M, Digger $11M",
+          "summary_md": "Pre-weekend forecast table for Oct 2–4 put Verity at $27M (new), Heart of the Beast −40% to $12.0M (~$39.5M cume), Resident Evil −49% to $11.8M (~$124M), Digger $11.0M (new), Primetime $8.9M. Early Friday estimates already have Verity hotter and Digger softer than that model — wait for Sunday finals.",
+          "source": {
+            "name": "Box Office Report",
+            "url": "http://www.boxofficereport.com/predictions/predictions20261001.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "Next week (from Oct 9): The Beast, Other Mommy and more join the spooky-season slate",
+          "summary_md": "Rotten Tomatoes' new-in-theaters browse lists upcoming titles including The Beast and Other Mommy among Oct 9 arrivals, alongside Animals, Musk and The Social Reckoning in coverage. Final Oct 2–4 weekend numbers will reset the ranking before those land.",
+          "source": {
+            "name": "Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/browse/movies_in_theaters/sort:newest"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "Reuters analysis: AI faces a race to transform the world before the money runs out",
+          "summary_md": "PwC: cumulative global data-center spend could top $30T by 2050. Anthropic's IPO prospectus (seen by Reuters) plans $518B spending — >100× 2025 revenue. Bain: hyperscalers need >$4.2T of new revenue in five years to fund the buildout. JPMorgan: US productivity gains \"remain elusive\"; Nvidia's valuation may need 3–5% annual US productivity growth for a decade. Columbia: US AI investment could hit ~$9T for 2025–2032 (~3.2% of GDP/year).",
+          "source": {
+            "name": "Reuters (via StreetInsider)",
+            "url": "https://www.streetinsider.com/Reuters/Analysis-AIs+race+to+transform+the+world+before+the+money+runs+out/27144213.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "As public AI fears rise, Trump digs in on a \"morally binding\" voluntary safety accord",
+          "summary_md": "Reuters Oct 3: Tuesday's White House deal with Nvidia, SpaceX, OpenAI, Anthropic, Meta and Google has no stated consequences for non-compliance. Includes calls for robust internal controls and independent external auditors — but no enforcement detail. Reuters/Ipsos (Sep 22): 75% of Americans worry AI firms haven't done enough to prevent serious harm. FTC probe prep and OpenAI agent notices remain the hard-power backdrop from yesterday.",
+          "source": {
+            "name": "Reuters (via Investing.com)",
+            "url": "https://www.investing.com/news/stock-market-news/as-public-fears-of-ai-grow-trump-digs-in-on-voluntary-safeguards-4930823"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "Google Play Store teardown: a \"Your creations\" shelf for AI Studio vibe-coded apps is coming",
+          "summary_md": "Android Police (Oct 2): Play Store APK strings point to a dedicated section for apps built in Google AI Studio (Antigravity Agent → Jetpack Compose Kotlin in-browser). Goal: give prompt-built apps a sandbox and keep spam off main charts as submissions spike. Security warning: a recent teardown of 20 AI-built Play apps found issues in 7 (incl. leaked cloud keys). Google makes both the builder and the store.",
+          "source": {
+            "name": "Android Police",
+            "url": "https://www.androidpolice.com/play-store-making-room-for-ai-apps/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "Google is carving out Play Store space for AI Studio–built apps before the flood hits",
+          "summary_md": "Same Android Police reporting as A3, filed here for the app-store angle: since I/O 2026 anyone can describe an app in AI Studio and get an installable Android package via a cloud emulator. A separate \"Your creations\" shelf (plus share hooks) is Google's curation answer. Professional apps that need backends, cameras, NFC, Bluetooth or Play Services still hit the browser-tool ceiling.",
+          "source": {
+            "name": "Android Police",
+            "url": "https://www.androidpolice.com/play-store-making-room-for-ai-apps/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "Friday mega-cap movers: Tesla +4.7% on deliveries; Nike −3.6%; Western Digital & Seagate ~−10%",
+          "summary_md": "Business Times / Reuters: soft 29k September payrolls cooled Fed hike odds (CME FedWatch Oct hike chance fell to ~22.7%). Nvidia +1.3%. Storage names slid after Nikkei said Toshiba plans to double AI-HDD capacity by fiscal 2027. Dow/S&P still posted a fourth weekly decline in five; Nasdaq logged a weekly gain.",
+          "source": {
+            "name": "The Business Times (Reuters)",
+            "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/us-equities-close-higher-softer-jobs-data-quiets-rate-hike-expectations"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Supercell permanently reprices Ore in Clash of Clans — monetization tweak, not a sale",
+          "summary_md": "Studio blog Oct 2: baseline Gem→Ore rates cut across Shiny/Glowy/Starry tiers so maxing Epic Equipment costs ~half as many Gems. Staged rollout (Trader since July; Medal shop in October; full update next). Relevant for live-ops / economy design watchers as much as CoC players.",
+          "source": {
+            "name": "Supercell",
+            "url": "https://supercell.com/en/games/clashofclans/blog/news/more-ore-for-your-gems/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": "US cash markets are closed Saturday. Figures below are Friday's closes plus overnight crypto. Quote times converted to AZ.",
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Friday close (after soft 29k payrolls): Dow 51,176.96 (+0.5%), S&P 7,722.72 (+0.7%), Nasdaq 27,190.86 (+1.2%)",
+          "summary_md": "Reuters via Business Times: September nonfarm payrolls +29k (vs ~90k est.); prior months revised lower. CME FedWatch Oct hike odds fell to ~22.7% from 64.2% a week earlier. For the week: S&P −0.3%, Nasdaq +0.5%, Dow −1.3%. Tesla +4.7%, Nvidia +1.3%; Nike −3.6% (worst Dow name).",
+          "source": {
+            "name": "The Business Times (Reuters)",
+            "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/us-equities-close-higher-softer-jobs-data-quiets-rate-hike-expectations"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Oil Friday settle: WTI $91.11 (−1.9%), Brent $102.25; gold $4,162.30/oz (−0.95%)",
+          "summary_md": "Markets Insider futures board (≈2:00–3:00 PM AZ Friday): WTI −$1.76 to $91.11; Brent nearly flat at $102.25. Bastille Post: December gold settled $4,162.30 (−0.95%); silver $60.415 (−1.24%) after a post-payrolls spike-and-dump. G7 reserve release is the weekend headline risk for energy into Monday.",
+          "source": {
+            "name": "Markets Insider / Bastille Post",
+            "url": "https://markets.businessinsider.com/premarket"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Bitcoin ~$84,636 (−1.6%/24h) after $87k rejection; ~$434M crypto liquidations, longs ~74%",
+          "summary_md": "Crypto Times citing CoinGecko at 06:00 UTC Oct 3 (= 11:00 PM AZ Fri): BTC $84,635.62, 24h range $83,898–$87,086. CoinGlass (~11:02 PM AZ Fri): $433.57M liquidations / 24h, longs $321.77M. ETH led liquidations (~$105M) then BTC (~$104M). Spot BTC ETFs: −$148.7M Sep 30, +$102.7M Oct 1 (IBIT +$195.6M).",
+          "source": {
+            "name": "The Crypto Times",
+            "url": "https://www.cryptotimes.io/2026/10/03/bitcoin-price-slips-to-84600-as-433m-liquidations-hit-longs-after-87k-rejection/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 0% |\n| Show Low | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\nChance of precipitation by hour, AZ time (Sat Oct 3). Source: [api.weather.gov hourly forecasts](https://www.weather.gov/) for Phoenix (PSR/159,58), Show Low (FGZ/128,40) and Snowflake (FGZ/127,52) · fetched 5:02 AM AZ.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "Phoenix, AZ: Sunny, high ~98°F, overnight low ~77°F, ~0% precip, no local alerts",
+          "summary_md": "Saturday: sunny, high near 98°F, east wind 10–15 mph gusting to 25, 0% precip chance. Saturday night clear, low around 77°F. Hourly precip 0–1% through 11 PM. No active NWS alerts for Maricopa County (a Flood Advisory for Graham County does not apply). NWS Phoenix grid PSR/159,58.",
+          "source": {
+            "name": "National Weather Service (weather.gov)",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.0740"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "Show Low, AZ: Sunny, high ~74°F, low ~40°F, 0% precip, no local alerts",
+          "summary_md": "Saturday: sunny, high near 74°F (falling toward ~70°F afternoon), NE wind 3–12 mph gusting to 21, 0% precip. Saturday night mostly clear, low around 40°F. Hourly precip 0% all day. Yesterday's Little Colorado Flood Warning has expired; no active alerts for Navajo County Show Low. NWS Flagstaff grid FGZ/128,40.",
+          "source": {
+            "name": "National Weather Service (weather.gov)",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "Snowflake, AZ: Sunny, high ~74°F, low ~45°F, 0% precip, no local alerts",
+          "summary_md": "Saturday: sunny, high near 74°F, NE wind 3–10 mph gusting to 20, 0% precip. Saturday night clear, low around 45°F. Hourly precip 0% all day. No active alerts covering Snowflake (Graham County Flood Advisory is elsewhere). NWS Flagstaff grid FGZ/127,52.",
+          "source": {
+            "name": "National Weather Service (weather.gov)",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0784"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "Ars Technica: PS5 emulation is suddenly making big strides on PC",
+          "summary_md": "Best single read this morning if you care about emulation: Orland walks through SharpEmu's Astro Bot / Demon's Souls progress, KytyPS5's sudden public debut and 134-title controllable list, and AnyPS5's Game Porting Toolkit-style re-link approach with Dead Cells footage — plus the clear caveat that a majority of the PS5 library is still a long way off.",
+          "source": {
+            "name": "Ars Technica",
+            "url": "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
