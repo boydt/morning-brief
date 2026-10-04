@@ -1,0 +1,416 @@
+{
+  "date": "2026-10-04",
+  "title": "Morning Brief",
+  "intro_md": "Type **more on G3** (or any code) here, or tap More info on the brief page and paste the request here, and I'll dig into it.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Brazilians vote as Lula faces Flávio Bolsonaro in a tight first round",
+          "summary_md": "Voting is underway Sunday in Brazil's presidential election, with incumbent Luiz Inácio Lula da Silva and Sen. Flávio Bolsonaro both near ~40% in polls; if neither clears 50%, a runoff is set for Oct 25.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/c6wyz0r2n0djo"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Update: Russian drones hit Kyiv's Northern Bridge again as Germany's Merz visits",
+          "summary_md": "Russia struck Kyiv's Northern Bridge again Sunday (bridges hit for a fourth straight day), injuring two; Ukraine said 135 drones launched overnight with 125 shot down. German Chancellor Friedrich Merz made a surprise Kyiv visit with a package including €1B military aid and €350M for energy repairs plus a joint drone-production deal.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/ckreyjzzzywqo"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Houthis claim ballistic-missile and drone strike on Aramco site near Riyadh",
+          "summary_md": "Yemen's Houthis said Saturday they hit an Aramco facility near Riyadh with ballistic missiles and drones; the Saudi-led coalition called the Riyadh claim misleading as fighting intensifies since a 2022 truce collapsed in July.",
+          "source": {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "US urges restraint as Ethiopian forces enter Tigray capital Mekelle",
+          "summary_md": "Ethiopian federal forces entered Mekelle, capital of Tigray, on Saturday per a humanitarian source, as rebels reportedly left the city. The US urged Ethiopia and Eritrea to exercise maximum restraint ahead of a Sunday mini-summit in Egypt.",
+          "source": {
+            "name": "AFP",
+            "url": "https://www.afp.com/en/us-urges-restraint-ethiopias-tigray-crisis-rocks-region"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "OPEC+ seven keep November oil output quotas unchanged",
+          "summary_md": "Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria, and Oman met virtually Sunday and decided to maintain September 2026 required production levels for November; next meeting is Nov 1.",
+          "source": {
+            "name": "OPEC",
+            "url": "https://www.opec.org/pr-detail/616-4-october-2026.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "Revolut valued at $115B as Europe's most valuable startup",
+          "summary_md": "A Reuters report Sunday said privately valued Revolut is worth $115B—more than Barclays or Société Générale—with ~80M customers and 2025 pretax profit of £1.7B ($2.2B). Analysts note low revenue per customer and a 6% loan-to-deposit ratio vs much higher ratios at traditional banks.",
+          "source": {
+            "name": "Reuters",
+            "url": "https://srnnews.com/revoluts-rise-to-become-europes-115-billion-big-bank-rival/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "Supreme Court opens term Monday with Exxon/Suncor climate-suit fight",
+          "summary_md": "On Monday Oct 5 the Court hears Boulder, Colorado's climate-damages case against ExxonMobil and Suncor—whether federal law bars state suits seeking damages for climate harms. Justice Alito recused; a 4–4 split would leave Colorado's ruling allowing the case to proceed.",
+          "source": {
+            "name": "CBS News",
+            "url": "https://www.cbsnews.com/news/supreme-court-climate-change-suncor-energy-v-county-commissioners-of-boulder-county/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "Sensor Tower: Honor of Kings #1 revenue in Sept; ROBLOX #1 downloads; global mobile spend $6.1B",
+          "summary_md": "Sensor Tower's September 2026 rankings put Honor of Kings atop worldwide mobile revenue, with ROBLOX, Gossip Harbor, Candy Crush Saga, and Royal Match rounding out the top five. Global App Store + Google Play consumer spending hit $6.1B (−7.3% MoM); ROBLOX led downloads.",
+          "source": {
+            "name": "Sensor Tower",
+            "url": "https://develop.sensortower.com/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-september-2026"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "Court denies AppLovin TRO against Unity over Ad Quality data",
+          "summary_md": "AppLovin sued Unity alleging Ad Quality SDK collected creatives, users, devices, revenue, and engagement data from AppLovin-won ads to train competing models. A San Francisco Superior Court judge denied the TRO; underlying claims remain in arbitration.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/applovin-takes-legal-action-against-unity-over-ad-quality-sdk/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "Sensor Tower H1 2026: downloads −12%, Puzzle drives IAP growth; AppLovin & AdMob ~65% of ad revenue",
+          "summary_md": "Mobile IAP ~$40B (−2%), downloads 24B (−12%), playtime flat at 221B hours, ad spend $7B (+8%). Strategy still led IAP at $9.3B, but Puzzle hit $8.1B (~+20% YoY) and ~70% of positive genre IAP growth; AppLovin and AdMob control ~65% of gaming ad revenue.",
+          "source": {
+            "name": "Gamigion",
+            "url": "https://www.gamigion.com/takeaways-from-sensor-tower-h1-2026-gaming-report/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "No verified new PS5 or Switch 2 commercial-game breakthroughs in the last 24–48 hours beyond Friday's brief (Ars on PS5 emulation strides; shadPS4 v0.19.0).",
+      "items": []
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": "Weekend figures below are Saturday-AM studio estimates for Oct 2–4 (Deadline / TheWrap / Variety). Final Sunday numbers were not yet published when this brief was built.",
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Update: Verity tracking ~$33.6M No. 1 opening (Fri $15.1M)",
+          "summary_md": "Amazon MGM's Colleen Hoover thriller posted ~$15.1M Friday from 3,510 theaters and was tracking ~$33–33.6M for the weekend. C+ CinemaScore; RT 34% critics / ~70% audience; Metacritic 45. Budget ~$40M.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/box-office-verity-digger-1237145435/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Update: Digger sinks to ~$7.5–8M; Cruise's softest open since Lions for Lambs",
+          "summary_md": "WB/Legendary's Iñárritu satire did ~$3.3–3.4M Friday; Saturday estimates cut the weekend to ~$7.5–8M—Cruise's lowest wide open since 2007. Budget reports $125–180M; C+ CinemaScore; RT 52%/71%; Metacritic 45. Final WB standalone before the Paramount merger Oct 6.",
+          "source": {
+            "name": "TheWrap",
+            "url": "https://www.thewrap.com/industry-news/business/verity-digger-box-office-saturday/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Resident Evil ~$12M third weekend; domestic ~$124M; RT 96%",
+          "summary_md": "Sony/Zach Cregger's reboot tracking ~$12M (−48%) in weekend 3 for ~$124.3M domestic. RT 96% critics / 91% audience; Metacritic 79.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/box-office-verity-digger-1237145435/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "Heart of the Beast ~$11M second weekend; ~$38.3M domestic",
+          "summary_md": "Paramount/David Ayer Brad Pitt survival pic holding ~$11M (−45%) for ~$38.3M after 10 days; Deadline notes an encouraging hold for the older-adult skew.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/box-office-verity-digger-1237145435/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "Primetime ~$8.2M second weekend (~$34M); RT 86%, Metacritic 67",
+          "summary_md": "A24's Pattinson-as-Chris Hansen drama tracking ~$8–8.2M (−56%) for ~$34.2M domestic. RT 86% critics / 79% audience; Metacritic 67.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/box-office-verity-digger-1237145435/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V6",
+          "headline_md": "Scoreboard: Resident Evil 96/79; Primetime 86/67; Digger 52/45; Verity 34/45",
+          "summary_md": "Verified RT Tomatometer / Metascore: Resident Evil 96% / 79; Primetime 86% / 67; Digger 52% / 45; Verity 34% / 45. Both new openers got C+ CinemaScores.",
+          "source": {
+            "name": "Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/resident_evil_2026"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V7",
+          "headline_md": "Next weekend (Oct 9): Other Mommy tracked $28.5–35M; Sorkin's Social Reckoning also opens",
+          "summary_md": "Jessica Chastain / Rob Savage horror Other Mommy (Universal/Blumhouse/Atomic Monster) is tracking $28.5–35M for Oct 9. THR also flags Aaron Sorkin's The Social Reckoning for the same weekend.",
+          "source": {
+            "name": "Slashfilm",
+            "url": "https://www.slashfilm.com/2275266/other-mommy-box-office-preview-next-obsession-backrooms/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "OpenAI safety lead David Robinson resigns, says company's culture is broken",
+          "summary_md": "David Robinson quit and published an Atlantic essay arguing OpenAI's iterative-deployment culture guarantees growing failures as models get more capable. OpenAI said it pauses training or holds back models when needed and is strengthening security, third-party evals, and monitoring.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "Google faces internal skepticism on Gemini 4 coding despite strong benchmarks",
+          "summary_md": "Bloomberg reports Google is preparing Gemini 4 amid split internal views: some say it does well on benchmarks but struggles on real coding; others say there's large consensus it's at the frontier. Google disputed underperformance claims.",
+          "source": {
+            "name": "Bloomberg",
+            "url": "https://finance.yahoo.com/technology/ai/articles/google-grapples-employee-skepticism-gemini-195242680.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "Meta's Muse builds detailed pages on friends and family from agent memory",
+          "summary_md": "WIRED reports Muse system instructions describe an hourly process to create a page for every person in the user's life with Facts, History, The relationship, Open threads, and Strengthening. Meta says it needs relationship context to be useful; privacy experts warn agents solicit far more life data than prior tools.",
+          "source": {
+            "name": "WIRED",
+            "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "Apple to require very explicit consent for macOS Full Disk Access as AI agents proliferate",
+          "summary_md": "After concerns that AI agents can abuse Full Disk Access, Apple said users who want to grant it can only do so with very explicit user action and clearer risk disclosure. No rollout date given.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "Judge clears ~$1.72B Google AdX publisher damages claims for jury trial",
+          "summary_md": "SDNY Judge P. Kevin Castel denied most of Google's summary judgment in the digital ad-tech MDL. Expert estimates that may go to a jury include a $1.72B class overcharge through March 31, 2024 (not a court award).",
+          "source": {
+            "name": "Editor & Publisher",
+            "url": "https://www.editorandpublisher.com/stories/publishers-clear-major-hurdle-in-google-ad-tech-antitrust-fight,263806"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Musk confirms TSMC talks on Terafab chip plant for Tesla, SpaceX, and xAI",
+          "summary_md": "Elon Musk confirmed on X \"Just discussions, but something may come of it\" after reports of TSMC talks on a fab that would exclusively supply Tesla, SpaceX, and xAI. TSMC has been silent; nothing official yet.",
+          "source": {
+            "name": "Tom's Hardware",
+            "url": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": "US cash markets are closed Sunday. Figures below are Friday's closes plus weekend crypto. Quote times in AZ.",
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Friday close: Dow 51,176.96, S&P 7,722.72, Nasdaq 27,190.86",
+          "summary_md": "Stocks rose Friday after softer jobs data: Dow +250.40 (0.5%) to 51,176.96; S&P +56.27 (0.7%) to 7,722.72; Nasdaq +319.27 (1.2%) to 27,190.86. Quote time: Fri Oct 2 close ~1:00 PM AZ. Markets closed Sat–Sun.",
+          "source": {
+            "name": "AP",
+            "url": "https://wtop.com/news/2026/10/how-major-us-stock-indexes-fared-friday-10-2-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Oil: Fri WTI $91.11 / Brent $102.25; OPEC+ held Nov quotas Sunday",
+          "summary_md": "Friday closes were WTI $91.11 and Brent $102.25 after the G7 reserve-release plan cooled prices. OPEC+'s seven core producers separately kept November quotas unchanged Sunday. No new US cash oil session Sunday.",
+          "source": {
+            "name": "OPEC",
+            "url": "https://www.opec.org/pr-detail/616-4-october-2026.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Gold slipped Friday; Bitcoin ~$85,359 early Sunday AZ",
+          "summary_md": "Spot gold fell 0.8% Friday to $4,145.68/oz by 8:38 a.m. AZ Fri Oct 2. Bitcoin was $85,359 as of ~5:07 a.m. AZ Sunday Oct 4 (+0.58% vs prior close $84,742).",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/BTC-USD/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% |\n| Show Low | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\nSource: api.weather.gov hourly forecasts · fetched 2026-10-04 05:07 AZ",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "Phoenix, AZ: Sunny, high ~99°F, overnight low ~78°F, ~0% precip, no local alerts",
+          "summary_md": "Sunday sunny with a high near 99°F and overnight low around 78°F; precip chance near 0%. No active NWS alerts for the Phoenix metro (a Wind Advisory is in effect elsewhere in southern AZ through 2 PM AZ).",
+          "source": {
+            "name": "NWS Phoenix",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.0740"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "Show Low, AZ: Sunny, high ~78°F, low ~41°F, 0% precip, no local alerts",
+          "summary_md": "Sunday sunny with a high near 78°F and overnight low around 41°F; 0% precip chance. No active local alerts.",
+          "source": {
+            "name": "NWS Flagstaff",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "Snowflake, AZ: Sunny, high ~79°F, low ~45°F, 0% precip, no local alerts",
+          "summary_md": "Sunday sunny with a high near 79°F and overnight low around 45°F; 0% precip chance. No active local alerts.",
+          "source": {
+            "name": "NWS Flagstaff",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5139&lon=-110.0784"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "The Atlantic longread on the OpenAI–Anthropic feud that built today's AGI race",
+          "summary_md": "Kevin Roose's Atlantic longread traces Dario Amodei's break from OpenAI—scaling laws, RLHF, distrust of Altman, the abandoned countries plan, and Anthropic's growth from a safety-lab vision into a high-security AGI race. Worth the full read for origin-story detail you won't get from headlines.",
+          "source": {
+            "name": "The Atlantic",
+            "url": "https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
