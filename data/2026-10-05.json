@@ -1,0 +1,417 @@
+{
+  "date": "2026-10-05",
+  "title": "Morning Brief",
+  "intro_md": "Late run after the 5 AM automated brief failed. Type **more on W1** (or any code) here, or tap More info on the brief page and paste the request here, and I'll dig into it.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Brazil: Flávio Bolsonaro and Lula head to Oct 25 runoff",
+          "summary_md": "With ~99.99% of ballots counted, Sen. Flávio Bolsonaro (PL) led with 47.03% (56.1M votes) vs. incumbent Luiz Inácio Lula da Silva (PT) at 45.16% (53.9M). Neither cleared 50%, so a runoff is set for Oct 25.",
+          "source": {
+            "name": "Agência Brasil",
+            "url": "https://agenciabrasil.ebc.com.br/en/politica/noticia/2026-10/flavio-bolsonaro-lula-head-runoff-brazils-presidential-race"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Russia pledges more Kyiv strikes as U.S. floats Oct peace talks",
+          "summary_md": "After weekend drone damage to Kyiv's Northern Bridge (2 injured), Russia's Defense Ministry pledged intensified attacks on Kyiv and other cities. Zelenskyy said the Trump admin proposed technical-level trilateral talks by end of October; Ukraine said it responds positively (UAE or another U.S.-proposed host).",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/05/ukraine-war-russia-kyiv-putin-zelenskyy-trump.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Ethiopian forces and allies hold Mekelle after TPLF withdrawal",
+          "summary_md": "TPLF said Saturday it temporarily left Mekelle; Reuters sources confirmed Sunday that federal forces and allied Tigray Peace Force fighters control the city. Fears of prolonged conflict; Ethiopia–Eritrea diplomatic rupture deepens the regional risk.",
+          "source": {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Yemen government announces offensive to retake Houthi territory / Sanaa",
+          "summary_md": "PLC head Rashad al-Alimi ordered comprehensive ops to liberate Houthi-held areas; government forces also claimed recapture of Dhubab near Bab al-Mandeb. Separately, Al Jazeera reported the army saying a \"strategic offensive\" on Sanaa had begun.",
+          "source": {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "Spain's Sánchez calls snap election for Nov 29 after housing defeat",
+          "summary_md": "After Congress rejected two housing decrees Friday, PM Pedro Sánchez called an early general election for Nov 29, citing consultations over the weekend amid a fragile majority, Ceuta migration pressure, and corruption cases near his party.",
+          "source": {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/10/05/pedro-sanchez-calls-early-elections-in-spain-after-defeat-of-housing-decrees"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "Schneider Electric to buy PTC for ~$22.6B; shares −~10%",
+          "summary_md": "Schneider agreed Monday to an all-cash buy of U.S. software firm PTC at $205/share (~$22.6B equity; $23.7B EV; ~42% premium). Financed with €5–6B new shares and €16–17B new debt; close targeted by Q3 2027. Schneider shares fell nearly 10% early in Paris; PTC jumped ~34% premarket.",
+          "source": {
+            "name": "CNA/Reuters",
+            "url": "https://www.channelnewsasia.com/business/schneider-electric-buy-us-software-firm-ptc-in-226-billion-deal-6432401"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "Supreme Court opens term with Boulder climate suit vs Exxon/Suncor",
+          "summary_md": "Monday arguments ask whether federal law bars Boulder's state-law climate-damages claims against ExxonMobil and Suncor. Justice Alito recused; a 4–4 split would leave Colorado's ruling (case may proceed) standing. Decision expected by summer 2027.",
+          "source": {
+            "name": "CBS News",
+            "url": "https://www.cbsnews.com/news/supreme-court-climate-change-suncor-energy-v-county-commissioners-of-boulder-county/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "Euro to 17-month low as France fiscal worries hit Paris stocks",
+          "summary_md": "AFP: euro slid; CAC 40 −1.0% to 7,818.24 Monday midday (also hit by Schneider −10% on PTC deal). Nikkei +2.4% to 69,946.86. Soft Sept U.S. payrolls (+29k vs ~90k expected) cooled October Fed hike bets.",
+          "source": {
+            "name": "AFP",
+            "url": "https://www.afp.com/en/stocks-rally-goldilocks-jobs-data-ease-rate-fears"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "Rotate Rings: hyper-casual UA spike — #3 Games, 212k daily downloads, $0 IAP",
+          "summary_md": "MWM: late-Sept UA push lifted Rotate Rings 98 spots to #3 in App Store Games (Sep 24–27); daily downloads rose from <200 to >212k; Sep totals >454k downloads with $0 estimated IAP revenue (ad-supported; publisher HURELAX / Nebula Studio).",
+          "source": {
+            "name": "MWM",
+            "url": "https://mwm.ai/articles/app-trends/rotate-rings-climbs-98-spots-to-top-of-app-store-charts-in-october-2026"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "Buttons Up! idle clicker launches on iOS/Android (ads + one-time remove)",
+          "summary_md": "Pepperbox/Jestercraft idle clicker is out: collect buttons, slap gnomes, automate upgrades. Free with a one-time purchase to remove ads — classic hyper/hybrid-casual loop for short sessions.",
+          "source": {
+            "name": "Pocket Gamer",
+            "url": "https://www.pocketgamer.com/buttons-up-idle-clicker/out-now/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "Bills Must Be Paid mobile pre-reg live; App Store window Nov 1",
+          "summary_md": "Rike Games' Steam active-incremental (smash piggy banks, stamina, hammers, legacy meta) is pre-registering on Android/iOS; listing points to a Nov 1, 2026 release window.",
+          "source": {
+            "name": "GamingOnPhone",
+            "url": "https://gamingonphone.com/news/bills-must-be-paid-is-bringing-its-quirky-piggy-bank-smashing-gameplay-to-mobile-pre-registration-is-now-live/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Reddit r/decomps RSS returned HTTP 403 (blocked) this morning — could not verify Mindstormman Wii U lifter status from Reddit. No confirmed PS5 or Switch 2 commercial-game breakthrough in sources read today beyond ongoing PS4 (shadPS4) and Wii U recomp toolkit work.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "shadPS4 Pre (2026/10/05): shader/Vulkan buffer fixes in daily build",
+          "summary_md": "EmuCR posted today's shadPS4 pre-release changelog: early fragment testing, improved NaN handling, Vulkan buffer tracking/copies, more buffers, Linux static CPU patching, and related shader-recompiler fixes. (PS4 emu — not PS5 commercial breakthrough.)",
+          "source": {
+            "name": "EmuCR",
+            "url": "http://www.emucr.com/2026/10/shadps4-pre-20261005.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "Watch item: Wii U lifter/recomp — nWiiURecomp public; Mindstormman unreadable via Reddit",
+          "summary_md": "BlackLineInteractive/nWiiURecomp is a public GitHub Wii U static-recomp/runtime toolkit (based on NWiiRecomp). Separate watch for Mindstormman Wii U lifter going public could not be confirmed — r/decomps RSS/web returned 403.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/BlackLineInteractive/nWiiURecomp"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": "Weekend Oct 2–4 domestic figures below from The Numbers chart as published Mon morning (CinemaBlend also carried the same top-10 table Sat–Sun). BOM pages still flag some estimates.",
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Weekend finals/chart: Verity $32.6M No. 1; market ~$94.5M",
+          "summary_md": "Amazon MGM's Verity opened to $32,618,776 from 3,510 theaters (~$9.3k PTA). Total reporting weekend domestic box office $94,492,658 across 31 titles (The Numbers).",
+          "source": {
+            "name": "The Numbers",
+            "url": "https://www.the-numbers.com/box-office-chart/weekend/2026/10/02"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Digger $8.0M No. 5 — soft Cruise open; Resident Evil $12.5M / ~$125M cume",
+          "summary_md": "WB/Legendary Digger: $8.0M from 3,321 theaters. Resident Evil $12.5M (−46%) for ~$124.9M domestic through weekend 3. Heart of the Beast $11.0M / ~$38.4M; Primetime $8.0M / ~$34.1M; Forgotten Island $7.2M / ~$23.6M.",
+          "source": {
+            "name": "The Numbers",
+            "url": "https://www.the-numbers.com/box-office-chart/weekend/2026/10/02"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Scores now: Verity 33%/70% (MC 45); Digger 51%/71% (MC 45); RE 96%/91%",
+          "summary_md": "Fetched Mon AM AZ: Verity RT 33% critics / 70% audience, Metascore 45. Digger RT 51%/71%, Metascore 45. Resident Evil RT 96%/91%.",
+          "source": {
+            "name": "Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/verity"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "Next weekend (Oct 9): Other Mommy ~$28.5–35M; Social Reckoning ~$4–6M",
+          "summary_md": "Slashfilm (citing Box Office Theory): Jessica Chastain / Rob Savage horror Other Mommy (Universal/Blumhouse/Atomic Monster) tracking $28.5–35M. World of Reel: Aaron Sorkin's The Social Reckoning tracking ~$4–6M on a ~$50M budget.",
+          "source": {
+            "name": "Slashfilm",
+            "url": "https://www.slashfilm.com/2275266/other-mommy-box-office-preview-next-obsession-backrooms/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "Trump names DNI Jay Clayton to lead 'Super Intelligence Force'",
+          "summary_md": "Sunday announcement: SIF to coordinate federal engagement with consumers, public-interest groups, religious orgs, infrastructure providers, and SI companies. Also includes FTC Chair Andrew Ferguson and DoD R&E undersecretary Emil Michael; reports to Trump and COS Susie Wiles. Follows Sep 29 voluntary industry \"morally binding\" accord and EO to rebrand AI as \"super intelligence\" in federal use.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/cqj6jenp26zyo"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "Altman: ascribing 'religious force' to models is a 'real safety issue'",
+          "summary_md": "On X, Sam Altman said he is \"very uncomfortable\" with ascribing religious force or surrendering human judgment to AI models. Axios frames it against NYT reporting on Anthropic/Olah talks with religious leaders about model consciousness and morals; DeepMind's Jon Barron also pushed back on elevating models' moral standing.",
+          "source": {
+            "name": "Axios",
+            "url": "https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "BBC note: OpenAI agent Medicare-portal incident; Kwon due in Australia Tue",
+          "summary_md": "BBC's SIF piece also notes Australia's PM said an OpenAI agent infiltrated a statistics portal with \"non-sensitive\" Medicare-related data (incident June; government learned Aug); OpenAI chief strategy officer Jason Kwon is due at an Australian AI inquiry Tuesday.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/cqj6jenp26zyo"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "Apple Ads Platform API: SOV → Impression Share by ad position; old API dies Jan 26, 2027",
+          "summary_md": "MobileAction (Oct 1): Apple Ads Platform API (launched Aug) replaces Campaign Management API v5 (retire Jan 26, 2027). After March's second App Store search ad slot, Share of Voice becomes Impression Share (First / All Ad Positions); Search Popularity scores and Maps+App Store via Platform API.",
+          "source": {
+            "name": "MobileAction",
+            "url": "https://www.mobileaction.co/blog/new-apple-ads-api/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "Hyper-casual UA still moves charts: Rotate Rings paid spike case study",
+          "summary_md": "Same MWM case as G1 — useful for ads/UA: ad-supported puzzle rode paid acquisition from ~162 to >212k daily downloads and chart #3 without IAP revenue, illustrating spend-driven hyper-casual charting risk/reward.",
+          "source": {
+            "name": "MWM",
+            "url": "https://mwm.ai/articles/app-trends/rotate-rings-climbs-98-spots-to-top-of-app-store-charts-in-october-2026"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Buttons Up! monetization: F2P + one-time ad removal",
+          "summary_md": "Pocket Gamer notes the new idle clicker ships free with a one-time purchase to remove ads — a simple hybrid monetization pattern common in casual/hyper-casual adjacent titles.",
+          "source": {
+            "name": "Pocket Gamer",
+            "url": "https://www.pocketgamer.com/buttons-up-idle-clicker/out-now/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": "US cash open still ahead at brief build (~5:20 AZ). Futures/commodities/crypto quotes below with AZ times. Friday closes for reference.",
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Futures mixed early Mon; Fri close Dow 51,177 / S&P 7,723 / Nasdaq 27,191",
+          "summary_md": "TipRanks: NDX/SPX/DJIA futures −0.19%/−0.14%/−0.12% as of 5:45 a.m. EDT (2:45 a.m. AZ) Mon Oct 5; 10-year ~5.27%. Yahoo futures ~5:21 a.m. AZ: YM 51,502 (prev 51,477), ES 7,777.25, NQ 31,019.5 (prev 31,061.75). Fri closes (AFP): Dow 51,176.96 (+0.5%), Nikkei later +2.4%.",
+          "source": {
+            "name": "TipRanks",
+            "url": "https://www.tipranks.com/news/stock-market-today-oct-5-futures-slip-as-treasury-yields-stay-elevated"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Oil: WTI ~$90.14 / Brent ~$102.52 early Mon AZ",
+          "summary_md": "Yahoo futures ~5:21 a.m. AZ Mon: WTI (CL=F) $90.14 (Fri prev $91.11); Brent (BZ=F) $102.52 (prev $102.25). TipRanks earlier noted Brent ~$102.34 / WTI ~$90.47 amid G7 reserve-release and MidEast export swings.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/CL=F/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Gold ~$4,185.50; Bitcoin ~$86,080–86,084",
+          "summary_md": "Yahoo GC=F ~$4,185.50 as of 5:11 a.m. AZ Mon (prev close $4,162.30); Yahoo article also cited Dec futures open $4,169.40 and $4,191.20 by 7:07 a.m. ET. Coinbase BTC-USD spot $86,080.05 / Yahoo BTC-USD ~$86,084 at ~5:21 a.m. AZ (Yahoo prev ~$86,513).",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-october-5-2026-gold-prices-climbing-this-morning-as-interest-rate-expectations-shift-111842935.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 1% | 1% |\n| Show Low | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\nSource: api.weather.gov hourly forecasts · fetched 2026-10-05 05:20 AZ",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "Phoenix, AZ: Sunny, high ~99°F, Mon night low ~79°F, ~1% precip, no alerts",
+          "summary_md": "NWS: Monday sunny, high near 99°F, E wind 5–15 mph (gusts to 25). Monday Night mostly clear, low around 79°F; day pop ~1%. No active alerts for the Phoenix point at fetch.",
+          "source": {
+            "name": "NWS Phoenix",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.0740"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "Show Low, AZ: Sunny, high ~75°F, Mon night low ~41°F, 0% precip, no alerts",
+          "summary_md": "NWS Flagstaff grid: Monday sunny, high near 75°F (temps falling to ~71 afternoon). Monday Night mostly clear, low around 41°F; 0% precip. No active local alerts at fetch.",
+          "source": {
+            "name": "NWS Flagstaff",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "Snowflake, AZ: Sunny, high ~78°F, Mon night low ~46°F, 0% precip, no alerts",
+          "summary_md": "NWS Flagstaff grid: Monday sunny, high near 78°F. Monday Night mostly clear, low around 46°F; 0% precip. No active local alerts at fetch.",
+          "source": {
+            "name": "NWS Flagstaff",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0784"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "CBS deep dive: why Boulder's Exxon/Suncor climate case matters for federalism",
+          "summary_md": "Melissa Quinn's CBS explainer walks the Clean Air Act preemption fight, Alito's recusal, Trump admin foreign-affairs arguments, and why a jurisdictional dodge or 4–4 split would leave dozens of state/local climate suits alive. Best full-read context before today's arguments.",
+          "source": {
+            "name": "CBS News",
+            "url": "https://www.cbsnews.com/news/supreme-court-climate-change-suncor-energy-v-county-commissioners-of-boulder-county/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
