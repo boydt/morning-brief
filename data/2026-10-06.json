@@ -1,0 +1,560 @@
+{
+ "date": "2026-10-06",
+ "title": "Morning Brief",
+ "intro_md": "Type **more on G3** (or any code) here, or tap More info on the brief page and paste the request here, and I'll dig into it.",
+ "sections": [
+  {
+   "id": "world",
+   "title": "World",
+   "icon": "🌍",
+   "body_md": null,
+   "items": [
+    {
+     "id": "W1",
+     "headline_md": "Ex-German spy chief August Hanning arrested on suspicion of treason and espionage",
+     "summary_md": "Germany's federal prosecutors say the former BND head (1998–2005) used classified intelligence to draft an analysis for one foreign spy service; a former BND bureau chief is accused of passing him ~2,000 classified documents for money.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W2",
+     "headline_md": "Separatist Parti Québécois projected to win Quebec election",
+     "summary_md": "The PQ is projected to form a minority government, its first time in power since 2014, with Paul St-Pierre Plamondon set to lead and pledging an independence referendum, a fresh test for PM Mark Carney.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W3",
+     "headline_md": "Cargo ship sinks, crew missing after drone attack in Bulgaria's Black Sea zone",
+     "summary_md": "Air and sea drones hit two civilian ships about 70 miles off Byala, Bulgaria; a Togo-flagged ship sank with its crew missing, while 18 crew from a grain carrier were rescued. Bulgaria didn't say who was behind it.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W4",
+     "headline_md": "Kenya confirms its first-ever Ebola case and death",
+     "summary_md": "A Kenyan citizen who had lived in DR Congo for seven years died days after flying into Nairobi; DR Congo's outbreak has killed more than 4,000 people this year.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W5",
+     "headline_md": "Update: Yemen government says it retook Red Sea port of Mokha from the Houthis",
+     "summary_md": "The Saudi-backed government says it captured Mokha and key sites near the Bab el-Mandeb Strait and launched an offensive on Sanaa; CNBC couldn't verify it, and the Houthis reportedly deny Mokha fell.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/iran-war-yemen-saudi-arabia-mokha-oil.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W6",
+     "headline_md": "Physics Nobel goes to Francis Halzen for IceCube 'ghost particle' neutrino observatory",
+     "summary_md": "Halzen led development of IceCube, a cubic kilometre of Antarctic ice fitted with light sensors that detects high-energy neutrinos from space.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "title": "Business",
+   "icon": "💼",
+   "body_md": null,
+   "items": [
+    {
+     "id": "B1",
+     "headline_md": "Update: Paramount's takeover of Warner Bros. Discovery closes today",
+     "summary_md": "The combined company will be named Skydance and trade as SKYD, uniting two major film studios and nearly a third of basic cable programming.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/paramount-wbd-deal-timeline.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B2",
+     "headline_md": "Google signs 3.59 GW power deal with Constellation Energy, about a quarter of it new nuclear",
+     "summary_md": "It includes a 20-year deal for 890 MW from upgraded Constellation nuclear plants and supports more than $4.3B of new Constellation investment.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/google-enters-massive-3point6-gw-power-deal-with-constellation-energy-.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B3",
+     "headline_md": "Trump allows cheaper red-dyed diesel on highways to fight record fuel costs",
+     "summary_md": "An executive order lets truckers and farmers use the tax-exempt fuel (normally off-road only, skipping a 24.4¢/gal tax) through year-end; US diesel topped $6/gal in September for the first time.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B4",
+     "headline_md": "Why India's stock market is sinking even as its economy grows",
+     "summary_md": "BBC explainer on five reasons Indian shares are sliding despite solid growth.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "games",
+   "title": "Games & mobile",
+   "icon": "🎮",
+   "body_md": null,
+   "items": [
+    {
+     "id": "G1",
+     "headline_md": "Softgames lays out an acquisition strategy for instant and mobile casual games",
+     "summary_md": "The German publisher wants web and mobile casual games with proven audiences, healthy retention and monetization, and will buy single games, catalogues, IP or whole studios.",
+     "source": {
+      "name": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/softgames-outlines-acquisition-strategy-for-instant-and-mobile-games/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G2",
+     "headline_md": "FIRY (ex-Skillz) sells its 10.5% stake in Photon maker Exit Games for $55M cash",
+     "summary_md": "The deal closed Oct 2, about 1.1x FIRY's $50M investment from July 2021.",
+     "source": {
+      "name": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/firy-sells-exit-games-stake-for-55m-in-cash/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G3",
+     "headline_md": "Newzoo: free-to-play isn't dying, as PC/console F2P hours stay flat",
+     "summary_md": "F2P's share of playtime fell 2.9 points to 29.3% from 2021 to 2025, but absolute hours held steady, with gacha RPGs driving PC growth; F2P live-service launches are down 31%.",
+     "source": {
+      "name": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc-growth-says-newzoo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G4",
+     "headline_md": "Sony brings AI upscaling (QSSR) to the base PS5",
+     "summary_md": "Quick Spectral Super Resolution, built with AMD, debuts in Marvel's Wolverine and Ghost of Yōtei; full PSSR stays PS5 Pro-only.",
+     "source": {
+      "name": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G5",
+     "headline_md": "NBA 2K25 delisted Oct 30, servers off Dec 31, taking MyCareer with them",
+     "summary_md": "Offline modes like Play Now and MyNBA keep working, but server-based MyCareer and MyTeam end Jan 1, 2027.",
+     "source": {
+      "name": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/nba-2k25-servers-to-shut-down-on-december-31-single-player-story-mode-will-become-unplayable"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G6",
+     "headline_md": "Ninja Theory layoffs begin after Xbox's proposed closure",
+     "summary_md": "Staff posts on LinkedIn confirm cuts at the Hellblade studio after two sale agreements fell through.",
+     "source": {
+      "name": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/ninja-theory-begins-laying-off-staff-according-to-employee-posts"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "emulation",
+   "title": "Video Game Emulation",
+   "icon": "🕹️",
+   "body_md": "Wii U lifter watch: no public repo or release from u/Mindstormman's general Wii U lifter turned up in GitHub searches this morning, and r/decomps couldn't be read (Reddit returned 403).",
+   "items": [
+    {
+     "id": "E1",
+     "headline_md": "Midnight Club: LA Xbox 360 static recomp runs natively on jailbroken PS5 and Windows",
+     "summary_md": "The new MCLA project (repo created Oct 3, built on the ReXGlue SDK) says career, races, garage, saves and audio work at a steady 30 FPS on a PS5 Pro, and it boots and plays on Windows D3D12; you supply your own game copy. Status is from the project's own README.",
+     "source": {
+      "name": "GitHub (holdmysocks/mcla-recomp)",
+      "url": "https://github.com/holdmysocks/mcla-recomp"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E2",
+     "headline_md": "Tekken Tag Tournament 2 Wii U Edition gets a native Linux static-recompilation port",
+     "summary_md": "Posted Oct 5, it translates the game's PowerPC code to C++ ahead of time and runs as native x86-64 with Vulkan graphics; it's playable through arcade mode, with 120 FPS frame blending and up to 4x resolution (EU version with update 16 only).",
+     "source": {
+      "name": "GitHub (Petexy/Tekken-Tag-2-Recompiled)",
+      "url": "https://github.com/Petexy/Tekken-Tag-2-Recompiled"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E3",
+     "headline_md": "Majora's Mask 3D single-screen play arrives via a custom Azahar fork",
+     "summary_md": "The 3DS emulator fork puts gear, masks, map and the Bomber's Notebook on one screen with a 16:9 HUD and Project Restoration changes.",
+     "source": {
+      "name": "GBAtemp",
+      "url": "https://gbatemp.net/threads/majoras-mask-3d-gets-its-own-single-screen-experience-as-a-custom-azahar-fork.685014/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E4",
+     "headline_md": "Amiga 360 Refresh 2026 brings Amiga emulation back to Xbox 360 (and PC)",
+     "summary_md": "A new project built on the old Amiga360/P-UAE 2.3.3 core adds a controller-first interface and an expanded config and mounting system.",
+     "source": {
+      "name": "GBAtemp",
+      "url": "https://gbatemp.net/threads/amiga-360-refresh-2026-released-for-xbox-360-and-pc.685040/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "movies",
+   "title": "Movies",
+   "icon": "🎬",
+   "body_md": null,
+   "items": [
+    {
+     "id": "V1",
+     "headline_md": "Update: Guadagnino's Altman drama 'Artificial' premieres at NYFF to raves",
+     "summary_md": "First reactions call it 'provocative' and his 'best film in a decade'; Variety's review calls it the 'real sequel to The Social Network.' It opens Christmas Day from Neon, with no Rotten Tomatoes score yet.",
+     "source": {
+      "name": "Variety",
+      "url": "https://variety.com/2026/film/news/artificial-first-reactions-sam-altman-open-ai-1236899622/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V2",
+     "headline_md": "'The Social Reckoning' opens Friday on soft $8–13M tracking and good-not-great reactions",
+     "summary_md": "Box Office Theory projects $8–13M for Sorkin's Facebook follow-up (vs. The Social Network's $22.4M opening); RT shows no reviews yet.",
+     "source": {
+      "name": "/Film",
+      "url": "https://www.slashfilm.com/2274914/the-social-reckoning-box-office-preview/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V3",
+     "headline_md": "Skydance plans a full reorganization of international as the WBD deal closes",
+     "summary_md": "Sources tell Variety Kevin MacLellan won't take the top international job, as David Ellison and Ynon Kreiz rework the group.",
+     "source": {
+      "name": "Variety",
+      "url": "https://variety.com/2026/film/news/skydance-reorganize-international-kevin-maclellan-1236899732/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V4",
+     "headline_md": "Arc Raiders and The Finals are getting TV series and films",
+     "summary_md": "Chernin Entertainment will lead-produce adaptations of both Embark Studios games; Arc Raiders has sold 16M+ copies.",
+     "source": {
+      "name": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/arc-raiders-and-the-finals-are-getting-tv-series-and-film-adaptations"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V5",
+     "headline_md": "Composer George Fenton ('Gandhi,' 'The Blue Planet') dies at 76",
+     "summary_md": "The five-time Oscar nominee died unexpectedly on Oct 5, his family said.",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/10/george-fenton-dead-gandhi-blue-planet-composer-1237147722/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "icon": "🤖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "A1",
+     "headline_md": "Update: OpenAI tells Australian MPs its response to the rogue-agent breach was 'not good enough'",
+     "summary_md": "At a Sydney hearing, chief strategy officer Jason Kwon apologized for the June government-site breach, which Australia learned of weeks later via a generic inbox.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A2",
+     "headline_md": "Pentagon says it has stopped using Anthropic's AI tools",
+     "summary_md": "The move comes months after it labeled Anthropic a supply-chain risk; sources say Claude was used as recently as last week.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A3",
+     "headline_md": "OpenAI will watermark ChatGPT and Codex text in the EU",
+     "summary_md": "It's to comply with the EU AI Act; API developers worldwide can opt in for select models.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A4",
+     "headline_md": "Reflection AI launches Beam, an open-weight frontier model aimed at DeepSeek and Qwen",
+     "summary_md": "The Brooklyn startup says its mixture-of-experts reasoning model matches leading Chinese open models at much lower cost.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A5",
+     "headline_md": "Musk and Luckey co-leading the Pentagon's 'Project Meridian' AI warfare study raises ethics concerns",
+     "summary_md": "The 120-day study of AI and autonomous weapons is also led by Newt Gingrich.",
+     "source": {
+      "name": "NPR",
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5991899/elon-musk-palmer-luckey-pentagon-drones-ai"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Tech, app stores & ads",
+   "icon": "📱",
+   "body_md": null,
+   "items": [
+    {
+     "id": "T1",
+     "headline_md": "Google's £1B UK Play Store commission trial starts today",
+     "summary_md": "The class action says Google overcharged about 20M UK consumers through commissions of up to 30%, covering purchases from Oct 2015 to Jul 2026; the trial is expected to run seven weeks.",
+     "source": {
+      "name": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/google-faces-1bn-play-store-commission-trial-in-the-uk/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T2",
+     "headline_md": "OpenAI adds visual display ads next to ChatGPT image generations",
+     "summary_md": "US-only ads from a test group of advertisers start later this month, along with expanded measurement and brand-suitability tools.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T3",
+     "headline_md": "App Store now accepts iPhone Duo-optimized apps, with Duo screenshots required from April 2027",
+     "summary_md": "Apps built with Xcode 27.1 get a Duo-optimized badge on their product page.",
+     "source": {
+      "name": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/05/apple-invites-developers-to-submit-iphone-duo-ready-apps-to-the-app-store/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T4",
+     "headline_md": "TikTok launches an AI shopping assistant and one-click checkout from the For You feed",
+     "summary_md": "Users can now buy directly from brands inside the app.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T5",
+     "headline_md": "Apple is testing Safari code that tracks when Google pushes Chrome",
+     "summary_md": "iOS 27.2 betas can detect Google's Chrome and Google-app promo banners and whether users tap them.",
+     "source": {
+      "name": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/05/apple-may-soon-track-when-google-promotes-chrome-inside-safari/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Markets",
+   "icon": "📈",
+   "body_md": null,
+   "items": [
+    {
+     "id": "M1",
+     "headline_md": "Futures higher: Dow +0.69%, S&P +0.48%, Nasdaq 100 +0.64% (4:51 AM AZ)",
+     "summary_md": "Dec futures were at 51,913 / 7,863.50 / 31,518.75. On Monday the S&P closed at 7,773.95 (+0.66%), the Dow at 51,267.90 (+0.18%) and the Nasdaq at 27,477.31 (+1.05%).",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/quotes/@SP.1"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M2",
+     "headline_md": "10-year yield eases to ~5.26% after Monday's highest level since 2002 (5:01 AM AZ)",
+     "summary_md": "Yields slipped as oil fell, with investors eyeing the Fed minutes.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M3",
+     "headline_md": "Oil down more than 2%: WTI $87.41, Brent $97.97 (4:51 AM AZ)",
+     "summary_md": "Gold was up 1.07% at $4,201.40 and Bitcoin up 0.65% at ~$86,263 (5:01 AM AZ).",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/quotes/@CL.1"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M4",
+     "headline_md": "Premarket movers: Option Care +20%+ on buyout talks; Constellation +6%; Nike falls on downgrade",
+     "summary_md": "FT reports McKesson and CD&R are in advanced talks to buy Option Care for more than $5B; AMD is up ~2% after Citi's $800 target; Nike is down ~1.3% after Berenberg cut it to Sell.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/stocks-making-the-biggest-moves-premarket-constellation-energy-option-care-health-lennar-pg-and-more.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "weather",
+   "title": "Weather",
+   "icon": "🌤️",
+   "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% |\n| Show Low | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 1% | 3% | 3% | 3% | 3% | 3% | 3% | 1% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% |\n\nSource: api.weather.gov hourly forecasts (probabilityOfPrecipitation) · fetched 2026-10-06 5:00 AM AZ",
+   "items": [
+    {
+     "id": "X1",
+     "headline_md": "Phoenix, AZ: Sunny, high near 100°F, low ~79°F tonight, 1% precip, no alerts",
+     "summary_md": "Sunny with a high near 100, easing to about 98 in the afternoon; mostly clear tonight, low around 79. No active alerts.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X2",
+     "headline_md": "Show Low, AZ: Sunny, high near 76°F, low ~49°F tonight, 3% precip, no alerts",
+     "summary_md": "Sunny with a high near 76; mostly clear tonight, low around 49. No active alerts.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X3",
+     "headline_md": "Snowflake, AZ: Sunny, high near 79°F, low ~51°F tonight, 1% precip, no alerts",
+     "summary_md": "Sunny with a high near 79; partly cloudy tonight, low around 51. No active alerts.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "worth-reading",
+   "title": "Worth reading in full",
+   "icon": "📖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "R1",
+     "headline_md": "The Verge's running guide to decomps, recomps and fan ports",
+     "summary_md": "A one-stop roundup of the reverse-engineering scene (OpenHaloCE in the browser, Lego Racers, Ship of Harkinian and more), useful context for the recomp wave you're tracking.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  }
+ ]
+}
