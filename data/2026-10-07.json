@@ -1,0 +1,593 @@
+{
+  "date": "2026-10-07",
+  "title": "Morning Brief",
+  "intro_md": "Type \"more on G3\" (or any code) in chat, or tap More info on the brief page and paste the request into chat, for a deeper dive.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Russian overnight strikes kill at least 15 across Ukraine",
+          "summary_md": "Zelensky called it one of Russia's \"most vile\" attacks, with 70 missiles fired and a five-storey apartment block in Pryluky destroyed on Putin's 74th birthday.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Tropical Storm Isaias forms and is forecast to hit the US Gulf Coast as a hurricane",
+          "summary_md": "The National Hurricane Center says it could make landfall between eastern Louisiana and the western Florida Panhandle later this week, and would be the Atlantic season's first hurricane.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/07/tropical-storm-isaias-us-gulf-coast.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Chemistry Nobel goes to Henri Kagan and Kenso Soai for explaining life's molecular 'handedness'",
+          "summary_md": "The French and Japanese chemists showed how nature makes only one mirror-image form of molecules such as amino acids.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Trump says he'll talk to Putin about a plague-lab worker's death in Siberia",
+          "summary_md": "The US has asked Russia for more information about the death at Irkutsk's anti-plague institute, while the Kremlin says no call is scheduled and accuses media of false reporting.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "France suspends police stun grenades after a 15-year-old's hand was blown off at a student protest",
+          "summary_md": "More than 500 schools were fully or partly shut on Wednesday, and Prime Minister Lecornu is due to address the protests tonight.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W6",
+          "headline_md": "Update: Rubio says Iran has missed 'multiple' chances for a nuclear deal",
+          "summary_md": "Speaking in Greece, he said talks on a lasting ceasefire and peace agreement remain stalled.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "30-year mortgage rate climbs to 7.49%, the highest in nearly three years",
+          "summary_md": "Mortgage applications fell 4.2% in the week, and refinance demand dropped 8% and is down 56% from a year ago, per the Mortgage Bankers Association.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/07/mortgage-rates-sit-at-nearly-3-year-high-and-demand-continues-to-shrink.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "Finland orders Google to halt work on two data centers",
+          "summary_md": "Regulators paused construction at Muhos and Kajaani until environmental assessments are done, a month after Google pledged $15B for AI infrastructure there; Google says it \"fell short\" of its standards.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "Japan raids Asahi and Kirin over an alleged beer price-fixing cartel",
+          "summary_md": "Sapporo and Suntory were reportedly searched too, and Asahi, Kirin and Sapporo shares fell on the news.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "House China committee says trading app Webull is structurally tied to Beijing",
+          "summary_md": "The bipartisan report says the Florida-based platform, with 28 million users, exposes customer data to Chinese surveillance risk.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B5",
+          "headline_md": "McDonald's sued over an AI tool allegedly used to coordinate franchise pricing",
+          "summary_md": "The antitrust suit, filed Oct 2 in Chicago federal court, says the tool lets independent franchisees share nonpublic price and sales data.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/2026/oct/07/mcdonalds-ai-prices-lawsuit"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B6",
+          "headline_md": "Jaguar unveils its $130,000 Type 01 EV two years after its mocked rebrand",
+          "summary_md": "Tata-owned Jaguar calls it the most powerful and aerodynamic Jaguar ever, as Ferrari and Bentley also push into EVs.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "Google launches Playground for making games from text prompts, with Unity Spark coming",
+          "summary_md": "The browser platform lets anyone build, remix and share games by describing them; Unity's agent-based Spark tool joins in beta later this year, and both are 18+ only.",
+          "source": {
+            "name": "GamesIndustry.biz",
+            "url": "https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "Crossy Road Rush is coming Nov 5 as an Apple Arcade exclusive",
+          "summary_md": "Hipster Whale's new entry keeps the voxel look but adds combat, exploration and up to 4-player multiplayer.",
+          "source": {
+            "name": "9to5Mac",
+            "url": "https://9to5mac.com/2026/10/06/new-crossy-road-game-announced-as-an-apple-arcade-exclusive/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "SuperScale: mobile UA's top 8 networks take ~50% of spend but return only about a quarter of profit",
+          "summary_md": "CEO Ivan Trancik, drawing on $100M+ of measured spend, argues the ~30-network long tail is where much of the profit sits.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/superscale-ceo-ivan-trancik-on-finding-profit-beyond-mobile-uas-biggest-networks/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "Xbox chief Asha Sharma reportedly tells staff Xbox has 'started to return to growth'",
+          "summary_md": "She cited first-party growth and stabilized engagement after an \"all-time low\", without giving figures.",
+          "source": {
+            "name": "GamesIndustry.biz",
+            "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G5",
+          "headline_md": "Xbox has secured GTA 6 cloud-streaming rights",
+          "summary_md": "They kick in in November, when Microsoft opens up access to Xbox Cloud Gaming.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G6",
+          "headline_md": "The New Denpa Men will shut down Dec 7",
+          "summary_md": "Paid-item sales have already ended, and the team says it can't keep running a service that meets expectations.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/the-new-denpa-men-to-end-service-in-december/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: still no public repo or release from u/Mindstormman's general Wii U lifter in GitHub searches this morning, and r/decomps and r/emulation couldn't be read (Reddit returned 403). No verified Switch 2 commercial-game emulation news either.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "Breath of the Wild runs at 4K/30 on jailbroken PS5s via the PS5CEMU-HAR emulator",
+          "summary_md": "The homebrew app bundles Cemu (Wii U) and Azahar (3DS) on Vulkan and needs a PS5 on firmware 7.00–13.60 for the Relapse jailbreak; Wccftech notes it paints a target for Nintendo.",
+          "source": {
+            "name": "Wccftech",
+            "url": "https://wccftech.com/nintendo-yuzu-and-ryujinx-zelda-breath-of-the-wild-runs-4k-playstation-5/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "Ship of Harkinian 9.3.0 'Dewey Alpha' ships with 500+ commits",
+          "summary_md": "The Ocarina of Time PC port adds big randomizer shuffles, boss death skips, more cutscene skips and instant text; released Oct 5, 7:44 PM AZ.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/HarbourMasters/Shipwright/releases/tag/9.3.0"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "DuckStation pushes a new build fixing game release dates and save-state titles",
+          "summary_md": "Version 0.1-12074 landed Oct 6, alongside new daily RPCS3 (USIO light-gun and RSX debugger fixes) and Xenia Edge builds.",
+          "source": {
+            "name": "Planet Emulation",
+            "url": "https://www.planetemu.net/en/news/06-10-2026-duckstation-v0-1-12074"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Update: Verity made $2.4M Monday (Oct 5) for a $34.4M domestic total",
+          "summary_md": "Resident Evil is at $126.2M after 18 days, and Tom Cruise's Digger reached $8.8M in four days.",
+          "source": {
+            "name": "Box Office Mojo",
+            "url": "https://www.boxofficemojo.com/date/2026-10-05/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Verity also opens No. 1 in the UK and Ireland with £3.3M ($4.5M)",
+          "summary_md": "Digger opened fourth there; Sorkin's The Social Reckoning and Greengrass's The Uprising open in 300+ UK sites Friday.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/box-office/verity-digger-tom-cruise-uk-ireland-box-office-1236904148/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Eva Marie Saint, Oscar winner for On the Waterfront, dies at 102",
+          "summary_md": "She also starred opposite Cary Grant in Hitchcock's North by Northwest, and died Tuesday at home in Los Angeles.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "Update: Skydance's CEOs face questions on day one after the WBD merger",
+          "summary_md": "David Ellison and Ynon Kreiz were pressed on how a company with $79B of debt can commit $30B–$40B to new content.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/skydance-ceo-press-conference-post-merger-david-ellison-1237148751/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "The Phantom of the Opera will be filmed live in London and released in cinemas in 2027",
+          "summary_md": "Universal, LW Entertainment and Cameron Mackintosh are behind it as the show marks 40 years at His Majesty's Theatre on Oct 9.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/andrew-lloyd-webber-phantom-of-the-opera-live-cinemas-1237148845/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V6",
+          "headline_md": "Zhang Yimou teases his Three-Body Problem film at the Busan festival opening",
+          "summary_md": "The adaptation is produced by Nezha 2 studio Beijing Enlight Media and is understood to involve a significant AI component.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/zhang-yimou-three-body-problem-busan-jury-1237148613/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "OpenAI releases 722 math manuscripts it says solve hundreds of open problems",
+          "summary_md": "The work came from an unreleased model and was published on GitHub, as mathematicians question how labs announce and credit such results.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "Mistral releases Mistral Large 4, a 1-trillion-parameter multimodal model",
+          "summary_md": "It's API-only for now, with open weights promised in about three weeks after safety testing; Mistral says it trained it on just 4,000 Nvidia GPUs.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "Meta's Muse agent is the top free iPhone app; now it has to become a habit",
+          "summary_md": "Meta stock is up about 20% since Muse launched a month ago.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/07/meta-muse-personal-ai-agents-dazzle.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "Common Sense Media rates ChatGPT for Teens an 'unacceptable risk'",
+          "summary_md": "Its assessment says the teen experience doesn't alert parents when it should.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A5",
+          "headline_md": "GPU cloud Lambda is raising up to $4B at a $14.5B pre-money valuation",
+          "summary_md": "Coatue and Blackstone lead what could be its last private round before a planned 2027 IPO.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "San Diego County sues AppLovin over alleged ad targeting of children",
+          "summary_md": "The suit says AppLovin bypassed parental controls and opt-outs, fingerprinted kids, and served adult ads, including one for a sexualized AI chatbot inside a physics puzzle game.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/san-diego-county-sues-applovin-over-alleged-child-ad-targeting-4195351/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "EU floats an annual lump-sum digital tax that would hit Apple, Google and Meta",
+          "summary_md": "The FT-reported compromise aims to raise revenue without provoking White House retaliation.",
+          "source": {
+            "name": "9to5Mac",
+            "url": "https://9to5mac.com/2026/10/07/apple-may-have-to-pay-an-annual-lump-sum-to-the-eu-in-a-tax-compromise/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Apple is reportedly building smart-home devices with LG, including a lock, thermostat and doorbell",
+          "summary_md": "Bloomberg reports the partnership as part of a broader Apple smart-home push.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "Xreal opens Aura Android XR glasses pre-orders at $1,279",
+          "summary_md": "That's $20 less than Meta's VR Glasses, with the first transparent Android XR glasses \"weeks\" away for reservation holders.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/news/1006207/google-xreal-aura-glasses-price-release-date-preorder"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T5",
+          "headline_md": "Spotify expands audiobooks to more than 180 markets",
+          "summary_md": "It's adding 350,000 titles in over 120 languages, after being mostly limited to English-speaking markets and Germany.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Futures lower ahead of Fed minutes: Dow −0.76%, S&P −0.47%, Nasdaq 100 −0.79% (4:54 AM AZ)",
+          "summary_md": "That follows record S&P 500 and Nasdaq closes Tuesday (7,818.93 and 27,599.89; Dow 51,521.28), with rebounding yields and oil weighing, per Reuters.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/quotes/@SP.1"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "10-year Treasury yield back up to 5.333%, +6 bp (5:04 AM AZ)",
+          "summary_md": "Yields rebounded ahead of this afternoon's FOMC minutes.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/quotes/US10Y"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Oil up, gold down: WTI $90.05 (+0.7%), Brent $101.67 (+1.1%), gold $4,141.80 (−1.1%) (4:54 AM AZ)",
+          "summary_md": "Quotes are front-month futures (WTI November, Brent December, gold December).",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/quotes/@LCO.1"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "Bitcoin slips 2.3% to about $83,612 (5:04 AM AZ)",
+          "summary_md": "It's down about $1,932 over the past day.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/quotes/BTC.CM="
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "Premarket movers: Neogen +11%, Penguin Solutions +4%, Flutter +3%, Constellation Brands −5% (as of 4:27 AM AZ)",
+          "summary_md": "Neogen raised guidance, Flutter got a Citi upgrade, and Constellation fell on weaker beer margins despite a beat.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-premarket-stz-flut-neog.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% |\n| Show Low | 0% | 0% | 0% | 0% | 0% | 0% | 2% | 2% | 2% | 3% | 3% | 3% | 1% | 1% | 1% | 1% | 1% | 1% | 1% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 2% | 2% | 2% | 2% | 2% | 2% | 1% | 1% | 1% | 1% | 1% | 1% | 1% |\n\nChance of precipitation by hour, from the api.weather.gov hourly forecast (fetched 5:03 AM AZ).",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "Phoenix, AZ: Sunny, high near 101°F, low around 79°F tonight, 1% precip, no alerts",
+          "summary_md": "No rain expected today or tonight, with light winds.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "Show Low, AZ: Sunny, high near 77°F, low around 50°F tonight, 3% precip, no alerts",
+          "summary_md": "Mostly clear tonight, with no rain or snow expected.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "Snowflake, AZ: Sunny, high near 80°F, low around 50°F tonight, 2% precip, no alerts",
+          "summary_md": "Mostly clear tonight, with no rain or snow expected.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "Polygon: how AI tools are fueling game mashups, PS5 emulators and jailbreaks at once",
+          "summary_md": "It ties the PS5 emulation and recomp surge you're tracking to AI-assisted reverse engineering, and explains why Sony is suddenly in an IP fight.",
+          "source": {
+            "name": "Polygon",
+            "url": "https://www.polygon.com/ps5-jailbreak-emulator-minecraft-elden-ring-claude-opus-5-ai-games/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
