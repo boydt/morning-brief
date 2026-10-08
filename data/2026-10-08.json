@@ -1,0 +1,670 @@
+{
+ "date": "2026-10-08",
+ "title": "Morning Brief",
+ "intro_md": "Thursday, Oct 8, 2026. Type \"more on G3\" (or any code) in chat with April, or tap More info and paste the request there, for a deeper dive.",
+ "sections": [
+  {
+   "id": "world",
+   "title": "World",
+   "icon": "🌍",
+   "body_md": null,
+   "items": [
+    {
+     "id": "W1",
+     "headline_md": "Russian glide bomb hits two buses in Kramatorsk, killing 33",
+     "summary_md": "Donetsk officials say 18 more were wounded and accuse Russia of targeting passenger buses; the attack comes amid a surge in Russian strikes and civilian casualties.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W2",
+     "headline_md": "Update: Trump says he no longer wants an Iran deal as the US reportedly weighs 'massive bombing'",
+     "summary_md": "NBC and Axios report that the White House has discussed resuming large-scale strikes on Iranian energy, infrastructure and nuclear targets in the coming weeks, possibly before the midterms.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W3",
+     "headline_md": "Tanker hit by multiple projectiles in the Gulf north of Qatar, with casualties",
+     "summary_md": "UKMTO says the laden oil and chemical tanker Acers was struck 51 nautical miles off Madinat al-Shamal; the IMO counts at least 24 seafarers killed in 93 incidents since the Iran war began in February.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W4",
+     "headline_md": "Update: Isaias is now a hurricane and is expected to strengthen before a Gulf Coast landfall",
+     "summary_md": "With winds around 80 mph early Thursday, it's forecast to hit the Florida Panhandle, southern Alabama and Mississippi late Friday or early Saturday; Florida and Alabama have declared emergencies.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/hurricane-isaias-florida-alabama-and-mississippi-coasts.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W5",
+     "headline_md": "Eritrean troops move deep into Ethiopia's Tigray region, residents say",
+     "summary_md": "Residents of Adigrat told the BBC they saw truckloads of Eritrean soldiers heading south toward fighting that broke out two weeks ago between Ethiopia's army and Tigrayan forces.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W6",
+     "headline_md": "South Korea recalls its ambassador to Ukraine over a prisoner-of-war row",
+     "summary_md": "Seoul says Kyiv broke an agreement to keep secret its transfer of two captured North Korean soldiers to South Korea; Zelensky's office says no such agreement existed.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W7",
+     "headline_md": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
+     "summary_md": "MIT confirmed the pioneering computer scientist, who led the Apollo flight-software team and popularized the term 'software engineering,' died on Sept 30.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "title": "Business",
+   "icon": "💼",
+   "body_md": null,
+   "items": [
+    {
+     "id": "B1",
+     "headline_md": "PepsiCo beats on Q3 but cuts its full-year profit forecast",
+     "summary_md": "Core EPS growth is now seen at 2.5% to 3.5% (from the low end of 5% to 7%) as North America keeps lagging international markets.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B2",
+     "headline_md": "Samsung guides to a record Q3 operating profit of about $80.2B",
+     "summary_md": "Preliminary profit of 107.4 trillion won is up 782% on the year on AI memory demand, though an eToro analyst says it still fell short of lofty expectations.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B3",
+     "headline_md": "TSMC's September revenue jumps 54.6% year over year",
+     "summary_md": "Sales hit NT$511.86 billion ($16.03 billion), down 0.6% from August; Q3 results are due next week.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B4",
+     "headline_md": "Canada's Weston family buys UK pharmacy chain Boots for $8.9bn",
+     "summary_md": "The former Selfridges owners are buying the high-street chain from longtime backer Stefano Pessina.",
+     "source": {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/07/canada-weston-family-buys-boots-uk"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B5",
+     "headline_md": "NFL tells the Supreme Court that sports prediction markets are gambling and belong to the states",
+     "summary_md": "In a brief backing New Jersey against Kalshi, the league says football drew $1.8 billion of prediction-market trading on the season's first Sunday.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/nfl-tells-supreme-court-prediction-markets-are-gambling-and-should-be-regulated-by-the-states.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B6",
+     "headline_md": "Asos hackers took far more customer data than first disclosed",
+     "summary_md": "Names, addresses, phone numbers, emails and even site search history are now in criminals' hands, raising the risk of targeted phishing.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "games",
+   "title": "Games & mobile",
+   "icon": "🎮",
+   "body_md": null,
+   "items": [
+    {
+     "id": "G1",
+     "headline_md": "Xbox launches 'XP,' a division for film, TV, consumer products and live events",
+     "summary_md": "Mojang president Kayleen Walters will run it, building on franchises from Minecraft and Call of Duty to Candy Crush and Halo.",
+     "source": {
+      "name": "Variety",
+      "url": "https://variety.com/2026/tv/news/xbox-xp-film-tv-products-experiences-division-kayleen-walters-1236904912/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G2",
+     "headline_md": "Monster Hunter Rise is coming to iOS and Android, but only through Netflix for now",
+     "summary_md": "After 20 million sales on Switch, PC and other consoles, Capcom's hit is heading to mobile behind a Netflix subscription.",
+     "source": {
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net/monster-hunter-rise-ios-android-netflix"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G3",
+     "headline_md": "Monopoly Go was the biggest US mobile-game advertiser in August",
+     "summary_md": "Sensor Tower estimates also put it top for US IAP revenue at $93.8M, with Royal Match second ($64.8M) and the only top-10 game growing downloads by double digits.",
+     "source": {
+      "name": "Mobilegamer.biz",
+      "url": "https://mobilegamer.biz/data-digest-monopoly-go-tops-ad-spend-chart-turkiye-market-stats-investments-and-more/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G4",
+     "headline_md": "Fire Emblem Shadows made just $892,000 in its first year on mobile",
+     "summary_md": "That's about 0.3% of what Fire Emblem Heroes made in its first year.",
+     "source": {
+      "name": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/fire-emblem-shadows-makes-892000-in-first-year-just-03-of-heroes-initial-success/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G5",
+     "headline_md": "PUBG Mobile Light is renamed PUBG Mobile Flash ahead of launch",
+     "summary_md": "Krafton's lighter PUBG Mobile spin-off gets a new name before release.",
+     "source": {
+      "name": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/pubg-mobile-light-renamed-to-pubg-mobile-flash-ahead-of-launch/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G6",
+     "headline_md": "Sony is reportedly reviving Ape Escape with the Sonic Mania developers",
+     "summary_md": "The studio behind Sonic Mania and Penny's Big Breakaway is said to be on it, and it's reportedly not the only PlayStation reboot in the works.",
+     "source": {
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net/sony-classic-playstation-games-ape-escape-sonic-mania"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "emulation",
+   "title": "Video Game Emulation",
+   "icon": "🕹️",
+   "body_md": "Wii U lifter watch: still no public repo or release from u/Mindstormman's general Wii U lifter in GitHub searches this morning, and r/decomps and r/emulation couldn't be read (Reddit returned 403). A separate, very early Wind Waker HD static-recomp repo (flossbud/WWHDRecomp) appeared overnight but says it's just getting started. No verified Switch 2 commercial-game emulation news.",
+   "items": [
+    {
+     "id": "E1",
+     "headline_md": "An unofficial native RPCS3 port runs PS3 games on a jailbroken PS5 Pro, no Linux needed",
+     "summary_md": "Developer lavavex's build uses a RADV Vulkan port and DualSense input; Need for Speed Carbon is reported fully playable at 60 FPS on firmware 13.60, while the RPCS3 team says it has no interest in an official port.",
+     "source": {
+      "name": "VideoCardz",
+      "url": "https://videocardz.com/newz/rpcs3-team-has-no-interest-in-ps5-port-but-an-unofficial-native-build-already-runs-on-ps5-pro"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E2",
+     "headline_md": "bbport runs Bloodborne's PS4 code natively on Linux PCs",
+     "summary_md": "The open-source project runs the game's x86-64 executable directly on the CPU with a game-specific runtime, translating graphics to Vulkan through an extended shadPS4 renderer; a full playthrough isn't verified yet.",
+     "source": {
+      "name": "XDA",
+      "url": "https://www.xda-developers.com/someone-natively-ported-bloodborne-to-linux-and-now-theres-a-guide-on-setting-it-up/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E3",
+     "headline_md": "New public Wii U static recompiler (Brandraft/wiiu-recomp) boots Monster Hunter 3 Ultimate into the village",
+     "summary_md": "Posted Oct 7, the PowerPC RPX-to-C translator and Linux runtime reaches character creation, village dialogue and the HUD; free movement and quests aren't verified (this isn't the r/decomps lifter).",
+     "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Brandraft/wiiu-recomp"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E4",
+     "headline_md": "inFAMOUS Second Son is reportedly playable start to finish on PC via a custom shadPS4 build",
+     "summary_md": "Reports show 30-50 FPS at 1440p on a Ryzen 7 5700X, with a few visual issues remaining.",
+     "source": {
+      "name": "Tech4Gamers",
+      "url": "https://tech4gamers.com/infamous-second-son-playable-pc-shadps4-emulator/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E5",
+     "headline_md": "FEX 2610 adds AVX-VNNI support for running x86 games on ARM64 Linux",
+     "summary_md": "The monthly release of the emulator used by Valve's Steam Frame also caps disk-cache size and restores 3DNow! handling.",
+     "source": {
+      "name": "Phoronix",
+      "url": "https://www.phoronix.com/news/FEX-2610-Released"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "movies",
+   "title": "Movies",
+   "icon": "🎬",
+   "body_md": null,
+   "items": [
+    {
+     "id": "V1",
+     "headline_md": "Update: Verity made $3.55M on Tuesday (Oct 6) for a $38.0M domestic total",
+     "summary_md": "Box Office Mojo's daily chart has Resident Evil second ($127.9M total after 19 days), while Tom Cruise's Digger is at $9.9M after five days.",
+     "source": {
+      "name": "Box Office Mojo",
+      "url": "https://www.boxofficemojo.com/date/2026-10-06/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V2",
+     "headline_md": "Spider-Man: Brand New Day nears $955M domestic",
+     "summary_md": "It's still in 1,724 theaters after 68 days at $954,994,964, while The Odyssey sits at $620.8M after 82 days.",
+     "source": {
+      "name": "Box Office Mojo",
+      "url": "https://www.boxofficemojo.com/date/2026-10-06/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V3",
+     "headline_md": "Update: Other Mommy now eyes a No. 1 opening around $20M this weekend (Oct 9-11)",
+     "summary_md": "Deadline sees about $20M from 3,200 theaters for the $19M Jessica Chastain horror film, down from earlier tracking as high as $35M; previews start Thursday at 2 p.m.",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/10/box-office-other-mommy-social-reckoning-projection-1237149247/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V4",
+     "headline_md": "Update: Aaron Sorkin's The Social Reckoning now targets just $7M to $8M",
+     "summary_md": "That would be well under the $22M opening of 2010's The Social Network.",
+     "source": {
+      "name": "Variety",
+      "url": "https://variety.com/2026/film/box-office/social-reckoning-box-office-opening-weekend-projections-other-mommy-1236904401/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V5",
+     "headline_md": "Elsinore, with Andrew Scott and Olivia Colman, opens the London Film Festival",
+     "summary_md": "Scott is already drawing big awards buzz for his performance.",
+     "source": {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/andrew-scott-olivia-colman-elsinore-london-film-fest-2026-1236724385/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V6",
+     "headline_md": "Brad Bird's long-gestating Ray Gunn debuts this weekend at the London Film Festival",
+     "summary_md": "Deadline talks to Bird about the 30-year road to bringing it to the screen with Skydance and Netflix.",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/10/brad-bird-ray-gunn-london-film-festival-skydance-netflix-1237148899/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V7",
+     "headline_md": "Indian actor Nana Patekar dies suddenly at 75",
+     "summary_md": "The three-time National Film Award winner was found unconscious at his home in Goa and couldn't be revived.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "icon": "🤖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "A1",
+     "headline_md": "OpenAI brings GPT-6 to ChatGPT with 'Intelligent UI'",
+     "summary_md": "Responses can now include interactive charts, graphs, pictures and buttons right in the conversation.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A2",
+     "headline_md": "Anthropic releases Claude Haiku 5.5",
+     "summary_md": "Its smallest, cheapest model jumps from version 4.5 to 5.5, about a year after the last Haiku upgrade.",
+     "source": {
+      "name": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/07/anthropic-upgrades-claude-with-new-haiku-5-5-model-details-here/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A3",
+     "headline_md": "Manus raises more than $500M after Beijing blocked Meta's acquisition",
+     "summary_md": "Boyu Capital and IDG led the round; Bloomberg had reported it would double Manus's valuation to $4B.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A4",
+     "headline_md": "Microsoft gives Copilot more control over Windows and your files",
+     "summary_md": "New 'Hybrid Intelligence' features let Copilot use files on your PC to take actions.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A5",
+     "headline_md": "Hermes Agent maker Nous Research raises $90M at a $1.5B valuation",
+     "summary_md": "Robot Ventures led, with Nvidia and Samsung among backers; the startup says Hermes drives about 2.5% of global AI token use.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A6",
+     "headline_md": "Google opens its SynthID checker to everyone",
+     "summary_md": "The site checks whether images, video or audio were made with AI.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Tech, app stores & ads",
+   "icon": "📱",
+   "body_md": null,
+   "items": [
+    {
+     "id": "T1",
+     "headline_md": "Google defends Play Store commissions in a £1bn UK class action",
+     "summary_md": "The case, which opened Oct 6, covers about 20M UK consumers and argues that commissions of up to 30% were passed on to buyers; Google says its fees are among the lowest.",
+     "source": {
+      "name": "Mobilegamer.biz",
+      "url": "https://mobilegamer.biz/google-defends-play-store-commissions-in-1bn-uk-class-action/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T2",
+     "headline_md": "Meta rolls out AI tools to catch harmless-looking ads that lead to child abuse material",
+     "summary_md": "Meta says it acted on 33.2M pieces of child-exploitation content in the first half of 2026, more than 97% found before users reported it.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T3",
+     "headline_md": "Microsoft's Surface Laptop Ultra with an Nvidia AI chip starts at $2,599",
+     "summary_md": "Preorders are open now and it ships Oct 16, with what Microsoft calls the first magnetic USB-C port.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T4",
+     "headline_md": "ICANN's new top-level domain applications are mostly about AI",
+     "summary_md": "Applications range from .agent and .agi to .openai and .jackpot.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T5",
+     "headline_md": "India rejects Musk's claim that 'oligarchs' are blocking Starlink",
+     "summary_md": "The communications ministry says Starlink and two other satellite operators are at the same regulatory stage, with security reviews still pending.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T6",
+     "headline_md": "Teenage Engineering's CEO says it will stop making synths",
+     "summary_md": "That could spell the end for the iconic OP-1, he said in a Highsnobiety interview.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Markets",
+   "icon": "📈",
+   "body_md": null,
+   "items": [
+    {
+     "id": "M1",
+     "headline_md": "Futures fall as yields and oil climb: Dow −0.77%, S&P 500 −0.45%, Nasdaq 100 −0.68% (4:56 AM AZ)",
+     "summary_md": "Dow futures were at 51,054 (−395), S&P 500 futures at 7,817.25 and Nasdaq 100 futures at 31,190.25.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/quotes/@DJ.1"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M2",
+     "headline_md": "10-year Treasury yield rises to 5.328%, about 5 bp higher (5:06 AM AZ)",
+     "summary_md": "CNBC says that's around levels not seen since 2002, after Fed Governor Waller said more hikes may be needed.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/quotes/US10Y"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M3",
+     "headline_md": "Oil jumps about 4.4% on Iran escalation fears: Brent $104.64, WTI $92.21; gold $4,150.40 (+0.2%) (4:56 AM AZ)",
+     "summary_md": "Brent topped $105 earlier in the session, CNBC reported.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M4",
+     "headline_md": "Bitcoin slips 1.4% to about $82,177 (5:06 AM AZ)",
+     "summary_md": "It's down about $1,190 on the day.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/quotes/BTC.CM="
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M5",
+     "headline_md": "Premarket movers: Wolfspeed +15% on a $1.5B Pentagon loan, Haemonetics +8%, Broadcom −2%, Levi −3% (as of 4:42 AM AZ)",
+     "summary_md": "Broadcom fell on a WSJ report that it's arranging more than $50 billion in financing tied to its OpenAI chips.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/stocks-making-the-biggest-moves-premarket-hae-avgo-lulu-wolf.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M6",
+     "headline_md": "Fed minutes show most officials see another rate hike as likely by year end",
+     "summary_md": "They gave no timing; the Fed meets next on Oct 28 and Dec 9.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "weather",
+   "title": "Weather",
+   "icon": "🌤️",
+   "body_md": "**Hourly chance of precipitation today (AZ time)**\n\n| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 0% | 1% | 1% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% |\n| Show Low | 1% | 1% | 1% | 1% | 1% | 1% | 19% 🌧 | 19% 🌧 | 19% 🌧 | 19% 🌧 | 19% 🌧 | 19% 🌧 | 2% | 2% | 2% | 2% | 2% | 2% | 1% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% |\n\n_Source: api.weather.gov hourly forecasts, fetched at 5:03 AM AZ._",
+   "items": [
+    {
+     "id": "X1",
+     "headline_md": "Phoenix, AZ: Sunny, high near 102°F, low around 81°F tonight",
+     "summary_md": "Precipitation chance is 1% with no rain expected, and there are no active alerts.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X2",
+     "headline_md": "Show Low, AZ: Mostly sunny, high near 77°F, low around 53°F tonight, slight chance of showers",
+     "summary_md": "NWS gives a 20% chance of rain showers between 11 a.m. and 5 p.m. (no amount forecast), and there are no active alerts.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X3",
+     "headline_md": "Snowflake, AZ: Sunny, high near 81°F, low around 55°F tonight",
+     "summary_md": "Precipitation chance is 1% with no rain expected, and there are no active alerts.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "worth-reading",
+   "title": "Worth reading in full",
+   "icon": "📖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "R1",
+     "headline_md": "BBC and NPR find the US and Lebanon are protecting a Syrian general wanted for crimes against humanity",
+     "summary_md": "It's a deep investigation into why Bassam al-Hassan, who oversaw Assad's chemical weapons program, is being sheltered in exchange for information on abducted US journalist Austin Tice.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  }
+ ]
+}
