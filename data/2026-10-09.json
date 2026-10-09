@@ -1,0 +1,637 @@
+{
+ "date": "2026-10-09",
+ "title": "Morning Brief",
+ "intro_md": "Friday, Oct 9, 2026. Type \"more on G3\" (or any code) in chat with April, or tap More info and paste the request there, for a deeper dive.",
+ "sections": [
+  {
+   "id": "world",
+   "title": "World",
+   "icon": "🌍",
+   "body_md": null,
+   "items": [
+    {
+     "id": "W1",
+     "headline_md": "Houthi attacks on Riyadh's main airport kill three Saudis, including a Saudia pilot",
+     "summary_md": "Saudi aviation officials say two strikes Thursday hit King Khalid International Airport's facilities and a Saudia aircraft; the Saudi-led coalition vows a 'firm' response.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W2",
+     "headline_md": "Update: Trump says the US won't attack Iran before the Nov. 3 midterms",
+     "summary_md": "A day after saying he'd consider renewed strikes, he called talks with Tehran 'productive' and said the naval blockade stays in place.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W3",
+     "headline_md": "Former ICC judge Navi Pillay wins the Nobel Peace Prize",
+     "summary_md": "The Nobel committee credited the South African jurist, a former UN human rights chief, with making sure war crimes and genocide get prosecuted.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W4",
+     "headline_md": "Update: Hurricane Isaias, now Category 2, nears a Gulf Coast landfall late Friday",
+     "summary_md": "With 105 mph winds, it's most likely to hit near the Alabama-Florida line with life-threatening surge in Pensacola Bay; thousands of National Guard troops are deploying.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/hurricane-isaias-florida-alabama-and-mississippi-coasts.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W5",
+     "headline_md": "Pentagon says the firing-squad execution of Fort Hood gunman Nidal Hasan will be livestreamed",
+     "summary_md": "It's believed it would be the first public US execution in almost a century, and a legal expert calls it 'uncertain legal terrain.'",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W6",
+     "headline_md": "Anti-migrant violence erupts in Soweto and Durban",
+     "summary_md": "Police say at least 24 vehicles were torched and foreign-owned shops looted amid anger over a court ruling letting some undocumented migrants apply for asylum.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W7",
+     "headline_md": "ICE agents shoot and wound a man in his car with a 5-year-old inside in New York City",
+     "summary_md": "Mayor Zohran Mamdani says talks with Trump to free the man failed; federal agents have shot at least 21 people since Trump returned to office.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/09/new-york-city-man-shot-in-car-with-child-present-by-ice-agents-mayor.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "title": "Business",
+   "icon": "💼",
+   "body_md": null,
+   "items": [
+    {
+     "id": "B1",
+     "headline_md": "Delta misses on earnings for the first time in two years and slashes its 2026 outlook on fuel",
+     "summary_md": "Full-year adjusted EPS is now seen at $5.10 to $5.60 (from $6.50 to $7.50), though CEO Ed Bastian says demand is holding up despite higher fares.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B2",
+     "headline_md": "Starbucks has reportedly explored buying Chipotle",
+     "summary_md": "The FT says CEO Brian Niccol's company worked with advisers on a bid for the chain he used to run; Chipotle rose about 6% and Starbucks fell about 3% Thursday.",
+     "source": {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/08/starbucks-chipotle-merger"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B3",
+     "headline_md": "Nvidia-backed Firmus scraps a $30bn-valuation IPO that would have been one of Australia's biggest",
+     "summary_md": "The AI data-centre builder, whose clients include OpenAI and Meta, blamed market volatility and will seek private money instead.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B4",
+     "headline_md": "Labor Department suspends Microsoft and Adobe from its green-card labor program",
+     "summary_md": "It also stopped processing new applications from Infosys, Tata, Wipro, Cognizant and others, citing active federal investigations into Microsoft and Adobe.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B5",
+     "headline_md": "Bessent hires Judy Shelton, whose Fed nomination the Senate blocked, as a Treasury adviser",
+     "summary_md": "She'll advise on currency policy with a focus on China's financial conditions.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "games",
+   "title": "Games & mobile",
+   "icon": "🎮",
+   "body_md": null,
+   "items": [
+    {
+     "id": "G1",
+     "headline_md": "Ubisoft is shutting down Rainbow Six Mobile seven months after its global launch",
+     "summary_md": "The game, built over six and a half years by 11 Ubisoft studios plus Tencent, stays playable until Jan. 15, 2027.",
+     "source": {
+      "name": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/ubisoft-announces-shutdown-of-rainbow-six-mobile-seven-months-after-global-launch"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G2",
+     "headline_md": "US game spending fell 9% in August to $4.3B, dragged by an 18% drop in mobile",
+     "summary_md": "Circana has NBA 2K27 on top of the charts, while Monopoly Go, Royal Match and Candy Crush Saga were the top three mobile games.",
+     "source": {
+      "name": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/nba-2k27-tops-us-august-charts-becomes-third-best-selling-game-of-2026-us-monthly-charts"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G3",
+     "headline_md": "This week's mobile launches include a Zynga dice board game test and Crossy Road Rush",
+     "summary_md": "Zynga is testing the dice game on Android in the US and Puerto Rico, and Netflix's The Conjuring: Unspoken (Oct 13) uses your phone as the controller.",
+     "source": {
+      "name": "Mobilegamer.biz",
+      "url": "https://mobilegamer.biz/new-game-digest-football-manager-honor-of-kings-chess-zyngas-dice-game-warhammer-survivors-and-more/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G4",
+     "headline_md": "Xbox names Maria Angelidou-Smith CEO of Mojang and Minecraft",
+     "summary_md": "She previously held senior product roles at Meta, Personio and Reddit, and takes over as Kayleen Walters moves to lead the new XP division.",
+     "source": {
+      "name": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/xbox-appoints-new-leaders-for-mojang-and-franchise-experiences/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G5",
+     "headline_md": "Sony is transferring 419 VR patents to Meta",
+     "summary_md": "The deal, signed in December 2025, includes 180 US patents, adding to signs that Sony is winding down its VR push.",
+     "source": {
+      "name": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/sony-agrees-to-transfer-over-400-global-vr-patents-to-meta-following-december-2025-agreement"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G6",
+     "headline_md": "Witcher 3 Remastered gets a big patch, with a Switch 2 fix for blurry visuals coming soon",
+     "summary_md": "Patch 5.01 is out on PC, PS5 and Xbox Series; CD Projekt says Switch 2 details are due in the following days.",
+     "source": {
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net/witcher-3-remastered-patch-bloom-console-performance-switch-2"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "emulation",
+   "title": "Video Game Emulation",
+   "icon": "🕹️",
+   "body_md": "Wii U lifter watch: still no public repo or release from the r/decomps general Wii U lifter in GitHub searches this morning; r/decomps and r/emulation couldn't be read (Reddit returned 403). No verified Switch 2 commercial-game emulation news.",
+   "items": [
+    {
+     "id": "E1",
+     "headline_md": "A static recompilation turns Switch game Tomodachi Life: Living the Dream into a native PC program",
+     "summary_md": "RussoPhone/tomodachi-ltd-recomp, posted Oct 8, translates the game's ARM64 code to C with Vulkan graphics and no CPU emulation; it needs your own v1.0.0 dump, is Linux-first (Windows experimental), and the author says they've stepped back and want maintainers.",
+     "source": {
+      "name": "GitHub",
+      "url": "https://github.com/RussoPhone/tomodachi-ltd-recomp"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E2",
+     "headline_md": "Update: AnyPS5 now covers 100% of the PS5's GPU shader instructions",
+     "summary_md": "All 1,166 tracked instructions are recognized by its PS5-to-PC relinker, but system libraries sit near 85%, so broad game compatibility isn't here yet.",
+     "source": {
+      "name": "VideoCardz",
+      "url": "https://videocardz.com/newz/anyps5-reaches-100-gpu-shader-instruction-coverage-for-ps5-to-pc-conversion"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E3",
+     "headline_md": "PS5SX2 2.0 brings frame generation and up to 8x resolution to PS2 games on jailbroken PS5s",
+     "summary_md": "The native PCSX2 port also adds PS2 online play, four-player support and save states; it needs a jailbroken console and your own PS2 BIOS.",
+     "source": {
+      "name": "VideoCardz",
+      "url": "https://videocardz.com/newz/ps5sx2-brings-8x-upscaling-and-up-to-6x-frame-generation-to-ps5"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E4",
+     "headline_md": "Azahar 2126.2 patches a 3DS emulator hole that let crafted CIA files run code on your PC",
+     "summary_md": "The release also fixes large eShop downloads and an xBRZ filter bug on Vulkan; the team says to update soon.",
+     "source": {
+      "name": "GitHub",
+      "url": "https://github.com/azahar-emu/azahar/releases/tag/2126.2"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "movies",
+   "title": "Movies",
+   "icon": "🎬",
+   "body_md": null,
+   "items": [
+    {
+     "id": "V1",
+     "headline_md": "Update: Other Mommy opens today to harsh early reactions but is still expected to win the weekend (Oct 9-11)",
+     "summary_md": "Universal projects about $20M from 3,200 theaters for the $19M Jessica Chastain horror film, while THR's critic called it 'mostly vacuous.'",
+     "source": {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/social-reckoning-box-office-other-mommy-chastain-sorkin-1236725913/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V2",
+     "headline_md": "Verity led Wednesday (Oct 7) with $2.42M for a $40.4M domestic total",
+     "summary_md": "Resident Evil was second ($129.1M after 20 days) and Spider-Man: Brand New Day reached $955.2M.",
+     "source": {
+      "name": "Box Office Mojo",
+      "url": "https://www.boxofficemojo.com/date/2026-10-07/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V3",
+     "headline_md": "A live-action Cyberpunk 2077 movie is in the works at Paramount",
+     "summary_md": "Transformers producer Lorenzo di Bonaventura is reportedly attached, and CD Projekt's co-CEO confirmed the partnership on X.",
+     "source": {
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net/cyberpunk-2077-live-action-film-paramount-cd-projekt-red"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V4",
+     "headline_md": "Once Upon a Time in the Middle East has become a $342M smash in China",
+     "summary_md": "Variety talks to director Wen Muye about the war story of a Shenyang cook played by Shen Teng.",
+     "source": {
+      "name": "Variety",
+      "url": "https://variety.com/2026/film/news/once-upon-time-middle-east-director-wen-muye-1236906350/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V5",
+     "headline_md": "UK and Irish cinema-going is up 21% on 2025, its best growth since the pandemic",
+     "summary_md": "A London Film Festival panel credited Spider-Man, The Odyssey and audience appetite for original films.",
+     "source": {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/uk-box-office-london-film-festival-odyssey-spider-man-imax-1236726105/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V6",
+     "headline_md": "Warner Bros. international chief Gerhard Zeiler exits Skydance for politics in Austria",
+     "summary_md": "His farewell note came days after the $110B Skydance deal closed.",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/10/gerhard-zeiler-exits-skydance-warner-bros-discovery-1237150853/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "icon": "🤖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "A1",
+     "headline_md": "OpenAI tells investors its annualized revenue is near $50B, about $20B below earlier reports",
+     "summary_md": "The FT says the $70B figure came from investors trying to match Anthropic's method, which counts cloud partners' sales; AI stocks fell Thursday on the news.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A2",
+     "headline_md": "OpenAI stands by firing three safety researchers, citing a 'breach of trust'",
+     "summary_md": "It says Jasmine Wang, Tomek Korbak and Mikita Balesni broke rules on sensitive information, not that they were fired for speaking out, as their open letter claims.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A3",
+     "headline_md": "Google launches a 'universal' Gemini agent for businesses",
+     "summary_md": "It works in the background across Workspace, Slack and Microsoft 365 and can act as a 'coworker agent' with its own email; it's in private preview.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A4",
+     "headline_md": "Anthropic offers open-source projects free AI security scans",
+     "summary_md": "OSS Scanner uses its strongest models, including Claude Mythos, but reports aren't human-reviewed and may be wrong.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A5",
+     "headline_md": "AI leaderboard Arena raises $200M at a $3.1B valuation",
+     "summary_md": "That nearly doubles its value in 10 months; Lightspeed and Khosla led, and it now also scores models on behaviors like lying.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A6",
+     "headline_md": "USA Today sues OpenAI for more than $250M over training on its articles",
+     "summary_md": "It alleges OpenAI copied 'hundreds of thousands' of articles from USA Today and its local papers.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Tech, app stores & ads",
+   "icon": "📱",
+   "body_md": null,
+   "items": [
+    {
+     "id": "T1",
+     "headline_md": "SpaceX buys 800 MHz spectrum to make Starlink Mobile a 'major mobile carrier'",
+     "summary_md": "The Grain Management deal needs FCC approval and sent AT&T, Verizon and T-Mobile shares sharply lower.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T2",
+     "headline_md": "Apple sets a 'Welcome home' event for Oct 13, with touchscreen MacBook Pros reportedly following around Oct 27",
+     "summary_md": "Home products are expected next week; Bloomberg says a new iPad mini and the first touchscreen MacBook Pros come later in the month.",
+     "source": {
+      "name": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/08/apple-to-launch-touchscreen-macbook-pro-and-more-on-october-27-report/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T3",
+     "headline_md": "Global PC shipments plunged 20.1% in Q3, IDC says",
+     "summary_md": "Mac shipments fell 11% to 5.9 million, but Apple's share rose to 9.5%.",
+     "source": {
+      "name": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/08/idc-mac-shipments-drop-11-in-q3-as-global-pc-market-slides-20/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T4",
+     "headline_md": "New York alleges TikTok gave some teens a fake 'Algo Refresh' safety feature",
+     "summary_md": "Its lawsuit says users in an experiment thought they'd reset their feeds, but nothing changed.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T5",
+     "headline_md": "Microsoft 365 Family will share Copilot AI with everyone on the plan, but OneDrive shrinks to a shared 2TB",
+     "summary_md": "Storage moves from 1TB per person to a 2TB pool after your first renewal after May 2, 2027.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T6",
+     "headline_md": "AMD will bring FSR 4 upscaling to handhelds by the end of 2026",
+     "summary_md": "AMD's Jack Huynh says both new and existing chips will get it.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Markets",
+   "icon": "📈",
+   "body_md": null,
+   "items": [
+    {
+     "id": "M1",
+     "headline_md": "Futures rise as tech rebounds: Dow +0.19%, S&P 500 +0.44%, Nasdaq 100 +0.86% (5:03 AM AZ)",
+     "summary_md": "Dow futures were at 51,589, S&P 500 futures at 7,850.50 and Nasdaq 100 futures at 31,236.75.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M2",
+     "headline_md": "Nasdaq had its worst day since mid-August on Thursday, falling more than 1%",
+     "summary_md": "CNBC tied the sell-off to OpenAI's lower-than-expected revenue figure (A1).",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M3",
+     "headline_md": "Oil eases after Trump rules out Iran strikes before the midterms: Brent $102.65 (−1.6%), WTI $90.45 (−1.1%); gold up 1.3% to $4,209.20 (5:03 AM AZ)",
+     "summary_md": "Brent had jumped more than 4% Thursday to above $104.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/quotes/@LCO.1"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M4",
+     "headline_md": "10-year Treasury yield steady at 5.231% (5:13 AM AZ)",
+     "summary_md": "That's little changed from Thursday's close.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/quotes/US10Y"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M5",
+     "headline_md": "Bitcoin gains 1.9% to about $83,245 (5:13 AM AZ)",
+     "summary_md": "It's up about $1,569 on the day.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/quotes/BTC.CM="
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M6",
+     "headline_md": "Premarket movers: T-Mobile −7.4%, AT&T −6.4%, Verizon −5.6%, SpaceX +3.8%, Delta −1.5% (5:13 AM AZ)",
+     "summary_md": "The telecoms are sliding on SpaceX's spectrum deal (T1), and Delta on its cut outlook (B1).",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/09/stocks-making-the-biggest-moves-premarket-dal-spcx-tmus.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "weather",
+   "title": "Weather",
+   "icon": "🌤️",
+   "body_md": "**Hourly chance of precipitation today (AZ time)**\n\n| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 3% | 5% | 4% | 5% | 5% | 4% | 5% |\n| Show Low | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 3% | 3% | 3% | 2% | 2% | 2% | 2% | 2% | 2% | 4% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 3% | 3% | 3% | 3% | 3% | 3% | 3% | 3% | 3% | 3% |\n\n_Source: api.weather.gov hourly forecasts, fetched at 5:11 AM AZ._",
+   "items": [
+    {
+     "id": "X1",
+     "headline_md": "Phoenix, AZ: Sunny and breezy, high near 102°F, low around 81°F tonight; Wind Advisory in effect",
+     "summary_md": "Gusts up to 20 mph today and a 3% rain chance (7% tonight); the NWS Wind Advisory runs until 5 PM AZ Sunday, Oct 11.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X2",
+     "headline_md": "Show Low, AZ: Sunny, high near 76°F, low around 53°F tonight",
+     "summary_md": "Rain chance is 3% today and 10% tonight with no amounts forecast, and there are no active alerts.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X3",
+     "headline_md": "Snowflake, AZ: Sunny, high near 81°F, low around 53°F tonight",
+     "summary_md": "Rain chance is 3% today and 8% tonight with no amounts forecast, and there are no active alerts.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "worth-reading",
+   "title": "Worth reading in full",
+   "icon": "📖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "R1",
+     "headline_md": "Mark Zuckerberg has an image problem, so why is Meta's business booming?",
+     "summary_md": "The BBC's Lily Jamali digs into why Meta keeps growing into a $2tn company despite addiction lawsuits and a new film that paints its founder as a villain.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  }
+ ]
+}
