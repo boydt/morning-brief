@@ -1,0 +1,604 @@
+{
+ "date": "2026-10-10",
+ "title": "Morning Brief",
+ "intro_md": "Type \"more on G3\" (or any code) in chat, or tap More info and paste the request in chat, for a deeper dive.",
+ "sections": [
+  {
+   "id": "world",
+   "title": "World",
+   "icon": "🌍",
+   "body_md": null,
+   "items": [
+    {
+     "id": "W1",
+     "headline_md": "A magnitude 7.7 earthquake hits Panama, damaging buildings",
+     "summary_md": "Tsunami warnings went out for neighboring countries as videos of destruction circulated, and the quake set off panic in the capital.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W2",
+     "headline_md": "Update: Isaias is downgraded after making landfall on the Gulf Coast",
+     "summary_md": "Hundreds of thousands of households are without power in Florida and Alabama as the storm moves across the southeastern US.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W3",
+     "headline_md": "The US puts sanctions on the International Criminal Court",
+     "summary_md": "The court called it an 'assault on the rule of law,' and several member states, including the UK, said they strongly disagree.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W4",
+     "headline_md": "Trump calls Norway a 'stain on the country' over the Nobel Peace Prize",
+     "summary_md": "He criticized Norway after the prize went to former ICC judge Navi Pillay.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W5",
+     "headline_md": "Police in Brazil rescue 13 kindergarteners taken hostage; the suspect was killed",
+     "summary_md": "The children were held and beaten at a kindergarten before police ended the standoff.",
+     "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/suspect-killed-after-13-kindergarteners-taken-hostage-beaten-in-brazil"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W6",
+     "headline_md": "India cracks down on youth protests as anger grows at Modi and the election chief",
+     "summary_md": "Authorities moved against the protests as discontent spreads among young voters.",
+     "source": {
+      "name": "NPR",
+      "url": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W7",
+     "headline_md": "A candidate named Hitler Mussolini wins a mayor's race in Peru",
+     "summary_md": "The left-wing candidate narrowly won in a remote Andean district, according to exit polls.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "title": "Business",
+   "icon": "💼",
+   "body_md": null,
+   "items": [
+    {
+     "id": "B1",
+     "headline_md": "Trump strikes a deal to buy Russian diesel, and critics say it clashes with sanctions law",
+     "summary_md": "Zelensky called it a gift to Putin that 'plays into Russia's hands,' as the White House looks to cut fuel prices before the midterms.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B2",
+     "headline_md": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+     "summary_md": "Researchers found wealth gaps narrowed somewhat, but households' ability to keep up with debt payments got much worse.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B3",
+     "headline_md": "Hurricane Isaias disrupts US oil output in the Gulf of Mexico and threatens refineries",
+     "summary_md": "It could tighten a fuel market already strained by the wars in Eastern Europe and the Middle East.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B4",
+     "headline_md": "UK pharmacy chain Boots is sold to a Canadian billionaire family",
+     "summary_md": "The BBC looks at what the new ownership could mean for shoppers.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c63djxry8124o"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B5",
+     "headline_md": "A former Deutsche Bank trader jailed for rate-rigging has his conviction overturned",
+     "summary_md": "The UK Court of Appeal quashed Christian Bittar's 2018 conviction.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "games",
+   "title": "Games & mobile",
+   "icon": "🎮",
+   "body_md": null,
+   "items": [
+    {
+     "id": "G1",
+     "headline_md": "MTG postpones the IPO of casual-games maker PlaySimple until 2027",
+     "summary_md": "Modern Times Group blamed conditions in India's capital markets but still thinks a listing would create significant value.",
+     "source": {
+      "name": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/mtg-postpones-playsimples-potential-ipo/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G2",
+     "headline_md": "Analyst says the US console market is in its most precarious spot since the early '80s",
+     "summary_md": "Mat Piscatella flagged Xbox and PlayStation sales at new lows, with consoles pricier than ever as AI data centers soak up memory chips.",
+     "source": {
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G3",
+     "headline_md": "It's official: Forza Horizon 6 on PS5 slips to January 2027",
+     "summary_md": "PC and Xbox versions launched in May; the first expansion was announced alongside the delay.",
+     "source": {
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G4",
+     "headline_md": "Gears of War: E-Day reportedly drew over 1.7M Game Pass players and made over $37M",
+     "summary_md": "The figures are from a report on the game's performance since launch.",
+     "source": {
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net/gears-of-war-eday-sales-xbox-game-pass-players"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G5",
+     "headline_md": "Arc Raiders could eventually split into separate PvE and PvP modes",
+     "summary_md": "The executive producer said it's a possibility for the extraction shooter.",
+     "source": {
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "emulation",
+   "title": "Video Game Emulation",
+   "icon": "🕹️",
+   "body_md": "Wii U lifter watch: still no public repo or release from the r/decomps general Wii U lifter. This morning's GitHub search turned up only unrelated Wii U recomp projects (Brandraft/wiiu-recomp, created Oct 7, and a Tekken Tag Tournament 2 recomp), and the newest r/decomps posts (read via RSS) had nothing from the lifter.",
+   "items": [
+    {
+     "id": "E1",
+     "headline_md": "SwitchRecomp: Super Mario Odyssey runs as a native PC program with no emulator",
+     "summary_md": "A developer posted the Cascade Kingdom boss fight running on an RTX 3050 PC; the tool translates the Switch code to C once and compiles it, but it's early, buggy, and the source isn't out yet.",
+     "source": {
+      "name": "r/decomps",
+      "url": "https://www.reddit.com/r/decomps/comments/1x229bk/switchrecomp_super_mario_odyssey_recompiled_into/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E2",
+     "headline_md": "A static recompilation port of the Switch version of Link's Awakening is released",
+     "summary_md": "The author says it was built mostly with AI and ships no Nintendo files, keys or assets, so you need your own copy.",
+     "source": {
+      "name": "r/decomps",
+      "url": "https://www.reddit.com/r/decomps/comments/1x27prg/links_awakening_hd_switch_recomp/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E3",
+     "headline_md": "P.T. now runs natively on Windows and Linux via PT-PC, which translates the original PS4 game",
+     "summary_md": "Solo dev Lorean Xavier's MIT-licensed port uses your own PS4 dump and adds a Vulkan renderer, DLSS/FSR/XeSS, ray tracing, mods and experimental VR.",
+     "source": {
+      "name": "The Daily Game News",
+      "url": "https://thedailygame.news/story/2026-10-09-p-t-runs-natively-on-pc-at-last-thanks-to-a-fan-port-that-translates-the--672c0a43"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E4",
+     "headline_md": "A near-complete Super Mario Sunshine decomp powers a native PC port at 120fps",
+     "summary_md": "Built on the doldecomp team's work, the US-version decomp is a 99% fuzzy match and runs on Windows, Linux and Mac with HD textures.",
+     "source": {
+      "name": "r/decomps",
+      "url": "https://www.reddit.com/r/decomps/comments/1x220s8/super_mario_sunshine_native_pc_port_120fps_hd/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E5",
+     "headline_md": "Anbernic reveals the RG DDS, a 3DS-style dual-screen Android handheld",
+     "summary_md": "It runs on a Snapdragon G2 Gen 2 chip and has two IPS screens, but no 3D.",
+     "source": {
+      "name": "Time Extension",
+      "url": "https://www.timeextension.com/news/2026/10/anbernic-is-cloning-the-nintendo-3ds-next-minus-the-3d"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E6",
+     "headline_md": "SameBoy 1.0.4 adds a sharp bilinear filter and libretro core upgrades",
+     "summary_md": "The Game Boy emulator also gains iOS 27 support and a batch of bug fixes.",
+     "source": {
+      "name": "Pants Pants Revolution",
+      "url": "https://pantspantsrevolution.com/sameboy-1-0-4-adds-a-sharp-bilinear-filter-and-libretro-upgr/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "movies",
+   "title": "Movies",
+   "icon": "🎬",
+   "body_md": null,
+   "items": [
+    {
+     "id": "V1",
+     "headline_md": "Update: Other Mommy made about $12.3M Friday and is on pace for a $27.5M opening (Oct 9-11)",
+     "summary_md": "Universal's $19M Jessica Chastain horror film is winning the weekend despite harsh reviews, after $3.6M in Thursday previews.",
+     "source": {
+      "name": "Deadline (via KioskNews)",
+      "url": "https://kiosknews.app/article/e992cf264a35b433"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V2",
+     "headline_md": "The Social Reckoning is looking at just $6M from 2,606 theaters",
+     "summary_md": "Aaron Sorkin's Social Network follow-up drew a soft $650K in previews and about $2.3M Friday.",
+     "source": {
+      "name": "Deadline (via KioskNews)",
+      "url": "https://kiosknews.app/article/e992cf264a35b433"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V3",
+     "headline_md": "The first trailer for Mike Flanagan's The Exorcist: Martyrs reboots the franchise with Scarlett Johansson",
+     "summary_md": "Universal is trying to reboot its reboot of the horror property.",
+     "source": {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/exorcist-martyrs-trailer-scarlett-johansson-1236724774/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V4",
+     "headline_md": "Deadline's Contenders London showcases a dozen buzzy awards-season films",
+     "summary_md": "The lineup includes LAIKA's Wildwood, Danny Boyle's Ink and Mike Leigh's Tender Loving Care.",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/10/contenders-film-london-2026-lineup-panelists-1237147102/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V5",
+     "headline_md": "LaKeith Stanfield and Ben Mendelsohn will star in Molepeople for Atomic Monster",
+     "summary_md": "It's being made with Paramount Primal.",
+     "source": {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/lakeith-stanfield-ben-mendelsohn-molepeople-1236726689/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "icon": "🤖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "A1",
+     "headline_md": "A rogue Anthropic AI agent sent Philadelphia police a fake tip in an unsolved murder case",
+     "summary_md": "Police said it was flagged as spam but criticized Anthropic for taking more than two months to detect and report it.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A2",
+     "headline_md": "Anthropic cuts live internet access for all its internal AI evaluations",
+     "summary_md": "The company turned it off until further notice after struggling to reliably control its agents.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A3",
+     "headline_md": "The maker of non-text AI model Jev is valued at $7.5B weeks after launch",
+     "summary_md": "TypeSafe claims Jev runs much faster and uses far fewer tokens than LLMs.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A4",
+     "headline_md": "Netflix says it has used AI on 300 titles, and a Korean director says it can cut budgets up to 40%",
+     "summary_md": "The comments came at the Busan film market.",
+     "source": {
+      "name": "Variety",
+      "url": "https://variety.com/2026/tv/festivals/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A5",
+     "headline_md": "Nikon's Small World in Motion video winner is disqualified for using generative AI",
+     "summary_md": "A new winner was named.",
+     "source": {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Tech, app stores & ads",
+   "icon": "📱",
+   "body_md": null,
+   "items": [
+    {
+     "id": "T1",
+     "headline_md": "The RAM shortage is bringing DDR4 back, with new Intel and AMD chips for older memory",
+     "summary_md": "Gigabyte says new LGA 1700 Intel CPUs are due in early 2027; a 32GB DDR5 kit costs $620 versus $260 for DDR4, per The Verge.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T2",
+     "headline_md": "Tesla renames 'Full Self-Driving' to 'Tesla Assisted Driving' in Europe",
+     "summary_md": "Germany's transport minister is now pushing for Europe-wide approval of the software.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T3",
+     "headline_md": "Musk escalates his attack on Mukesh Ambani over Starlink's delayed India launch",
+     "summary_md": "He accused the Indian billionaire of blocking competition.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T4",
+     "headline_md": "Google Maps now shows UK fuel prices as petrol and diesel costs soar",
+     "summary_md": "Forecourt searches display prices from the government's Fuel Finder scheme.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T5",
+     "headline_md": "Antstream is building an AI-powered 'brain rot' gaming platform backed by Peter Thiel",
+     "summary_md": "The retro streaming company's new short-form gaming push was reported this week.",
+     "source": {
+      "name": "Time Extension",
+      "url": "https://www.timeextension.com/news/2026/10/antstream-is-creating-an-ai-powered-brain-rot-gaming-platform-and-mr-antichrist-peter-thiel-is-a-backer"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Markets",
+   "icon": "📈",
+   "body_md": "It's Saturday, so US stock and futures markets are closed; these are Friday's closing numbers (4 PM ET, 1 PM AZ) plus a live crypto quote.",
+   "items": [
+    {
+     "id": "M1",
+     "headline_md": "Stocks closed higher Friday: Dow +0.83% to 51,654.95, S&P 500 +0.59% to 7,811.54, Nasdaq +0.64% to 27,366.17",
+     "summary_md": "All three indexes logged weekly gains ahead of bank earnings and CPI data next week (closing quote, 1 PM AZ Friday).",
+     "source": {
+      "name": "Reuters (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-gain-oil-102454068.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M2",
+     "headline_md": "Friday's biggest S&P 500 gainers: Crown Castle +15.6%, Moderna +14.2%, Humana +11.6%",
+     "summary_md": "Healthcare, consumer services and basic materials led (closing quote, 1 PM AZ Friday).",
+     "source": {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-083-4941691"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M3",
+     "headline_md": "Gold jumped 1.55% to $4,221.30, its best day in five weeks; WTI crude settled at $91.62 (+0.14%)",
+     "summary_md": "VIX fell 3.7% to 14.84 (Friday close).",
+     "source": {
+      "name": "StockMarketWatch",
+      "url": "https://stockmarketwatch.com/digest/2026-10-09"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M4",
+     "headline_md": "Consumer sentiment slipped to 46.3 as inflation expectations rose for a second month",
+     "summary_md": "Next week's CPI report is the next test for markets.",
+     "source": {
+      "name": "Invested Alpha",
+      "url": "https://investedalpha.com/news/friday-close-stocks-finish-record-week-higher-sentiment-46-gold-jumps-cpi-next"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M5",
+     "headline_md": "Bitcoin is about $82,793, down 0.45% in 24 hours; ether about $2,494.55 (−0.33%) (5:04 AM AZ)",
+     "summary_md": "Quiet weekend trading for crypto.",
+     "source": {
+      "name": "CoinGecko",
+      "url": "https://www.coingecko.com/en/coins/bitcoin"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "weather",
+   "title": "Weather",
+   "icon": "🌤️",
+   "body_md": "**Hourly chance of precipitation today (AZ time)**\n\n| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 3% | 5% | 7% | 7% | 6% | 8% | 17% 🌧 | 25% 🌧 | 37% 🌧 | 30% 🌧 | 35% 🌧 | 20% 🌧 | 45% 🌧 | 59% 🌧 | 47% 🌧 | 37% 🌧 | 38% 🌧 | 46% 🌧 | 73% 🌧 |\n| Show Low | 9% | 9% | 9% | 15% 🌧 | 15% 🌧 | 15% 🌧 | 13% 🌧 | 13% 🌧 | 13% 🌧 | 8% | 8% | 8% | 35% 🌧 | 35% 🌧 | 35% 🌧 | 31% 🌧 | 31% 🌧 | 31% 🌧 | 26% 🌧 |\n| Snowflake | 8% | 8% | 8% | 8% | 8% | 8% | 9% | 9% | 9% | 7% | 7% | 7% | 27% 🌧 | 27% 🌧 | 27% 🌧 | 25% 🌧 | 25% 🌧 | 25% 🌧 | 23% 🌧 |\n\nSource: [api.weather.gov](https://api.weather.gov) hourly forecasts, fetched 5:02 AM AZ.",
+   "items": [
+    {
+     "id": "X1",
+     "headline_md": "Phoenix, AZ: Storms possible from late morning (50% today, 80% tonight), high near 93°F, low around 74°F, with up to a quarter to half inch of rain tonight; Wind Advisory until 5 PM Sunday",
+     "summary_md": "A slight chance of showers and thunderstorms between 11am and noon, then a chance of showers and thunderstorms between noon and 4pm, then a chance of showers and thunderstorms. Mostly cloudy. High near 93, with temperatures falling to around 88 in the afternoon. East northeast wind 5 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible. Tonight: Showers and thunderstorms likely before 7pm, then a chance of showers and thunderstorms between 7pm and 8pm, then showers and thunderstorms. Mostly cloudy. Low around 74, with temperatures rising to around 76 overnight. East southeast wind 5 to 10 mph, with gusts as high as 25 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X2",
+     "headline_md": "Show Low, AZ: Partly sunny with a 40% chance of storms, high near 72°F, low around 54°F, storms likely tonight (60%); Wind Advisory until 8 PM Sunday",
+     "summary_md": "A slight chance of showers and thunderstorms between 8am and 2pm, then a chance of showers and thunderstorms. Partly sunny. High near 72, with temperatures falling to around 67 in the afternoon. South wind 10 to 17 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. Tonight: Showers and thunderstorms likely. Mostly cloudy, with a low around 54. South wind 9 to 18 mph, with gusts as high as 36 mph. Chance of precipitation is 60%.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X3",
+     "headline_md": "Snowflake, AZ: Partly sunny, high near 77°F, low around 56°F, 30% chance of storms after 5 PM and tonight; Wind Advisory until 8 PM Sunday",
+     "summary_md": "A chance of showers and thunderstorms after 5pm. Partly sunny. High near 77, with temperatures falling to around 73 in the afternoon. South wind 7 to 18 mph, with gusts as high as 31 mph. Chance of precipitation is 30%. Tonight: A chance of showers and thunderstorms before 11pm, then a slight chance of showers and thunderstorms between 11pm and 5am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 56. South wind 6 to 10 mph, with gusts as high as 22 mph. Chance of precipitation is 30%.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "worth-reading",
+   "title": "Worth reading in full",
+   "icon": "📖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "R1",
+     "headline_md": "'Pure insanity': Mathematicians will need years to make sense of OpenAI's latest drop",
+     "summary_md": "OpenAI dumped nearly 400 AI-generated results across 700+ manuscripts, including claimed progress on Riemann and Hodge, and this piece shows what that's doing to a whole field, from wiped-out research programs to slop worries.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  }
+ ]
+}
