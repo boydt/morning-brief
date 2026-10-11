@@ -1,0 +1,549 @@
+{
+ "date": "2026-10-11",
+ "title": "Morning Brief",
+ "intro_md": "Type \"more on G3\" (or any code) in chat, or tap More info and paste the request in chat, for a deeper dive.",
+ "sections": [
+  {
+   "id": "world",
+   "title": "World",
+   "icon": "🌍",
+   "body_md": null,
+   "items": [
+    {
+     "id": "W1",
+     "headline_md": "Pope Leo XIV will have surgery after doctors found an early-stage nodule on his lung",
+     "summary_md": "The 71-year-old pope announced at Sunday prayers in St Peter's Square that he'll be operated on \"in the coming days\" for an early, well-localised nodule.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W2",
+     "headline_md": "Zelensky offers to stop hitting Russian refineries if Moscow stops striking Ukraine's grid, after Trump said Ukraine needs a new president",
+     "summary_md": "Trump blamed Zelensky for high diesel prices; Kyiv meanwhile hit a Yandex data center, its third strike on the company in four days.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/11/kyiv-pushes-back-on-trumps-call-for-a-new-ukrainian-president.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W3",
+     "headline_md": "Russian glide bombs kill at least 20, including four children, in Zaporizhzhia",
+     "summary_md": "At least 32 were injured and more are missing under rubble; Zelensky called it Russia's \"thanks\" for the US Russian-diesel deal.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W4",
+     "headline_md": "Trump says he'll \"look at\" joining Saudi Arabia against the Houthis after a deadly Riyadh airport attack",
+     "summary_md": "Saudi officials said the attack killed 12 and wounded more than 300, and the kingdom is asking the US for urgent defense support.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W5",
+     "headline_md": "The Justice Department is investigating TV networks over the White House press pool's coverage halt",
+     "summary_md": "DOJ's antitrust division is probing whether the five-network pool's boycott, after CNN, MS NOW and Politico were barred, broke antitrust law.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/11/doj-investigating-whether-white-house-pool-coverage-halt-violated-law.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W6",
+     "headline_md": "Update: Isaias killed four people and left about 670,000 without power across four states",
+     "summary_md": "The storm weakened to post-tropical after landfall, but surge, flash flooding and tornado risk remained across parts of the Southeast.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/10/isaias-weakens-to-category-1-hurricane-after-florida-landfall.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "title": "Business",
+   "icon": "💼",
+   "body_md": null,
+   "items": [
+    {
+     "id": "B1",
+     "headline_md": "After France, Goldman Sachs flags Italy's widening deficit as the next bond-market risk",
+     "summary_md": "Rome's extra €28B of defense and energy borrowing lifts its 2027 deficit target to 3.4% of GDP, with a budget due this week.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/11/italy-government-bonds-sovereign-debt-giorgia-meloni.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B2",
+     "headline_md": "UK diesel tops £2 a litre for the first time, squeezing charities and small firms",
+     "summary_md": "The RAC figure follows seven months of Iran-war disruption to oil and refined-product supplies.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vn4dzz08o"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B3",
+     "headline_md": "The administration suspends eight tech firms, including Microsoft, from sponsoring green cards",
+     "summary_md": "Vance claimed Microsoft replaced laid-off workers with H-1B hires; CNBC notes the top H-1B sponsors, Amazon and Meta, weren't suspended.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B4",
+     "headline_md": "UAW president Shawn Fain easily wins re-election despite an investigation",
+     "summary_md": "Challenger Rich Boyer got just 13% of the vote.",
+     "source": {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/10/uaw-president-shawn-fain-wins-re-election"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B5",
+     "headline_md": "Retailers from BJ's to Lululemon are cutting the number of products they carry to boost business",
+     "summary_md": "CNBC looks at why chains are trimming assortments.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "games",
+   "title": "Games & mobile",
+   "icon": "🎮",
+   "body_md": null,
+   "items": [
+    {
+     "id": "G1",
+     "headline_md": "Scopely takes a majority stake in Loom Games, the ~20-person studio behind hybrid-casual hit Pixel Flow!",
+     "summary_md": "Scopely says Pixel Flow! hit millions of daily players within months of launch and climbed the top-grossing charts; deal terms weren't disclosed.",
+     "source": {
+      "name": "Game Dev Wire",
+      "url": "https://gamedevwire.com/articles/scopely-acquires-majority-stake-in-loom-games-studio-behind-pixel-flow-e5386970"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G2",
+     "headline_md": "Meta unveils Horizon Create and Horizon Studio, AI tools that build mobile games from text prompts",
+     "summary_md": "Games made with the mobile app or browser editor can be published to Facebook, Instagram and Horizon; both are in early access via a waitlist.",
+     "source": {
+      "name": "Game Dev Wire",
+      "url": "https://gamedevwire.com/articles/meta-launches-horizon-create-and-studio-for-ai-driven-mobile-game-development-4ae6a900"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G3",
+     "headline_md": "GTA 6 leaker CyberLeek is reportedly threatening to release a full playable build",
+     "summary_md": "The leaker reportedly wants Take-Two to release the game physically.",
+     "source": {
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G4",
+     "headline_md": "Squadron 42 is up for Steam wishlisting ahead of a planned Q2 2027 release",
+     "summary_md": "Cloud Imperium's single-player space game stars Mark Hamill and Gary Oldman.",
+     "source": {
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net/squadron-42-steam-wishlist-q2-2027-release"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G5",
+     "headline_md": "Krafton pitches PUBG Ded.Net, a gameshow-style battle royale with a roguelite twist",
+     "summary_md": "Eurogamer's preview interview with the creative director on how Krafton hopes it becomes the next big battle royale.",
+     "source": {
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "emulation",
+   "title": "Video Game Emulation",
+   "icon": "🕹️",
+   "body_md": "Wii U lifter watch: still no public repo or release. This morning's GitHub search turned up only unrelated or spammy Wii U repos, and the newest r/decomps posts (read via RSS) had nothing from the lifter's author. No credible PS5 or Switch 2 breakthrough with a commercial game today.",
+   "items": [
+    {
+     "id": "E1",
+     "headline_md": "Hard Corps: Uprising's Xbox 360 XBLA version is recompiled into a native PC port",
+     "summary_md": "The port runs at up to 4x resolution.",
+     "source": {
+      "name": "r/decomps",
+      "url": "https://www.reddit.com/r/decomps/comments/1x2t2cj/hard_corps_uprising_recompiled_for_pc_native_port/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E2",
+     "headline_md": "RE:INTEGRAL, a native Windows source port of PS1 Metal Gear Solid Integral, reaches alpha 0.2",
+     "summary_md": "Built on FoxdieTeam's recovered C code, it adds widescreen, higher resolutions, gamepad support and a launcher; the dev says AI tools were used.",
+     "source": {
+      "name": "r/decomps",
+      "url": "https://www.reddit.com/r/decomps/comments/1x33ois/reintegral_metal_gear_solid_integral_ps1_native/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E3",
+     "headline_md": "Wario Land 4 (GBA) has been 100% decompiled",
+     "summary_md": "The milestone was posted to r/decomps; a full decomp makes native PC ports possible.",
+     "source": {
+      "name": "r/decomps",
+      "url": "https://www.reddit.com/r/decomps/comments/1x2w6ig/warioland_4_has_been_100_decompiled/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E4",
+     "headline_md": "A Windows fork of the native Bloodborne PC port adds frame generation, FSR 4.1.1 and mouse-and-keyboard",
+     "summary_md": "The fork builds on deadinside28's Linux port and Supermedo's Windows work; the maintainer reports 90-100 real fps at 1440p on an RTX 4070.",
+     "source": {
+      "name": "r/decomps",
+      "url": "https://www.reddit.com/r/decomps/comments/1x2zdt4/bloodborne_pc_port_revamped/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E5",
+     "headline_md": "Spider-Man 2 (Xbox) PC recomp update: saves now work, plus cheats and up to 4K rendering",
+     "summary_md": "The developer says graphics, audio and framerate are still being fixed, with some unstable runs expected.",
+     "source": {
+      "name": "r/decomps",
+      "url": "https://www.reddit.com/r/decomps/comments/1x32k95/sm2_recomp_update_spiderman_2_xbox_pc_recomp/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E6",
+     "headline_md": "Super ZSNES v0.320 adds initial RetroAchievements and new audio enhancements",
+     "summary_md": "Also reworked input, OBC1 emulation and a load-state confirmation popup; hardcore mode isn't in yet.",
+     "source": {
+      "name": "r/emulation",
+      "url": "https://www.reddit.com/r/emulation/comments/1x1uqsk/super_zsnes_v0320_release/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "movies",
+   "title": "Movies",
+   "icon": "🎬",
+   "body_md": null,
+   "items": [
+    {
+     "id": "V1",
+     "headline_md": "Update: Other Mommy is headed for about $28M, beating forecasts to win the Oct 9-11 weekend",
+     "summary_md": "The $19M Universal/Blumhouse horror film made $12.6M Friday from 3,200 theaters despite an 18% Rotten Tomatoes score.",
+     "source": {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/other-mommy-box-office-social-reckoning-opening-1236726908/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V2",
+     "headline_md": "Verity is sliding to about $12M in its second weekend, with Resident Evil near $8M and Heart of the Beast near $7M",
+     "summary_md": "Those are Saturday estimates; JoBlo also reports Other Mommy drew a D+ audience grade.",
+     "source": {
+      "name": "JoBlo",
+      "url": "https://www.joblo.com/box-office-update-other-mommy/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V3",
+     "headline_md": "Next weekend: Street Fighter (Oct 16) tracks at $30M-$40M, ahead of Whalefall ($10M-$15M) and Sense and Sensibility ($8M-$12M)",
+     "summary_md": "Clayface follows on Oct 23 at $23M-$33M, per Boxoffice Pro's tracking.",
+     "source": {
+      "name": "Boxoffice Pro",
+      "url": "https://www.boxofficepro.com/long-range-forecast-october-marches-on-with-wildwood-clayface-klara-and-the-sun-and-ali-g-who-iz-i/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V4",
+     "headline_md": "Alex Gibney's nearly four-hour Musk documentary opens in limited release to strong reviews",
+     "summary_md": "It leads a wave of films about tech and AI leaders; Elon Musk has attacked it on X.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V5",
+     "headline_md": "Keanu Reeves-voiced stop-motion samurai film Hidari seeks a new partner after US talks stalled",
+     "summary_md": "Variety reports from the Busan market.",
+     "source": {
+      "name": "Variety",
+      "url": "https://variety.com/2026/film/markets-festivals/keanu-reeves-hidari-new-partner-us-talks-stall-1236908055/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "icon": "🤖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "A1",
+     "headline_md": "Satya Nadella says AI models need an \"emergency brake\" and should be treated like insider risks",
+     "summary_md": "Microsoft's CEO called for containment, independent controls and industry standards so people can pause or shut down a model mid-task.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A2",
+     "headline_md": "Small third-party AI evaluators like METR, Apollo Research and Transluce are suddenly central to AI safety",
+     "summary_md": "Funding, access and reporting lines are still unsettled after Anthropic pledged to embed independent evaluators.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A3",
+     "headline_md": "A federal antitrust suit says McDonald's uses an AI \"pricing engine\" to overcharge customers",
+     "summary_md": "McDonald's denies pricing by individual willingness to pay; experts warn AI tools make personalized pricing easier.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A4",
+     "headline_md": "Apple strikes a reverse acqui-hire deal with AI personalized-podcast startup Huxe",
+     "summary_md": "An EU filing shows Apple will hire some Huxe staff and take a non-exclusive license to its tech.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A5",
+     "headline_md": "Filmmakers on a Kling AI panel in Busan say AI productions still need traditional craft to look cinematic",
+     "summary_md": "\"You need experts to prevent everything looking the same,\" panelists said.",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/10/ai-filmmaking-kling-ai-kim-sung-soo-mbc-busan-1237154243/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Tech, app stores & ads",
+   "icon": "📱",
+   "body_md": null,
+   "items": [
+    {
+     "id": "T1",
+     "headline_md": "Cloudflare is acquiring Deno, maker of the JavaScript runtime",
+     "summary_md": "Cloudflare says it will use Deno to improve its Workers programming model and platform.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T2",
+     "headline_md": "A suspected spy implant in some Ledger hardware wallets may be behind an $86M crypto theft",
+     "summary_md": "Reports of thefts point to a possible supply-chain attack.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T3",
+     "headline_md": "Apple's redesigned MacBook Pro may reach the entry-level M7 model as soon as spring 2027",
+     "summary_md": "9to5Mac, citing Bloomberg's Mark Gurman, says the redesign won't take its usual time to trickle down.",
+     "source": {
+      "name": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/10/m7-macbook-pro-redesign-next-spring/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T4",
+     "headline_md": "DistroKid has been quietly taking down songs in response to UMG's lawsuit",
+     "summary_md": "Artists say the music distributor isn't being transparent about the removals.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Markets",
+   "icon": "📈",
+   "body_md": "It's Sunday, so US stock index futures haven't opened yet (they reopen at 3 PM AZ). Friday's closes were in yesterday's brief.",
+   "items": [
+    {
+     "id": "M1",
+     "headline_md": "Bitcoin is about $83,132 (+0.40% in 24 hours) and ether about $2,505.94 (+0.48%) as of 5:07 AM AZ",
+     "summary_md": "Crypto was little changed overnight.",
+     "source": {
+      "name": "CoinGecko",
+      "url": "https://www.coingecko.com/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M2",
+     "headline_md": "Bank earnings kick off Tuesday with JPMorgan, Goldman, Citi and Wells Fargo, then Morgan Stanley and BofA Wednesday",
+     "summary_md": "25 S&P 500 companies report this week, after the index hit a record last week amid rising yields and high oil.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/11/bank-earnings-jpmorgan-goldman.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "weather",
+   "title": "Weather",
+   "icon": "🌤️",
+   "body_md": "**Hourly chance of precipitation today (AZ time)**\n\n| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 54% 🌧 | 79% 🌧 | 69% 🌧 | 49% 🌧 | 45% 🌧 | 32% 🌧 | 26% 🌧 | 25% 🌧 | 24% 🌧 | 31% 🌧 | 32% 🌧 | 29% 🌧 | 24% 🌧 | 24% 🌧 | 25% 🌧 | 21% 🌧 | 23% 🌧 | 19% 🌧 | 22% 🌧 |\n| Show Low | 50% 🌧 | 50% 🌧 | 50% 🌧 | 50% 🌧 | 50% 🌧 | 50% 🌧 | 81% 🌧 | 81% 🌧 | 81% 🌧 | 81% 🌧 | 81% 🌧 | 81% 🌧 | 52% 🌧 | 52% 🌧 | 52% 🌧 | 52% 🌧 | 52% 🌧 | 52% 🌧 | 44% 🌧 |\n| Snowflake | 35% 🌧 | 35% 🌧 | 35% 🌧 | 35% 🌧 | 35% 🌧 | 35% 🌧 | 59% 🌧 | 59% 🌧 | 59% 🌧 | 59% 🌧 | 59% 🌧 | 59% 🌧 | 23% 🌧 | 23% 🌧 | 23% 🌧 | 23% 🌧 | 23% 🌧 | 23% 🌧 | 18% 🌧 |\n\n_Source: api.weather.gov hourly forecast (probabilityOfPrecipitation), fetched 5:06 AM AZ Oct 11._",
+   "items": [
+    {
+     "id": "X1",
+     "headline_md": "Phoenix, AZ: Storms through about 1 PM (80% today), high near 86°F, low tonight around 70°F; Wind Advisory until 5 PM",
+     "summary_md": "Gusts to 35 mph today, with less than a tenth of an inch of new rain expected; tonight a 40% chance of storms.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X2",
+     "headline_md": "Show Low, AZ: Showers and storms (80%), high near 63°F, low tonight around 48°F; Wind Advisory until 8 PM",
+     "summary_md": "South winds 24-31 mph with gusts to 44 mph; 50% chance of storms tonight. NWS didn't give rain amounts.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X3",
+     "headline_md": "Snowflake, AZ: Storms likely (60%), high near 68°F, low tonight around 49°F; Wind Advisory until 8 PM",
+     "summary_md": "Gusts to 49 mph; a 20% chance of showers tonight. NWS didn't give rain amounts.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "worth-reading",
+   "title": "Worth reading in full",
+   "icon": "📖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "R1",
+     "headline_md": "Young men in Myanmar live in fear of being snatched off the streets and sold to the army",
+     "summary_md": "BBC's on-the-ground report from Hpa-An shows how the junta's recruitment quotas have turned into abductions and extortion; it's a vivid look at a war most coverage misses.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  }
+ ]
+}
