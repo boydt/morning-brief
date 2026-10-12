@@ -1,0 +1,615 @@
+{
+ "date": "2026-10-12",
+ "title": "Morning Brief",
+ "intro_md": "Type \"more on G3\" (or any code) in chat, or tap More info and paste the request in chat, for a deeper dive.",
+ "sections": [
+  {
+   "id": "world",
+   "title": "World",
+   "icon": "🌍",
+   "body_md": null,
+   "items": [
+    {
+     "id": "W1",
+     "headline_md": "Update: Saudi Arabia vows a 'serious' response as Houthi strikes keep hitting, and a slew of countries warn against travel",
+     "summary_md": "Riyadh airport stayed shut after Saturday's strike killed 12 and injured 300+, and the US, UK, Australia, Japan and others now advise against travel to the kingdom.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W2",
+     "headline_md": "Update: Trump declares an 'energy ceasefire' between Russia and Ukraine, but Kyiv reports new attacks on its energy sites",
+     "summary_md": "Trump gave no details; Zelensky says Ukraine will honor it if Russia does, while the Kremlin rejected his 60-day truce offer.",
+     "source": {
+      "name": "NPR",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W3",
+     "headline_md": "At least 139 migrants, including 15 children, die after a boat capsizes off Djibouti",
+     "summary_md": "The boat was carrying 305 people toward Yemen; about 82 were rescued and dozens are still missing, the UN migration agency says.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W4",
+     "headline_md": "Poland detains a man suspected of plotting to assassinate PM Donald Tusk",
+     "summary_md": "Police had received credible information about planned attacks on Tusk and his defence minister, and officials called the threat \"deadly serious.\"",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W5",
+     "headline_md": "A 14-year-old is arrested after a principal and a teacher are shot at a French middle school",
+     "summary_md": "The shooting happened Monday morning in Aubagne; no children were hurt and the injuries aren't life-threatening.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W6",
+     "headline_md": "Hurricane Simon pounds Mexico's Pacific coast near Puerto Vallarta",
+     "summary_md": "The storm hugged the coast as a Category 3 on Sunday, with its worst wind and rain expected overnight into Monday morning.",
+     "source": {
+      "name": "NPR",
+      "url": "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W7",
+     "headline_md": "A federal judge orders the Trump administration to stop airing taxpayer-funded TV ads featuring the president",
+     "summary_md": "The order also blocks DHS from spending more of the $20M ad budget, about $19M of which is already spent.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "title": "Business",
+   "icon": "💼",
+   "body_md": null,
+   "items": [
+    {
+     "id": "B1",
+     "headline_md": "Americans Robert E. Hall and Michael Woodford win the Nobel prize in economics",
+     "summary_md": "They were honored for work underpinning the models central banks use to smooth out booms and busts, and will split a 12 million kronor ($1.2M) prize.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B2",
+     "headline_md": "BBC Panorama finds Deloitte helped falsify documents that hid Roman Abramovich's wealth from tax",
+     "summary_md": "Accounts signed off in Cyprus made superyachts, mansions and jets worth $672M vanish from his company books.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B3",
+     "headline_md": "The EU will cap imports of Chinese hybrid cars at 350,000 a year",
+     "summary_md": "Brussels is using WTO rules to impose the quota quickly, which would roughly halve China's share of that market to 3%.",
+     "source": {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B4",
+     "headline_md": "India's inflation jumps to 5.54% in September, a 22-month high",
+     "summary_md": "It beat the 5.40% forecast and marks 11 straight months of increases, raising the odds of another rate hike.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/india-inflation-oil-energy-iran-war.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B5",
+     "headline_md": "China is importing record amounts of gold",
+     "summary_md": "The central bank bought about 23 tonnes in September, its biggest month in almost three years and its 23rd straight month of buying.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B6",
+     "headline_md": "Stellantis' CEO urges Europe to reward carmakers that build locally as Chinese rivals gain ground",
+     "summary_md": "Antonio Filosa spoke ahead of the Paris Motor Show amid falling sales.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/stellantis-europe-cars-chinese-rivals-evs.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "games",
+   "title": "Games & mobile",
+   "icon": "🎮",
+   "body_md": null,
+   "items": [
+    {
+     "id": "G1",
+     "headline_md": "Fingersoft is shutting down Lego Hill Climb Adventures but keeping all its staff",
+     "summary_md": "In-app purchases stop Oct 23 and the game leaves app stores in December, though existing players keep access into 2027.",
+     "source": {
+      "name": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/lego-hill-climb-adventures-to-end-service-but-all-staff-kept-on/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G2",
+     "headline_md": "Devsisters is making a CookieRun feature film with Big Shot Pictures, aimed at 2029",
+     "summary_md": "The mobile franchise has drawn more than 350M players and over $1B in lifetime revenue.",
+     "source": {
+      "name": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/devsisters-partners-with-big-shot-pictures-for-cookierun-film/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G3",
+     "headline_md": "Roblox brings the Audioscape team in-house to build AI audio tools for creators",
+     "summary_md": "Audioscape's tech finds sounds by how they sound and includes an AI audio agent for sound design and mixing.",
+     "source": {
+      "name": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/roblox-brings-audioscape-team-in-house-to-develop-ai-audio-tools/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G4",
+     "headline_md": "Steam sets a new concurrent-user record of more than 43 million",
+     "summary_md": "More than 14M were in-game at once, also a record; it's Steam's second record this year after 42M in January.",
+     "source": {
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G5",
+     "headline_md": "Nintendo says it has \"no plans to ditch physical games\"",
+     "summary_md": "Latin America chief Bill van Zyll said Switch 2 supports both formats, after Sony said PlayStation will go discless by 2028.",
+     "source": {
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net/nintendo-executive-confirms-company-has-no-plans-to-ditch-physical-games"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G6",
+     "headline_md": "Gears of War: E-Day's server crashes and login problems were caused by DDoS attacks",
+     "summary_md": "The Coalition says it's still monitoring and mitigating the attacks.",
+     "source": {
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "emulation",
+   "title": "Video Game Emulation",
+   "icon": "🕹️",
+   "body_md": "Wii U lifter watch: still no public repo or release from the r/decomps general Wii U lifter. This morning's GitHub and web searches turned up only other early Wii U projects (for example a new Captain Toad recomp prototype for Android that isn't playable yet). Reddit blocked direct reads again today (403/429), so r/decomps and r/emulation weren't checked directly. No PS5 or Switch 2 breakthroughs today.",
+   "items": [
+    {
+     "id": "E1",
+     "headline_md": "Splinter Cell: Double Agent's original Xbox version gets an unofficial native PC port via static recompilation",
+     "summary_md": "SCDA-XBERecomp needs your own game ISO and adds raw mouse input plus split-screen, LAN and online co-op.",
+     "source": {
+      "name": "GitHub",
+      "url": "https://github.com/TGP482/SCDA-XBERecomp"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E2",
+     "headline_md": "Dragon Quest IV (DS) hits 1.0 as a native Windows port built from its decompilation",
+     "summary_md": "It joins both screens into one 16:9 HD picture and adds the mobile version's HD sound, restored party chat and gamepad support.",
+     "source": {
+      "name": "Woodus forums",
+      "url": "https://www.woodus.com/forums/topic/42827-10-dragon-quest-iv-native-pc-version/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E3",
+     "headline_md": "Digimon World 2 (PS1) now runs natively on Windows and Linux with DW2-PC",
+     "summary_md": "The port is built from the game's decompilation, adds widescreen and faster dungeon runs, and needs your own US disc image.",
+     "source": {
+      "name": "GenerationAmiga",
+      "url": "https://www.generationamiga.com/2026/10/11/digimon-world-2-comes-to-pc-with-native-windows-and-linux-support/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E4",
+     "headline_md": "Saturn emulator erings reaches 1.0 with GPU compute-shader rendering and resolution upscaling",
+     "summary_md": "It also brings big performance gains and falls back to software rendering on GPUs that lack the needed features.",
+     "source": {
+      "name": "John's Blog",
+      "url": "https://nachtimwald.com/2026/10/11/erings-1.0-release"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E5",
+     "headline_md": "ScummVM 2026.4.0 lands on the project's 25th anniversary with 194 newly supported games and 12 new engines",
+     "summary_md": "Additions include FTL's 1987 dungeon crawler Dungeon Master, plus faster AdLib sound and fixes across 17 engines.",
+     "source": {
+      "name": "ScummVM",
+      "url": "https://www.scummvm.org/news/20261011/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E6",
+     "headline_md": "The Super Mario Kart Deluxe SNES ROM hack is set to release on Dec 25, 2026",
+     "summary_md": "It adds new characters, items and courses without overwriting the original game's content.",
+     "source": {
+      "name": "Time Extension",
+      "url": "https://www.timeextension.com/features/interview-we-dont-want-this-to-be-a-forever-project-super-mario-kart-dx-dev-on-the-impressive-snes-rom-hack-nearing-the-finish-line"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "movies",
+   "title": "Movies",
+   "icon": "🎬",
+   "body_md": null,
+   "items": [
+    {
+     "id": "V1",
+     "headline_md": "Update: Sunday estimates for Oct 9-11 have Other Mommy at $27.5M, ahead of Verity ($11.5M), Resident Evil ($8.4M), Heart of the Beast ($7.1M) and The Social Reckoning ($5.5M)",
+     "summary_md": "The weekend totaled about $85.2M domestic, down 15.6% from last weekend but up 18.5% from the same weekend in 2025.",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/10/box-office-other-mommy-social-reckoning-1237151001/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V2",
+     "headline_md": "Other Mommy is a clear money-maker despite an 18% Rotten Tomatoes score and a D+ CinemaScore",
+     "summary_md": "It cost about $19M and already stands at $45.2M worldwide after #1 openings in most foreign markets.",
+     "source": {
+      "name": "Boxoffice Pro",
+      "url": "https://www.boxofficepro.com/weekend-box-office-other-mommy-tops-market-on-opening-weekend/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V3",
+     "headline_md": "Tom Cruise's Digger could lose $245M after dropping about 60% in its second weekend",
+     "summary_md": "It has grossed around $35M worldwide against an estimated $280M to make and market.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V4",
+     "headline_md": "Self-distributed Gaza documentary NAZA passes $500K as it expands to 30 cities",
+     "summary_md": "The Venice special jury prize winner has no distributor and has drawn protests.",
+     "source": {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/naza-gaza-documentary-idf-box-office-release-1236727567/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V5",
+     "headline_md": "Update: Street Fighter opens Friday (Oct 16), and Box Office Theory's latest forecast is $25M-$35M",
+     "summary_md": "That's a bit below Boxoffice Pro's earlier $30M-$40M range.",
+     "source": {
+      "name": "Box Office Theory",
+      "url": "https://boxofficetheory.com/4-week-box-office-tracking-forecasts-street-fighter-clayface-godzilla-minus-zero-cat-in-the-hat/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V6",
+     "headline_md": "A new trailer for Godzilla Minus Zero, the sequel to Godzilla Minus One, dropped at New York Comic Con",
+     "summary_md": "It came alongside the full trailer for Prime Video's Blade Runner 2099 series.",
+     "source": {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "icon": "🤖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "A1",
+     "headline_md": "Microsoft president Brad Smith says AI is less regulated than milk and calls for global safety rules",
+     "summary_md": "He wants a legal duty to tell victims when a rogue AI agent breaches them, and rules on when outside evaluators must sign off.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A2",
+     "headline_md": "The IMF's Georgieva says AI is hitting jobs like a \"slow-moving tsunami,\" with young graduates most exposed",
+     "summary_md": "A World Bank jobs council is urging crisis-era employment support measures.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A3",
+     "headline_md": "The CEOs of Intel and Broadcom warn that access to capital could become AI's biggest bottleneck",
+     "summary_md": "Broadcom's Hock Tan said financing may matter more than chip, memory or power shortages.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A4",
+     "headline_md": "TikTok CEO Shou Zi Chew expects AI-driven scientific breakthroughs within two to three years",
+     "summary_md": "He named physics, biotech, chemistry and materials science, and said autonomous systems will need stronger safeguards.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A5",
+     "headline_md": "Silicon Valley leaders are adopting Trump's 'super intelligence' rebrand of AI",
+     "summary_md": "The Verge says Musk, Benioff, Huang and now Nadella have gone along with it.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Tech, app stores & ads",
+   "icon": "📱",
+   "body_md": "No major app-store, ad-monetization or design-tool changes turned up in the last 24 hours.",
+   "items": [
+    {
+     "id": "T1",
+     "headline_md": "Apple's HomeView smart-home hub will reportedly be announced Tuesday and ship in mid-November",
+     "summary_md": "Bloomberg's Gurman says it has an A18 chip, a floating display on a speaker base, and comes in four colors.",
+     "source": {
+      "name": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/11/apple-homeview-home-hub-four-colors-november/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T2",
+     "headline_md": "The OLED iPad mini may cost about $799, roughly $200 more than today's model",
+     "summary_md": "That would price it above the 11-inch iPad Air, according to Gurman.",
+     "source": {
+      "name": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/11/ipad-mini-oled-higher-price/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T3",
+     "headline_md": "Flock refused an Illinois college's request to remove its cameras, then uncovered them after the school covered them",
+     "summary_md": "Elgin Community College tried to cancel its contract with the surveillance company.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T4",
+     "headline_md": "US limits on Chinese drones are driving up costs for cash-strapped police departments",
+     "summary_md": "Many forces rely on cheap, high-quality Chinese drones for jobs like SWAT standoffs.",
+     "source": {
+      "name": "NPR",
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5888604/police-chinese-drones-bans-costs"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T5",
+     "headline_md": "NASA has posted more than 800GB of Artemis II images, audio and video online",
+     "summary_md": "It gives an unusually detailed look inside the crewed lunar mission.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Markets",
+   "icon": "📈",
+   "body_md": "US markets are open today; bank earnings start Tuesday.",
+   "items": [
+    {
+     "id": "M1",
+     "headline_md": "US stock futures are slightly higher: Dow +0.22% to 52,038, S&P 500 +0.25% to 7,879.75, Nasdaq +0.12% to 31,144.75",
+     "summary_md": "Quoted at 4:25 AM ET (1:25 AM AZ).",
+     "source": {
+      "name": "CNN",
+      "url": "https://www.cnn.com/markets/premarkets"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M2",
+     "headline_md": "Oil reversed early losses: Brent rose 0.92% to $105.68 and WTI 0.95% to $92.72",
+     "summary_md": "Prices had fallen about 1.5% earlier on Trump's 'energy ceasefire' before doubts about the supply boost set in (CNBC report at 4:37 AM AZ).",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M3",
+     "headline_md": "Bitcoin is about $83,257 (+0.17% in 24 hours) and ether about $2,541 (+1.44%)",
+     "summary_md": "Quoted at 5:09 AM AZ.",
+     "source": {
+      "name": "CoinGecko",
+      "url": "https://www.coingecko.com/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "weather",
+   "title": "Weather",
+   "icon": "🌤️",
+   "body_md": "**Hourly chance of precipitation today (AZ time)**\n\n| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 28% 🌧 | 28% 🌧 | 28% 🌧 | 27% 🌧 | 27% 🌧 | 27% 🌧 | 43% 🌧 | 52% 🌧 | 46% 🌧 | 36% 🌧 | 35% 🌧 | 29% 🌧 | 15% 🌧 | 18% 🌧 | 15% 🌧 | 16% 🌧 | 23% 🌧 | 24% 🌧 | 41% 🌧 |\n| Show Low | 23% 🌧 | 23% 🌧 | 23% 🌧 | 23% 🌧 | 23% 🌧 | 23% 🌧 | 21% 🌧 | 21% 🌧 | 21% 🌧 | 21% 🌧 | 21% 🌧 | 21% 🌧 | 30% 🌧 | 30% 🌧 | 30% 🌧 | 30% 🌧 | 30% 🌧 | 30% 🌧 | 57% 🌧 |\n| Snowflake | 13% | 13% | 13% | 13% | 13% | 13% | 12% 🌧 | 12% 🌧 | 12% 🌧 | 12% 🌧 | 12% 🌧 | 12% 🌧 | 14% | 14% | 14% | 14% | 14% | 14% | 34% 🌧 |\n\nSource: api.weather.gov hourly forecasts (probabilityOfPrecipitation), fetched 5:07 AM AZ. 🌧 means the hourly forecast names rain, showers or storms. No active weather alerts for any of the three towns.",
+   "items": [
+    {
+     "id": "X1",
+     "headline_md": "Phoenix, AZ: Partly sunny with a 50% chance of showers and storms, high near 81°F; tonight storms likely (70%), low around 66°F",
+     "summary_md": "Rain under a tenth of an inch, with south winds gusting to 25 mph; no active alerts.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X2",
+     "headline_md": "Show Low, AZ: Partly sunny and windy with a 30% chance of showers and storms, high near 62°F; tonight storms likely (60%), low around 49°F",
+     "summary_md": "South winds of 22-26 mph gusting to 37 mph; no active alerts.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X3",
+     "headline_md": "Snowflake, AZ: Sunny and windy, high near 64°F, a slight chance of storms 11 AM-5 PM; tonight low around 49°F with a 30% chance of showers after 11 PM",
+     "summary_md": "South winds of 17-28 mph gusting to 40 mph; no active alerts.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "worth-reading",
+   "title": "Worth reading in full",
+   "icon": "📖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "R1",
+     "headline_md": "American ranchers wrestle with soaring costs, and their loyalty to Trump",
+     "summary_md": "A ground-level look at farm-state voters squeezed from all sides weeks before the midterms.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  }
+ ]
+}
