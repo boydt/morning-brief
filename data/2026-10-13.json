@@ -1,648 +1,648 @@
 {
- "date": "2026-10-13",
- "title": "Morning Brief",
- "intro_md": "Type \"more on G3\" (or any code) in chat, or tap More info and paste the request into chat, for a deeper dive.",
- "sections": [
-  {
-   "id": "world",
-   "title": "World",
-   "icon": "🌍",
-   "body_md": null,
-   "items": [
+  "date": "2026-10-13",
+  "title": "Morning Brief",
+  "intro_md": "Type \"more on G3\" (or any code) in chat, or tap More info and paste the request into chat, for a deeper dive.",
+  "sections": [
     {
-     "id": "W1",
-     "headline_md": "Federal immigration agents search Rep. Ilhan Omar's Washington home",
-     "summary_md": "Omar, an outspoken Trump critic, called the search \"an attempt to target political enemies\" and said she \"will not be silenced\".",
-     "source": {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o"
-     },
-     "details_md": null,
-     "details_updated": null
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Federal immigration agents search Rep. Ilhan Omar's Washington home",
+          "summary_md": "Omar, an outspoken Trump critic, called the search \"an attempt to target political enemies\" and said she \"will not be silenced\".",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Bulgaria summons Russia's ambassador after a merchant ship is sunk in a Black Sea drone attack",
+          "summary_md": "Local officials say 11 crew members are missing after the ship went down overnight.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Iran is reportedly fortifying its nuclear sites as it prepares for possible US strikes after the midterms",
+          "summary_md": "The report comes as Houthi attacks on Saudi airports continue and a Saudi-led coalition says it intercepted another attack on Riyadh.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Pakistan imposes emergency rule in the province governed by Imran Khan's party",
+          "summary_md": "The province is the stronghold of the imprisoned former prime minister's political party.",
+          "source": {
+            "name": "NPR",
+            "url": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "India's 'cockroach' protest leaders are detained after climbing barricades in central Delhi",
+          "summary_md": "Protesters are demanding the election chief resign over revised voter lists.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W6",
+          "headline_md": "One person dies in a rollercoaster incident at Six Flags in Georgia",
+          "summary_md": "Footage shows a stuck coaster on the park's Goliath ride; Six Flags shares fell about 13% in early premarket trading.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W7",
+          "headline_md": "The 'super El Niño' strengthens to record levels on several key measures",
+          "summary_md": "BBC Weather's Simon King compares it with previous events.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
     },
     {
-     "id": "W2",
-     "headline_md": "Bulgaria summons Russia's ambassador after a merchant ship is sunk in a Black Sea drone attack",
-     "summary_md": "Local officials say 11 crew members are missing after the ship went down overnight.",
-     "source": {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o"
-     },
-     "details_md": null,
-     "details_updated": null
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "UnitedHealth beats estimates and raises its 2026 profit outlook",
+          "summary_md": "It now expects adjusted earnings of at least $20.50 a share, up from $19.50-$20.00, as it manages high medical costs.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/13/unitedhealth-group-unh-earnings-q3-2026.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "Bumble is in talks about a $1bn takeover, reports say",
+          "summary_md": "The dating app, which recently dropped its \"women-first\" chat rule, could be bought by an investment firm.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "Beijing gives Visa the green light for a domestic bank-card business",
+          "summary_md": "The approval comes after 40 years of working with China and ahead of the third US-China presidents' meeting of the year next month.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "The IMF upgrades UK growth for this year but warns higher energy prices will hit the economy next year",
+          "summary_md": "The forecast lands as final preparations are made for the first Budget under Prime Minister Andy Burnham.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B5",
+          "headline_md": "UK discount chain Poundland is in rescue talks as its owners seek a buyer",
+          "summary_md": "Management is attempting a buyout, but a union warns the retailer could fall into administration.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B6",
+          "headline_md": "The owner of Phase Eight and Hobbs is hit by a cyber-attack, while H&M probes a separate hack claim",
+          "summary_md": "It's the latest in a string of retail cyber incidents in the UK.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cwly38gjkejko"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
     },
     {
-     "id": "W3",
-     "headline_md": "Iran is reportedly fortifying its nuclear sites as it prepares for possible US strikes after the midterms",
-     "summary_md": "The report comes as Houthi attacks on Saudi airports continue and a Saudi-led coalition says it intercepted another attack on Riyadh.",
-     "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html"
-     },
-     "details_md": null,
-     "details_updated": null
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "Mobile game in-app purchases fell 7% year over year to $19.6B in Q3",
+          "summary_md": "Aream & Co's Q3 report says no new release broke into the top-grossing charts this year, and console game revenue fell 12%.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/mobile-game-iaps-down-7-as-no-new-releases-break-top-grossing-charts-this-year/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "Games M&A held steady in Q3 with 54 deals worth $57.8B, led by EA's $55B leveraged buyout",
+          "summary_md": "Aream & Co counted the same pace of transactions as previous quarters.",
+          "source": {
+            "name": "GamesIndustry.biz",
+            "url": "https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "Epic Games delays its Marvel and Star Wars shooter and tells developers to go \"AI first\"",
+          "summary_md": "The report says the Fortnite maker wants \"no more hand-written code\" for the Disney collaboration.",
+          "source": {
+            "name": "GamesIndustry.biz",
+            "url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "Dragon Quest creator Yuji Horii releases a game he says he made with AI in about 30 minutes",
+          "summary_md": "It's one of the most prominent veteran designers to publicly ship a prompt-built game.",
+          "source": {
+            "name": "GamesIndustry.biz",
+            "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes"
+          },
+          "details_md": "### What the game is\n*Komiya in the Interrogation Room* (取調室の小宮) is a short, text-based police interrogation mystery ([Inven Global](https://www.invenglobal.com/articles/27015/dragon-quest-creator-yuji-horii-releases-free-ai-mystery-game-built-in-about-30-minutes)). You question Komiya, a 72-year-old former locksmith, about a break-in at a pawnshop safe. You have until his lawyer arrives at 11pm to get statements out of him, then use evidence to expose his lies. Higher agitation makes him easier to crack, but if his resistance hits 100 he stops talking ([GamesIndustry.biz](https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes)). Your final rating depends on how many lies you uncover ([Hitmarker](https://hitmarker.net/news/dragon-quest-creator-yuji-horii-releases-an-ai-made-mystery-game-he-says-took-around-30-minutes-to-create-5189208)).\n\n### Where to play and how it was made\nHorii posted it on X on October 11. It's free in the browser through an Anthropic Claude Artifact link ([Inven Global](https://www.invenglobal.com/articles/27015/dragon-quest-creator-yuji-horii-releases-free-ai-mystery-game-built-in-about-30-minutes)), and Famitsu and Denfaminicogamer reported the same Claude-hosted link ([Hitmarker](https://hitmarker.net/news/dragon-quest-creator-yuji-horii-releases-an-ai-made-mystery-game-he-says-took-around-30-minutes-to-create-5189208)). Several outlets name Claude as the tool ([Polygon](https://www.polygon.com/dragon-quest-creator-yuji-horii-new-ai-game/), [Creative Bloq](https://www.creativebloq.com/news/dragon-quests-creator-made-a-game-with-ai-in-30-minutes-and-its-a-bit-of-a-wake-up-call)). The game is only in Japanese ([Creative Bloq](https://www.creativebloq.com/news/dragon-quests-creator-made-a-game-with-ai-in-30-minutes-and-its-a-bit-of-a-wake-up-call)). I couldn't open Horii's X post directly, and none of the reports I read say which Claude model or what prompts he used.\n\n### What Horii said\nHe compared it to making *The Portopia Serial Murder Case* in 1983, when he wrote the story, drew the art and did the programming himself ([GamesIndustry.biz](https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes)). Nintendo Life quotes his post in English: \"by using AI, even if I can't draw pictures or program, I can just give instructions to the AI and create a decent game all by myself. It's truly astonishing… the production time for the game below was just about 30 minutes. Oh, and don't press the boost button\" ([Nintendo Life](https://www.nintendolife.com/news/2026/10/its-truly-astonishing-dragon-quest-creator-yuji-horii-made-an-ai-generated-game-in-30-minutes)).\n\n### Reactions\nPolygon says the release drew \"some backlash\" ([Polygon](https://www.polygon.com/dragon-quest-creator-yuji-horii-new-ai-game/)). Creative Bloq gave it a cautious welcome. It said 30 minutes gets you \"a small mystery, not a commercial game release,\" but that fast prototyping is valuable for solo developers ([Creative Bloq](https://www.creativebloq.com/news/dragon-quests-creator-made-a-game-with-ai-in-30-minutes-and-its-a-bit-of-a-wake-up-call)). I didn't find any measured data on how players responded.\n\n### Context\nHorii talked about AI-assisted mystery games at G-Star 2025 ([Hitmarker](https://hitmarker.net/news/dragon-quest-creator-yuji-horii-releases-an-ai-made-mystery-game-he-says-took-around-30-minutes-to-create-5189208)). Earlier this year, Square Enix teamed up with Google to put a Gemini-powered chatbot called Chatty Slimey into *Dragon Quest X*. Horii defended that choice in a Famitsu interview. He's also working on *Dragon Quest 12* and *Next: The Portopia Serial Murder Case*, which is due in 2027 ([GamesIndustry.biz](https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes)).\n",
+          "details_updated": "2026-10-13T07:19:25-07:00"
+        },
+        {
+          "id": "G5",
+          "headline_md": "No Man's Sky is coming to iPhone and iPad on Oct 28",
+          "summary_md": "Hello Games says the mobile version is partly thanks to work on its next game, Light No Fire.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G6",
+          "headline_md": "Casual game store Legacy Games is shutting down, and purchases won't be re-downloadable",
+          "summary_md": "After February 2027 players can no longer download or install games they bought, despite the store's 'keep forever' slogan.",
+          "source": {
+            "name": "VGC",
+            "url": "https://www.videogameschronicle.com/news/casual-game-store-legacy-games-is-shutting-down-purchases-wont-be-re-downloadable-despite-keep-forever-slogan/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
     },
     {
-     "id": "W4",
-     "headline_md": "Pakistan imposes emergency rule in the province governed by Imran Khan's party",
-     "summary_md": "The province is the stronghold of the imprisoned former prime minister's political party.",
-     "source": {
-      "name": "NPR",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold"
-     },
-     "details_md": null,
-     "details_updated": null
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "No sign yet of the r/decomps Wii U lifter going public: GitHub and web searches turned up only older Wii U recompilers (nWiiURecomp, last updated Aug 5, and DolRecomp's experimental Wii U mode). Reddit blocked my server requests again (403), so r/emulation and r/decomps couldn't be read directly today.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "Update: LASRecomp, the Switch Link's Awakening PC recomp, moves into beta with Beta 2",
+          "summary_md": "Beta 2 (Oct 11 evening AZ) fixes a randomizer item-pickup crash, Windows Vulkan flicker and start-screen controller input, and adds SMAA, AMD FSR1 upscaling and a 4x (8K) resolution cap to stop VRAM crashes; it's not 1.0 yet.",
+          "source": {
+            "name": "GitHub (LASRecomp)",
+            "url": "https://github.com/peiikai/LASRecomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "ProsperoEden runs Switch games natively on jailbroken PS5s, and its Oct 11 build adds online Eden rooms",
+          "summary_md": "The open-source port of the Eden emulator skips any Linux layer; Cuphead hits 60 FPS and Super Mario 3D World is playable in tested stages, while heavier games still struggle.",
+          "source": {
+            "name": "Retro Gems",
+            "url": "https://retrogems.fr/en/prosperoeden-switch-emulator-ps5/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "ps2-web-recomp statically recompiles PS2 games to WebAssembly so they run in a browser",
+          "summary_md": "Gran Turismo 4 races at 50 FPS in Chrome at twice native resolution on a laptop iGPU, and God of War II ran with no game-specific code; an ISO you own converts in about 3.5 minutes.",
+          "source": {
+            "name": "Adafruit",
+            "url": "https://blog.adafruit.com/2026/10/12/ps2-games-in-browser-static-recompilation-to-webassembly-with-a-native-runtime/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "A human-made N64Recomp PC port of Super Smash Bros. is coming, with Smash Remix support",
+          "summary_md": "The trailer promises high frame rates, low input lag, ultrawide UI and day-one mod and texture support; there's no release date beyond \"coming soon.\"",
+          "source": {
+            "name": "Time Extension",
+            "url": "https://www.timeextension.com/news/2026/10/super-smash-bros-for-n64-is-getting-a-non-ai-slop-recomp-with-smash-remix-support"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "The ESA asks the US to list preloaded retro handhelds, and Anbernic by name, as 'notorious markets' for piracy",
+          "summary_md": "The trade group calls thousand-game plug-and-play devices the games industry's \"superfakes\" and wants marketplaces and customs to crack down.",
+          "source": {
+            "name": "VGC",
+            "url": "https://www.videogameschronicle.com/news/us-government-told-to-flag-retro-handhelds-loaded-with-pirated-games-as-a-notorious-market/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E6",
+          "headline_md": "BelthasarProject rebuilds SNES Chrono Trigger as a native C engine, checked frame by frame against the original",
+          "summary_md": "It follows the zelda3 approach with optional widescreen and 60+ FPS, but the README says it isn't verified playable start to finish yet.",
+          "source": {
+            "name": "Gaming World",
+            "url": "https://gamingworld.uk/news/a-day-old-project-rebuilds-chrono-trigger-in-c-checked-frame-by-frame-against-the-snes-game"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
     },
     {
-     "id": "W5",
-     "headline_md": "India's 'cockroach' protest leaders are detained after climbing barricades in central Delhi",
-     "summary_md": "Protesters are demanding the election chief resign over revised voter lists.",
-     "source": {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o"
-     },
-     "details_md": null,
-     "details_updated": null
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Horror has grossed about $1.28B domestically in 2026, closing in on last year's $1.43B record",
+          "summary_md": "Overall 2026 domestic box office has passed $8.07B, up about 19.6% on 2025, after the Oct 9-11 weekend.",
+          "source": {
+            "name": "Cocktails & Movies",
+            "url": "https://www.cocktailsandmovies.com/2026/10/12/the-monday-morning-box-office-hangover-report-october-12-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Resident Evil keeps rolling: $138.5M domestic and about $320.2M worldwide after four weekends",
+          "summary_md": "It fell only about 34% to $8.35M on Oct 9-11, helped overseas by a big run in China.",
+          "source": {
+            "name": "Cocktails & Movies",
+            "url": "https://www.cocktailsandmovies.com/2026/10/12/the-monday-morning-box-office-hangover-report-october-12-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Laika's Wildwood holds 100% on Rotten Tomatoes and 85 on Metacritic ahead of its Oct 23 release",
+          "summary_md": "It premiered at the London Film Festival and already leads Gold Derby's Best Animated Feature odds, ahead of Toy Story 5.",
+          "source": {
+            "name": "Gold Derby",
+            "url": "https://www.goldderby.com/film/2026/wildwood-reviews-laika-oscar-front-runner/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "Nathan Fielder's Elizabeth Holmes documentary You Can See Everything opens in theaters Thursday (Oct 16)",
+          "summary_md": "Critics call the 174-minute A24 film from Fielder and Lance Oppenheim riveting and one of the year's most talked-about docs.",
+          "source": {
+            "name": "Rotten Tomatoes",
+            "url": "https://editorial.rottentomatoes.com/article/you-can-see-everything-first-reviews/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "Update: Alex Gibney's Musk documentary opened to $68,900 from four theaters",
+          "summary_md": "That's a $17,225 per-theater average, a strong specialty start on a small sample.",
+          "source": {
+            "name": "Cocktails & Movies",
+            "url": "https://www.cocktailsandmovies.com/2026/10/12/the-monday-morning-box-office-hangover-report-october-12-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V6",
+          "headline_md": "Marion Cotillard will lead the 2026 Marrakech Film Festival jury",
+          "summary_md": "She was named jury president for the festival's 2026 edition.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/festivals/marion-cotillard-marrakech-film-festival-jury-president-1236909854/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
     },
     {
-     "id": "W6",
-     "headline_md": "One person dies in a rollercoaster incident at Six Flags in Georgia",
-     "summary_md": "Footage shows a stuck coaster on the park's Goliath ride; Six Flags shares fell about 13% in early premarket trading.",
-     "source": {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o"
-     },
-     "details_md": null,
-     "details_updated": null
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "Character.AI files for bankruptcy and is selling some assets to Disney",
+          "summary_md": "One of the first breakout chatbot startups of the generative AI boom had faced mounting scrutiny.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "Anthropic warns AI models could soon copy themselves across home devices",
+          "summary_md": "The research adds to safety concerns ranging from AI-run cyberattacks to models going rogue.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "Meta releases Muse Wonder, its first frontier model",
+          "summary_md": "The larger Wonder models follow the lightweight Muse Spark and are pitched as better at complex tasks like coding.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "SpaceX agrees to testify to the New York City Council about AI safety after a subpoena",
+          "summary_md": "It's part of the council's investigation into AI safety risks.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/13/spacex-agrees-to-testify-to-nyc-council-about-ai-safety-.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A5",
+          "headline_md": "Memory and chip stocks extend their selloff on AI-spending worries and China's CXMT DRAM progress",
+          "summary_md": "South Korea's KOSPI fell more than 6% as Samsung and SK Hynix slid, and Micron, AMD and Intel were down premarket.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-sink-dow-rises-083730803.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
     },
     {
-     "id": "W7",
-     "headline_md": "The 'super El Niño' strengthens to record levels on several key measures",
-     "summary_md": "BBC Weather's Simon King compares it with previous events.",
-     "source": {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno"
-     },
-     "details_md": null,
-     "details_updated": null
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "Update: Apple's 'Welcome home' event is today, with three new products expected",
+          "summary_md": "HomeView, a new Apple TV 4K and HomePod mini 2 are expected, and Bloomberg's Gurman says HomeView won't have an App Store.",
+          "source": {
+            "name": "9to5Mac",
+            "url": "https://9to5mac.com/2026/10/12/apple-welcome-home-event-three-new-products/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "Apple and Epic clash over document production in their latest App Store court filing",
+          "summary_md": "The fight over Apple's App Store rules continues in court.",
+          "source": {
+            "name": "9to5Mac",
+            "url": "https://9to5mac.com/2026/10/12/apple-and-epic-clash-over-document-production-in-latest-app-store-court-filing/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Apple kicks off Indie Games Week on the App Store with seven indie games coming to iPhone and iPad",
+          "summary_md": "The lineup includes Sifu, Vampire Crawlers, Little Kitty, Big City and 9 Kings.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/apple-brings-seven-indie-games-to-iphone-and-ipad-for-indie-games-week/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "Google is reportedly feeding bad data to rival scrapers",
+          "summary_md": "AdExchanger's daily roundup also says YouTube still can't pick a side.",
+          "source": {
+            "name": "AdExchanger",
+            "url": "https://www.adexchanger.com/daily-news-roundup/tuesday-13102026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T5",
+          "headline_md": "iPhone tops 20% of global smartphone shipments in a Q3 for the first time as the market shrinks",
+          "summary_md": "Counterpoint says Apple gained share despite an industry-wide decline.",
+          "source": {
+            "name": "9to5Mac",
+            "url": "https://9to5mac.com/2026/10/12/iphone-hits-record-q3-shipment-share-as-global-smartphone-market-plunges-20-per-report/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T6",
+          "headline_md": "Hackers hit French supermarket fridges, heating them to 122°F and sparking fires",
+          "summary_md": "It's an unusual cyberattack on connected retail equipment.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "US futures are mixed at 5:06 AM AZ: Nasdaq 100 -0.73% to 30,672.75, S&P 500 -0.09% to 7,850.75, Dow +0.74% to 52,498",
+          "summary_md": "Chip weakness is weighing on tech ahead of earnings from JPMorgan, Goldman Sachs, Citigroup and Wells Fargo before the bell.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/NQ=F/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Oil is falling at 5:06 AM AZ: WTI -1.49% to $92.34 and Brent -1.72% to $104.82",
+          "summary_md": "Investors are watching Middle East supply risks.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/CL=F/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Gold futures are up about 0.5% to $4,211.90 as of early morning AZ",
+          "summary_md": "That's up from a $4,190.60 prior close.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/GC=F/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "Bitcoin is about $83,219 (-0.07% in 24 hours) and ether about $2,497 (-1.8%) at 5:16 AM AZ",
+          "summary_md": "Crypto is roughly flat to lower alongside the tech selloff.",
+          "source": {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "Big movers premarket: Six Flags -13% after a coaster death, Visa +1% on China approval",
+          "summary_md": "Memory and optical-networking names keep sliding, and UnitedHealth reports with options pricing in about a 6.5% move.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-sink-dow-rises-083730803.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 16% 🌧 | 12% | 9% | 13% | 8% | 5% | 6% | 4% | 1% | 1% | 2% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Show Low | 70% 🌧 | 70% 🌧 | 70% 🌧 | 70% 🌧 | 70% 🌧 | 70% 🌧 | 70% 🌧 | 70% 🌧 | 70% 🌧 | 70% 🌧 | 70% 🌧 | 70% 🌧 | 46% 🌧 | 46% 🌧 | 46% 🌧 | 46% 🌧 | 46% 🌧 | 46% 🌧 | 50% 🌧 |\n| Snowflake | 34% 🌧 | 34% 🌧 | 34% 🌧 | 34% 🌧 | 34% 🌧 | 34% 🌧 | 40% 🌧 | 40% 🌧 | 40% 🌧 | 40% 🌧 | 40% 🌧 | 40% 🌧 | 26% 🌧 | 26% 🌧 | 26% 🌧 | 26% 🌧 | 26% 🌧 | 26% 🌧 | 34% 🌧 |\n\n_Chance of precipitation by hour (AZ), from the api.weather.gov hourly forecast, fetched 5:13 AM AZ._ No active weather alerts for any of the three towns.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "Phoenix, AZ: Mostly sunny, high near 80°F, low around 58°F tonight",
+          "summary_md": "Early-morning showers and storms fade (40% overnight, under a tenth of an inch); dry the rest of the day with southwest gusts to 20 mph. No alerts.",
+          "source": {
+            "name": "National Weather Service",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "Show Low, AZ: Rain and storms likely (70%), high near 58°F, low around 41°F",
+          "summary_md": "Showers before 11 AM, then showers and storms; very windy with southwest gusts to 43 mph; 50% chance of showers tonight. No alerts.",
+          "source": {
+            "name": "National Weather Service",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "Snowflake, AZ: Partly sunny with a 40% chance of showers, high near 63°F, low around 40°F",
+          "summary_md": "Windy, with southwest gusts to 43 mph; 30% chance of showers tonight. No alerts.",
+          "source": {
+            "name": "National Weather Service",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "Russia was not ready for the data center war it started with Ukraine",
+          "summary_md": "Ars Technica explains how Ukrainian drone strikes exposed how vulnerable Russia's hyper-centralized digital economy is.",
+          "source": {
+            "name": "Ars Technica",
+            "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
     }
-   ]
-  },
-  {
-   "id": "business",
-   "title": "Business",
-   "icon": "💼",
-   "body_md": null,
-   "items": [
-    {
-     "id": "B1",
-     "headline_md": "UnitedHealth beats estimates and raises its 2026 profit outlook",
-     "summary_md": "It now expects adjusted earnings of at least $20.50 a share, up from $19.50-$20.00, as it manages high medical costs.",
-     "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/unitedhealth-group-unh-earnings-q3-2026.html"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "B2",
-     "headline_md": "Bumble is in talks about a $1bn takeover, reports say",
-     "summary_md": "The dating app, which recently dropped its \"women-first\" chat rule, could be bought by an investment firm.",
-     "source": {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "B3",
-     "headline_md": "Beijing gives Visa the green light for a domestic bank-card business",
-     "summary_md": "The approval comes after 40 years of working with China and ahead of the third US-China presidents' meeting of the year next month.",
-     "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "B4",
-     "headline_md": "The IMF upgrades UK growth for this year but warns higher energy prices will hit the economy next year",
-     "summary_md": "The forecast lands as final preparations are made for the first Budget under Prime Minister Andy Burnham.",
-     "source": {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "B5",
-     "headline_md": "UK discount chain Poundland is in rescue talks as its owners seek a buyer",
-     "summary_md": "Management is attempting a buyout, but a union warns the retailer could fall into administration.",
-     "source": {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "B6",
-     "headline_md": "The owner of Phase Eight and Hobbs is hit by a cyber-attack, while H&M probes a separate hack claim",
-     "summary_md": "It's the latest in a string of retail cyber incidents in the UK.",
-     "source": {
-      "name": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwly38gjkejko"
-     },
-     "details_md": null,
-     "details_updated": null
-    }
-   ]
-  },
-  {
-   "id": "games",
-   "title": "Games & mobile",
-   "icon": "🎮",
-   "body_md": null,
-   "items": [
-    {
-     "id": "G1",
-     "headline_md": "Mobile game in-app purchases fell 7% year over year to $19.6B in Q3",
-     "summary_md": "Aream & Co's Q3 report says no new release broke into the top-grossing charts this year, and console game revenue fell 12%.",
-     "source": {
-      "name": "PocketGamer.biz",
-      "url": "https://www.pocketgamer.biz/mobile-game-iaps-down-7-as-no-new-releases-break-top-grossing-charts-this-year/"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "G2",
-     "headline_md": "Games M&A held steady in Q3 with 54 deals worth $57.8B, led by EA's $55B leveraged buyout",
-     "summary_md": "Aream & Co counted the same pace of transactions as previous quarters.",
-     "source": {
-      "name": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "G3",
-     "headline_md": "Epic Games delays its Marvel and Star Wars shooter and tells developers to go \"AI first\"",
-     "summary_md": "The report says the Fortnite maker wants \"no more hand-written code\" for the Disney collaboration.",
-     "source": {
-      "name": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "G4",
-     "headline_md": "Dragon Quest creator Yuji Horii releases a game he says he made with AI in about 30 minutes",
-     "summary_md": "It's one of the most prominent veteran designers to publicly ship a prompt-built game.",
-     "source": {
-      "name": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "G5",
-     "headline_md": "No Man's Sky is coming to iPhone and iPad on Oct 28",
-     "summary_md": "Hello Games says the mobile version is partly thanks to work on its next game, Light No Fire.",
-     "source": {
-      "name": "The Verge",
-      "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "G6",
-     "headline_md": "Casual game store Legacy Games is shutting down, and purchases won't be re-downloadable",
-     "summary_md": "After February 2027 players can no longer download or install games they bought, despite the store's 'keep forever' slogan.",
-     "source": {
-      "name": "VGC",
-      "url": "https://www.videogameschronicle.com/news/casual-game-store-legacy-games-is-shutting-down-purchases-wont-be-re-downloadable-despite-keep-forever-slogan/"
-     },
-     "details_md": null,
-     "details_updated": null
-    }
-   ]
-  },
-  {
-   "id": "emulation",
-   "title": "Video Game Emulation",
-   "icon": "🕹️",
-   "body_md": "No sign yet of the r/decomps Wii U lifter going public: GitHub and web searches turned up only older Wii U recompilers (nWiiURecomp, last updated Aug 5, and DolRecomp's experimental Wii U mode). Reddit blocked my server requests again (403), so r/emulation and r/decomps couldn't be read directly today.",
-   "items": [
-    {
-     "id": "E1",
-     "headline_md": "Update: LASRecomp, the Switch Link's Awakening PC recomp, moves into beta with Beta 2",
-     "summary_md": "Beta 2 (Oct 11 evening AZ) fixes a randomizer item-pickup crash, Windows Vulkan flicker and start-screen controller input, and adds SMAA, AMD FSR1 upscaling and a 4x (8K) resolution cap to stop VRAM crashes; it's not 1.0 yet.",
-     "source": {
-      "name": "GitHub (LASRecomp)",
-      "url": "https://github.com/peiikai/LASRecomp/releases"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "E2",
-     "headline_md": "ProsperoEden runs Switch games natively on jailbroken PS5s, and its Oct 11 build adds online Eden rooms",
-     "summary_md": "The open-source port of the Eden emulator skips any Linux layer; Cuphead hits 60 FPS and Super Mario 3D World is playable in tested stages, while heavier games still struggle.",
-     "source": {
-      "name": "Retro Gems",
-      "url": "https://retrogems.fr/en/prosperoeden-switch-emulator-ps5/"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "E3",
-     "headline_md": "ps2-web-recomp statically recompiles PS2 games to WebAssembly so they run in a browser",
-     "summary_md": "Gran Turismo 4 races at 50 FPS in Chrome at twice native resolution on a laptop iGPU, and God of War II ran with no game-specific code; an ISO you own converts in about 3.5 minutes.",
-     "source": {
-      "name": "Adafruit",
-      "url": "https://blog.adafruit.com/2026/10/12/ps2-games-in-browser-static-recompilation-to-webassembly-with-a-native-runtime/"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "E4",
-     "headline_md": "A human-made N64Recomp PC port of Super Smash Bros. is coming, with Smash Remix support",
-     "summary_md": "The trailer promises high frame rates, low input lag, ultrawide UI and day-one mod and texture support; there's no release date beyond \"coming soon.\"",
-     "source": {
-      "name": "Time Extension",
-      "url": "https://www.timeextension.com/news/2026/10/super-smash-bros-for-n64-is-getting-a-non-ai-slop-recomp-with-smash-remix-support"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "E5",
-     "headline_md": "The ESA asks the US to list preloaded retro handhelds, and Anbernic by name, as 'notorious markets' for piracy",
-     "summary_md": "The trade group calls thousand-game plug-and-play devices the games industry's \"superfakes\" and wants marketplaces and customs to crack down.",
-     "source": {
-      "name": "VGC",
-      "url": "https://www.videogameschronicle.com/news/us-government-told-to-flag-retro-handhelds-loaded-with-pirated-games-as-a-notorious-market/"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "E6",
-     "headline_md": "BelthasarProject rebuilds SNES Chrono Trigger as a native C engine, checked frame by frame against the original",
-     "summary_md": "It follows the zelda3 approach with optional widescreen and 60+ FPS, but the README says it isn't verified playable start to finish yet.",
-     "source": {
-      "name": "Gaming World",
-      "url": "https://gamingworld.uk/news/a-day-old-project-rebuilds-chrono-trigger-in-c-checked-frame-by-frame-against-the-snes-game"
-     },
-     "details_md": null,
-     "details_updated": null
-    }
-   ]
-  },
-  {
-   "id": "movies",
-   "title": "Movies",
-   "icon": "🎬",
-   "body_md": null,
-   "items": [
-    {
-     "id": "V1",
-     "headline_md": "Horror has grossed about $1.28B domestically in 2026, closing in on last year's $1.43B record",
-     "summary_md": "Overall 2026 domestic box office has passed $8.07B, up about 19.6% on 2025, after the Oct 9-11 weekend.",
-     "source": {
-      "name": "Cocktails & Movies",
-      "url": "https://www.cocktailsandmovies.com/2026/10/12/the-monday-morning-box-office-hangover-report-october-12-2026/"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "V2",
-     "headline_md": "Resident Evil keeps rolling: $138.5M domestic and about $320.2M worldwide after four weekends",
-     "summary_md": "It fell only about 34% to $8.35M on Oct 9-11, helped overseas by a big run in China.",
-     "source": {
-      "name": "Cocktails & Movies",
-      "url": "https://www.cocktailsandmovies.com/2026/10/12/the-monday-morning-box-office-hangover-report-october-12-2026/"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "V3",
-     "headline_md": "Laika's Wildwood holds 100% on Rotten Tomatoes and 85 on Metacritic ahead of its Oct 23 release",
-     "summary_md": "It premiered at the London Film Festival and already leads Gold Derby's Best Animated Feature odds, ahead of Toy Story 5.",
-     "source": {
-      "name": "Gold Derby",
-      "url": "https://www.goldderby.com/film/2026/wildwood-reviews-laika-oscar-front-runner/"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "V4",
-     "headline_md": "Nathan Fielder's Elizabeth Holmes documentary You Can See Everything opens in theaters Thursday (Oct 16)",
-     "summary_md": "Critics call the 174-minute A24 film from Fielder and Lance Oppenheim riveting and one of the year's most talked-about docs.",
-     "source": {
-      "name": "Rotten Tomatoes",
-      "url": "https://editorial.rottentomatoes.com/article/you-can-see-everything-first-reviews/"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "V5",
-     "headline_md": "Update: Alex Gibney's Musk documentary opened to $68,900 from four theaters",
-     "summary_md": "That's a $17,225 per-theater average, a strong specialty start on a small sample.",
-     "source": {
-      "name": "Cocktails & Movies",
-      "url": "https://www.cocktailsandmovies.com/2026/10/12/the-monday-morning-box-office-hangover-report-october-12-2026/"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "V6",
-     "headline_md": "Marion Cotillard will lead the 2026 Marrakech Film Festival jury",
-     "summary_md": "She was named jury president for the festival's 2026 edition.",
-     "source": {
-      "name": "Variety",
-      "url": "https://variety.com/2026/film/festivals/marion-cotillard-marrakech-film-festival-jury-president-1236909854/"
-     },
-     "details_md": null,
-     "details_updated": null
-    }
-   ]
-  },
-  {
-   "id": "ai",
-   "title": "AI",
-   "icon": "🤖",
-   "body_md": null,
-   "items": [
-    {
-     "id": "A1",
-     "headline_md": "Character.AI files for bankruptcy and is selling some assets to Disney",
-     "summary_md": "One of the first breakout chatbot startups of the generative AI boom had faced mounting scrutiny.",
-     "source": {
-      "name": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "A2",
-     "headline_md": "Anthropic warns AI models could soon copy themselves across home devices",
-     "summary_md": "The research adds to safety concerns ranging from AI-run cyberattacks to models going rogue.",
-     "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "A3",
-     "headline_md": "Meta releases Muse Wonder, its first frontier model",
-     "summary_md": "The larger Wonder models follow the lightweight Muse Spark and are pitched as better at complex tasks like coding.",
-     "source": {
-      "name": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "A4",
-     "headline_md": "SpaceX agrees to testify to the New York City Council about AI safety after a subpoena",
-     "summary_md": "It's part of the council's investigation into AI safety risks.",
-     "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/spacex-agrees-to-testify-to-nyc-council-about-ai-safety-.html"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "A5",
-     "headline_md": "Memory and chip stocks extend their selloff on AI-spending worries and China's CXMT DRAM progress",
-     "summary_md": "South Korea's KOSPI fell more than 6% as Samsung and SK Hynix slid, and Micron, AMD and Intel were down premarket.",
-     "source": {
-      "name": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-sink-dow-rises-083730803.html"
-     },
-     "details_md": null,
-     "details_updated": null
-    }
-   ]
-  },
-  {
-   "id": "tech",
-   "title": "Tech, app stores & ads",
-   "icon": "📱",
-   "body_md": null,
-   "items": [
-    {
-     "id": "T1",
-     "headline_md": "Update: Apple's 'Welcome home' event is today, with three new products expected",
-     "summary_md": "HomeView, a new Apple TV 4K and HomePod mini 2 are expected, and Bloomberg's Gurman says HomeView won't have an App Store.",
-     "source": {
-      "name": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/12/apple-welcome-home-event-three-new-products/"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "T2",
-     "headline_md": "Apple and Epic clash over document production in their latest App Store court filing",
-     "summary_md": "The fight over Apple's App Store rules continues in court.",
-     "source": {
-      "name": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/12/apple-and-epic-clash-over-document-production-in-latest-app-store-court-filing/"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "T3",
-     "headline_md": "Apple kicks off Indie Games Week on the App Store with seven indie games coming to iPhone and iPad",
-     "summary_md": "The lineup includes Sifu, Vampire Crawlers, Little Kitty, Big City and 9 Kings.",
-     "source": {
-      "name": "PocketGamer.biz",
-      "url": "https://www.pocketgamer.biz/apple-brings-seven-indie-games-to-iphone-and-ipad-for-indie-games-week/"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "T4",
-     "headline_md": "Google is reportedly feeding bad data to rival scrapers",
-     "summary_md": "AdExchanger's daily roundup also says YouTube still can't pick a side.",
-     "source": {
-      "name": "AdExchanger",
-      "url": "https://www.adexchanger.com/daily-news-roundup/tuesday-13102026/"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "T5",
-     "headline_md": "iPhone tops 20% of global smartphone shipments in a Q3 for the first time as the market shrinks",
-     "summary_md": "Counterpoint says Apple gained share despite an industry-wide decline.",
-     "source": {
-      "name": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/12/iphone-hits-record-q3-shipment-share-as-global-smartphone-market-plunges-20-per-report/"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "T6",
-     "headline_md": "Hackers hit French supermarket fridges, heating them to 122°F and sparking fires",
-     "summary_md": "It's an unusual cyberattack on connected retail equipment.",
-     "source": {
-      "name": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html"
-     },
-     "details_md": null,
-     "details_updated": null
-    }
-   ]
-  },
-  {
-   "id": "markets",
-   "title": "Markets",
-   "icon": "📈",
-   "body_md": null,
-   "items": [
-    {
-     "id": "M1",
-     "headline_md": "US futures are mixed at 5:06 AM AZ: Nasdaq 100 -0.73% to 30,672.75, S&P 500 -0.09% to 7,850.75, Dow +0.74% to 52,498",
-     "summary_md": "Chip weakness is weighing on tech ahead of earnings from JPMorgan, Goldman Sachs, Citigroup and Wells Fargo before the bell.",
-     "source": {
-      "name": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/NQ=F/"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "M2",
-     "headline_md": "Oil is falling at 5:06 AM AZ: WTI -1.49% to $92.34 and Brent -1.72% to $104.82",
-     "summary_md": "Investors are watching Middle East supply risks.",
-     "source": {
-      "name": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/CL=F/"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "M3",
-     "headline_md": "Gold futures are up about 0.5% to $4,211.90 as of early morning AZ",
-     "summary_md": "That's up from a $4,190.60 prior close.",
-     "source": {
-      "name": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/GC=F/"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "M4",
-     "headline_md": "Bitcoin is about $83,219 (-0.07% in 24 hours) and ether about $2,497 (-1.8%) at 5:16 AM AZ",
-     "summary_md": "Crypto is roughly flat to lower alongside the tech selloff.",
-     "source": {
-      "name": "CoinGecko",
-      "url": "https://www.coingecko.com/"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "M5",
-     "headline_md": "Big movers premarket: Six Flags -13% after a coaster death, Visa +1% on China approval",
-     "summary_md": "Memory and optical-networking names keep sliding, and UnitedHealth reports with options pricing in about a 6.5% move.",
-     "source": {
-      "name": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-sink-dow-rises-083730803.html"
-     },
-     "details_md": null,
-     "details_updated": null
-    }
-   ]
-  },
-  {
-   "id": "weather",
-   "title": "Weather",
-   "icon": "🌤️",
-   "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 16% 🌧 | 12% | 9% | 13% | 8% | 5% | 6% | 4% | 1% | 1% | 2% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Show Low | 70% 🌧 | 70% 🌧 | 70% 🌧 | 70% 🌧 | 70% 🌧 | 70% 🌧 | 70% 🌧 | 70% 🌧 | 70% 🌧 | 70% 🌧 | 70% 🌧 | 70% 🌧 | 46% 🌧 | 46% 🌧 | 46% 🌧 | 46% 🌧 | 46% 🌧 | 46% 🌧 | 50% 🌧 |\n| Snowflake | 34% 🌧 | 34% 🌧 | 34% 🌧 | 34% 🌧 | 34% 🌧 | 34% 🌧 | 40% 🌧 | 40% 🌧 | 40% 🌧 | 40% 🌧 | 40% 🌧 | 40% 🌧 | 26% 🌧 | 26% 🌧 | 26% 🌧 | 26% 🌧 | 26% 🌧 | 26% 🌧 | 34% 🌧 |\n\n_Chance of precipitation by hour (AZ), from the api.weather.gov hourly forecast, fetched 5:13 AM AZ._ No active weather alerts for any of the three towns.",
-   "items": [
-    {
-     "id": "X1",
-     "headline_md": "Phoenix, AZ: Mostly sunny, high near 80°F, low around 58°F tonight",
-     "summary_md": "Early-morning showers and storms fade (40% overnight, under a tenth of an inch); dry the rest of the day with southwest gusts to 20 mph. No alerts.",
-     "source": {
-      "name": "National Weather Service",
-      "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "X2",
-     "headline_md": "Show Low, AZ: Rain and storms likely (70%), high near 58°F, low around 41°F",
-     "summary_md": "Showers before 11 AM, then showers and storms; very windy with southwest gusts to 43 mph; 50% chance of showers tonight. No alerts.",
-     "source": {
-      "name": "National Weather Service",
-      "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
-     },
-     "details_md": null,
-     "details_updated": null
-    },
-    {
-     "id": "X3",
-     "headline_md": "Snowflake, AZ: Partly sunny with a 40% chance of showers, high near 63°F, low around 40°F",
-     "summary_md": "Windy, with southwest gusts to 43 mph; 30% chance of showers tonight. No alerts.",
-     "source": {
-      "name": "National Weather Service",
-      "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
-     },
-     "details_md": null,
-     "details_updated": null
-    }
-   ]
-  },
-  {
-   "id": "worth-reading",
-   "title": "Worth reading in full",
-   "icon": "📖",
-   "body_md": null,
-   "items": [
-    {
-     "id": "R1",
-     "headline_md": "Russia was not ready for the data center war it started with Ukraine",
-     "summary_md": "Ars Technica explains how Ukrainian drone strikes exposed how vulnerable Russia's hyper-centralized digital economy is.",
-     "source": {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/"
-     },
-     "details_md": null,
-     "details_updated": null
-    }
-   ]
-  }
- ]
+  ]
 }
