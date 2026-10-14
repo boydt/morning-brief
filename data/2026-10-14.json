@@ -1,0 +1,538 @@
+{
+  "date": "2026-10-14",
+  "title": "Morning Brief",
+  "intro_md": "Type \"more on G3\" (or any code) in chat, or tap More info and paste the request into chat, for a deeper dive.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Russian missile and drone strikes left at least 600,000 people in Ukraine without power, despite Trump's claimed \"energy ceasefire\"",
+          "summary_md": "Zelensky says critical energy sites in Kyiv and Kharkiv were hit; three people were killed in Kyiv. Ukraine's air force counted 39 missiles and 128 drones.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/cm2d6e62p49do"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "A Houthi missile hit an Aramco administrative building in Dhahran, Saudi Arabia, starting a fire but injuring no one",
+          "summary_md": "Debris from two cruise missiles shot down over Riyadh injured four people and damaged 15 homes. The Saudi-led coalition struck Houthi fuel sites in Sanaa and Hodeidah.",
+          "source": {
+            "name": "The National",
+            "url": "https://www.thenationalnews.com/news/gulf/2026/10/14/aramco-building-on-fire-after-saudi-led-coalition-hits-houthi-site/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Iran's IRGC Navy says a container ship carrying more than 2,500 containers hit a mine south of the Strait of Hormuz, caught fire and sank",
+          "summary_md": "The IRGC didn't name the ship or say anything about the crew; there's no independent confirmation yet. UKMTO reported a tanker and a container ship hit by unknown projectiles on Tuesday.",
+          "source": {
+            "name": "Iran International",
+            "url": "https://www.iranintl.com/en/202610146941"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Former DRC President Joseph Kabila launched a new political-military alliance with the M23-AFC rebels",
+          "summary_md": "The Front pour la Refondation de la Nation (FRN) was announced from Goma with Kabila as leader, raising fears for the Qatar-mediated Doha peace process.",
+          "source": {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/10/14/ex-drc-president-joseph-kabila-joins-hands-with-m23-rebels-why-it-matters"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "Zelensky said allies gave no warning before a Russian ballistic missile attack on Kyiv; Trump said the US is still sharing intelligence",
+          "summary_md": "Reuters and others have reported US threats to cut intelligence and weapons sales unless Ukraine stops hitting Russian refineries. Zelensky says Kyiv hasn't hit a refinery since Sunday.",
+          "source": {
+            "name": "CNN",
+            "url": "https://www.cnn.com/2026/10/13/europe/ukraine-zelensky-missile-latam-intl"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "Bank of America's Q3 profit fell to $6.9B ($0.91 a share), including a $1.2B charge for an anti-money-laundering penalty",
+          "summary_md": "Revenue rose 3% to $30.0B and net interest income rose 8% to $16.4B. Without the charge, profit was $8.1B ($1.08 a share). Results came out at 3:45 AM AZ.",
+          "source": {
+            "name": "StockTitan",
+            "url": "https://www.stocktitan.net/sec-filings/BAC/8-k-bank-of-america-corp-de-reports-material-event-8c747d6ee52a.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "Update: Bumble agreed to be taken private by Ithaca Holdings in a $1.3B deal",
+          "summary_md": "Yesterday it was talks of a ~$1B takeover; today the deal is done. Q2 2026 revenue fell 15.2% to $211M and paying users fell 16.4% to about 3.2M. Founder Whitney Wolfe Herd stays involved.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "Johnson & Johnson's Q3 sales rose 5.9% to $25.4B and it raised 2026 guidance, though reported EPS fell to $0.09",
+          "summary_md": "One-time charges included the proposed talc settlement and two acquisitions. Adjusted EPS was $2.59, and full-year adjusted EPS guidance rose to $11.10 at the midpoint.",
+          "source": {
+            "name": "Johnson & Johnson",
+            "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-reports-q3-2026-results-raises-2026-guidance"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "ASML raised its annual forecast for the third time this year on AI chip-equipment demand",
+          "summary_md": "It now expects 2026 sales of €44–45B (was €43–45B) and about a 56% gross margin, and says some customers are ordering as far out as 2029–2030.",
+          "source": {
+            "name": "Investing.com",
+            "url": "https://www.investing.com/news/economy-news/cpi-ahead-more-banks-to-report-asml-earnings--whats-moving-markets-4948277"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "Tencent leads a $46M funding package for Flow Games, the Turkish studio behind the mobile shooter Smash Fest",
+          "summary_md": "About three-quarters of the money is said to come from Tencent. Smash Fest's downloads jumped from just over 2M in June to 10.2M in July (AppMagic estimates), with most revenue from ads.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/exclusive-turkish-developer-flow-games-raises-46m-in-funding-package-led-by-tencent/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "Hungry Studio's casual puzzler Rotate Rings is getting about 700K downloads a day and nearing 2M daily players in under a month",
+          "summary_md": "Players rotate rings until they stop touching and break. Growth is partly from cross-promotion inside Block Blast, Hungry Studio's game with 45M daily players.",
+          "source": {
+            "name": "Gamigion",
+            "url": "https://www.gamigion.com/rotate-rings-by-hungry-studio-daily-700k-downloads/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "Google Play is rolling out Game Finder, which recommends games based on a \"Gamer DNA\" profile of what you play",
+          "summary_md": "The profile is built from play history, ratings and interests. It launched in English for US users first; Google also announced Game Playlists that will be shareable later.",
+          "source": {
+            "name": "Android Authority",
+            "url": "https://www.androidauthority.com/google-play-game-finder-gamer-dna-3721539/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "Miniclip spins off AdSurge, its AI-powered ad platform, as a standalone company for other mobile publishers",
+          "summary_md": "It handles user acquisition and ad revenue for ad-funded games first, with in-app-purchase and hybrid support next. Miniclip says its ads become skippable in half the time.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/exclusive-miniclips-mobile-advertising-platform-adsurge-launches-as-standalone-company/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G5",
+          "headline_md": "Ubisoft proposes closing RedLynx, the Helsinki studio behind Trials, putting up to 52 jobs at risk",
+          "summary_md": "The closure still needs Finland's required staff negotiations. Ubisoft is also cutting 70 positions at Ubisoft Singapore. RedLynx had moved toward mobile and helped port Star Wars Outlaws to Switch 2.",
+          "source": {
+            "name": "Nintendo Life",
+            "url": "https://www.nintendolife.com/news/2026/10/redlynx-the-studio-behind-the-trials-series-is-being-closed-by-ubisoft"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: no public GitHub repo or release found today (web + GitHub search). Reddit r/decomps was blocked (403 / login wall), so it couldn't be checked directly.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "suyu v14.1.0 fixes two graphics bugs in its Switch-to-PC recompiler; tests ran Mario Kart 8 Deluxe and Tears of the Kingdom fully recompiled on Linux, Windows and Mac",
+          "summary_md": "Released Oct 12. It fixes broken NVIDIA graphics and stretched TOTK characters on Mac. In testing, both games ran opening replays with no emulator fallback; MK8D raced at about 60 FPS on a Mac. Re-export existing game packages to get the fixes.",
+          "source": {
+            "name": "suyu GitHub",
+            "url": "https://github.com/suyu-emu/suyu-main/releases/tag/v14.1.0"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "WWHDRecomp, a static recompilation of Wii U Wind Waker HD, now says the whole game is playable on Linux at a true 60 fps",
+          "summary_md": "It's a developer preview you build from source and needs your own USA v0 dump. Overnight commits show work on an Android version.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/flossbud/WWHDRecomp"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "Update: LASRecomp (Link's Awakening Switch recomp for PC) ships Beta 3 with urgent patches",
+          "summary_md": "Released Oct 13 at 9:22 PM AZ with Windows and macOS builds. The developer says it's identical to Beta 2 plus urgent patches. Still beta, not a stable crash-free 1.0 yet.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/peiikai/LASRecomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "Microsoft creates \"Xbox Labs\" to experiment with AI-assisted game decompiling and recompiling",
+          "summary_md": "Xbox CEO Asha Sharma says it will be a small team that builds in the open and shares tools with developers. Microsoft didn't say how it will handle fan ports of its games without permission.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Final Oct 9–11 weekend: Other Mommy opened at $27.8M, ahead of Verity ($12.0M), Resident Evil ($8.6M), Heart of the Beast ($7.4M) and The Social Reckoning ($5.0M)",
+          "summary_md": "Final figures came in a bit above Sunday's estimates. Resident Evil is at $138.7M domestic after four weekends. The Social Reckoning opened far below the original Social Network's $22.4M debut.",
+          "source": {
+            "name": "Box Office Mojo",
+            "url": "https://www.boxofficemojo.com/weekend/2026W41/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "The Odyssey rose 65.5% in its 13th weekend to $2.15M and has now made $623.1M domestic",
+          "summary_md": "Neon's Fjord had the best per-theater average ($32,043 across 4 theaters). The Gaza documentary Naza rose 425% as it expanded to 85 theaters.",
+          "source": {
+            "name": "Box Office Mojo",
+            "url": "https://www.boxofficemojo.com/weekend/2026W41/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Street Fighter opens Friday (Oct 16) after mixed first reactions; tracking points to a $25M–$35M opening",
+          "summary_md": "Early viewers praised the fights and '90s throwback feel but criticized weak dialogue. Also opening: Whalefall ($8M–$13M), Sense and Sensibility ($4M–$9M).",
+          "source": {
+            "name": "GamesRadar+",
+            "url": "https://www.gamesradar.com/entertainment/live-action-movies/first-reactions-to-street-fighter-movie-are-mixed-with-some-critics-calling-it-a-silly-fun-and-fearless-good-time-but-others-say-it-falls-flat/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "Top-scoring movies in theaters now include You Can See Everything (100%), Once Upon a Time in the Middle East (100%) and Musk (98%)",
+          "summary_md": "Fjord has 91%, and Sense and Sensibility (out Friday) has 78%, per Rotten Tomatoes' in-theaters list sorted by critics' score.",
+          "source": {
+            "name": "Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/browse/movies_in_theaters/sort:critic_highest"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "Upcoming: Clayface (Oct 23) tracking $20M–$29M; Godzilla Minus Zero and The Cat in the Hat (both Nov 6) each tracking $25M–$35M",
+          "summary_md": "Laika's Wildwood (Oct 23) is tracking at $5M–$10M.",
+          "source": {
+            "name": "Box Office Theory",
+            "url": "https://boxofficetheory.com/4-week-box-office-tracking-forecasts-street-fighter-clayface-godzilla-minus-zero-cat-in-the-hat/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V6",
+          "headline_md": "Disney's live-action Moana, with Dwayne Johnson and Catherine Lagaʻaia, streams on Disney+ starting Oct 21",
+          "summary_md": "Disney+ says the original animated Moana is the most-watched movie ever on the service, with over 1.5 billion hours streamed.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/moana-disney-plus-live-action-premiere-1237155790/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "Google released Gemini 4 Argon, its flagship model, worldwide for developers, businesses, and Google AI Pro and Ultra subscribers",
+          "summary_md": "Launch pricing is $2/$10 per million input/output tokens, rising to $4/$20 after Nov 30, with a 1M-token context. Google says it ranks #1 on the Vals Index.",
+          "source": {
+            "name": "Google Blog",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "Meta launched Muse Wonder and Muse Wonder Full, its first closed (not downloadable) frontier models",
+          "summary_md": "Artificial Analysis scores Muse Wonder Full at 56, tied with Claude Sonnet 5.5. The API costs $4/$20 per million tokens. Full is limited to $50 and $200/month Muse Code subscribers.",
+          "source": {
+            "name": "TechRepublic",
+            "url": "https://www.techrepublic.com/article/news-meta-muse-wonder-ai-models-launch/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "Anthropic is set to show institutional investors its Q3 financials for the first time today, ahead of a possible record IPO",
+          "summary_md": "People familiar say it may target a $2T listing, with revenue possibly topping $100B by year-end. No numbers have come out yet.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "Google Play now lets US adults 18+ build private apps in Google AI Studio and run them on their own Android phones without publishing them",
+          "summary_md": "The apps don't appear in Play search. Sharing with trusted friends is coming, plus a path to full publication. Ask Play also gains app comparisons.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "Starting Oct 15, Google Ad Manager will tell bidders what category a page or app falls into, for traffic outside the EEA, UK and Switzerland",
+          "summary_md": "It's on by default with one network-level toggle. Sensitive GDPR categories (health, religion, etc.) are never shared. Hard-news publishers may see brand-safety exclusions.",
+          "source": {
+            "name": "Optimon",
+            "url": "https://optimon.io/blog/ad-manager-contextual-categories-bidders"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Apple shipped an unannounced App Store search update on Oct 8, moving 54% of US keywords 10 or more places in one day",
+          "summary_md": "UK movement was 3.3× a normal day and the US 2.9×, while Google Play stayed normal. It's Apple's second US reshuffle since July 27.",
+          "source": {
+            "name": "Applyra",
+            "url": "https://www.applyra.io/blog/app-store-algorithm-update-october-2026"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "US stock futures were mostly a bit higher ahead of CPI (as of 4:32 AM AZ)",
+          "summary_md": "S&P 500 futures were up 13 points (+0.2%), Dow up 155 (+0.3%), Nasdaq down 30 (−0.1%). Forecasts: CPI +0.6% month / 3.6% year; core +0.2% / 2.5%. CPI was due at 5:30 AM AZ.",
+          "source": {
+            "name": "Investing.com",
+            "url": "https://ph.investing.com/news/stock-market-news/us-stock-futures-muted-after-chip-losses-drag-wall-street-cpi-data-awaited-2627133"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Wall Street closed slightly lower Tuesday on doubts about AI-lab finances (around 11:30 PM AZ Oct 13)",
+          "summary_md": "Dow 51,670.10 (−0.35%), S&P 500 7,805.45 (−0.02%), Nasdaq 27,204.38 (−0.15%). Citigroup fell 5.6%, worst in the KBW bank index.",
+          "source": {
+            "name": "Investing.com",
+            "url": "https://ph.investing.com/news/stock-market-news/us-stock-futures-muted-after-chip-losses-drag-wall-street-cpi-data-awaited-2627133"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Bank of America stock fell about 4.3% in premarket trading after earnings (~5:10 AM AZ)",
+          "summary_md": "Last price $51.65, down 4.28%, on unusually heavy volume. BlackRock rose premarket after a profit increase.",
+          "source": {
+            "name": "StockTitan",
+            "url": "https://www.stocktitan.net/news/BAC/bank-of-america-reports-third-quarter-2026-financial-8pwegugesx9x.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "Korea's Kospi fell for a sixth straight day, down 0.44% to 6,008.81 (close 11:30 PM AZ Oct 13)",
+          "summary_md": "Tuesday's plunge was 5.46%. SK hynix fell 1.66% and Samsung was flat at ₩232,000, on worries about AI spending.",
+          "source": {
+            "name": "Korea JoongAng Daily",
+            "url": "https://www.koreajoongangdaily.com/business/kospi-drops-for-6th-day-on-renewed-ai-concerns-ahead-of-us-inflation-data/12920899"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "Oil rose after the Aramco strike and new Hormuz attacks (4:30 AM AZ)",
+          "summary_md": "WTI $95.63 (+$1.49, +1.58%); Brent $106.31 (+$0.62, +0.59%).",
+          "source": {
+            "name": "EnergyNow",
+            "url": "https://energynow.com/2026/10/oil-prices-rise-as-attacks-on-saudi-energy-facilities-and-middle-east-tankers-heighten-supply-fears/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M6",
+          "headline_md": "Gold fell about 1% as bets on another Fed rate hike held up (5:09 AM AZ)",
+          "summary_md": "Spot gold $4,146.12, down $42.26 (−1.01%) from $4,188.38.",
+          "source": {
+            "name": "Exa Markets",
+            "url": "https://exa.ai/library/markets/forex/XAUUSD"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M7",
+          "headline_md": "Bitcoin was steady ahead of CPI (~5:10 AM AZ)",
+          "summary_md": "BTC $83,588, up about 0.4% in 24h; range $82,919–$84,025; about 34% below its $126,080 all-time high.",
+          "source": {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/bitcoin"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Show Low | 4% | 4% | 4% | 3% | 3% | 3% | 1% | 1% | 1% | 1% | 1% | 1% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Snowflake | 4% | 4% | 4% | 1% | 1% | 1% | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 1% | 0% |\n\nHourly precip chances from NWS api.weather.gov (forecastHourly). Fetched 5:09 AM AZ MST 2026-10-14. No rain/snow named in any hourly shortForecast.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "Phoenix: High 78°F / Low 59°F, Sunny, precip day 0% / night 0%, no alerts",
+          "summary_md": "Clear and dry today with no precipitation expected and no active NWS alerts.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.0740"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "Show Low: High 57°F / Low 33°F, Sunny, precip day 4% / night 0%, no alerts",
+          "summary_md": "Sunny and cool; only a slight morning precip chance and no active alerts.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "Snowflake: High 60°F / Low 32°F, Sunny, precip day 4% / night 1%, no alerts",
+          "summary_md": "Sunny with a low freeze risk overnight; trace precip chances only and no active alerts.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5139&lon=-110.0784"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "Anthropic's detailed account of how it says it cut Chinese labs' theft of Claude's reasoning by 90–99%",
+          "summary_md": "Worth reading because Anthropic names Zhipu and Moonshot, explains distillation attacks in plain terms, and lists what the defenses cost Anthropic and its customers.",
+          "source": {
+            "name": "Anthropic",
+            "url": "https://www.anthropic.com/research/distillation-defenses"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
