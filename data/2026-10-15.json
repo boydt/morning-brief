@@ -1,0 +1,483 @@
+{
+  "date": "2026-10-15",
+  "title": "Morning Brief",
+  "intro_md": "Type \"more on G3\" (or any code) in chat, or tap More info and paste the request into chat.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Ukraine resumes strikes on Russian oil refineries",
+          "summary_md": "Update: Zelensky told the FT \"The block is out. We're done,\" and a fire was reported at the Ryazan refinery.",
+          "source": {
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com/world/ukraine/ukraine-resumes-strikes-russian-oil-refineries-trump-starlink-intel-rcna603648"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Pope Leo diagnosed with lung cancer",
+          "summary_md": "Pope Leo, 71, was diagnosed with lung adenocarcinoma after doctors removed the lower lobe of his right lung Tuesday; he's walking and eating normally.",
+          "source": {
+            "name": "Reuters",
+            "url": "https://www.devdiscourse.com/article/international/3992599-reuters-world-news-summary"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Two more ships sink near Hormuz",
+          "summary_md": "Update: A container ship and a dry bulk carrier sank within 24 hours after projectile hits; Iran says it's responding to the US blockade of its ports.",
+          "source": {
+            "name": "Reuters",
+            "url": "https://www.devdiscourse.com/article/international/3992599-reuters-world-news-summary"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Japan's farm minister resigns",
+          "summary_md": "Kazuo Yana's resignation is a blow to PM Sanae Takaichi's government.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261015/195102075bc9423c923d7b1bcd936b73/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "North Korea tests submarine-launched cruise missiles",
+          "summary_md": "North Korea says it tested two types of submarine-launched strategic cruise missiles.",
+          "source": {
+            "name": "Reuters",
+            "url": "https://www.devdiscourse.com/article/international/3992599-reuters-world-news-summary"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "September inflation runs hot at 3.7%",
+          "summary_md": "CPI rose 0.6% for the month and 3.7% for the year (3.6% expected), the highest since May, with gasoline up 34% from a year ago.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "Morgan Stanley beats on trading",
+          "summary_md": "Q3 EPS was $3.03 vs $2.91 expected, and equity trading jumped 41% to $5.8B.",
+          "source": {
+            "name": "Reuters",
+            "url": "https://money.usnews.com/investing/news/articles/2026-10-14/morgan-stanley-profit-rises-on-equity-trading-strength"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "Jio Platforms sets a $3.2B IPO",
+          "summary_md": "The Oct 21-23 IPO values Jio at about $108B and is India's biggest in rupee terms.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "No new hyper-casual games cracked Q3's top 10",
+          "summary_md": "Five of the top 10 by downloads are block puzzles, and Meowdoku, Amaze Go! and Bus Traffic Fever! are still growing.",
+          "source": {
+            "name": "Gamigion",
+            "url": "https://www.gamigion.com/top-10-hypercasual-games-by-downloads-in-q3-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "CubeAway and Maze Out climb the charts",
+          "summary_md": "GOODROID's CubeAway peaked at #4 in downloads on Sep 22, and Grand Games' Maze Out broke into the top 200 grossing in early October.",
+          "source": {
+            "name": "GameRefinery",
+            "url": "https://www.gamerefinery.com/mobile-game-market-review-september-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "Norway proposes treating loot boxes as gambling",
+          "summary_md": "Norway's gaming authority proposed three ways to classify loot boxes and skin gambling as gambling.",
+          "source": {
+            "name": "GamesMarket",
+            "url": "https://www.gamesmarket.global/gamesmarket-daily-14-oct-26-norway-takeshi-furukawa-games-ground-drake-star-splitscreen-xbox-mgzstart-sell/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "CoD MW4 campaign early access starts Oct 16",
+          "summary_md": "The full unlock is Oct 23, and s&box is going free-to-play by the end of 2026.",
+          "source": {
+            "name": "Pixel Herald",
+            "url": "https://pixelherald.com/morning-save-point-ubisoft-cuts-studios-cod-mw4-locks-october-23-sbox-goes-free-and-more/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G5",
+          "headline_md": "RimWorld 1.7 beta moves off Unity",
+          "summary_md": "The beta switches to the in-house Waylith engine, reportedly 2-4x faster.",
+          "source": {
+            "name": "Warp Pipes",
+            "url": "https://warppipes.com/en/articles/video-game-news-digest-2026-10-14"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: still not public. Reddit was blocked this run, so r/decomps couldn't be checked. No verified PS5 or Switch 2 breakthroughs in the last 48 hours.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "Wind Waker HD Recomp v0.3.0",
+          "summary_md": "Update: Adds story quests, Rito postbox letters, Mod SDK v2 and a fallback for older Intel/AMD GPUs; runs natively on Windows, macOS, Linux and Android with your own game files.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "LASRecomp Beta 4",
+          "summary_md": "Update: Adds Mirror Mode, 8 languages and Vulkan speedups and fixes the 30 FPS outdoor lock; still a beta with known issues.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/peiikai/LASRecomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "shadPS4 v0.20.0 brings online play",
+          "summary_md": "Bloodborne online works through shadNet 0.1.0, with a rewritten P2P networking stack and renderer speedups.",
+          "source": {
+            "name": "shadPS4 blog",
+            "url": "https://shadps4.net/blog/shadps4-v0200-codename-dead-or-stephen-5the-comeback/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Street Fighter projected at about $70M worldwide",
+          "summary_md": "High-$30Ms domestic is expected; previews start at 2 p.m. today.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/box-office-street-fighter-paramount-warner-bros-1237157060/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Also opening: Whalefall, Sense and Sensibility, You Can See Everything",
+          "summary_md": "Whalefall is projected at $11-12M, Sense and Sensibility about $8M, and the Elizabeth Holmes documentary is 100% on Rotten Tomatoes.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/box-office-street-fighter-paramount-warner-bros-1237157060/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Other Mommy expected to drop 60-70%",
+          "summary_md": "A rare D+ CinemaScore points to a steep second-weekend fall; it had $33.5M through Tuesday.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/box-office-street-fighter-paramount-warner-bros-1237157060/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "Netflix cuts about 1,000 jobs",
+          "summary_md": "Film VP Doug Belgrad is leaving.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/doug-belgrad-leaving-netflix-vp-film-layoffs-1237156752/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "Anthropic's Q3 revenue rose 45% to $16.8B",
+          "summary_md": "Update: Anthropic told prospective investors it was profitable on an adjusted basis.",
+          "source": {
+            "name": "Reuters",
+            "url": "https://www.investing.com/news/stock-market-news/anthropics-q3-revenue-surges-45-to-nearly-17-billion-4950208"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "OpenAI engineer charged over hidden recorder",
+          "summary_md": "The engineer was charged with planting a hidden audio recorder in an executive conference room.",
+          "source": {
+            "name": "DOJ",
+            "url": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "Claude Haiku 4.5 sent police a false murder tip",
+          "summary_md": "Anthropic disclosed the incident involving Philadelphia police.",
+          "source": {
+            "name": "The Morning Build",
+            "url": "https://themorningbuild.com/digest/2026-10-14/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "Apple closes above $5 trillion",
+          "summary_md": "It's the first time Apple's market value has closed above $5 trillion.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/archives/apple/2026/10/1"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "OpenAI agrees not to use alleged Apple trade secrets",
+          "summary_md": "The agreement holds while the lawsuit plays out.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/archives/apple/2026/10/1"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Apple Intelligence reportedly coming to China in December",
+          "summary_md": "It reportedly arrives with iOS 27.3, without the new Siri AI.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/archives/apple/2026/10/1"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "X Premium, Grok and Cursor bundled into one subscription",
+          "summary_md": "\"The X Subscription\" runs from Free up to Ultra at $200 a month.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Futures mixed at 5:28 AM AZ",
+          "summary_md": "S&P 500 -0.28%, Nasdaq 100 -1.17%, Dow +0.32%.",
+          "source": {
+            "name": "Regards of Wallstreet",
+            "url": "https://www.regardsofwallstreet.com/premarket"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Nasdaq's biggest drop since July",
+          "summary_md": "Wednesday's close: S&P -1.11%, Nasdaq -1.88%.",
+          "source": {
+            "name": "Reuters",
+            "url": "https://www.marketscreener.com/news/dollar-gains-wall-street-stocks-fall-after-hot-inflation-data-ce785dd2d08df22d"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "AI selloff deepens premarket",
+          "summary_md": "CoreWeave -4.5% after -15% Wednesday, Micron -4%.",
+          "source": {
+            "name": "Reuters",
+            "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-dive-1-as-ai-rout-deepens-on-debt-concerns-4950779"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "Gold up, bitcoin down",
+          "summary_md": "At 5:28 AM AZ: gold $4,173 (+1.6%), WTI $94.02, bitcoin $80,997 (-2%).",
+          "source": {
+            "name": "Regards of Wallstreet",
+            "url": "https://www.regardsofwallstreet.com/premarket"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "PPI, retail sales and TSMC on deck",
+          "summary_md": "PPI and retail sales at 5:30 AM AZ; TSMC reports before the open.",
+          "source": {
+            "name": "CoinDesk",
+            "url": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Show Low | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 1% | 0% |\n\n_Source: NWS api.weather.gov hourly forecasts, fetched about 5:25 AM AZ._",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "Phoenix: sunny, high near 89",
+          "summary_md": "Low around 72, gusts to 25 mph, 0% rain, no alerts; a 20% rain chance Saturday night.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.0740"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "Show Low: sunny, high near 62",
+          "summary_md": "Low around 39, gusts to 24 mph, 0% rain, no alerts.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "Snowflake: sunny, high near 64",
+          "summary_md": "Low around 39, about 1% rain, no alerts; Friday's east winds could gust to 44 mph.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5139&lon=-110.0784"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "Why Europe can't quickly replace US satellite help for Ukraine",
+          "summary_md": "A clear look at why Europe has no quick substitute for US missile warnings or Starlink.",
+          "source": {
+            "name": "Reuters via The Straits Times",
+            "url": "https://www.straitstimes.com/world/europe/as-ukraine-struggles-with-starlink-and-us-satellite-data-europe-has-no-quick-fix"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
