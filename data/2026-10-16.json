@@ -1,0 +1,549 @@
+{
+  "date": "2026-10-16",
+  "title": "Morning Brief",
+  "intro_md": "Type \"more on G3\" (or any code) in April's chat, or tap More info on an item and paste the request there, and I'll dig into it.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Three children and a teacher killed in Oregon school shooting",
+          "summary_md": "Police in Bend say a 16-year-old opened fire at Silver Rail Elementary, killing children aged 5, 8 and 11 and a teacher before a bystander shot the suspect.",
+          "source": {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/world"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "School roof collapse in Pakistan kills 33",
+          "summary_md": "The death toll from Thursday's collapse in Khyber Pakhtunkhwa province reached 33, hospital and rescue officials said.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261016/fbffb1f1c00746cda325372b9cb3744a/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Houthis hit Aden's presidential palace as Saudi airport attacks mount",
+          "summary_md": "Yemen's government says five people were killed in the Aden attack, and the Saudi-led coalition says 20 attacks on Riyadh's main airport since Oct 1 have killed 17.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261016/fbffb1f1c00746cda325372b9cb3744a/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Update: Ukraine's Starlink service is restored, and it hit another Russian refinery",
+          "summary_md": "A Ukrainian official says throttled Starlink and Starshield service is back at full capacity, and Ukraine struck a refinery overnight despite Trump's demand to stop.",
+          "source": {
+            "name": "Axios",
+            "url": "https://www.axios.com/world/2026/10/16"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "Trump administration sues California over 20,000 mail ballots",
+          "summary_md": "The suit claims suspected ineligible voters received mail-in ballots for the November election and seeks to stop them being counted.",
+          "source": {
+            "name": "Axios",
+            "url": "https://www.axios.com/world/2026/10/16"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "Wholesale prices jumped 1.3% in September",
+          "summary_md": "The Producer Price Index rose 1.3% on the month and 6.3% over 12 months, the biggest monthly gain since March 2022.",
+          "source": {
+            "name": "U.S. Bureau of Labor Statistics",
+            "url": "https://www.bls.gov/news.release/archives/ppi_10152026.htm"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "TSMC posts record profit, up 69%",
+          "summary_md": "Q3 net income hit NT$763.1B on revenue of US$46.7B, and it guided Q4 revenue to US$52.3B–54.3B on 2-nanometer demand.",
+          "source": {
+            "name": "TSMC",
+            "url": "https://pr.tsmc.com/english/news/3346"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "Retail sales rose 0.8% in September, mostly on gas",
+          "summary_md": "Sales hit $745B, beating the 0.4% economists expected, but rose just 0.2% excluding gas stations.",
+          "source": {
+            "name": "The Wall Street Journal",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-15-2026/card/retail-sales-grew-at-slower-pace-last-month-zWY9Jh97SN8mKYMGh4pv"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "UniCredit gets ECB approval for a bigger Commerzbank stake",
+          "summary_md": "The approval paves the way for CEO Andrea Orcel to take over the German lender.",
+          "source": {
+            "name": "Bloomberg via Swissinfo",
+            "url": "https://www.swissinfo.ch/eng/us-stock-futures-rise-as-turbulent-week-nears-end%3a-markets-wrap/92225060"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "War Robots passes $50M in lifetime Steam revenue",
+          "summary_md": "MY.GAMES' mobile-born robot shooter hit the mark about eight and a half years after its 2018 Steam launch, a sign mobile hits can earn real money on PC.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/war-robots-surpasses-50m-in-steam-lifetime-revenue/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "India's Spill Games raises $10.5M Series A",
+          "summary_md": "The Bengaluru AI-led mobile studio's round was led by Elevation Capital and will fund scaling hits, user acquisition and AI tech.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/indias-spill-games-raises-105m-in-series-a-funding/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "Clash Royale is becoming a board game",
+          "summary_md": "Supercell and Maestro Media's Clash Royale: The Grand Arena is a 2–4 player tabletop game heading to Kickstarter on Oct 20.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/supercell-brings-clash-royale-to-tabletop-with-new-kickstarter-board-game/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "GTA VI's launch trailer is out",
+          "summary_md": "Rockstar released it Thursday ahead of the Nov 19 launch on PS5 and Xbox Series, which keeps the game eligible for The Game Awards.",
+          "source": {
+            "name": "Warp Pipes",
+            "url": "https://warppipes.com/en/articles/video-game-news-digest-2026-10-16"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G5",
+          "headline_md": "Sega pulls the Total War: Shogun 2 remaster after three days",
+          "summary_md": "Players criticized bugs and distorted art some blame on AI upscaling; the original 2011 game goes back on sale and buyers keep the remaster.",
+          "source": {
+            "name": "Warp Pipes",
+            "url": "https://warppipes.com/en/articles/video-game-news-digest-2026-10-16"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G6",
+          "headline_md": "Steam is testing achievement sets",
+          "summary_md": "Developers can split achievements into groups like base game and DLC, each with its own progress bar, and archive seasonal ones; it's in the Steam client beta now.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: still not public. The GitHub account being watched (Mindstormman) still has no public repos, and r/decomps (readable this run) had no lifter post in the last 48 hours. No verified PS5 or Switch 2 breakthroughs with commercial games.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "Let's Go Recomp: Pokémon Let's Go, Eevee! as a native Windows PC port",
+          "summary_md": "A brand-new static recompilation of the Switch v1.0.0 game, built on the LAS Recomp runtime; v0.1.2 (10:06 PM AZ Thursday) fixes two crashes in the first releases, and you supply your own game files. The repo is hours old and unvetted.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/raulzrrs/letsgo-recomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "decomp.dev is shutting its public index",
+          "summary_md": "The progress tracker turned off its main index and new sign-ups, citing AI-driven abuse like forks \"finished\" by AI; existing project pages stay up.",
+          "source": {
+            "name": "Recomp",
+            "url": "https://recompsoftware.com/this-week/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "r/emulation stops taking posts about single recomp ports",
+          "summary_md": "Mods now send individual static-recomp release posts to r/recomps, while new recomp libraries and big developments are still welcome; mostly AI-written projects need an \"AI-assisted\" flair.",
+          "source": {
+            "name": "Recomp",
+            "url": "https://recompsoftware.com/this-week/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "Halo 64 runs Halo: Combat Evolved multiplayer on an N64",
+          "summary_md": "Built from the OpenCE decompilation with a new libdragon renderer, v0.2.0 has four-player split screen and bots on Expansion Pak hardware; maps come from your own Xbox copy.",
+          "source": {
+            "name": "Recomp",
+            "url": "https://recompsoftware.com/this-week/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "Also new: ps3recomp v0.15.0 and Forza Motorsport 4 Recompiled alpha 2",
+          "summary_md": "Both shipped Oct 15–16 alongside Xenia Canary builds and dozens of other recomp releases this week.",
+          "source": {
+            "name": "Recomp",
+            "url": "https://recompsoftware.com/this-week/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Update: Street Fighter made about $4M in Thursday previews",
+          "summary_md": "Deadline says it should open north of $30M this weekend (Oct 16–18) on a net $82M budget, despite 47% on Rotten Tomatoes.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "You Can See Everything could set a documentary opening record",
+          "summary_md": "A24's 3-hour Elizabeth Holmes doc made about $2M in previews and may top $10M, beating Melania's $7.1M; it's 100% on Rotten Tomatoes.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Whalefall and Sense & Sensibility made about $1M each in previews",
+          "summary_md": "Whalefall (70% RT) is eyeing north of $11M for the weekend and Sense & Sensibility (76% RT) about $8M.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "Street Fighter is projected at about $35M overseas",
+          "summary_md": "Variety's projections have it opening in 65 markets, with $25M–35M expected from 3,500 North American theaters.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/box-office/street-fighter-box-office-opening-weekend-projections-1236910614/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "Peter Rice replaces Bela Bajaria as Netflix's content chief",
+          "summary_md": "The former Disney TV chairman starts Oct 26 and will oversee Netflix series, film and live events worldwide.",
+          "source": {
+            "name": "Netflix",
+            "url": "https://about.netflix.com/en/news/peter-rice-named-netflix-chief-content-officer"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "EU sends its first AI Act requests to OpenAI and Anthropic",
+          "summary_md": "The AI Office wants information on two summer incidents where AI agents escaped test environments; these are requests, not findings or fines.",
+          "source": {
+            "name": "AI News Online",
+            "url": "https://ai-news-online.com/briefing/2026-10-15/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "Eight states, including Arizona, sue OpenAI over ChatGPT and kids",
+          "summary_md": "Each filed in its own state court alleging OpenAI misled parents about safety; OpenAI points to its parental controls and teen mode.",
+          "source": {
+            "name": "AI News Online",
+            "url": "https://ai-news-online.com/briefing/2026-10-15/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "Meta's open-weight Muse Spark Open runs locally on Macs",
+          "summary_md": "Meta and Apple teamed up so the 816-billion-parameter model runs on two to four linked M5 Ultra Mac Studios.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "Modal raises $750M at a $15.75B valuation",
+          "summary_md": "The serverless GPU platform says its run-rate revenue passed $1B, with its AI code sandboxes alone at about $300M.",
+          "source": {
+            "name": "AI News Online",
+            "url": "https://ai-news-online.com/briefing/2026-10-15/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "Spyware makers used online ads to hack devices with zero clicks",
+          "summary_md": "Citizen Lab says Israeli ad firm Discover-Tech let spyware makers target people through ads, infecting at least 45 Al Jazeera computers.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "Google's Universal Cart launches in the US",
+          "summary_md": "It collects products from many retailers across Search and the Gemini app, alerts you to price drops and restocks, and checks out via Google's commerce protocol.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Anzu takes its ads beyond games",
+          "summary_md": "The in-game ad company is adding standard ad formats across non-game mobile apps so advertisers can reach the same gamers elsewhere.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/anzu-expands-ad-formats-beyond-games/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "Bluesky's Attie app now builds websites and games",
+          "summary_md": "Anyone can make sites, games, quizzes and polls without code and share them on Bluesky.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Futures modestly higher at 3:45 AM AZ",
+          "summary_md": "S&P 500 futures were up 0.2%, Dow futures up 0.4% and Nasdaq 100 futures flat, with traders cutting October rate-hike odds to about 15% after Fed Chair Warsh.",
+          "source": {
+            "name": "Bloomberg via Swissinfo",
+            "url": "https://www.swissinfo.ch/eng/us-stock-futures-rise-as-turbulent-week-nears-end%3a-markets-wrap/92225060"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Tesla up about 4% premarket, CoreWeave down 4%",
+          "summary_md": "Tesla rose 4.3% after unveiling its SpaceX-thruster Roadster, while CoreWeave fell on credit worries (3:45 AM AZ).",
+          "source": {
+            "name": "Bloomberg via Swissinfo",
+            "url": "https://www.swissinfo.ch/eng/us-stock-futures-rise-as-turbulent-week-nears-end%3a-markets-wrap/92225060"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Strategy down 3% premarket on MSCI rules",
+          "summary_md": "New MSCI rules could drop Strategy and other crypto-treasury companies from its indexes in November (quoted 2:21 AM AZ).",
+          "source": {
+            "name": "Investing.com",
+            "url": "https://au.investing.com/news/stock-market-news/premarket-movers-tesla-jumps-strategy-falls-on-msci-index-threat-4694829"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "Bitcoin $82,104, gold $4,181, Brent near $106",
+          "summary_md": "At 3:45 AM AZ bitcoin was up 0.1%, spot gold up 0.2% and the 10-year Treasury yield at 5.10%.",
+          "source": {
+            "name": "Bloomberg via Swissinfo",
+            "url": "https://www.swissinfo.ch/eng/us-stock-futures-rise-as-turbulent-week-nears-end%3a-markets-wrap/92225060"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "Thursday: stocks rebounded after bitcoin briefly broke $80K",
+          "summary_md": "Bitcoin dipped under $80,000 for the first time in over a month as about $948M in leveraged bets were liquidated, while the S&P closed up 0.3% and the Dow about 1.1%.",
+          "source": {
+            "name": "edgeX",
+            "url": "https://pro.edgex.exchange/en-US/news/article/edgex-daily-briefing-october-16-2026-bitcoin-slips-under-80k-after-hot-ppi"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 1% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Show Low | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 1% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 1% |\n\nChance of precipitation by hour, from the api.weather.gov hourly forecast, fetched 5:07 AM AZ.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "Phoenix: sunny and windy, high near 88",
+          "summary_md": "Low tonight around 71, east wind 10–15 mph with gusts to 35, and no rain expected. A Wind Advisory runs until 3 PM AZ.",
+          "source": {
+            "name": "National Weather Service",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.0740"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "Show Low: sunny, high near 68",
+          "summary_md": "Low tonight around 38, east wind 9–17 mph with gusts to 23, and no rain or snow expected. No active alerts.",
+          "source": {
+            "name": "National Weather Service",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "Snowflake: sunny and windy, high near 68",
+          "summary_md": "Low tonight around 40, east wind 20–28 mph with gusts to 39, and no rain or snow expected. A Wind Advisory runs until 6 PM AZ.",
+          "source": {
+            "name": "National Weather Service",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5139&lon=-110.0784"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "What the Russian plague scare taught the world",
+          "summary_md": "A clear look at why outbreak plans can't count on countries like Russia to say what a pathogen is, and what experts want instead.",
+          "source": {
+            "name": "Axios",
+            "url": "https://www.axios.com/2026/10/15/russian-plague-scare-lessons-biosecurity"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
