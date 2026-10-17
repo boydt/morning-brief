@@ -1,0 +1,527 @@
+{
+  "date": "2026-10-17",
+  "title": "Morning Brief",
+  "intro_md": "Type \"more on G3\" (or any code) in April's chat, or tap More info on an item and paste the request there, and I'll dig into it.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Trump waives the Graham Act's big new Russia sanctions",
+          "summary_md": "Late Friday, Trump used the law's national-interest waiver to suspend its up-to-500% duties on Russian goods and up-to-100% tariffs on top buyers of Russian oil and gas, two days before the deadline; sanctions under earlier executive orders stay. A Putin envoy called it historic, and Democrats condemned it.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Russian strikes hit nine Ukrainian regions, cutting power to more than a million",
+          "summary_md": "Friday's attacks killed at least eight people and injured 60, hit shopping centers in Rivne and Sumy, and knocked out power that crews have since restored to more than a million people. The UN says civilian casualties are climbing steeply.",
+          "source": {
+            "name": "Al Jazeera / Reuters",
+            "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Istanbul's worst flash floods since 1942 kill four",
+          "summary_md": "Four people are dead and three missing after flash floods hit Istanbul, Turkey's interior minister said Friday from the hard-hit Sariyer district.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261017/dd6796462e84487f83e5ac3219802a5b/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Update: Pope Leo XIV is seen saying Mass after his lung cancer surgery",
+          "summary_md": "The Vatican released the first photos since his Oct. 13 surgery, showing him celebrating Mass for staff at Rome's Gemelli Hospital. Doctors report steady improvement.",
+          "source": {
+            "name": "Vatican News",
+            "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-day-four-health-update-gemelli-hospital.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "U.S. says Iran-backed militias are sending money back to the IRGC",
+          "summary_md": "CENTCOM's Adm. Brad Cooper said Friday that regional militias are helping a cash-starved Revolutionary Guard after nine months of war, while the U.S. keeps up its naval blockade and sanctions.",
+          "source": {
+            "name": "Axios",
+            "url": "https://www.axios.com/world/2026/10/17"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "SoftBank weighs an $18B deal for Allied Universal",
+          "summary_md": "Talks are early and could value the U.S. security-services giant at about $18B, according to a source. Masayoshi Son reportedly wants to eventually replace some guards with robots.",
+          "source": {
+            "name": "Reuters via Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/softbank-weighs-18-billion-acquisition-of-allied-universal-bloomberg-news-reports-4954792"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "Proofpoint will buy Varonis for $6.3B",
+          "summary_md": "Thoma Bravo-owned Proofpoint is paying cash, $49.75 a share, to pair email security with Varonis' data security as AI agents spread through company networks. The deal is expected to close in the first half of 2027.",
+          "source": {
+            "name": "CyberScoop",
+            "url": "https://cyberscoop.com/proofpoint-acquires-varonis-systems-data-security/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "MSCI proposes cutting Indonesia's emerging-market status",
+          "summary_md": "Losing the status could set off heavy outflows ahead of Indonesia's central bank meeting Wednesday. MSCI also warned Turkey it could be downgraded if reforms fall short by mid-2027.",
+          "source": {
+            "name": "Reuters via Investing.com",
+            "url": "https://www.investing.com/news/economy-news/take-five-earnings-an-election-and-an-msci-headache-4953632"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "Update: Flow Games confirms $49M in total funding, and Smash Fest passes 23M downloads",
+          "summary_md": "After PocketGamer.biz reported a $46M Tencent-led package this week, the Turkish studio confirmed $49M raised to date from Tencent, Makers Fund, Arcadia and Ludus. It plans to grow its physics-based mobile shooter and its team.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/flow-games-confirms-49m-in-total-funding-from-tencent-and-vc-investors/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "East Side Games lines up about $6.8M for two 2027 games",
+          "summary_md": "It has about US$2.8M (C$4M) of credit from National Bank of Canada and a US$4M Export Development Canada loan earmarked for two unannounced mobile titles.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/east-side-games-secures-28m-in-canadian-credit-and-a-4m-loan/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "Control Resonant tops 1M sales, Remedy's fastest-selling game",
+          "summary_md": "It passed one million copies within three weeks of its Sept. 24 launch, beating Alan Wake 2 and the original Control.",
+          "source": {
+            "name": "PC Gamer",
+            "url": "https://www.pcgamer.com/games/action/control-resonant-sells-1-million-copies-in-3-weeks-to-become-remedys-fastest-selling-game-ever/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "Jagex cancels RuneScape Reignited after player backlash",
+          "summary_md": "Less than two weeks after announcing the fresh-start servers, Jagex said it had \"missed the mark\" after veterans objected to a split community and another subscription.",
+          "source": {
+            "name": "PC Gamer",
+            "url": "https://www.pcgamer.com/games/mmo/less-than-2-weeks-after-announcing-runescape-reignited-jagex-is-scrapping-the-whole-thing/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: still not public. The Mindstormman GitHub account still has no public repos, and GitHub and web searches found no lifter repo or release. Reddit blocked the box this run (403 on old.reddit, www and the RSS feeds), so r/decomps, r/decomp and r/emulation couldn't be checked. No verified PS5 or Switch 2 breakthroughs with commercial games in the last 48 hours.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "Sky Recomp: Skyward Sword HD as a native Windows PC port (v1.0.0-beta1)",
+          "summary_md": "A brand-new static AArch64-to-C recompilation of the Switch game with a Vulkan/SDL3 runtime, published 2:28 AM AZ today. It claims a solid 60 fps at native resolutions and needs your own unpatched v1.0.0 files. The repo is hours old and unvetted.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/Apolinario-coder/SkyRecomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "Savage Wind Alpha 1: a Breath of the Wild (Switch 1.8.2) recomp for Windows and Linux",
+          "summary_md": "The tester preview (10:45 PM AZ Friday) boots to the main menu and plays the Shrine of Resurrection opening at 30 fps, with sound, voices and saves, and mixes any text language with any voice language. Nothing past the shrine is tested yet. It's built on the LAS Recomp runtime, and you bring your own dump.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/Revivedx/SavageWindRecomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "Also new on PC: a Super Mario Odyssey recomp and a native DriveClub port",
+          "summary_md": "smo-recomp (Switch 1.0.0 to Windows x64) has no release yet. By its own account it has been played to Cascade Kingdom's first checkpoint. DriveClub Recomp v0.1.1 (PS4 v1.28, 4:23 PM AZ Friday) claims about 60 fps at 4K; it's from a new OverkillLabs3 account, and the earlier OverkillLabs2 account vanished, so treat it with caution.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/OverkillLabs3/driveclub-recomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "Switch emulation now runs on Xbox Series X in Developer Mode",
+          "summary_md": "An apparent Eden-based port has been shown booting Super Mario Odyssey, Super Mario Bros. Wonder and Metroid Prime Beyond. It's an early dev-mode build, not a plug-and-play app.",
+          "source": {
+            "name": "Windows Central",
+            "url": "https://www.windowscentral.com/gaming/xbox/switch-emulation-on-xbox-series-x-is-real-and-early-results-look-far-better-than-anyone-expected"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "Analogue revives its FPGA SNES and Genesis consoles as the Super Nt+ and Mega Sg+",
+          "summary_md": "Both play original cartridges at 1080p and add USB-C power, a USB-A port, built-in Bluetooth/2.4GHz controller support and cartridge hot-swapping. Preorders open Monday, Oct. 19, at 9 AM AZ for $219.99 each, and shipping starts in December.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E6",
+          "headline_md": "Quick hits: God of War III PC 2.4.1, LASRecomp test builds, Virtual Jaguar 3.9",
+          "summary_md": "gow3_pc 2.4.1 (PS4 game on PC) brings launcher font and accent fixes. LASRecomp posted overnight test builds for Intel graphics, GTX 1060 black screens and audio pacing, but no new stable release. The Wind Waker HD Recomp devel build refreshed at 4:52 AM AZ with no new game release, and flossbud's WWHDRecomp has no release. Virtual Jaguar 3.9.0 adds a standalone desktop app.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/FelipePrado0/gow3_pc/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Update: Street Fighter heads for about a $30M opening after a $12.5M Friday",
+          "summary_md": "Friday's $12.5M includes $4M in previews at 3,575 theaters, the low end of expectations, per Deadline's 2:39 PM AZ update. It has a B- CinemaScore, an 80% RT audience score and 47% from critics.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Update: You Can See Everything is set for a roughly $12M opening",
+          "summary_md": "A24's three-hour Elizabeth Holmes documentary made $5.3M Friday at just 885 theaters. That would be the second-best documentary opening in 17 years (behind Fahrenheit 9/11). It has a 99% RT audience score and was 100% fresh with critics as of Thursday.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Whalefall sinks to about $6M-$7M, Sense & Sensibility about $6M",
+          "summary_md": "Whalefall made $2.6M Friday, far below the $11M tracking, and Sense & Sensibility $3M. Other Mommy is falling 73% to about $7.4M in its second weekend ($43.9M total).",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "Last weekend (Oct. 9-11): Other Mommy opened at No. 1 with $27.8M",
+          "summary_md": "Behind it were Verity $12.0M ($54.4M total), Resident Evil $8.6M ($138.7M), Heart of the Beast $7.4M ($50.0M) and The Social Reckoning $5.0M.",
+          "source": {
+            "name": "The Numbers",
+            "url": "https://www.the-numbers.com/box-office-chart/weekend/2026/10/09"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "Next weekend: Clayface is tracking at $20M-$29M",
+          "summary_md": "Box Office Theory pegs Warner Bros.' Oct. 23 opener at $26M, ahead of Wildwood ($7.5M), Klara and the Sun ($5.5M) and Ali G: Who Iz I? ($5M).",
+          "source": {
+            "name": "Box Office Theory",
+            "url": "https://boxofficetheory.com/4-week-box-office-tracking-forecasts-street-fighter-clayface-godzilla-minus-zero-cat-in-the-hat/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V6",
+          "headline_md": "Paramount lands Red Rising, with Francis Lawrence directing",
+          "summary_md": "The Hunger Games director will adapt the first book of Pierce Brown's sci-fi series, and Brown executive produces.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/red-rising-movie-francis-lawrence-to-direct-paramount-1237165870/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "Update: Anthropic IPO valuation talk slips to about $1.5T from $2T",
+          "summary_md": "After Anthropic's investor day, some current and prospective investors discussed the lower figure for the planned November share sale, citing slower revenue growth despite $16.8B in Q3 revenue.",
+          "source": {
+            "name": "Reuters via Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/exclusiveinvestors-temper-anthropic-ipo-valuation-expectations-over-revenue-growth-slowdown-sources-say-4952698"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "FTC reportedly subpoenas OpenAI and Anthropic over AI safety incidents",
+          "summary_md": "Each company reportedly got a civil investigative demand of more than 50 pages seeking records on security incidents, safeguards, marketing and privacy.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1012368/the-ftc-reportedly-subpoenaed-openai-and-anthropic-for-info-on-ai-security-incidents"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "China drafts export controls on AI models, agents and chip design",
+          "summary_md": "The draft adds 23 AI technologies to China's controlled-export list, including models of 2 trillion+ parameters or \"world-leading\" capability, plus solar and biomedicine items. Comments are open through Nov. 15.",
+          "source": {
+            "name": "AP",
+            "url": "https://apnews.com/article/china-export-restrictions-ai-chips-solar-us-5ac381c0c6d6628bbea2e0da7d855a5b"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "Replit's CEO says it no longer works with Anthropic",
+          "summary_md": "Amjad Masad cited cost, partnership and performance, saying OpenAI's models now beat Claude on Replit's benchmark. A person familiar disputed that the partnership has ended.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "Apple's new App Store rules target 'nudify' apps and bait-and-switch code",
+          "summary_md": "The updated guidelines make developers responsible for filtering nonconsensual intimate imagery. A new rule, 2.5.19, bans hidden or obfuscated features, with removal and account termination as the penalty.",
+          "source": {
+            "name": "9to5Mac",
+            "url": "https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "ChatGPT ads can target you by email, phone number and prompts",
+          "summary_md": "404 Media's tests show advertisers can upload emails, phone numbers or mobile ad IDs as custom audiences and target ads by prompt context. OpenAI says it doesn't share chats with advertisers.",
+          "source": {
+            "name": "404 Media",
+            "url": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Waymo is headed to Toronto",
+          "summary_md": "Ontario approved Waymo for its automated-vehicle pilot. Manual mapping comes first, then testing with safety drivers, before any public rides.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": "Markets are closed for the weekend. These are Friday, Oct. 16 closes (U.S. stocks closed at 1:00 PM AZ).",
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Stocks close out their worst week since June",
+          "summary_md": "At the 1:00 PM AZ close, the S&P 500 fell 1.1% to 7,659.44, the Nasdaq 2.1% to 26,140.03 (its first weekly loss in five weeks) and the Dow 0.3% to 52,002.41.",
+          "source": {
+            "name": "AP",
+            "url": "https://apnews.com/article/stocks-markets-us-ai-oil-tech-warsh-d2655f64db7ec8ae450525d58f97b628"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "AI infrastructure stocks led the slide",
+          "summary_md": "At Friday's close, Nebius fell 12.2%, CoreWeave 11.9% (about 25% down in five sessions), Super Micro 9.9%, Strategy 9.6% and Micron 5.6%. Energy and defense names like Targa, Diamondback and Northrop gained about 4%.",
+          "source": {
+            "name": "Reuters via Investing.com",
+            "url": "https://ca.investing.com/news/economy-news/wall-st-futures-mixed-as-tech-wobbles-again-tesla-gains-4884893"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Oil hits a five-month high: Brent $109.86, WTI $101.41",
+          "summary_md": "Brent settled up 3.7% after touching $110 intraday, and WTI rose 3.5%, on Hormuz attacks and a Ukrainian strike on Russia's Ryazan refinery (settlements per the wrap updated 1:50 PM AZ).",
+          "source": {
+            "name": "The Edge",
+            "url": "https://edgeconsultancykw.com/commodities-wrap-16-october-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "Gold $4,181, bitcoin about $81,500, VIX near 20",
+          "summary_md": "Gold settled up 0.3%. Bitcoin was near $81,500 at 1:05 PM AZ after dipping to $80,705, and the VIX jumped 21% to 19.99.",
+          "source": {
+            "name": "CryptoWatchDesk",
+            "url": "https://cryptowatchdesk.com/news/market-read-16-oct-us-close-chips-oil-bitcoin-80705"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "Europe bucked it with its best week since June",
+          "summary_md": "The STOXX 600 rose 0.7% Friday to 644.74, up more than 2% for the week, on strong results from ASML, Aixtron and Ericsson.",
+          "source": {
+            "name": "Reuters via Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/european-stocks-gain-as-schneider-lifts-sentiment-inflation-data-awaited-4953276"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 1% | 1% | 1% | 1% | 1% | 4% | 1% | 2% | 2% | 4% | 3% | 3% | 22% 🌧 | 24% 🌧 | 29% 🌧 | 13% | 12% | 12% | 27% 🌧 |\n| Show Low | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 7% | 7% | 7% | 7% | 7% | 7% | 34% 🌧 |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 5% | 5% | 5% | 5% | 5% | 5% | 31% 🌧 |\n\nChance of precipitation by hour, from the api.weather.gov hourly forecast (🌧 = that hour's forecast names rain showers), fetched 5:01 AM AZ.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "Phoenix: mostly cloudy, high near 81, with showers possible this evening",
+          "summary_md": "A slight chance of showers after 5 PM, falling to around 79 in the afternoon, with east wind 10–15 mph and gusts to 25. Tonight brings a 40% chance of showers and a low around 68. No active alerts, and the forecast gives no rain amounts.",
+          "source": {
+            "name": "National Weather Service",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.0740"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "Show Low: mostly sunny, high near 63, with showers possible late tonight",
+          "summary_md": "Dry through the day, with a 40% chance of showers after 11 PM and a low around 43. Sunday has a 40% chance of showers and afternoon thunderstorms. No active alerts.",
+          "source": {
+            "name": "National Weather Service",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "Snowflake: mostly sunny, high near 64, with showers possible late tonight",
+          "summary_md": "Light northwest wind, a 40% chance of showers after 11 PM and a low around 45. Sunday has a 40% chance of showers and afternoon storms, with a high near 65. No active alerts.",
+          "source": {
+            "name": "National Weather Service",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "Central bankers eye higher rates as the AI boom fuels a scramble for cash",
+          "summary_md": "It's a clear explanation of why AI spending could keep borrowing costs higher for years, and what that means for heavily indebted governments.",
+          "source": {
+            "name": "Reuters via Investing.com",
+            "url": "https://www.investing.com/news/economy-news/central-bankers-eye-higher-rates-as-ai-boom-fuels-scramble-for-cash-4954264"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
