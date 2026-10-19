@@ -1,0 +1,483 @@
+{
+  "date": "2026-10-19",
+  "title": "Morning Brief",
+  "intro_md": "Type \"more on G3\" (or any code) in April's chat, or tap More info on an item and paste the request there, and I'll dig into it.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Putin reportedly floats a Trump–Xi–Putin summit on Ukraine, without Zelenskyy",
+          "summary_md": "The WSJ says Putin raised the idea in an Oct. 9 call with Trump, possibly for November's APEC summit in Shenzhen; Rubio said there's been talk of a meeting but nothing finalized. Overnight Russia fired 16 ballistic missiles at the Kyiv area and 200+ drones nationwide, leaving at least 550,000 households without power, per Zelenskyy.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Australian MP Helen Haines critically injured in a 'deliberate' car ramming",
+          "summary_md": "An SUV struck the 65-year-old independent outside her office in Wangaratta, Victoria; bystanders held the 43-year-old driver and police found a knife in his car. PM Albanese called it a deliberate act, and the counterterrorism squad has been activated.",
+          "source": {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Italy: Meloni calls an emergency meeting after weekend cost-of-living riots in Milan",
+          "summary_md": "Police used tear gas and water cannon in Milan as more than 200 people were detained, 80% of them minors, with disorder also in Turin and Bologna. It follows the violent protests in France covered yesterday.",
+          "source": {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Alberta votes today on whether to start a process toward a separation referendum",
+          "summary_md": "If voters say yes, a binding referendum on leaving Canada could come as soon as 2027; polls suggest most Albertans want to stay. Counting starts no earlier than 7 PM AZ tonight, with results expected early Tuesday.",
+          "source": {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "Yemen: reports detail Iran's IRGC helping the Houthis as attacks on Saudi cities mount",
+          "summary_md": "The WSJ reported Mahan Air flights carried IRGC officers, drone parts and missile guidance systems to the Houthis, who now control Yemen's Red Sea coast and the Bab al-Mandeb strait. A recent Houthi strike on Riyadh's King Khalid airport killed 13.",
+          "source": {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W6",
+          "headline_md": "WFP cuts Gaza food aid by about a third over funding shortages",
+          "summary_md": "The UN agency says the number of people it helps in Gaza will drop from 1.6 million to 1.1 million.",
+          "source": {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "China's economy grew 4.5% in Q3 as AI-driven exports offset weak spending at home",
+          "summary_md": "That's up from the prior quarter's three-year low but at the bottom of Beijing's 4.5%-5% target; high-tech goods sales rose 14.3% while property investment fell more than 20% over nine months.",
+          "source": {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "French unrest hits French bonds, stocks and the euro",
+          "summary_md": "France's 10-year yield jumped more than 10 basis points, the CAC 40 fell about 1.3% and the euro slipped 0.28% against the dollar, with the French-German yield gap near euro-crisis levels. Investors doubt PM Lecornu's minority government can pass a credible 2027 budget.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "Musk says he will give one SpaceX share to every U.S. child next year",
+          "summary_md": "CNBC puts that at roughly $10.5 billion of stock at Friday's $146.03 close, though Musk gave no details on how it would work. It came right after Anthropic's public-benefit-fund pledge (see A1).",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "Supercell completes its buyout of Merge Mansion maker Metacore",
+          "summary_md": "Merge Mansion, estimated at about $490M lifetime revenue (AppMagic), joins Supercell's live portfolio with the goal of getting back to the top of the charts; terms weren't disclosed.",
+          "source": {
+            "name": "Mobilegamer.biz",
+            "url": "https://mobilegamer.biz/supercell-has-completed-its-acquisition-of-merge-mansion-maker-metacore/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "Activision QA union (AQAU-CWA) votes to authorize a strike",
+          "summary_md": "The roughly 600-member union says Activision has stalled first-contract talks for two years over wages, AI guardrails and contractor use. Activision says it has made progress, offered to meet Oct. 21-22, and has plans so players and releases aren't disrupted.",
+          "source": {
+            "name": "GamesIndustry.biz",
+            "url": "https://www.gamesindustry.biz/activision-qa-united-cwa-union-vote-to-authorise-strike-claims-publisher-has-failed-to-bargain-in-good-faith-over-key-issues"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "Power to the Players Act: a new bill would make buying a game mean owning it",
+          "summary_md": "Rep. Ritchie Torres's bill would have the FTC guarantee ownership rather than a license and require an offline mode before servers shut down, citing NBA 2K25's Dec. 31 shutdown.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "Samson developer Liquid Swords files for bankruptcy",
+          "summary_md": "Staff at the studio behind Samson had reportedly gone unpaid for two months.",
+          "source": {
+            "name": "GamesIndustry.biz",
+            "url": "https://www.gamesindustry.biz/samson-studio-liquid-swords-files-for-bankruptcy-staff-reportedly-unpaid-for-two-months"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: still not public. Mindstormman's GitHub still shows 0 public repos, and GitHub searches only turned up per-game Wii U recomps already seen, no general PowerPC-to-x86 lifter. Reddit blocked this run (403 on old.reddit and www RSS for r/decomps and r/emulation). No verified PS5 or Switch 2 commercial-game breakthrough overnight; KytyPS5 posted routine nightlies only.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "Update: Driveclub Recomp v0.2.3 gets about 15% faster, and rival DCport adds FSR 4",
+          "summary_md": "Driveclub Recomp (OverkillLabs3) runs the PS4 game's own x86-64 code natively on Windows with Vulkan, now hitting ~71 fps vs 62 in a CPU-heavy race, with DLAA/FSR 3.1 AA and up to 8K. The separate DCport adds FSR 4 and FSR 3 frame generation; both are unfinished, offline-only and need your own dump.",
+          "source": {
+            "name": "VideoCardz",
+            "url": "https://videocardz.com/newz/driveclub-sonys-ps4-exclusive-is-now-a-native-pc-game-thanks-to-modders"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "BlueWake 0.8.0: the GameCube Wind Waker PC recomp gets the Wind Waker HD look",
+          "summary_md": "The release adds HD textures built from your own Wind Waker HD copy, faster defaults on Windows and Linux, and an experimental Android build; it needs your own US (GZLE01) disc. Published 7:27 PM AZ Saturday.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/chrissotraidis/bluewake/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "Metroid Prime native PC port 0.30.0 adds remastered effects and cuts Android memory use",
+          "summary_md": "The PrimeDecomp-based port for Windows, Linux and Android adds suit-matched morph balls, the full Flaahgra theme, a beam-stacking option and savestate/door fixes; it needs your own disc. Published 2:42 PM AZ Sunday.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/Odrannnn/MetroidPrimePort/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "Eternal Darkness Recomp 0.9.3 adds third- and first-person cameras",
+          "summary_md": "The native Mac/Windows/Linux recomp of the GameCube game adds a beta camera mode beside the original fixed angles; it works only with the European (GEDP01) disc. Published 11:59 AM AZ Sunday.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/griches/EternalDarknessRecomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "Update: Analogue Super Nt+ and Mega Sg+ FPGA console pre-orders open today",
+          "summary_md": "Pre-orders for Analogue's revived SNES and Genesis FPGA consoles, announced last week, open Oct. 19.",
+          "source": {
+            "name": "Retro Handhelds",
+            "url": "https://retrohandhelds.gg/analogue-announces-super-nt-and-mega-sg-with-pre-orders-opening-october-19/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E6",
+          "headline_md": "Quick hits: Lost Odyssey Recomp 1.0.6 and a fresh Wind Waker HD Recomp devel build",
+          "summary_md": "Lost Odyssey Recomp 1.0.6 (9:32 PM AZ Sunday) fixes a macOS frame-generation crash and cutscene audio mixing; the Wind Waker HD Recomp posted a new devel build at 3:32 AM AZ today with no new tagged release since v0.3.0.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/freefrank/LostOdysseyRecomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Update: Street Fighter opens at No. 1 with $31M (Oct. 16-18) and $51.1M worldwide",
+          "summary_md": "Sunday estimates show the Capcom adaptation drew a mostly older male crowd, a B- CinemaScore and 41% on Rotten Tomatoes; its budget is reportedly under $100M.",
+          "source": {
+            "name": "Boxoffice Pro",
+            "url": "https://www.boxofficepro.com/weekend-box-office-street-fighter-wins-the-weekend-as-you-can-see-everything-shocks-with-15m-debut/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Update: You Can See Everything opens to $15M on just 855 screens, the second-best documentary debut ever",
+          "summary_md": "A24's three-hour Elizabeth Holmes doc had 2,000+ sellouts, 99% on Rotten Tomatoes and a record 4.8 on Letterboxd; it goes wider next weekend.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Whalefall sinks with $8M; Sense and Sensibility opens to $7.25M",
+          "summary_md": "Disney/20th Century's $60M Whalefall lost the male audience to Street Fighter. The overall weekend hit $103.9M, up 41.9% from the same frame in 2025, and Resident Evil has now reached $148.5M.",
+          "source": {
+            "name": "Boxoffice Pro",
+            "url": "https://www.boxofficepro.com/weekend-box-office-street-fighter-wins-the-weekend-as-you-can-see-everything-shocks-with-15m-debut/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "This Friday: DC's R-rated Clayface is tracking around $20M-$29M",
+          "summary_md": "Box Office Theory's latest pinpoint is $26M; Laika's Wildwood sits at 100% on Rotten Tomatoes, while Taika Waititi's Klara and the Sun has poor early reviews (25%).",
+          "source": {
+            "name": "Box Office Theory",
+            "url": "https://boxofficetheory.com/4-week-box-office-tracking-forecasts-street-fighter-clayface-godzilla-minus-zero-cat-in-the-hat/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "Anthropic commits 5% of its shares to a new \"public benefit fund\"",
+          "summary_md": "Pending shareholder approval, the fund could grow by 2% for every 50% rise in Anthropic's value and might fund nonprofits, direct payouts, or efforts to address AI job losses; governance details come later.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "Update: Disney will hire most of bankrupt Character.AI's staff",
+          "summary_md": "A court filing shows Disney offering jobs to at least 60 Character.AI employees, about $60M a year in pay, as part of a stalking-horse bid that a rival could still top.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "Microsoft pulls out of Nscale's planned UK AI data centre in Essex",
+          "summary_md": "Microsoft had said it would fund a supercomputer at the £2bn Loughton site, whose grid connection has reportedly slipped to the 2030s; Nscale says it's still building.",
+          "source": {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "Mexico gives Apple, Google, Meta and other platforms 30 days to protect minors",
+          "summary_md": "A presidential decree requires social and streaming platforms to shield kids from harmful content, and Sheinbaum backs a bill to penalize companies that don't comply.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/mexico-orders-digital-platforms-to-shield-minors-from-harmful-content/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Apple's foldable iPhone Duo is backordered into January",
+          "summary_md": "Ship dates slipped within a minute of Friday pre-orders, and 9to5Mac says it is likely a mix of strong demand and tight hinge-related supply.",
+          "source": {
+            "name": "9to5Mac",
+            "url": "https://9to5mac.com/2026/10/19/constrained-iphone-duo-availability-is-annoying-but-a-mixed-blessing-for-apple/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Futures rebound: Nasdaq 100 +1%, S&P 500 +0.4%, Dow -0.3% (4:48 AM AZ)",
+          "summary_md": "The rebound follows last week's AI selloff, when the Nasdaq lost 4.5% and the S&P nearly 2%.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Premarket movers: CoreWeave +6%, Intel +3%, AMD and Micron +3% (4:48 AM AZ)",
+          "summary_md": "Intel rose on a JPMorgan upgrade, and CoreWeave bounced after its biggest one-week drop since November 2025.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Brent slips about 1% to around $108 and WTI is near $101 (4:48 AM AZ); Europe is lower",
+          "summary_md": "Oil is easing off five-month highs after Trump waived Russia sanctions. The Stoxx 600 is down 0.82% and France's CAC 40 down 1.35%.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "Gold $4,171.65 (1:53 AM AZ); bitcoin $82,305, ether $2,420 (5:08 AM AZ)",
+          "summary_md": "Spot gold rose 0.2% as softer oil eased inflation worries ahead of next week's Fed meeting. Crypto prices are Coinbase spot.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/19/gold-edges-higher-on-softer-oil-fed-rate-outlook-in-focus.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 4% | 3% | 3% | 2% | 3% | 3% | 4% | 2% | 5% | 7% | 6% | 7% | 3% | 2% | 2% | 2% | 2% | 2% | 2% |\n| Show Low | 33% 🌧 | 33% 🌧 | 33% 🌧 | 33% 🌧 | 33% 🌧 | 33% 🌧 | 69% 🌧 | 69% 🌧 | 69% 🌧 | 69% 🌧 | 69% 🌧 | 69% 🌧 | 40% 🌧 | 40% 🌧 | 40% 🌧 | 40% 🌧 | 40% 🌧 | 40% 🌧 | 20% 🌧 |\n| Snowflake | 30% 🌧 | 30% 🌧 | 30% 🌧 | 30% 🌧 | 30% 🌧 | 30% 🌧 | 58% 🌧 | 58% 🌧 | 58% 🌧 | 58% 🌧 | 58% 🌧 | 58% 🌧 | 23% 🌧 | 23% 🌧 | 23% 🌧 | 23% 🌧 | 23% 🌧 | 23% 🌧 | 9% |\n\nChance of precipitation by hour, from the api.weather.gov hourly forecast (🌧 = that hour's forecast names rain, showers or thunderstorms), fetched 5:07 AM AZ.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "Phoenix: mostly sunny, high near 88, low around 69, dry",
+          "summary_md": "East-southeast wind around 5 mph, with only a 2-7% chance of precipitation all day and no measurable rain forecast. No active alerts. NWS Phoenix forecast updated 3:56 AM AZ.",
+          "source": {
+            "name": "National Weather Service",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "Show Low: showers and storms likely (70%), high near 65, low around 47",
+          "summary_md": "A chance of showers before 8 AM, then showers and thunderstorms likely; NWS grid shows about 0.08 in. of rain 11 AM-5 PM AZ and 0.01 in. 5-11 PM, no snow. Gusts to 20 mph; tonight 40% for storms before 5 AM. No active alerts. NWS Flagstaff forecast updated 3:12 AM AZ.",
+          "source": {
+            "name": "National Weather Service",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "Snowflake: showers and storms likely 8 AM-5 PM (60%), high near 69, low around 46",
+          "summary_md": "NWS grid shows about 0.04 in. of rain 11 AM-5 PM AZ and 0.01 in. 5-11 PM, no snow, with gusts to 20 mph; tonight a 20% chance of storms before 11 PM. No active alerts. NWS Flagstaff forecast updated 3:12 AM AZ.",
+          "source": {
+            "name": "National Weather Service",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "Inside the OpenAI bugging case: the suspect was messaging a Saudi royal",
+          "summary_md": "CNBC's detailed walk through the prosecutors' filing reads like a spy novel, with hidden USB recorders behind conference-room TVs, a deleted 'OpenAI leave' note and a family flown out on a Saudi-military-paid ticket; it's a sharp look at how seriously AI labs' secrets are now being targeted.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
