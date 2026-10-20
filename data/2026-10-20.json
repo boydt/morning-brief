@@ -1,0 +1,527 @@
+{
+  "date": "2026-10-20",
+  "title": "Morning Brief",
+  "intro_md": "Type \"more on G3\" (or any code) here, or tap More info on the brief page and paste the request here, and I'll dig in.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Update: Alberta votes overwhelmingly to stay in Canada",
+          "summary_md": "With most votes counted, more than two-thirds of Albertans chose to remain rather than start a separation-referendum process, per Elections Alberta projections; PM Mark Carney called it \"a clear choice,\" while separatist leader Jeffrey Rath vowed the movement \"isn't stopping.\"",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/cxr5yqqd7nlpo"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Zelensky in Oslo for talks with US envoy Witkoff as Rubio denies withholding intelligence",
+          "summary_md": "Zelensky asked Norway and Finland to host the meeting with Steve Witkoff (Jared Kushner joining by video) and European officials; Rubio called claims that withheld US warnings are costing Ukrainian lives \"scandalous.\"",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/ck9qzn193lrlo"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Kenya: Shakahola cult leader Paul Mackenzie guilty of 191 murders",
+          "summary_md": "Mackenzie, who told followers to starve their children to \"meet Jesus,\" was convicted of 191 murders (all but one victim a child), with 28 other cult leaders also convicted; sentencing is set for Nov. 6.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/ckd6d2l3dz4xo"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Update: Albania's anti-Rama protests hit a seventh straight day of clashes",
+          "summary_md": "Official figures put injuries at 295, including 186 police, before Monday's violence; the mostly student protesters want PM Edi Rama out, and Rama blames \"dark forces in Europe and the US.\"",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/cmy4xjlpqgd3o"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "Japan's MMX mission launches to grab a sample of Mars's moon Phobos",
+          "summary_md": "JAXA's Mars Moons Exploration spacecraft is due at Phobos in August 2027 and aims to return about 10g of moon dust to Earth in 2031, which would be the first sample ever returned from Mars or its moons.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/cmvgxvkv54w1o"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "GM beats Q3 estimates, adds a $20B buyback, but the stock slides premarket",
+          "summary_md": "General Motors posted $3.70 adjusted EPS vs. $3.63 expected on $50.02B revenue vs. $48.7B, narrowed its 2026 guidance and raised free-cash-flow targets, yet shares were down roughly 5–7% premarket amid ~$2B commodity-cost inflation.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "Jio Platforms' IPO anchor book draws $26.3B in bids, over 30x covered",
+          "summary_md": "BlackRock, GIC and Capital Group are among anchor bidders for Jio's up-to-$3.2B IPO, India's largest ever in rupee terms; it opens to the public Wednesday through Friday at a roughly $108B valuation.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "Korean AI firm Elice plunges 30% in its market debut",
+          "summary_md": "Elice Group, which raised $150M to build portable modular data centers, traded at 63,600 won vs. its 90,500-won IPO price as investors question AI infrastructure spending.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/20/south-korea-elice-plunges-in-market-debut.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "Paddy Power owner Flutter to cut up to 1,400 jobs, blaming UK betting tax rises",
+          "summary_md": "Flutter, which also owns Sky Bet and Betfair, says it \"cannot fully absorb\" last year's gambling tax increases; UK and Irish staff, plus British and Irish workers at its Portugal and Romania sites, are affected.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/cqzrdpkm3g84o"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "GTA 6 has an estimated 6.08M US digital preorders, 148% ahead of Modern Warfare 2's pace",
+          "summary_md": "Sensor Tower estimates GTA 6 preorders at 6.08M as of Oct. 13 (about $594M), 74% on PlayStation and mostly the $100 edition; the data covers US digital preorders only.",
+          "source": {
+            "name": "GamesIndustry.biz",
+            "url": "https://www.gamesindustry.biz/sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-everything-else"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "PEGI is re-rating existing digital games with loot boxes to PEGI 16",
+          "summary_md": "Digital-only games with paid random items currently rated PEGI 3, 7 or 12 are being moved to \"PEGI 16 – Paid random items\" through October, covering IARC-rated titles too, a big deal for gacha-heavy mobile and F2P games in Europe.",
+          "source": {
+            "name": "GamesIndustry.biz",
+            "url": "https://www.gamesindustry.biz/pegi-begins-moving-existing-digital-only-games-with-loot-boxes-up-to-a-16-rating"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "Lilith's Clash of Critters passes $50M in under five months",
+          "summary_md": "AppMagic data puts Lilith Games' creature collector at $53.8M in App Store and Google Play spending since its May 21 Western launch, with a daily record of $678K on Oct. 9; the US is 30% of spend, China 11%.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/clash-of-critters-surpasses-50m-in-under-five-months/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "Best Buy launches a 'Best Buy Gamers' hub with IGN ahead of Zelda and GTA VI",
+          "summary_md": "The beta online destination offers articles, reviews, launch-event updates and deals, timed before Nintendo's Ocarina of Time remake (Nov. 5) and GTA VI (Nov. 19); a Torrance, Calif. in-store gaming space follows next month.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: still not public. GitHub searches (\"Wii U lifter\", \"WiiURecomp\", \"Wii U static recompilation\", etc.) and a web search found only per-game Wii U recomps and tools already covered (CafeRecomp, NWiiRecomp, DolRecomp), plus a new per-game BotW recomp (E3), not a general PowerPC-to-x86 lifter; Mindstormman's GitHub still shows 0 public repos. Reddit couldn't be read (old.reddit RSS redirects to a login page; www.reddit.com returns 429/403). No verified PS5 or Switch 2 commercial-game breakthrough overnight: KytyPS5 posted routine nightlies only, there is no standalone Astro Bot recomp, suyu has had no new release since v14.1.0 (Oct. 12), and flossbud's WWHDRecomp still has no release.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "Bayonetta 2 gets a Switch-to-PC static recompilation: B2recomp v0.2.7",
+          "summary_md": "K0NL's B2recomp turns the Switch version's AArch64 code into native Windows code on your own PC from your own dump (version 1.2 required), with the prologue played 900s crash-free and a scripted test at 59.5 fps; v0.2.7 (7:30 PM AZ Oct. 19) fixes blurry output under Windows display scaling and a Tag Climax online crash.",
+          "source": {
+            "name": "GitHub (K0NL/B2recomp)",
+            "url": "https://github.com/K0NL/B2recomp/releases/tag/v0.2.7"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "AnyPS5 v0.1.3 is out; progress page shows 64.3% library coverage and 100% of shaders",
+          "summary_md": "The PS5 emulator AnyPS5 tagged v0.1.3 at 2:31 AM AZ (4,567 commits since v0.1.2, but the notes only list new contributors); its progress page now shows 4,251 of 6,611 system-library functions (64.3%) and all 1,166 shader instructions implemented.",
+          "source": {
+            "name": "AnyPS5 progress page",
+            "url": "https://boykopovar.github.io/AnyPS5/progress.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "Breath of the Wild (Wii U) gets a static recomp for Apple Silicon Macs and iPhone",
+          "summary_md": "BotW Recompiled translates the Wii U U-King.rpx to C++ with a custom Cafe OS runtime and Cemu's Latte GPU layer on Metal: 24–35 fps in the open world on an M1 Pro Mac, 35–60 fps on an iPhone 16 Pro but with one hang after about 4 minutes; you need your own USA v1.6.0 files, and there are no releases yet.",
+          "source": {
+            "name": "GitHub (BotWRecomp)",
+            "url": "https://github.com/IshaanKalra2103/BotWRecomp"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "Burnout 3: Takedown Xbox recomp ships its first release, v0.1.0",
+          "summary_md": "sp00nznet's Burnout 3 static recompilation now has a Windows installer that builds the game from your own disc (1–2 hours, ~12 GB), but it runs on a software GPU, so menus are smooth and races manage only a few frames per second.",
+          "source": {
+            "name": "GitHub (sp00nznet/burnout3)",
+            "url": "https://github.com/sp00nznet/burnout3/releases/tag/v0.1.0"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "Quick hits: Wind Waker HD Recomp devel build, LASRecomp Mac test build, Nezumiiruka 1.0",
+          "summary_md": "Wind Waker HD Recomp refreshed its devel build (a3af598, 4:55 AM AZ; latest release is still v0.3.0); LASRecomp's test-perf-7 build took Macs from 30 to 60 fps at Match display and says Beta 5 is coming ([GitHub](https://github.com/peiikai/LASRecomp/releases/tag/test-perf-7)); and Nezumiiruka 1.0, a Dolphin port that runs on Switch hardware, is out ([Tgames](https://www.tgames.fr/en/news/12384-nezumiiruka-1-0-l-emulateur-dolphin-sur-switch-gamecube-et-wii)).",
+          "source": {
+            "name": "GitHub (ZeldaWWHDRecomp)",
+            "url": "https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp/releases/tag/devel-build"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Update: Final weekend numbers (Oct. 16–18): Street Fighter $30.8M, You Can See Everything $15.6M",
+          "summary_md": "Actuals: Street Fighter $30,775,377 from 3,575 theaters; A24's You Can See Everything $15.6M from 855 ($18,247 per theater); Other Mommy $8.2M (−70%, $44.7M total); Whalefall $7.84M; Sense and Sensibility $7.2M.",
+          "source": {
+            "name": "The Numbers",
+            "url": "https://www.the-numbers.com/weekend-box-office-chart"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Overperformers: Your Mother, Your Mother, Your Mother jumps 270%; Musk up 391%",
+          "summary_md": "Your Mother, Your Mother, Your Mother rose 270% to $1.16M on 824 screens ($2.24M total), Musk climbed 391% to $314K, and Resident Evil is closing in on $150M ($148.5M after 31 days).",
+          "source": {
+            "name": "The Numbers",
+            "url": "https://www.the-numbers.com/weekend-box-office-chart"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Critics vs. crowds: You Can See Everything 98%, Street Fighter 40%",
+          "summary_md": "On Rotten Tomatoes (checked 5:05 AM AZ), You Can See Everything sits at 98% (135 reviews; 98% audience), Sense and Sensibility 76%, Whalefall 72%, and Street Fighter 40% from critics but 79% from audiences.",
+          "source": {
+            "name": "Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/you_can_see_everything"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "Update: Clayface opens Friday with tracking in the $20Ms; reviews barely started",
+          "summary_md": "DC's R-rated Clayface (Oct. 23) has a $26M pinpoint from Box Office Theory ($20M–$29M range), and Rotten Tomatoes lists only one review so far; also opening are Wildwood ($7.5M pinpoint), Klara and the Sun ($5.5M) and Ali G: Who Iz I? ($5M), while You Can See Everything goes wide.",
+          "source": {
+            "name": "Box Office Theory",
+            "url": "https://boxofficetheory.com/4-week-box-office-tracking-forecasts-street-fighter-clayface-godzilla-minus-zero-cat-in-the-hat/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "New suit seeks to keep Paramount+ and HBO Max separate after the Paramount–WBD merger",
+          "summary_md": "Subscriber plaintiffs filed for a preliminary injunction making Skydance run the acquired Warner Bros. Discovery streaming businesses separately pending trial, asking for a Dec. 3 hearing; Skydance shares are trading under $7.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/skydance-paramount-wbd-merger-injuction-motion-1237167643/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "US bans DeepSeek from federal civilian agency systems",
+          "summary_md": "A DHS order (issued July 24, made public Monday) makes civilian agencies remove DeepSeek technology, including third-party products built on its models, and bars buying it, citing data-transfer and security risks; the Defense Department is excluded.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "Anthropic and Nscale reportedly near a second $45B compute deal",
+          "summary_md": "Bloomberg reports Anthropic and Nscale are close to another $45B compute deal a month after their first; talks are ongoing, and Nscale is reportedly getting investor pushback on a $30B IPO valuation.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "Nvidia releases Nemotron 3.5 open models for enterprise agents and local AI PCs",
+          "summary_md": "Nemotron 3.5 Super VL (120B parameters) targets enterprise agents, while the Bolt models run locally on RTX Spark AI PCs and DGX Spark; Super VL and Bolt 74B-A9B are available now, Bolt E4B later this month.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "OpenCode Console breach exposed users' AI API keys, running up charges",
+          "summary_md": "Attackers hit an older OpenCode system and exposed keys for 1.4% of Console users, with some reporting charges over $1,000; Anthropic and Google blocked the keys, OpenAI is refunding, and OpenCode says refunds are underway.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "App Store review times are slowing under a flood of AI-made apps, devs say",
+          "summary_md": "Small and mid-size game studios told Mobilegamer.biz that new-app approvals now take weeks on Apple's App Store while Google Play is unchanged; Apple says it processes ~378,000 submissions a week with a 1.5-day average and now prioritizes updates.",
+          "source": {
+            "name": "Mobilegamer.biz",
+            "url": "https://mobilegamer.biz/app-store-review-times-are-being-dragged-down-by-a-flood-of-ai-made-apps-and-games/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "Safari 27 blocks identity firms that turn emails into tracking IDs",
+          "summary_md": "Apple's WebKit confirmed Safari 27 blocks network access to third parties that convert typed email addresses into persistent IDs, with no exceptions or published list (LiveRamp, ID5 and UID2 are among firms named in coverage), as Chartbeat says search fell from 21% to 12% of North American publisher pageviews.",
+          "source": {
+            "name": "PPC Land",
+            "url": "https://ppc.land/safari-27-blocks-identity-firms-as-search-falls-to-12-of-publisher-traffic/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Spotify launches paid podcast memberships in 34 markets",
+          "summary_md": "Podcasters can sell tiers with bonus audio or video, fewer ads or early access, keeping 90% of revenue; memberships are bought on the web, not via in-app purchase.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "Amazon to fund a 960MW, 12-reactor X-energy nuclear plant in Indiana",
+          "summary_md": "Amazon will back and be the first buyer for 12 Xe-100 small modular reactors at a former coal plant near Terre Haute, run by AEP and connected to the public grid; timing hinges on X-energy's first plant in Texas, which hasn't broken ground.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Futures mixed as chips slip: S&P 500 −0.2%, Nasdaq 100 −0.7%, Dow flat (4:59 AM AZ)",
+          "summary_md": "US stock futures turned lower in AI and chip names after Monday's rebound (S&P 500 +0.4%, Nasdaq +1%), hit by Korean AI firm Elice's 30% debut drop.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Premarket movers: GM −7%, CoreWeave −4%, Sandisk −3%, Micron −2%; Northrop and Solstice up (4:59 AM AZ)",
+          "summary_md": "GM fell about 7% despite its beat, CoreWeave shed more than 4%, Sandisk and Micron slid more than 3% and 2%, while Northrop Grumman rose over 1% on an EPS beat and Solstice gained 3% on a reported Starboard stake.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "US crude jumps 6.6% to about $110.48; Brent $111.67, a five-month high (4:38 AM AZ)",
+          "summary_md": "Front-month WTI (expiring today) is on track for a ninth straight gain as attacks on ships in the Strait of Hormuz escalate; Iran's IRGC said two tankers were set ablaze after hitting mines.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "Asia closes lower: Kospi −3.73%, Nikkei −1.3%; Stoxx 600 −0.3% early",
+          "summary_md": "Korea's Kospi ended at 5,552.74 with SK Hynix down over 4%, Japan's Nikkei closed at 64,075.42, and Europe's Stoxx 600 opened 0.3% lower with its tech index down 1.4% (as of 12:25 AM AZ).",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "Gold $4,121.30; bitcoin $81,418, ether $2,384 (5:03 AM AZ)",
+          "summary_md": "Spot gold from [Gold-API](https://api.gold-api.com/price/XAU) and crypto spot prices from Coinbase, both read at 5:03 AM AZ.",
+          "source": {
+            "name": "Coinbase",
+            "url": "https://api.coinbase.com/v2/prices/BTC-USD/spot"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 1% | 1% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 3% | 4% | 10% 🌧 | 8% | 13% 🌧 | 16% 🌧 | 50% 🌧 |\n| Show Low | 6% | 6% | 6% | 6% | 6% | 6% | 16% 🌧 | 16% 🌧 | 16% 🌧 | 16% 🌧 | 16% 🌧 | 16% 🌧 | 15% 🌧 | 15% 🌧 | 15% 🌧 | 15% 🌧 | 15% 🌧 | 15% 🌧 | 42% 🌧 |\n| Snowflake | 3% | 3% | 3% | 3% | 3% | 3% | 7% | 7% | 7% | 7% | 7% | 7% | 8% | 8% | 8% | 8% | 8% | 8% | 36% 🌧 |\n\nChance of precipitation by hour from the api.weather.gov hourly forecast (🌧 = that hour's forecast names rain, showers or thunderstorms), fetched 5:01 AM AZ.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "Phoenix: sunny, high near 92, storms possible tonight; Flood Watch for Wed–Thu",
+          "summary_md": "Today is sunny and dry (about 3% chance), high near 92 after a morning low around 71; tonight brings a 50% chance of showers and storms from 7 PM, under a tenth of an inch, low near 74. A Flood Watch covers the Valley from Wednesday evening through Thursday afternoon (Wed night 90%, ½–¾ inch possible).",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "Show Low: mostly sunny, high near 69, slight storm chance after 11 AM; Flood Watch starts late tonight",
+          "summary_md": "20% chance of showers and storms after 11 AM, south wind gusting to 24 mph; 50% tonight with a low around 52. NWS Flagstaff's Flood Watch runs from late tonight through Thursday evening, and Wednesday is 90%. NWS gives no rainfall amounts for today.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "Snowflake: fog early, then mostly sunny, high near 73; Flood Watch starts late tonight",
+          "summary_md": "Patchy fog before 8 AM, then mostly sunny with gusts to 26 mph and little rain chance by day (single digits); 50% chance of showers and storms tonight, mainly after 11 PM, low around 51. Same Flood Watch through Thursday evening; Wednesday is 80%. No rainfall amounts given for today.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "Stock investors are ready to move on from the AI rout. Credit investors are not",
+          "summary_md": "CNBC shows CoreWeave's 2032 bond still yielding 14.9% with distressed-level credit default swaps, and Oracle's CDS up 311% in a year, a useful lens on why AI debt worries are hitting chip stocks again this morning.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/19/coreweave-oracle-ai-credit-stress.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
