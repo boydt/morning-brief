@@ -1,0 +1,461 @@
+{
+  "date": "2026-10-22",
+  "title": "Morning Brief",
+  "intro_md": "Type \"more on G3\" (or any code) here, or tap More info on the brief page and paste the request here, and I'll dig in.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Update: Kremlin says Russia is ready to resume U.S.-Ukraine-Russia talks in mid-November, as overnight strikes kill 7 in Ukraine",
+          "summary_md": "After Steve Witkoff's three-hour meeting with Putin in St. Petersburg, Kremlin aide Yury Ushakov said three-way talks could resume after Nov. 10; overnight Russian strikes killed seven Ukrainians and wounded 15 in Kyiv, while Moscow said it faced 630 drones.",
+          "source": {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/10/22/overnight-attacks-resume-between-russia-and-ukraine-following-us-envoy-visit"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Update: Iran says 7 tankers were damaged in the Strait of Hormuz overnight, possibly the biggest single-day incident of the Iran war",
+          "summary_md": "Four tankers caught fire after being targeted and three were immobilized by naval mines, per an AP report; Iran warned the Revolutionary Guard may target U.S. bases if Washington tries to move tankers through other parts of the strait.",
+          "source": {
+            "name": "Christian Science Monitor (AP)",
+            "url": "https://www.csmonitor.com/Daily/2026/20261022"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Attack on Saudi Arabia's King Fahd International Airport in Dammam kills one and injures eight",
+          "summary_md": "Saudi Arabia's civil aviation authority said the injuries ranged from minor to critical after Wednesday evening's attack; Houthis also stepped up drone and missile strikes on Yemen's Hadramout province.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261022/f5fe4cc48b634aba9a2dabba419023f6/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Britain's Labour government approves the Jackdaw North Sea gas field to ease Iran-war energy costs",
+          "summary_md": "Jackdaw is due to start supplying gas by the end of this month; the Green Party called it \"climate vandalism.\"",
+          "source": {
+            "name": "Christian Science Monitor",
+            "url": "https://www.csmonitor.com/Daily/2026/20261022"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "U.S. Supreme Court blocks the Trump administration from restricting gender-affirming care in federal prisons",
+          "summary_md": "A one-sentence order upheld a lower-court ruling, with Justices Thomas and Alito dissenting; about 1,000 transgender federal inmates are challenging the policy.",
+          "source": {
+            "name": "Christian Science Monitor (AP)",
+            "url": "https://www.csmonitor.com/Daily/2026/20261022"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "Tesla beats Q3 estimates and cuts 2026 capex to ~$20B, but shares slip premarket",
+          "summary_md": "Tesla posted adjusted EPS of $0.48 on $28.05B revenue and $1.53B free cash flow, said Optimus production has started at Fremont, and Musk declined to discuss a SpaceX merger on the call.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/markets/stocks/article/tesla-stock-slips-despite-q3-earnings-beat-better-than-expected-capex-spend-101521707.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "Spotify rises about 5% premarket as monthly users hit 788 million and Q4 guidance beats",
+          "summary_md": "Spotify said monthly active users rose 11% from a year earlier, and its fourth-quarter revenue guidance topped analyst expectations.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/22/stocks-making-the-biggest-moves-premarket-tsla-meta-avex-spot.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "Hermès sales growth slows to 4.3% in Q3 as luxury-recovery hopes fade",
+          "summary_md": "The French luxury house booked €4.1B in quarterly revenue, up 4.3% at constant currencies, after 6.7% growth in the second quarter.",
+          "source": {
+            "name": "Dow Jones (via Morningstar)",
+            "url": "https://www.morningstar.com/news/dow-jones/202610223696/north-american-morning-briefing-stock-futures-tumble-mideast-tensions-push-oil-higher"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "EA closes BioWare, the Mass Effect and Dragon Age studio, after 31 years and cuts 400 jobs",
+          "summary_md": "BioWare had been working on a new Mass Effect; EA said it will make fewer large action-adventure games, though it confirmed an Iron Man game and a Star Wars Jedi title and canceled one new Sims project.",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/cq8jzrxlkmwmo"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "Mika Games raises $10M to fund mobile game studios, including paid user acquisition",
+          "summary_md": "PocketGamer.biz says the money will go to game development and paid UA campaigns for the studios it backs.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/latest/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "Supercell's Clash Royale tabletop board game passes $100,000 on Kickstarter after hitting its goal in an hour",
+          "summary_md": "The Clash Royale board game is being made by Maestro Media.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/latest/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "**Wii U lifter watch: still not public.** GitHub repo searches for \"wii u lifter\", \"WiiURecomp\", \"wii u static recompilation\" and \"wiiu recomp\" found only per-game Wii U recomps (new today: Wilde, a BOTW recomp, see E1) and Brandraft/wiiu-recomp, which is already covered. None of them is the general PowerPC-to-x86 lifter, and Mindstormman still has 0 public repos. I read the r/decomps feed (RSS, HTTP 200) and saw no lifter post.\n\n**PS5 / Switch 2:** There's no PS5 breakthrough with commercial games. KytyPS5 posted only a routine nightly (2026-10-22-d7c1896), and there's still no standalone Astro Bot recomp. On Switch 2, the first software jailbreak was shown (E3). **Watch list:** LASRecomp posted only another test build (test-random-pace-3), not a stable release. flossbud's WWHDRecomp still has no release, and I couldn't check suyu's releases (GitHub blocked the API request).",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "Wilde: a new static recompilation of Zelda: Breath of the Wild (Wii U) that runs on PC (Windows/Linux, Vulkan)",
+          "summary_md": "Wilde turns BOTW's PowerPC code into C++ on your machine, using a rewritten Wii U OS plus Cemu's graphics and audio code. It needs your own USA v1.5.0 dump. Features include 60/120/144 fps or unlimited (above 30 is still experimental), ultrawide, keyboard and mouse, a save editor, an actor spawner/level editor and BCML-style mods. The repo was created Oct. 21 at 5:18 PM AZ and is marked experimental.",
+          "source": {
+            "name": "GitHub (0x2593/Wilde)",
+            "url": "https://github.com/0x2593/Wilde"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "Wind Waker HD Recomp v0.4.0 adds an in-game world editor for mods, a big Android update and speedups",
+          "summary_md": "The Wii U Zelda: Wind Waker HD PC recomp (Windows, Linux, macOS, Android) now has a preview editor (launch with --editor) for placing actors, building quests without code, editing islands and making new dungeons. It also adds optional dynamic resolution, about 8–9% less GPU time on Vulkan, and far fewer shaders on Metal. Released Oct. 21 at 9:35 AM AZ.",
+          "source": {
+            "name": "GitHub (ZeldaWWHDRecomp)",
+            "url": "https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "Switch 2 jailbreak \"ns2jb\" shown: a tethered, software-only userland exploit on firmware 23.0.1",
+          "summary_md": "Developer pepsipu's exploit uses a bug in the SmileBASIC 4.4.9 interpreter to run native code in the fs and ro sysmodules. That's enough to dump Switch 2 saves, reverse-engineer exclusives and mod Mario Kart World, but there's no CFW or kernel access yet, and it resets on reboot.",
+          "source": {
+            "name": "GBAtemp",
+            "url": "https://gbatemp.net/news/switch-2-jailbreak-ns2jb-demonstrated-software-only-exploit-tethered.685698/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "Quick hits from r/decomps: Dino Crisis Modern Edition released, Conker's Bad Fur Day Reloaded v1.4.4 adds Photo Mode, and a Burnout 3: Takedown PC port",
+          "summary_md": "These are post titles from the r/decomps feed. Reddit returned HTTP 429 for the posts themselves, so I couldn't read the details.",
+          "source": {
+            "name": "r/decomps",
+            "url": "https://www.reddit.com/r/decomps/new/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": "Last weekend (Oct. 16–18): Street Fighter opened at #1 with $30.78M, ahead of You Can See Everything's $15M (Deadline). Covered yesterday; today's items are new numbers.",
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Street Fighter retakes #1 on Tuesday with $2.86M ($35.5M total), while You Can See Everything earns $2.63M from just 855 theaters",
+          "summary_md": "You Can See Everything's $3,073 per-theater average is nearly 4x Street Fighter's $801 (3,575 theaters), and its total is now $20.8M. Whalefall ($1.14M) placed third.",
+          "source": {
+            "name": "The Numbers",
+            "url": "https://www.the-numbers.com/box-office-chart/daily/2026/10/20"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Update: DC's Clayface now has a 77% Rotten Tomatoes score from 94 reviews ahead of Friday's release",
+          "summary_md": "Critics praise Tom Rhys Harries and the body horror but find the rest uneven. The R-rated film is directed by James Watkins and written by Mike Flanagan and Hossein Amini.",
+          "source": {
+            "name": "Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/clayface"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Weekend forecast: Clayface $15–23M; Wildwood $4.5–9.5M; Wicker $4.5–8.5M; Klara and the Sun $1.5–3.5M",
+          "summary_md": "Box Office Theory says Clayface's presales lag behind Supergirl and Joker: Folie à Deux, so it may play more like an original horror film than a front-loaded DC release.",
+          "source": {
+            "name": "Box Office Theory",
+            "url": "https://boxofficetheory.com/box-office-weekend-forecast-clayface-you-can-see-everything-wicker-wildwood/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "Denzel Washington and Christopher McQuarrie team up on an untitled thriller from United Artists/Amazon MGM, dated Oct. 1, 2027",
+          "summary_md": "Washington plays a former detective serving a life sentence who is granted compassionate release with six months to live. It moved up his slate after Netflix's Hannibal epic was paused.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/denzel-washington-chris-mcquarrie-united-artists-1237168034/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "OpenAI's frontier models and Codex are coming to Google Cloud's Model Garden",
+          "summary_md": "Customers can buy them through Google Cloud Marketplace against existing spend commitments, and OpenAI models will also come to Google Antigravity and Gemini Agent. General availability is planned in the coming weeks, and Microsoft remains OpenAI's primary cloud.",
+          "source": {
+            "name": "OpenAI",
+            "url": "https://openai.com/index/openai-models-google-cloud"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "Anthropic unveils Claude Duet, a proactive agent that sends a morning brief and watches your connected apps",
+          "summary_md": "It's a waitlisted research preview for Pro and Max subscribers, aimed at professionals and small businesses, and Anthropic's answer to Meta's Muse and OpenAI's Dots.",
+          "source": {
+            "name": "9to5Google",
+            "url": "https://9to5google.com/2026/10/21/claude-duet-anthropic-ai-agent-waitlist/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "Google open-sources TorchTPU, letting PyTorch code run natively on its TPU chips",
+          "summary_md": "TorchTPU was co-developed with Meta's PyTorch team. Existing PyTorch code can target TPUs with minimal changes, which cuts into Nvidia CUDA's lock-in.",
+          "source": {
+            "name": "Google Cloud Blog",
+            "url": "https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": "No new brand or design-tool changes (Canva, Figma, Adobe) in the last 24h.",
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "Epic's Fortnite returns to Apple's App Store in Australia after a federal court order",
+          "summary_md": "Australia was the only country left out of Fortnite's global iOS return in May. The court-ordered reinstatement takes effect now, ahead of wider App Store changes due in March 2027.",
+          "source": {
+            "name": "MacRumors",
+            "url": "https://www.macrumors.com/2026/10/22/fortnite-returning-to-australian-app-store/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "Apple opens App Store submissions for apps optimized for the foldable iPhone Duo, which launches Friday",
+          "summary_md": "Existing apps run on the Duo automatically, but only apps built with the iOS 27.1 SDK or later can resize to fill the inner display.",
+          "source": {
+            "name": "MacRumors",
+            "url": "https://www.macrumors.com/2026/10/22/fortnite-returning-to-australian-app-store/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Meta's Q3 ad revenue rises 26% to $63.06B on 10% more ad impressions and a 14% higher average price per ad",
+          "summary_md": "Total revenue was $64.60B, net of a $9.89B teen-safety settlement charge. Meta also created a non-voting Class C stock (effective Jan. 19, 2027) to fund its AI buildout, and the stock is down 2% premarket.",
+          "source": {
+            "name": "Meta Investor Relations",
+            "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Futures fall on AI-spending worries: Nasdaq 100 −1.9%, S&P 500 −1.1%, Dow about −0.7% (4:16 AM AZ)",
+          "summary_md": "Lam Research, Tesla and chip stocks (Intel, Marvell, AMD down 4%+) led losses; weekly jobless claims are due this morning.",
+          "source": {
+            "name": "Stocktwits",
+            "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-slide-premarket-as-ai-spending-worries-resurface-oil-tops-112-on-iran-tensions-supply-concerns/cZxw43bRBwp"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Premarket movers: Aevex +11%, QuantumScape +7%, Spotify +5%, Lockheed Martin +3%; Lam Research −7%, IBM −5%, Rollins −5%, Tesla −3% (4:17 AM AZ)",
+          "summary_md": "Aevex disputed a Bloomberg report that the Navy would stop buying its boat drone, Lockheed raised its 2026 guidance, and Lam's outlook only matched estimates.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/22/stocks-making-the-biggest-moves-premarket-tsla-meta-avex-spot.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Oil jumps: December Brent tops $112.20 and WTI nears $100 (4:16 AM AZ)",
+          "summary_md": "The move came after Trump said the U.S. isn't negotiating with Tehran, a report of U.S.-Israeli plans for possible new strikes on Iran, and drone attacks on Saudi targets.",
+          "source": {
+            "name": "Stocktwits",
+            "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-futures-slide-premarket-as-ai-spending-worries-resurface-oil-tops-112-on-iran-tensions-supply-concerns/cZxw43bRBwp"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "Bitcoin slides 2.7% to about $81,800, and ether falls to near $2,400 (3:50 AM AZ)",
+          "summary_md": "Crypto gave back Wednesday's surge to nearly $84,800 after Tesla and Meta revived AI-spending doubts. The CoinDesk DeFi index fell 5.6%.",
+          "source": {
+            "name": "CoinDesk",
+            "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "Gold falls more than 1% as surging oil adds to inflation worries; the dollar hits a 3-week low and Treasury yields slide (3:14 AM AZ)",
+          "summary_md": "Investors are looking ahead to next week's Federal Reserve meeting.",
+          "source": {
+            "name": "Dow Jones (via Morningstar)",
+            "url": "https://www.morningstar.com/news/dow-jones/202610223696/north-american-morning-briefing-stock-futures-tumble-mideast-tensions-push-oil-higher"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 62% 🌧 | 70% 🌧 | 63% 🌧 | 65% 🌧 | 63% 🌧 | 44% 🌧 | 47% 🌧 | 54% 🌧 | 56% 🌧 | 41% 🌧 | 40% 🌧 | 17% 🌧 | 7% | 7% | 5% | 3% | 1% | 0% | 0% |\n| Show Low | 73% 🌧 | 73% 🌧 | 73% 🌧 | 73% 🌧 | 73% 🌧 | 73% 🌧 | 99% 🌧 | 99% 🌧 | 99% 🌧 | 99% 🌧 | 99% 🌧 | 99% 🌧 | 78% 🌧 | 78% 🌧 | 78% 🌧 | 78% 🌧 | 78% 🌧 | 78% 🌧 | 28% 🌧 |\n| Snowflake | 68% 🌧 | 68% 🌧 | 68% 🌧 | 68% 🌧 | 68% 🌧 | 68% 🌧 | 97% 🌧 | 97% 🌧 | 97% 🌧 | 97% 🌧 | 97% 🌧 | 97% 🌧 | 61% 🌧 | 61% 🌧 | 61% 🌧 | 61% 🌧 | 61% 🌧 | 61% 🌧 | 8% |\n\n_Source: api.weather.gov gridpoint forecastHourly (PSR 159,58; FGZ 128,40; FGZ 127,52), probabilityOfPrecipitation; fetched 5:07 AM AZ. 🌧 = hour's forecast names showers/storms._",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "Phoenix: showers and storms likely, mainly before 4 PM (70%); high near 81, low near 63; Severe Thunderstorm Watch until 11 AM and Flood Watch until 5 PM",
+          "summary_md": "NWS expects a tenth to a quarter inch of new rain today (a quarter to half inch possible overnight), with skies turning mostly clear tonight.",
+          "source": {
+            "name": "NWS Phoenix",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "Show Low: showers and storms, some possibly severe (100%); high near 64, low near 46; gusts to 30 mph; Severe Thunderstorm Watch until 10 AM and Flood Watch until 11 PM",
+          "summary_md": "Rain continues tonight (80%), with gusts as high as 33 mph.",
+          "source": {
+            "name": "NWS Flagstaff",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "Snowflake: showers and storms, some possibly severe (100%); high near 68, low near 46; gusts to 32 mph; Severe Thunderstorm Watch until 10 AM and Flood Watch until 11 PM",
+          "summary_md": "Showers and storms are likely tonight before 11 PM (60%).",
+          "source": {
+            "name": "NWS Flagstaff",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0784"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "AppQuantum's CMO on launching a mobile game: test on Facebook, aim for CPI under $1.50, then scale UA via AppLovin",
+          "summary_md": "It's a concrete playbook with real benchmarks (D1 retention 40%+, D30 about 6%, 300–500 installs per test, forecasts starting at about 50 paying users), useful for any hyper-casual or idle launch.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/marketing-a-new-mobile-game-where-should-studios-start/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
