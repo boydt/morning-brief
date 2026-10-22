@@ -168,7 +168,7 @@
         {
           "id": "E2",
           "headline_md": "Wind Waker HD Recomp v0.4.0 adds an in-game world editor for mods, a big Android update and speedups",
-          "summary_md": "The Wii U Zelda: Wind Waker HD PC recomp (Windows, Linux, macOS, Android) now has a preview editor (launch with --editor) for placing actors, building quests without code, editing islands and making new dungeons. It also adds optional dynamic resolution, about 8–9% less GPU time on Vulkan, and far fewer shaders on Metal. Released Oct. 21 at 9:35 AM AZ.",
+          "summary_md": "The Wii U Zelda: Wind Waker HD PC recomp (Windows, Linux, macOS, Android) now has a preview editor (launch with --editor) for placing actors, building quests without code, editing islands and making new dungeons. It also adds optional dynamic resolution, about 8–9% less GPU time on Vulkan, and far fewer shaders on Metal. Released Oct. 21.",
           "source": {
             "name": "GitHub (ZeldaWWHDRecomp)",
             "url": "https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp/releases"
