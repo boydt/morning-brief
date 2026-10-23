@@ -34,7 +34,7 @@
     {
      "id": "W3",
      "headline_md": "A powerful earthquake in Tibet kills at least 16 people, reports say",
-     "summary_md": "The quake struck overnight; the death toll comes from early reports.",
+     "summary_md": "The toll of 16 comes from early reports and could change.",
      "source": {
       "name": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o"
@@ -45,7 +45,7 @@
     {
      "id": "W4",
      "headline_md": "Typhoon Champi shuts down Taiwan, with hundreds of flights cancelled",
-     "summary_md": "The storm closed much of the island and grounded air travel.",
+     "summary_md": "Hundreds of flights were cancelled as the typhoon shut the island.",
      "source": {
       "name": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o"
@@ -67,7 +67,7 @@
     {
      "id": "W6",
      "headline_md": "A woman with Ebola in Nigeria is confirmed as the wife of a Swiss diplomat",
-     "summary_md": "Health officials confirmed her identity as the case drew international attention.",
+     "summary_md": "The patient's identity was confirmed as the wife of a Swiss diplomat.",
      "source": {
       "name": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo"
@@ -171,7 +171,7 @@
     {
      "id": "G3",
      "headline_md": "Stillfront names former King, EA and Embark exec Marcus Jacobs as its new CEO",
-     "summary_md": "The Swedish mobile-games group picks a free-to-play veteran to lead it.",
+     "summary_md": "The mobile-games group picks a former King executive to lead it.",
      "source": {
       "name": "PocketGamer.biz",
       "url": "https://www.pocketgamer.biz/stillfront-names-former-king-executive-marcus-jacobs-as-ceo/"
@@ -299,8 +299,8 @@
      "headline_md": "A24's Elizabeth Holmes documentary You Can See Everything expands from 855 to 2,600 theaters today",
      "summary_md": "It's coming off a $15.6M opening and strong midweek business.",
      "source": {
-      "name": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/clayface-box-office-you-can-see-everything-wildwood-klara-1236738669/"
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/10/box-office-clayface-you-can-see-everything-1237171500/"
      },
      "details_md": null,
      "details_updated": null
@@ -308,7 +308,7 @@
     {
      "id": "V4",
      "headline_md": "Elon Musk invests about $1 billion in David Ellison's Skydance",
-     "summary_md": "The stake ties Musk to the newly combined Paramount-Warner Bros. owner.",
+     "summary_md": "Skydance is the company behind the newly combined Paramount-Warner Bros.",
      "source": {
       "name": "CNBC",
       "url": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html"
@@ -360,7 +360,7 @@
     {
      "id": "A3",
      "headline_md": "1Password launches a way for AI agents to log in for you without seeing your password",
-     "summary_md": "It's aimed at the growing wave of agents that act on users' accounts.",
+     "summary_md": "It lets agents use your logins on your behalf while the password stays hidden from them.",
      "source": {
       "name": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
@@ -371,7 +371,7 @@
     {
      "id": "A4",
      "headline_md": "Uber puts all 30,000 employees on ChatGPT Work",
-     "summary_md": "It's one of the largest company-wide rollouts of OpenAI's workplace product.",
+     "summary_md": "Every Uber employee now gets OpenAI's workplace product.",
      "source": {
       "name": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
@@ -390,7 +390,7 @@
     {
      "id": "T1",
      "headline_md": "Canva releases its first in-house AI image model, which plans a design before generating it",
-     "summary_md": "A notable step for the design tool, which has relied on outside models.",
+     "summary_md": "It's the design platform's first image model built in-house.",
      "source": {
       "name": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
@@ -412,7 +412,7 @@
     {
      "id": "T3",
      "headline_md": "YouTube is removing the Subscriptions tab from its Android and iOS bottom bar after nearly a decade",
-     "summary_md": "A big navigation change in one of the most-used mobile apps.",
+     "summary_md": "Subscriptions moves out of the app's main navigation bar.",
      "source": {
       "name": "9to5Google",
       "url": "https://9to5google.com/2026/10/22/youtube-subscriptions-android-ios/"
