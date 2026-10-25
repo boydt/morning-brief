@@ -56,7 +56,7 @@
     {
      "id": "W5",
      "headline_md": "Brazil votes today in a Lula vs. Bolsonaro's-son runoff, and Bulgaria and Serbia also go to the polls",
-     "summary_md": "Results should start coming in tonight AZ time.",
+     "summary_md": "",
      "source": {
       "name": "Euronews",
       "url": "https://www.euronews.com/2026/10/25"
@@ -78,7 +78,7 @@
     {
      "id": "W7",
      "headline_md": "Gunmen killed at least 10 villagers in Nigeria",
-     "summary_md": "Another deadly attack in the country's north.",
+     "summary_md": "",
      "source": {
       "name": "BBC",
       "url": "https://www.bbc.com/news/world"
@@ -119,7 +119,7 @@
     {
      "id": "B3",
      "headline_md": "Audi will build its first US factory, in Georgia",
-     "summary_md": "It's a hedge against tariffs on imported cars.",
+     "summary_md": "",
      "source": {
       "name": "Euronews",
       "url": "https://www.euronews.com/2026/10/25"
@@ -141,7 +141,7 @@
     {
      "id": "B5",
      "headline_md": "Infosys cut its FY27 growth guidance to 1–2%, and its ADRs fell about 6%",
-     "summary_md": "Another sign of AI pressure on IT outsourcing.",
+     "summary_md": "",
      "source": {
       "name": "DepthGrid",
       "url": "https://www.depthgrid.in/2026/10/october-24-2026-business-news-jio-ipo.html"
@@ -267,7 +267,7 @@
     {
      "id": "E4",
      "headline_md": "Super Street Fighter II Turbo HD Remix (XBLA) got its first playable PC static recomp",
-     "summary_md": "It's early, but it boots and plays.",
+     "summary_md": "",
      "source": {
       "name": "Recomp Software",
       "url": "https://recompsoftware.com/this-week/"
@@ -382,7 +382,7 @@
     {
      "id": "A2",
      "headline_md": "OpenAI's Decisions API is now generally available",
-     "summary_md": "It's aimed at developers building agents that make choices.",
+     "summary_md": "",
      "source": {
       "name": "Economic Times",
       "url": "https://economictimes.indiatimes.com/ai/ai-insights/articlelist/121648923.cms"
@@ -393,7 +393,7 @@
     {
      "id": "A3",
      "headline_md": "Block launched Dessa, a speech-only voice AI model",
-     "summary_md": "It's built for voice products rather than text.",
+     "summary_md": "",
      "source": {
       "name": "Economic Times",
       "url": "https://economictimes.indiatimes.com/ai/ai-insights/articlelist/121648923.cms"
