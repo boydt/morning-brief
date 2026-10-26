@@ -1,0 +1,615 @@
+{
+  "date": "2026-10-26",
+  "title": "Morning Brief",
+  "intro_md": "Type \"more on G3\" (or any code) here, or tap More info on the brief page and paste the request here, and I'll dig in.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Update: **Brazil**: Lula wins a fourth term in the runoff, and Flávio Bolsonaro will try to annul the result",
+          "summary_md": "Lula took 51.76% to Flávio Bolsonaro's 48.24%, a margin of more than 4 million votes; Bolsonaro says he will petition to annul the result.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-26-2026/4100631"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Update: **Serbia**: Vučić concedes as the student list wins, ending his SNS party's 14 years in power",
+          "summary_md": "Ipsos/CeSID projections give \"Student List – Students Win\" 52% against 39.3% for the SNS.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261026/fd4a116fa78247a0b0a62e88f4e04c02/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Update: **Bulgaria**: President Iliana Iotova leads the first round with about 35.3%, so a runoff is needed",
+          "summary_md": "No candidate cleared the threshold to win outright.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261026/fd4a116fa78247a0b0a62e88f4e04c02/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "**Trump** urges Israelis to re-elect Netanyahu and \"finish the job\" in Iran",
+          "summary_md": "Reported in Anadolu's Monday morning briefing.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-26-2026/4100631"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "**Kenya**: a bus and a truck crash on the Nairobi–Mombasa highway, killing at least 22",
+          "summary_md": "At least 22 people died.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261026/fd4a116fa78247a0b0a62e88f4e04c02/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W6",
+          "headline_md": "Update: **Nigeria Ebola**: 53 contacts traced so far",
+          "summary_md": "This follows the case reported last week.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261026/fd4a116fa78247a0b0a62e88f4e04c02/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W7",
+          "headline_md": "**Orbán for UN chief?** WSJ says Trump officials have floated Viktor Orbán for UN secretary-general",
+          "summary_md": "Euronews, citing the Wall Street Journal, also says Zelensky's Brussels talks are in doubt after the US changed its plans.",
+          "source": {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/10/26"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "**EQT** to buy **Range Resources** in an all-stock deal of about $13 billion",
+          "summary_md": "Dow Jones reports the deal is about $13B. Before the open, Range was up 15% and EQT down 4% (CNBC). The deal is expected to close in Q1 2027.",
+          "source": {
+            "name": "Morningstar/Dow Jones",
+            "url": "https://www.morningstar.com/news/dow-jones/202610262466/dow-jones-top-company-headlines-at-7-am-et-eqt-to-buy-range-resources-in-13-billion-stock-swap-santander"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "Update: **Meta** launches a $35 billion stock offering to fund its AI build-out",
+          "summary_md": "The offering mixes common and convertible preferred shares. CNBC says Meta also plans to raise $60B through an at-the-market program, and the stock was up 1% before the open.",
+          "source": {
+            "name": "Reuters via Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/meta-launches-35-billion-stock-offering-to-fund-ai-expansion-4972169"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "**Verizon** raises its 2026 forecasts and signs a $2 billion-plus AI fiber deal with AWS",
+          "summary_md": "It added 406K postpaid phones in Q3. It now expects 1.1–1.2M adds for the year and adjusted EPS of $5.04–5.06. Revenue of $34.3B missed the $34.74B estimate.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/26/verizon-lifts-annual-forecasts-signs-more-than-2-billion-ai-infrastructure-deal-with-aws.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "**Santander** falls more than 5% after Lula's win, and **Galp** drops more than 8% as merger talks with Moeve collapse",
+          "summary_md": "These were European moves on Monday morning.",
+          "source": {
+            "name": "Morningstar/Dow Jones",
+            "url": "https://www.morningstar.com/news/dow-jones/202610262466/dow-jones-top-company-headlines-at-7-am-et-eqt-to-buy-range-resources-in-13-billion-stock-swap-santander"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B5",
+          "headline_md": "**Surgery Partners** jumps almost 25% on an FT report that Bon Secours Mercy Health is nearing a $6 billion takeover",
+          "summary_md": "The take-private would value the company at $20 a share and could be announced Monday.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/26/stocks-making-the-biggest-moves-premarket-vz-tsla-mrna-more.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B6",
+          "headline_md": "**AT&T Mexico** sold to a Televisa-led consortium for about $2 billion",
+          "summary_md": "AT&T is exiting its Mexican wireless business.",
+          "source": {
+            "name": "Growth Alliance Capital",
+            "url": "https://gacapital.com.sg/deal-desk/2026-10-26"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": "No new hyper-casual or hybrid-casual chart news since Friday's brief.",
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "Update: **Arkane Lyon** gets until Dec 13, and Microsoft is now seeking a partner to finish **Marvel's Blade**",
+          "summary_md": "The consultation on closing the studio moved from Nov 13 to Dec 13. Microsoft calls it \"a defined extension,\" and 217 jobs are at stake.",
+          "source": {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/news/arkane-lyon-consultation-extended-december-13-partner-blade/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "**Shenmue III Enhanced** slips to early 2027 on PS5, Xbox, Switch 2 and PC",
+          "summary_md": "An ININ Games newsletter confirms the delay. No exact date has been given.",
+          "source": {
+            "name": "Gaming Route",
+            "url": "https://gamingroute.com/gaming-news-today-october-25-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "**Tomb Raider: Legacy of Atlantis** gets a 30th-anniversary teaser ahead of its Feb 12, 2027 launch",
+          "summary_md": "Lara's first adventure is being reimagined for PS5, Xbox, PC and Switch 2.",
+          "source": {
+            "name": "Gaming Route",
+            "url": "https://gamingroute.com/gaming-news-today-october-25-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "Update: **#SaveMassEffect** petition passes 188,000 signatures after BioWare's closure",
+          "summary_md": "It asks EA to keep developing **Mass Effect** or license it to another studio. Shepard actors Jennifer Hale and Mark Meer have also mourned BioWare.",
+          "source": {
+            "name": "Gaming Route",
+            "url": "https://gamingroute.com/gaming-news-today-october-25-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G5",
+          "headline_md": "**Minecraft** for Switch 2 arrives Oct 27 and is free for owners of the digital version",
+          "summary_md": "It's one of this week's Switch 2 releases.",
+          "source": {
+            "name": "Gaming Route",
+            "url": "https://gamingroute.com/gaming-news-today-october-25-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "**Wii U lifter watch:** still no public repo for the r/decomps Wii U-to-x86 lifter. GitHub and web searches only turned up the per-game Wii U recomps. **Watch list:** **KytyPS5** had routine nightlies only. **AnyPS5** has no release since v0.1.3. The **Astro Bot** fork has no commits since Oct 12. **WWHD Recomp** only pushed a devel build, and **flossbud's WWHDRecomp** has been quiet since Oct 17. **LASRecomp** has had only test builds since Beta 5.2 and is not stable yet. **Caution:** a new \"Switch2Emu\" GitHub repo says itself that no games run, so treat Switch 2/PS5 emulator download claims as scams. Reddit (r/decomps, r/emulation) blocked my computer this morning (HTTP 429).",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "**Sky Recomp (Skyward Sword HD)** v2.0: Switch-to-PC recomp fixes the random freezes and crashes at 60/120 fps",
+          "summary_md": "v2.0.0 came out Sat 9:58 PM AZ, with v2.0.1 and v2.0.2 on Sunday adding language, setup and cutscene fixes. It needs your own Skyward Sword HD v1.0.0 data.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/Apolinario-coder/SkyRecomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "**Kirikae** v0.1.2: the Switch-to-Windows static recompiler adds Linux support and fixes GPU memory corruption",
+          "summary_md": "Released Sat 4:09 PM AZ, it adds Linux linking, a Vulkan window and gamepads on Linux, and build-time jump-table discovery. It's still an early preview tested on only a handful of games.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/Cor3Duo/kirikae/releases/tag/v0.1.2"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "**SMM2 Recomp (Super Mario Maker 2)** v0.5.5 adds the OpenCourse World online backend on PC",
+          "summary_md": "v0.5.4 (Sat 11:07 PM AZ) added mod support and a GameBanana browser. v0.5.5 (Sun 2:36 AM AZ) added online courses and fixed a 100 Mario communication error.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/smm2recomp/smm2recomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "**Lost Odyssey Recomp** v1.1.0: the Xbox 360-to-PC port adds button prompts and more menu languages",
+          "summary_md": "Released Sun 6:12 PM AZ, it adds game-icon prompts for Switch, Deck and keyboard, plus Spanish, French, German and Italian settings menus.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/freefrank/LostOdysseyRecomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "**Blast Corps Recompiled** hits 1.0.0, a native N64-to-PC port for Windows, Linux and Mac",
+          "summary_md": "Catching up from Friday 5:33 AM AZ, this is the first full release. You need your own ROM.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/SlaveOfIDO/blastcorps-recomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": "The weekend's actual total was $92.9M (The Numbers).",
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Update: **Clayface** opens #1 with $24.0M (actual)",
+          "summary_md": "It earned an A- CinemaScore and 75% on Rotten Tomatoes, plus $19M overseas, for $43M worldwide on a $44M budget.",
+          "source": {
+            "name": "The Numbers",
+            "url": "https://www.the-numbers.com/box-office-chart/weekend/2026/10/23"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Update: **You Can See Everything** rises 25% to $19.5M in its second weekend, for $45.1M total",
+          "summary_md": "A24's Elizabeth Holmes documentary has 98% on Rotten Tomatoes and best-picture buzz. It cost $7M.",
+          "source": {
+            "name": "The Hollywood Reporter",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/clayface-box-office-you-can-see-everything-wildwood-1236739530/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Update: **Wildwood** opens third with $11.0M",
+          "summary_md": "Laika's film has 100% on Rotten Tomatoes and an A CinemaScore, but its reported $100M budget sets a high bar.",
+          "source": {
+            "name": "The Hollywood Reporter",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/clayface-box-office-you-can-see-everything-wildwood-1236739530/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "**Street Fighter** falls 72% to $8.6M, while **Wicker** opens with $5.75M",
+          "summary_md": "Street Fighter now has $46.9M domestic, and Wicker holds 94% on Rotten Tomatoes.",
+          "source": {
+            "name": "The Numbers",
+            "url": "https://www.the-numbers.com/box-office-chart/weekend/2026/10/23"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "**Klara and the Sun** flops with about $725K from 880 theaters",
+          "summary_md": "Taika Waititi's Ishiguro adaptation opened outside the top 10.",
+          "source": {
+            "name": "The Hollywood Reporter",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/clayface-box-office-you-can-see-everything-wildwood-1236739530/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V6",
+          "headline_md": "**This weekend:** Halloween falls on Saturday, so the studios are mostly sitting out",
+          "summary_md": "Wide releases are Liam Neeson's **The Mongoose**, **The Only Living Pickpocket in New York**, **Christmas at the Kringles** and Disney's **Everest: The Other Side**.",
+          "source": {
+            "name": "Box Office Mojo",
+            "url": "https://www.boxofficemojo.com/calendar/2026-10-30/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V7",
+          "headline_md": "**Nov 6:** The Cat in the Hat, Godzilla Minus Zero and Wild Horse Nine",
+          "summary_md": "These are the next big wide releases.",
+          "source": {
+            "name": "Box Office Mojo",
+            "url": "https://www.boxofficemojo.com/calendar/2026-10-30/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "**SpaceX** closes $40 billion in debt to buy AI GPUs, and Musk predicts a neocloud shakeout",
+          "summary_md": "The mostly callable debt funds GPUs arriving in the first half of 2027. Musk says 200+ neoclouds face \"guppy-level death.\" SpaceX's AI unit made $7.56B in Q3 revenue.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "**SoftBank** plans $50 billion of AI and data-center investment in Malaysia, PM Anwar says",
+          "summary_md": "The sites are in Kuching, Sarawak and peninsular Malaysia. SoftBank didn't comment.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "**SWI Compute** launches Nvidia-based AI factories in Europe",
+          "summary_md": "Its plan totals 3.6 GW, including a 30 MW Cambridge site with about 7,000 Rubin GPUs and about $1B in orders.",
+          "source": {
+            "name": "Digest AI",
+            "url": "https://digestai.news/today"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "**AI chatbots and drugs:** a study finds 1 in 3 young US adults use AI chatbots for drug information",
+          "summary_md": "Euronews also has a new Geoffrey Hinton interview.",
+          "source": {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/10/26"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "**iPhone Duo** teardown: iFixit gives it 5/10, the best score yet for a foldable, and points to a hinge stress spot behind the screen cracks",
+          "summary_md": "Batteries release with an electric charge, but the inner display and hinge are hard to repair. The Galaxy Z Fold8 and Pixel 11 Pro Fold both scored 4/10.",
+          "source": {
+            "name": "MacRumors",
+            "url": "https://www.macrumors.com/2026/10/25/ifixit-iphone-duo-teardown/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "**Google Play**: the API 36 target deadline for existing apps hits Nov 1",
+          "summary_md": "After that, apps that don't target API 36 are hidden from new users, though existing installs keep working.",
+          "source": {
+            "name": "AppsOps",
+            "url": "https://appsops.store/news/week-in-app-store-ops-october-25-2026"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "**Apple** stores roll out a Presto-based scanner that checks iPhones inside sealed boxes to fight return fraud",
+          "summary_md": "It runs diagnostics without opening the box, per Bloomberg's Mark Gurman.",
+          "source": {
+            "name": "Digital Trends",
+            "url": "https://www.digitaltrends.com/phones/apple-has-built-a-device-that-can-inspect-an-iphone-without-opening-its-box/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "**Apple** blocks compromised eMudhra TLS certificates, with a macOS command-line fix coming",
+          "summary_md": "Safari, Mail and system frameworks have blocked them since Oct 19.",
+          "source": {
+            "name": "Osegi",
+            "url": "https://osegi.com/en/archive/2026-10-26"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T5",
+          "headline_md": "**Gabon** lifts its eight-month social media ban",
+          "summary_md": "The ban had lasted eight months.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-26-2026/4100631"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": "This week: the Fed decides Wednesday (CNBC: fed funds futures show 90% odds of a hold at 3.75–4%), PCE comes Oct 29, and about a third of the S&P 500 reports, including Alphabet, Microsoft and Amazon (Reuters).",
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "**US futures** up: Dow +209 (0.4%) and S&P 500 +0.1% as of 4:36 AM AZ",
+          "summary_md": "Reuters had Dow e-minis +0.49% at 2:19 AM AZ.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "**Oil** falls: Brent −1.7% to $114.77 and WTI −2% to $100.97 (4:36 AM AZ)",
+          "summary_md": "Brent hit a six-month high last week.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "**Gold** back above $4,000: spot +0.5% to $4,014.49 an ounce (CNBC, about 3 AM AZ)",
+          "summary_md": "Friday's $3,975 was its lowest since July 20.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/26/gold-gains-on-softer-oil-prices-fed-decision-in-focus.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "**Crypto**: Bitcoin $80,256 (−0.25% in 24h) and Ether $2,328.80 (−0.27%) at 5:09 AM AZ",
+          "summary_md": "Little change overnight.",
+          "source": {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "**Premarket movers** (4:48 AM AZ): Tesla +2% on a Barclays upgrade, Moderna −8%, CoreWeave −5% and Fair Isaac −10%",
+          "summary_md": "Ross Stores rose 6.5% on a UBS upgrade, and Nebius fell 3.5%.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/26/stocks-making-the-biggest-moves-premarket-vz-tsla-mrna-more.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Show Low | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 1% | 0% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\nChance of precipitation by hour (AZ). Source: api.weather.gov hourly forecasts, fetched 5:09 AM AZ. No active NWS alerts for any of the three cities. NWS gives no rain amounts for today.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**Phoenix**: sunny, high near 85, low around 59, 0% rain all day",
+          "summary_md": "No alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Show Low**: sunny, high near 65, low around 37, 0–1% rain",
+          "summary_md": "It was 32° early this morning. No alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "**Snowflake**: patchy fog before 9 AM, then sunny, high near 67, low around 37, 0% rain",
+          "summary_md": "No alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "**AppLovin vs. Unity**: Digiday explains the \"data leakage\" court fight that could reshape mobile ad monetization",
+          "summary_md": "It covers how much data a rival SDK can take from an in-app ad auction, which matters for every app running mediation.",
+          "source": {
+            "name": "Digiday",
+            "url": "https://digiday.com/media-buying/applovin/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
