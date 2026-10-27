@@ -1,0 +1,626 @@
+{
+  "date": "2026-10-27",
+  "title": "Morning Brief",
+  "intro_md": "Type \"more on G3\" (or any code) here, or tap More info on the brief page and paste the request here, and I'll dig in.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "**Israel** votes today in a Knesset election, with Netanyahu's Likud facing Eisenkot's Yashar and Bennett's Together",
+          "summary_md": "More than 7.3 million people can vote for the 120-seat Knesset. Polls are open 7 AM to 10 PM local time (10 PM Mon to 1 PM Tue AZ), and 37 lists are running.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-27-2026/4101934"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "**Netanyahu** reportedly pushed for a strike on Iran before the vote, and IDF chief Zamir resisted",
+          "summary_md": "Netanyahu denies the report. A UN commission separately accuses Israel of continuing genocidal acts in Gaza.",
+          "source": {
+            "name": "10 Things",
+            "url": "https://www.10things.news/p/10-things-global-news-27th-october-e39"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Update: **Oleshky ceasefire** (Ukraine) is now in effect for aid and evacuations, brokered by Melania Trump",
+          "summary_md": "It took effect at 01:00 GMT Tuesday, which was 6 PM AZ Monday.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-27-2026/4101934"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Update: **Brazil**: the Supreme Court orders Flávio Bolsonaro to hand in his passports, and Trump calls the vote \"rigged\"",
+          "summary_md": "Trump also offered $1 million for tips on voter fraud.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-27-2026/4101934"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "**Türkiye, Saudi Arabia, Pakistan and Iran** hold a four-way security meeting in Tehran",
+          "summary_md": "Attendees include Türkiye's Ibrahim Kalin, Saudi Arabia's Khalid bin Salman and Pakistan's Asim Munir.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-27-2026/4101934"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W6",
+          "headline_md": "**Finland and Norway**: the two leaders called Putin to try to restart peace talks",
+          "summary_md": "Euronews also reports that a tornado in **Antalya, Turkey** killed at least four workers.",
+          "source": {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/10/27"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W7",
+          "headline_md": "**France** protests go on after 1,435 arrests on Saturday, with a nationwide protest called for Nov 5",
+          "summary_md": "Reported in 10 Things' global roundup.",
+          "source": {
+            "name": "10 Things",
+            "url": "https://www.10things.news/p/10-things-global-news-27th-october-e39"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W8",
+          "headline_md": "**Japan**: former Prime Minister Yasuo Fukuda has died at 90",
+          "summary_md": "China's fifth plenum, focused on party discipline, is also under way and runs for four days.",
+          "source": {
+            "name": "10 Things",
+            "url": "https://www.10things.news/p/10-things-global-news-27th-october-e39"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "**DoorDash** is in advanced talks to buy **Instacart** (Maplebear) at a valuation of about $17 billion",
+          "summary_md": "WSJ reported it in Stocks to Watch at 4:50 AM AZ.",
+          "source": {
+            "name": "WSJ",
+            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2026/card/viA1E9JdgNFAlbUynhyz"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "**Microsoft** offers voluntary buyouts to about 60,000 employees, roughly 27% of its workforce",
+          "summary_md": "It covers level 70 and below in the US, Canada, UK and India. Employees decide by early December and would leave Dec 31. Reports say Xbox staff are eligible too.",
+          "source": {
+            "name": "CRN",
+            "url": "https://www.crn.com/news/ai/2026/microsoft-confirms-about-60-000-employees-eligible-for-voluntary-exit-offer"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "**Broadcom** lines up $63 billion in financing tied to supplying **Anthropic**",
+          "summary_md": "Lenders are BofA, Citi, Morgan Stanley and Blackstone, and the stock was up 2% before the open.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "**HSBC** falls 6.5% in London on a revenue miss, despite announcing a $1 billion buyback",
+          "summary_md": "**Novartis** raised its profit outlook the same morning.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B5",
+          "headline_md": "**Porsche** plans to cut 25% of its workforce by 2035, and **Mercedes** lowers its margin outlook to 2–3%",
+          "summary_md": "Porsche's operating profit for the first nine months was €1.74 billion.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B6",
+          "headline_md": "**Singapore and Aramco** agree to store crude in the Jurong Rock Caverns starting in 2027",
+          "summary_md": "EU gas prices rose 3.3% to more than €97/MWh, the highest since December 2022.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-27-2026/4101934"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "**Rotate Rings** by Hungry Studio is a new hybrid-casual hit, fully ad-monetized with about 350K installs a day",
+          "summary_md": "It's score-based with no fail state. Gamigion also spots **Easybrain**'s *Color Away* (a Tap Away-style puzzle) and two **iKame** tile-puzzle tests.",
+          "source": {
+            "name": "Gamigion",
+            "url": "https://gamigion.substack.com/p/mobile-gaming-today-126"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "**Supercell** has completed its acquisition of **Metacore**, taking over Merge Mansion",
+          "summary_md": "Listed in Gamigion's weekly mobile roundup, along with Mika Games' $10M fund.",
+          "source": {
+            "name": "Gamigion",
+            "url": "https://gamigion.substack.com/p/mobile-gaming-today-126"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "**Pokémon UNITE** shuts down on Switch and mobile on March 23, 2027",
+          "summary_md": "Gem sales stopped today. A Nov 12 update adds a farewell event and a library feature that keeps your items.",
+          "source": {
+            "name": "Gaming Route",
+            "url": "https://gamingroute.com/gaming-news-today/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "**Capcom** first-half operating profit rises 54.5% to ¥60.8B, and **Resident Evil Requiem** passes 8 million",
+          "summary_md": "Pragmata is above 2.7M and Onimusha: Way of the Sword above 1.7M.",
+          "source": {
+            "name": "Gaming Route",
+            "url": "https://gamingroute.com/gaming-news-today/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G5",
+          "headline_md": "**Sucker Punch** (Ghost of Yōtei) lays off 24 people, at least 10% of the studio",
+          "summary_md": "The cuts follow the well-received Echoes of Sekigahara expansion.",
+          "source": {
+            "name": "GameSpot",
+            "url": "https://www.gamespot.com/articles/ghost-of-yotei-was-a-hit-but-its-developer-is-reportedly-cutting-jobs/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G6",
+          "headline_md": "**Call of Duty** has passed $40B in lifetime revenue, but Activision is quiet on **Modern Warfare 4** launch sales",
+          "summary_md": "Microsoft reports earnings Oct 28.",
+          "source": {
+            "name": "Gaming Route",
+            "url": "https://gamingroute.com/gaming-news-today/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "No PS5 or Switch 2 breakthroughs today. **Wii U lifter**: still no public repo. I only found per-game Wii U recomps (Wind Waker HD, NSMBU, BotW CafeRecomp) and early frameworks (nWiiURecomp, DolRecomp). **Kirikae** is still on v0.1.2, **flossbud WWHDRecomp** has no release, **AnyPS5** is still on v0.1.3 (progress page: 48.86% of system-library functions, 100% of shader instructions), and **KytyPS5** only had nightlies. r/decomps was blocked (429), so this list comes from GitHub and recomp trackers.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "Update: **LASRecomp** (Link's Awakening, Switch to PC) Beta 5.3 fixes setup and holds 60 FPS on Steam Deck",
+          "summary_md": "Published 12:06 PM AZ Mon. It detects damaged game files, setup no longer stops at 10% with Control Flow Guard on, and BowWow and randomizer bugs are fixed. It is still not declared stable.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/peiikai/LASRecomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "**NSMBU Recomp** v0.7.0 runs New Super Mario Bros. U (Wii U) natively on Windows, macOS and Linux",
+          "summary_md": "Released 2:21 PM AZ Mon. The installer builds the game from your own copy (US/EU 1.3.0), and the download includes no game files or keys.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/nsmbu-recomp/nsmbu-recomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "**Panzer Dragoon Saga** gets a PC 'recomp' from the Yaba Sanshiro dev, but it's built on emulation",
+          "summary_md": "It adds HD widescreen, removes slowdown and fixes wobbly polygons, and it needs your own disc image. Commenters say it is really an SH-2 emulator, while yaz0r is working on a true decomp.",
+          "source": {
+            "name": "Time Extension",
+            "url": "https://www.timeextension.com/news/2026/10/i-hope-this-wonderful-game-lives-on-forever-panzer-dragoon-saga-gets-pc-recomp-from-the-dev-behind-yaba-sanshiro"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "**ps3recomp** v0.18.0, a PS3 static recompilation runtime, adds D3D12 and Metal pipeline caching and better SPU support",
+          "summary_md": "Released Oct 26, with broad RSX, Vulkan and HLE updates.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/sp00nznet/ps3recomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "**Army of Two Recomp** reaches 1.4 (Released), and **PS2RC** v0.2.0 and **Open Nectar** 1.1 (Pikmin) also shipped",
+          "summary_md": "Listed on Recomp Haven's release tracker. I have not checked their changelogs.",
+          "source": {
+            "name": "Recomp Haven",
+            "url": "https://recomphaven.com/releases/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": "Monday grosses aren't out yet (Box Office Mojo data as of 2:45 AM AZ). I found no Rotten Tomatoes scores or tracking for this weekend's releases.",
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "**You Can See Everything** beat **Clayface** on Sunday, $6.41M to $5.60M",
+          "summary_md": "Sunday's top-10 total was $25.4M, down 22.1% from Saturday.",
+          "source": {
+            "name": "Box Office Mojo",
+            "url": "https://www.boxofficemojo.com/daily/2026/?view=month"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "**Halloween weekend** (Halloween is Saturday): no big studio openers, and Liam Neeson's **The Mongoose** goes out through Samuel Goldwyn",
+          "summary_md": "The Numbers lists no tracking. Everest: The Other Side, Christmas at the Kringles and The Only Living Pickpocket in New York also open.",
+          "source": {
+            "name": "The Numbers",
+            "url": "https://www.the-numbers.com/movie/Mongoose-The-%282026%29"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "**Call of Duty** movie: Peter Berg says it's about \"the cost of war,\" not comic-book heroes",
+          "summary_md": "Taylor Sheridan wrote it for Paramount, and it's dated June 30, 2028.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/news/call-of-duty-movie-rejects-comic-book-films-superheroes-1236931483/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "**Keanu Reeves** replaces Alan Ritchson in Netflix's hurricane action film **Maelstrom**",
+          "summary_md": "Jaume Collet-Serra directs, and it's the first project under Jeff Robinov's Netflix deal.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/news/keanu-reeves-maelstrom-netflix-alan-ritchson-drops-out-1236931242/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "**Lionsgate** forms a joint venture with **Steven Paul**'s SP Media, with an initial investment of about $100M",
+          "summary_md": "It comes after reports that Legendary revived its bid for Lionsgate.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/news/lionsgate-joint-venture-steven-paul-sp-media-1236931486/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "**OpenAI** launches **GPT-6.1 Terra**, a faster computer-use model at half the API price",
+          "summary_md": "$1/$5 per million input/output tokens, available in ChatGPT Work, Codex and the API. OpenAI says it hits its Critical cybersecurity threshold.",
+          "source": {
+            "name": "OpenAI",
+            "url": "https://openai.com/index/introducing-gpt-6-1-terra"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "**Google** adds **Gemini 4 Argon** to the Gemini app's model picker for Pro and Ultra subscribers",
+          "summary_md": "Argon has been in the API since Oct 13.",
+          "source": {
+            "name": "TechRadar",
+            "url": "https://www.techradar.com/ai-platforms-assistants/googles-gemini-4-argon-just-landed-in-the-gemini-model-picker-heres-what-it-actually-means-for-you"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "**Scale AI** faces noyb privacy complaints alleging its Outlier platform tracks 900,000 workers",
+          "summary_md": "Reported by Euronews.",
+          "source": {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/10/27"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "**Apple App Store** review delays: some developers report waits of three weeks or more, plus stalled enrollments",
+          "summary_md": "Apple's target is 90% of apps reviewed within 48 hours. Apple has not commented.",
+          "source": {
+            "name": "AppWinners",
+            "url": "https://appwinners.eu/news/2026-10-26-app-review-waits-enrollment-snags"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "**Google Play** Contacts policy: from Jan 27, 2027, apps must use the Contact Picker or justify READ_CONTACTS",
+          "summary_md": "It applies to apps targeting Android 17.",
+          "source": {
+            "name": "AppWinners",
+            "url": "https://appwinners.eu/news/2026-10-26-app-review-waits-enrollment-snags"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "**Apple ads** get a boost from F1 sponsorships on Apple TV, while AdExchanger looks at why WebKit is blocking ID vendors",
+          "summary_md": "New research on extended identifiers and ad-borne exploits helps explain it.",
+          "source": {
+            "name": "AdExchanger",
+            "url": "https://www.adexchanger.com/daily-news-roundup/monday-26102026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "**Acer Predator Atlas 8** handheld comes to the US Nov 1 for $1,299.99, only at Best Buy",
+          "summary_md": "Windows 11, an 8-inch 120Hz screen and an 80Wh battery.",
+          "source": {
+            "name": "Gaming Route",
+            "url": "https://gamingroute.com/gaming-news-today/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T5",
+          "headline_md": "**iPad mini** with OLED is expected this week, according to 9to5Mac",
+          "summary_md": "Apple hasn't announced it.",
+          "source": {
+            "name": "AppWinners",
+            "url": "https://appwinners.eu/news/2026-10-26-app-review-waits-enrollment-snags"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": "The Fed's two-day meeting starts today, with the decision Wednesday.",
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "**US futures** up (4:55 AM AZ): S&P 500 +0.3%, Dow +129 (0.3%), Nasdaq-100 +0.5%",
+          "summary_md": "Reported in CNBC's live coverage.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "**Premarket movers** (4:55 AM AZ): **UPS** +1% after a beat and a higher guide, **JetBlue** +11%, **Whirlpool** −7% on a surprise loss, **Boeing** about +1%",
+          "summary_md": "Whirlpool cut its full-year revenue guidance to $14.5B.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "**Celestica** +17% premarket after Q3 revenue rose 83% to $5.83B and it guided 2027 revenue to $40B",
+          "summary_md": "Adjusted EPS was $3.30 against $2.96 expected.",
+          "source": {
+            "name": "Yahoo Finance/Stocktwits",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/cls-stock-soars-premarket-blowout-081754257.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "**Asia/Europe**: Nikkei +1.73%, Kospi +3.09%, CSI 300 −1.32%, Stoxx 600 −0.35%",
+          "summary_md": "SoftBank rose 7.6% and SK Hynix 7.1% on reports of a special dividend. China's September industrial profits rose 14.4%.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "**Oil** about 1% lower: WTI near $101 and Brent near $114 (4:55 AM AZ)",
+          "summary_md": "EU gas is at its highest since December 2022 (see B6).",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M6",
+          "headline_md": "**Gold** $4,009.32, −0.36% (4:48 AM AZ), with the dollar near a two-week high",
+          "summary_md": "CNBC earlier had spot −0.5% at $3,995.89.",
+          "source": {
+            "name": "GoldPrice.com",
+            "url": "https://www.goldprice.com/gold-price-today"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M7",
+          "headline_md": "**Crypto**: Bitcoin $79,746 (−0.65% in 24h) and Ether $2,310.05 (−0.82%) at 5:09 AM AZ",
+          "summary_md": "Bitcoin slipped below $80K.",
+          "source": {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Show Low | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\nChance of precipitation by hour (AZ). Source: api.weather.gov hourly forecasts, fetched 5:09 AM AZ. No active NWS alerts for any of the three cities. NWS gives no rain amounts for today.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**Phoenix**: sunny, high near 86, tonight mostly clear with a low around 60, 0% rain",
+          "summary_md": "No alerts. Light SE wind, 0–5 mph.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Show Low**: sunny, high near 66, low around 42 (38 overnight), 0% rain",
+          "summary_md": "No alerts. S wind 6–15 mph with gusts to 22.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "**Snowflake**: sunny, high near 70, low around 41 (38 overnight), 0% rain",
+          "summary_md": "No alerts. S wind 3–15 mph with gusts to 23.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "**Anthropic** files for a Nasdaq IPO under \"ANT\". CNBC's live coverage digs into the S-1: \"900% revenue retention, but $80 billion in first-half losses\"",
+          "summary_md": "It's the first full look at a frontier AI lab's books: revenue growth, compute commitments over $475B, and dual-class control.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}

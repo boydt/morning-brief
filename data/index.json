@@ -1,6 +1,12 @@
 {
   "days": [
     {
+      "date": "2026-10-27",
+      "title": "Morning Brief",
+      "headline_count": 49,
+      "deep_dive_count": 0
+    },
+    {
       "date": "2026-10-26",
       "title": "Morning Brief",
       "headline_count": 48,
@@ -163,5 +169,5 @@
       "deep_dive_count": 4
     }
   ],
-  "generated_at": "2026-10-26T12:13:56Z"
+  "generated_at": "2026-10-27T12:13:50Z"
 }
