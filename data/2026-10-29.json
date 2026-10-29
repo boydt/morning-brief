@@ -1,0 +1,593 @@
+{
+  "date": "2026-10-29",
+  "title": "Morning Brief",
+  "intro_md": "Type \"more on G3\" (or any code) in chat, or tap More info on the page and paste the request, for a deep dive.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Update: **Spain** train crash toll rises to 68",
+          "summary_md": "Two high-speed trains collided near Toledo on the Madrid–Andalusia line; Spain declared three days of mourning, and investigators are looking at an IT failure and a control-centre go-ahead before the crash.",
+          "source": {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/10/29"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "**Iran** rejects Qatar's plan to end the war with the **US**",
+          "summary_md": "Tehran called the proposal unacceptable, while CNN reports US forces could launch a big operation within four days of Trump's approval after the Nov. 3 midterms.",
+          "source": {
+            "name": "World Watch",
+            "url": "https://worldwatch.media/en/digest/2026-10-29"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "**US** reportedly also pursuing a temporary **Iran** peace deal",
+          "summary_md": "A Semafor report says Washington is negotiating a temporary agreement with Iran, though significant obstacles remain; Trump confirmed talks through mediators.",
+          "source": {
+            "name": "Newsquawk",
+            "url": "https://www.newsquawk.com/daily/5833-us-market-open-alphabet-slumps-pre-market-after-disappointing-earnings-ecbs-lagarde-is-to-step-down-early"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Russian drone strike on a **Ukrainian** railway station kills at least 13",
+          "summary_md": "The attack came as Moscow and Kyiv prepare to resume US-mediated peace talks next month.",
+          "source": {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/10/29"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "Update: **Africa CDC** warns **Ebola** could reach the UK",
+          "summary_md": "Jean Kaseya said the outbreak could spread to the UK and other countries without more funding for preparedness and treatment.",
+          "source": {
+            "name": "World Watch",
+            "url": "https://worldwatch.media/en/digest/2026-10-29"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "**Alphabet** misses, **Microsoft** beats",
+          "summary_md": "Alphabet earned $2.12 a share vs. $3.03 expected on $127.6B revenue, while Microsoft posted $4.92 vs. $4.72 on $92.3B, helped by Azure.",
+          "source": {
+            "name": "Newsquawk",
+            "url": "https://www.newsquawk.com/daily/5833-us-market-open-alphabet-slumps-pre-market-after-disappointing-earnings-ecbs-lagarde-is-to-step-down-early"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "Update: **Fed** holds rates at 3.75%–4%",
+          "summary_md": "The 10–2 vote had Lisa Cook and Beth Hammack dissenting in favor of a hike; traders see an 81% chance of a December hike.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "**Eli Lilly** beats and raises guidance",
+          "summary_md": "Q3 revenue hit $24.4B, up 39%, and Lilly lifted its 2026 revenue outlook to $91B–$92B on Mounjaro and Zepbound demand.",
+          "source": {
+            "name": "Investing.com",
+            "url": "https://www.investing.com/news/earnings/eli-lilly-jumps-on-earnings-beat-raised-guidance-4982661"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "**Volkswagen** posts a €5.8B quarterly loss",
+          "summary_md": "Europe's largest carmaker blamed intense Chinese competition.",
+          "source": {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/10/29"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B5",
+          "headline_md": "**ECB**'s **Lagarde** to step down early",
+          "summary_md": "Christine Lagarde will leave on Feb. 7, 2027, about nine months before her term ends, the ECB said ahead of today's rate decision.",
+          "source": {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/10/29"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B6",
+          "headline_md": "**Samsung** chip profit jumps 15-fold, but shares fall",
+          "summary_md": "The stock slid about 4% on no new shareholder-return plans; Samsung will raise 2026 capex by more than 60%.",
+          "source": {
+            "name": "Newsquawk",
+            "url": "https://www.newsquawk.com/daily/5833-us-market-open-alphabet-slumps-pre-market-after-disappointing-earnings-ecbs-lagarde-is-to-step-down-early"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "**Atari** hires the **Crossy Road** creator to run mobile",
+          "summary_md": "He'll lead Atari's mobile business and cross-platform strategy.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "**Unity** and **PvX** team up on ad-spend financing",
+          "summary_md": "Eligible studios get Unity Ads credits and user-acquisition financing without giving up equity.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "**Steam** reportedly makes devs play their game before review",
+          "summary_md": "Developers must log at least five minutes of runtime through a developer account first; Valve also said it won't gatekeep AI-made games.",
+          "source": {
+            "name": "Waper",
+            "url": "https://waper.ai/w/game-industry/2026-10-28"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "**Pokémon Unite** is shutting down in 2027",
+          "summary_md": "TiMi's MOBA goes offline on mobile and Switch on March 23, 2027.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G5",
+          "headline_md": "**Nintendo Indie World**: **Witchbrook** dated, **Sword of the Sea** out today",
+          "summary_md": "Witchbrook lands Jan. 28, 2027, Sword of the Sea hits Switch 2 Oct. 29, and Slime Rancher 2 comes to Switch 2 in January.",
+          "source": {
+            "name": "GameSpot",
+            "url": "https://www.gamespot.com/articles/nintendo-indie-world-october-2026-showcase-all-the-biggest-announcements/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G6",
+          "headline_md": "**Don't Nod** restructures to avoid insolvency",
+          "summary_md": "The Life is Strange studio faces internal unrest as it tries to shore up its finances.",
+          "source": {
+            "name": "Waper",
+            "url": "https://waper.ai/w/game-industry/2026-10-28"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "**Switch 2 breakthrough today.** Wii U general lifter watch: still no public repo or release (checked GitHub, r/decomps and the web).",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "**Switch 2** exclusives **Mario Kart World** and **Splatoon Raiders** run off-console",
+          "summary_md": "Days after the Switch 2 jailbreak, Will Faust showed Mario Kart World on Mac and iPhone via a private nxnative fork, and a private Eden build gets Splatoon Raiders to character select on PC; both are rough and unreleased.",
+          "source": {
+            "name": "VideoCardz",
+            "url": "https://videocardz.com/newz/nintendos-worst-nightmare-begins-as-switch-2-exclusive-games-start-running-on-pcs-and-macs"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "**Skybound**: an early **Tears of the Kingdom** recomp for Windows",
+          "summary_md": "NotRexed's open-source project translates TOTK 1.0.0's Switch code to C and renders through WebGPU; it's an early beta with graphics bugs that you build from your own dump.",
+          "source": {
+            "name": "decomps.net",
+            "url": "https://decomps.net/news"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "**Tomodachi Life: Living the Dream** gets an experimental PC recomp",
+          "summary_md": "Tomodachi LTD Recomp turns the Switch game's ARM code into native x86-64 but still leans on suyu-derived code for graphics, audio and services; a fully native port is in development.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/RussoPhone/tomodachi-ltd-recomp"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "**Super Kirby Clash** recompiled for PC on **LASRecomp**",
+          "summary_md": "KirbyRecomp alpha 0.1.0 translates the Switch game's ARM64 code to C on your PC with a Vulkan renderer; you need your own dump.",
+          "source": {
+            "name": "decomps.net",
+            "url": "https://decomps.net/news"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "PS3 recomps: **Ratchet & Clank: A Crack in Time** playable to the end, **Killzone 3** partly playable",
+          "summary_md": "RACiT 0.8 runs start to finish with known bugs via ps3recomp, and Project Helghast's first builds translate Killzone 3 to Direct3D 12.",
+          "source": {
+            "name": "decomps.net",
+            "url": "https://decomps.net/news"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E6",
+          "headline_md": "**Xenia Canary** fixes black tiling in 30+ **Unreal Engine 3** games",
+          "summary_md": "The Xbox 360 emulator now implements Xenos MSAA sample positions.",
+          "source": {
+            "name": "r/emulation",
+            "url": "https://www.reddit.com/r/emulation/comments/1xh628x/xenia_canary_has_implemented_xenos_msaa_sample/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "**Clayface** leads Tuesday with $3.37M",
+          "summary_md": "DC's villain film is at $29.7M after five days, per Box Office Mojo's Tuesday Oct. 27 chart.",
+          "source": {
+            "name": "Box Office Mojo",
+            "url": "https://www.boxofficemojo.com/date/2026-10-27/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "**Street Fighter** passes $48.6M",
+          "summary_md": "Paramount's video game movie was No. 2 Tuesday with $1.02M in its 12th day.",
+          "source": {
+            "name": "Box Office Mojo",
+            "url": "https://www.boxofficemojo.com/date/2026-10-27/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Quiet Halloween weekend: **You Can See Everything** could hit No. 1",
+          "summary_md": "With Halloween on Saturday and no big openers, Boxoffice Pro sees A24's documentary at $12M–$17M vs. Clayface at $10M–$15M.",
+          "source": {
+            "name": "Boxoffice Pro",
+            "url": "https://www.boxofficepro.com/weekend-preview-you-can-see-everything-looking-to-claim-top-spot-over-quiet-halloween-frame/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "Laika's **Wildwood** is a word-of-mouth hit",
+          "summary_md": "It opened to $12.27M on 2,596 screens with 100% on Rotten Tomatoes and an A CinemaScore, per Boxoffice Pro.",
+          "source": {
+            "name": "Boxoffice Pro",
+            "url": "https://www.boxofficepro.com/weekend-preview-you-can-see-everything-looking-to-claim-top-spot-over-quiet-halloween-frame/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "**Jumanji: Open World** trailer drops",
+          "summary_md": "Sony's trilogy finale with Dwayne Johnson, Jack Black, Kevin Hart and Karen Gillan opens Dec. 25.",
+          "source": {
+            "name": "The Hollywood Reporter",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/jumanji-open-world-trailer-dwayne-johnson-jack-black-flirty-1236742013/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "**Google** unveils **Gemini 4 Carbon**, gated to cyber defenders first",
+          "summary_md": "Google calls it its strongest model; intro API prices are $2/$10 per million tokens with no public API date yet.",
+          "source": {
+            "name": "TopFive",
+            "url": "https://topfive.ai/2026/10/29/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "**GitHub Copilot Fusion** now picks the model for you",
+          "summary_md": "Generally available on every Copilot plan, it routes prompts across models based on an effort level you choose.",
+          "source": {
+            "name": "TopFive",
+            "url": "https://topfive.ai/2026/10/29/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "**New York** bans chatbots from posing as people with kids",
+          "summary_md": "Gov. Hochul's new law carries fines up to $25,000 per violation and pushes age checks onto chatbot makers.",
+          "source": {
+            "name": "TopFive",
+            "url": "https://topfive.ai/2026/10/29/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "**Microsoft** booked $10B in revenue from **OpenAI**",
+          "summary_md": "TechCrunch also notes Microsoft disclosed Azure revenue of $33.2B.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "**Google** takes AI Mode ads global as Search growth slows",
+          "summary_md": "Ads in AI Mode expand to international markets, plus multi-turn ads in the US, as Search revenue growth slowed to 12%.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "**Apple** launches a touchscreen **MacBook Pro**",
+          "summary_md": "The M5 Pro/Max models add a touch OLED screen and up to 128GB of memory, from $2,899, shipping Nov. 6.",
+          "source": {
+            "name": "TopFive",
+            "url": "https://topfive.ai/2026/10/29/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Hacker steals data on thousands of **DHS** employees",
+          "summary_md": "The stolen personnel data includes CBP and ICE agents.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "**Chrome**'s AI Autofill can now pull from **Gmail**",
+          "summary_md": "It digs through your email to fill out forms.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "**Nasdaq** futures down about 1%",
+          "summary_md": "At 4:02 AM AZ, Nasdaq 100 futures were −0.93%, S&P 500 −0.2% and Dow −0.09%, ahead of PCE inflation and Q3 GDP.",
+          "source": {
+            "name": "Reuters via Investing.com",
+            "url": "https://www.investing.com/news/economy-news/nasdaq-futures-slide-as-mixed-big-tech-results-test-ai-trade-4981842"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "**Alphabet** −10.4%, **Microsoft** +2.1% premarket",
+          "summary_md": "Alphabet is on track to lose more than $400B in value if the drop holds (quoted 4:37 AM AZ).",
+          "source": {
+            "name": "Reuters via Investing.com",
+            "url": "https://www.investing.com/news/economy-news/nasdaq-futures-slide-as-mixed-big-tech-results-test-ai-trade-4981842"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "**Fortinet** −26%, **ServiceNow** −20% premarket",
+          "summary_md": "Software stocks are sliding broadly; Glaukos and Insmed are among the gainers (checked about 5 AM AZ).",
+          "source": {
+            "name": "StockAnalysis",
+            "url": "https://stockanalysis.com/markets/premarket/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "**Oil** eases to about $102",
+          "summary_md": "WTI slipped Thursday on renewed US–Iran diplomacy after settling at $102.78 (+2.9%) Wednesday (report at 4:20 AM AZ).",
+          "source": {
+            "name": "HDFC Sky",
+            "url": "https://hdfcsky.com/news/prime-research-commodity-daily-report-29-october-2026"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "**Gold** $4,019.17, down 0.87%",
+          "summary_md": "Quoted at 5:06 AM AZ.",
+          "source": {
+            "name": "Exa",
+            "url": "https://exa.ai/library/markets/commodity/gold?currency=USD"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M6",
+          "headline_md": "**Bitcoin** about $80,100, down 1.4%",
+          "summary_md": "It dipped to $79,600 before bouncing (quoted 4:11 AM AZ).",
+          "source": {
+            "name": "CoinDesk",
+            "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 2% | 2% | 2% | 2% | 6% |\n| Show Low | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 1% | 1% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 1% | 1% |\n\nSource: api.weather.gov hourly forecast (probabilityOfPrecipitation), fetched 5:06 AM AZ.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**Phoenix**: partly sunny, high near 86, low around 63; ⚠️ Flood Watch",
+          "summary_md": "Dry today, then a slight chance of showers and storms after midnight (30% tonight, 0.1 to 0.25 inch possible). NWS Flood Watch runs until 6 PM AZ Friday, Oct. 30.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Show Low**: mostly cloudy, high near 68, low around 42",
+          "summary_md": "Rain chance about 1% today and 4% tonight; south wind gusting to 23 mph. No alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "**Snowflake**: partly sunny, high near 72, low around 41",
+          "summary_md": "Rain chance about 1% today and 2% tonight; gusts to 25 mph. No alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5133&lon=-110.0782"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "Frames Games' list of every **Switch** game running natively on PC",
+          "summary_md": "One table of all 13 Switch PC ports on GitHub, with versions, requirements and the catch for each, from LASRecomp to Metroid Dread.",
+          "source": {
+            "name": "Frames Games",
+            "url": "https://framesgames.com/nintendo-switch-native-pc-ports/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
