@@ -11,8 +11,8 @@
       "items": [
         {
           "id": "W1",
-          "headline_md": "Update: **Spain** train crash toll rises to 68",
-          "summary_md": "Two high-speed trains collided near Toledo on the Madrid–Andalusia line; Spain declared three days of mourning, and investigators are looking at an IT failure and a control-centre go-ahead before the crash.",
+          "headline_md": "Update: **Spain** train crash toll rises to 69",
+          "summary_md": "Investigators say the Adif control centre authorised the AVE train to resume after an IT failure; Sánchez pledged a tough response.",
           "source": {
             "name": "Euronews",
             "url": "https://www.euronews.com/2026/10/29"
@@ -23,7 +23,7 @@
         {
           "id": "W2",
           "headline_md": "**Iran** rejects Qatar's plan to end the war with the **US**",
-          "summary_md": "Tehran called the proposal unacceptable, while CNN reports US forces could launch a big operation within four days of Trump's approval after the Nov. 3 midterms.",
+          "summary_md": "Tehran called the proposal unacceptable, while CNN reports US forces could launch within four days of Trump's approval.",
           "source": {
             "name": "World Watch",
             "url": "https://worldwatch.media/en/digest/2026-10-29"
@@ -33,19 +33,8 @@
         },
         {
           "id": "W3",
-          "headline_md": "**US** reportedly also pursuing a temporary **Iran** peace deal",
-          "summary_md": "A Semafor report says Washington is negotiating a temporary agreement with Iran, though significant obstacles remain; Trump confirmed talks through mediators.",
-          "source": {
-            "name": "Newsquawk",
-            "url": "https://www.newsquawk.com/daily/5833-us-market-open-alphabet-slumps-pre-market-after-disappointing-earnings-ecbs-lagarde-is-to-step-down-early"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "W4",
           "headline_md": "Russian drone strike on a **Ukrainian** railway station kills at least 13",
-          "summary_md": "The attack came as Moscow and Kyiv prepare to resume US-mediated peace talks next month.",
+          "summary_md": "Euronews reports the strike hit a station in Ukraine overnight.",
           "source": {
             "name": "Euronews",
             "url": "https://www.euronews.com/2026/10/29"
@@ -54,7 +43,7 @@
           "details_updated": null
         },
         {
-          "id": "W5",
+          "id": "W4",
           "headline_md": "Update: **Africa CDC** warns **Ebola** could reach the UK",
           "summary_md": "Jean Kaseya said the outbreak could spread to the UK and other countries without more funding for preparedness and treatment.",
           "source": {
@@ -75,7 +64,7 @@
         {
           "id": "B1",
           "headline_md": "**Alphabet** misses, **Microsoft** beats",
-          "summary_md": "Alphabet earned $2.12 a share vs. $3.03 expected on $127.6B revenue, while Microsoft posted $4.92 vs. $4.72 on $92.3B, helped by Azure.",
+          "summary_md": "Alphabet earned $2.12 a share vs. $3.03 expected on $127.6B revenue, while Microsoft posted $4.92 vs. $4.72 on $92.3B.",
           "source": {
             "name": "Newsquawk",
             "url": "https://www.newsquawk.com/daily/5833-us-market-open-alphabet-slumps-pre-market-after-disappointing-earnings-ecbs-lagarde-is-to-step-down-early"
@@ -97,7 +86,7 @@
         {
           "id": "B3",
           "headline_md": "**Eli Lilly** beats and raises guidance",
-          "summary_md": "Q3 revenue hit $24.4B, up 39%, and Lilly lifted its 2026 revenue outlook to $91B–$92B on Mounjaro and Zepbound demand.",
+          "summary_md": "Q3 revenue hit $24.4B, up 39%, and Lilly lifted its 2026 revenue outlook to $91B–$92B; shares rose about 4% premarket.",
           "source": {
             "name": "Investing.com",
             "url": "https://www.investing.com/news/earnings/eli-lilly-jumps-on-earnings-beat-raised-guidance-4982661"
@@ -108,7 +97,7 @@
         {
           "id": "B4",
           "headline_md": "**Volkswagen** posts a €5.8B quarterly loss",
-          "summary_md": "Europe's largest carmaker blamed intense Chinese competition.",
+          "summary_md": "The automaker reported the loss for the third quarter.",
           "source": {
             "name": "Euronews",
             "url": "https://www.euronews.com/2026/10/29"
@@ -119,7 +108,7 @@
         {
           "id": "B5",
           "headline_md": "**ECB**'s **Lagarde** to step down early",
-          "summary_md": "Christine Lagarde will leave on Feb. 7, 2027, about nine months before her term ends, the ECB said ahead of today's rate decision.",
+          "summary_md": "Christine Lagarde will leave on Feb. 7, 2027; today's ECB rate decision (6:15 AM AZ) is expected to hold at 2.50%.",
           "source": {
             "name": "Euronews",
             "url": "https://www.euronews.com/2026/10/29"
@@ -130,7 +119,7 @@
         {
           "id": "B6",
           "headline_md": "**Samsung** chip profit jumps 15-fold, but shares fall",
-          "summary_md": "The stock slid about 4% on no new shareholder-return plans; Samsung will raise 2026 capex by more than 60%.",
+          "summary_md": "The stock slid about 4.1% despite the surge.",
           "source": {
             "name": "Newsquawk",
             "url": "https://www.newsquawk.com/daily/5833-us-market-open-alphabet-slumps-pre-market-after-disappointing-earnings-ecbs-lagarde-is-to-step-down-early"
@@ -149,7 +138,7 @@
         {
           "id": "G1",
           "headline_md": "**Atari** hires the **Crossy Road** creator to run mobile",
-          "summary_md": "He'll lead Atari's mobile business and cross-platform strategy.",
+          "summary_md": "He'll lead Atari's mobile business.",
           "source": {
             "name": "PocketGamer.biz",
             "url": "https://www.pocketgamer.biz/"
@@ -182,7 +171,7 @@
         {
           "id": "G4",
           "headline_md": "**Pokémon Unite** is shutting down in 2027",
-          "summary_md": "TiMi's MOBA goes offline on mobile and Switch on March 23, 2027.",
+          "summary_md": "The MOBA ends service on mobile and Switch on March 23, 2027.",
           "source": {
             "name": "PocketGamer.biz",
             "url": "https://www.pocketgamer.biz/"
@@ -204,7 +193,7 @@
         {
           "id": "G6",
           "headline_md": "**Don't Nod** restructures to avoid insolvency",
-          "summary_md": "The Life is Strange studio faces internal unrest as it tries to shore up its finances.",
+          "summary_md": "The French studio is restructuring to stay solvent.",
           "source": {
             "name": "Waper",
             "url": "https://waper.ai/w/game-industry/2026-10-28"
@@ -234,7 +223,7 @@
         {
           "id": "E2",
           "headline_md": "**Skybound**: an early **Tears of the Kingdom** recomp for Windows",
-          "summary_md": "NotRexed's open-source project translates TOTK 1.0.0's Switch code to C and renders through WebGPU; it's an early beta with graphics bugs that you build from your own dump.",
+          "summary_md": "It targets TOTK v1.0.0 and renders through WebGPU; it's an early beta you build from your own dump.",
           "source": {
             "name": "decomps.net",
             "url": "https://decomps.net/news"
@@ -256,7 +245,7 @@
         {
           "id": "E4",
           "headline_md": "**Super Kirby Clash** recompiled for PC on **LASRecomp**",
-          "summary_md": "KirbyRecomp alpha 0.1.0 translates the Switch game's ARM64 code to C on your PC with a Vulkan renderer; you need your own dump.",
+          "summary_md": "KirbyRecomp alpha 0.1.0 is built on the LASRecomp framework.",
           "source": {
             "name": "decomps.net",
             "url": "https://decomps.net/news"
@@ -267,7 +256,7 @@
         {
           "id": "E5",
           "headline_md": "PS3 recomps: **Ratchet & Clank: A Crack in Time** playable to the end, **Killzone 3** partly playable",
-          "summary_md": "RACiT 0.8 runs start to finish with known bugs via ps3recomp, and Project Helghast's first builds translate Killzone 3 to Direct3D 12.",
+          "summary_md": "RACiT 0.8 runs start to finish via ps3recomp with Vulkan, and Project Helghast builds 0.1.0 to 0.1.2 are partly playable.",
           "source": {
             "name": "decomps.net",
             "url": "https://decomps.net/news"
@@ -278,10 +267,10 @@
         {
           "id": "E6",
           "headline_md": "**Xenia Canary** fixes black tiling in 30+ **Unreal Engine 3** games",
-          "summary_md": "The Xbox 360 emulator now implements Xenos MSAA sample positions.",
+          "summary_md": "The Xbox 360 emulator fix landed Oct. 27.",
           "source": {
             "name": "r/emulation",
-            "url": "https://www.reddit.com/r/emulation/comments/1xh628x/xenia_canary_has_implemented_xenos_msaa_sample/"
+            "url": "https://www.reddit.com/r/emulation/"
           },
           "details_md": null,
           "details_updated": null
@@ -360,7 +349,7 @@
         {
           "id": "A1",
           "headline_md": "**Google** unveils **Gemini 4 Carbon**, gated to cyber defenders first",
-          "summary_md": "Google calls it its strongest model; intro API prices are $2/$10 per million tokens with no public API date yet.",
+          "summary_md": "Intro pricing is $2/$10 per million input/output tokens.",
           "source": {
             "name": "TopFive",
             "url": "https://topfive.ai/2026/10/29/"
@@ -382,7 +371,7 @@
         {
           "id": "A3",
           "headline_md": "**New York** bans chatbots from posing as people with kids",
-          "summary_md": "Gov. Hochul's new law carries fines up to $25,000 per violation and pushes age checks onto chatbot makers.",
+          "summary_md": "Gov. Hochul's new law carries fines up to $25,000.",
           "source": {
             "name": "TopFive",
             "url": "https://topfive.ai/2026/10/29/"
@@ -486,7 +475,7 @@
         {
           "id": "M3",
           "headline_md": "**Fortinet** −26%, **ServiceNow** −20% premarket",
-          "summary_md": "Software stocks are sliding broadly; Glaukos and Insmed are among the gainers (checked about 5 AM AZ).",
+          "summary_md": "Sprouts is −24% on weak traffic, while Glaukos is +15.9% and Lumentum +8.7% on a report Marvell is in talks to buy it (checked about 5 AM AZ).",
           "source": {
             "name": "StockAnalysis",
             "url": "https://stockanalysis.com/markets/premarket/"
@@ -538,7 +527,7 @@
         {
           "id": "X1",
           "headline_md": "**Phoenix**: partly sunny, high near 86, low around 63; ⚠️ Flood Watch",
-          "summary_md": "Dry today, then a slight chance of showers and storms after midnight (30% tonight, 0.1 to 0.25 inch possible). NWS Flood Watch runs until 6 PM AZ Friday, Oct. 30.",
+          "summary_md": "Dry today, then a chance of showers and storms overnight (30% tonight, low around 66, 0.1 to 0.25 inch possible). NWS Flood Watch runs until 6 PM AZ Friday, Oct. 30.",
           "source": {
             "name": "NWS",
             "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
@@ -549,7 +538,7 @@
         {
           "id": "X2",
           "headline_md": "**Show Low**: mostly cloudy, high near 68, low around 42",
-          "summary_md": "Rain chance about 1% today and 4% tonight; south wind gusting to 23 mph. No alerts.",
+          "summary_md": "Rain chance about 1%; south wind 5 to 15 mph, gusting to 23. No alerts.",
           "source": {
             "name": "NWS",
             "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
@@ -560,7 +549,7 @@
         {
           "id": "X3",
           "headline_md": "**Snowflake**: partly sunny, high near 72, low around 41",
-          "summary_md": "Rain chance about 1% today and 2% tonight; gusts to 25 mph. No alerts.",
+          "summary_md": "Rain chance about 1%; gusts to 25 mph. No alerts.",
           "source": {
             "name": "NWS",
             "url": "https://forecast.weather.gov/MapClick.php?lat=34.5133&lon=-110.0782"
