@@ -1,0 +1,538 @@
+{
+  "date": "2026-10-30",
+  "title": "Morning Brief",
+  "intro_md": "Type **more on G3** (or any code) in April's chat, or tap **More info** here and paste the request there, and she'll dig in.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "**Israel** election: **Netanyahu**'s bloc falls short of a majority",
+          "summary_md": "Final results give Netanyahu's bloc 53 seats, the opposition 48 and Arab-led parties a historic 19, so nobody has the 61 needed and coalition talks look long.",
+          "source": {
+            "name": "AP News",
+            "url": "https://apnews.com/newsletter/morning-wire/october-30-2026"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "**Saudi** air defenses intercept **Houthi** missiles aimed at Riyadh",
+          "summary_md": "The Saudi-led coalition says it destroyed two ballistic missiles fired toward Riyadh, while the Houthis say Saudi airstrikes killed 27 people in Yemen.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261030/2bc7973bc3164b06a685a17ab2f42927/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Rare truce lets aid into Russian-occupied **Oleshky**, **Ukraine**",
+          "summary_md": "A humanitarian operation is under way in the occupied town, though there are serious doubts evacuees will be allowed to reach Ukrainian-held territory.",
+          "source": {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/10/30"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "**Bank of Japan** says inflation finally hit its 2% target",
+          "summary_md": "It's the first time in more than 13 years since adopting the goal, but the bank held off on raising rates for now.",
+          "source": {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/10/30"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "**Binance** hit by a record $6.3B hack",
+          "summary_md": "The exchange says a compromised engineer's laptop may have let an attacker submit withdrawals; about $3B is frozen, it pledged to cover losses, and a US firm points to North Korea.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/30/bitcoin-ether-price-binance-security-scare-rattles-crypto-markets.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "**Amazon** misses on earnings as AI spending drains cash",
+          "summary_md": "Q3 EPS was $1.89 vs. $1.96 expected and revenue $201.94B vs. $202.31B; trailing free cash flow swung to −$42.4B, though AWS grew 39% and Jassy promises to spend meaningfully more in 2027.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "**Intel** plunges after warning it will burn cash",
+          "summary_md": "Shares fell more than 25% premarket after Intel cited a weak PC market, manufacturing bottlenecks and heavy spending, per Reuters.",
+          "source": {
+            "name": "Yahoo Finance (Reuters)",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-sink-amazon-intel-114737736.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "Update: **DoorDash** agrees to buy **Instacart** for about $17B",
+          "summary_md": "The talks became a deal at $65 per share, at least 75% cash, with Instacart's brand and app kept; closing is expected by late 2027 or the first half of 2028.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B5",
+          "headline_md": "**BP** profit quadruples on Iran-war refining margins",
+          "summary_md": "BP beat forecasts and cut net debt by $8.4B ahead of a December strategy update; Shell also nearly doubled its quarterly profit.",
+          "source": {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/10/30"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "**Planet of Lana II** goes free-to-start on mobile",
+          "summary_md": "The sequel is in Android Early Access with a free opening and a one-time $8.99 unlock, a switch from the first game's fully paid launch; iOS pre-orders are coming.",
+          "source": {
+            "name": "Pocket Gamer",
+            "url": "https://www.pocketgamer.com/planet-of-lana-ii-children-of-the-leaf/announcement/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "**Monster Hunter Outlanders** is out on iOS and Android",
+          "summary_md": "Tencent's full third-person Monster Hunter for phones launched with co-op for up to four players and a new region, Aesoland.",
+          "source": {
+            "name": "Pocket Gamer",
+            "url": "https://www.pocketgamer.com/monster-hunter-outlanders/out-now/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "**Darkest Dungeon II** is coming to mobile in 2027",
+          "summary_md": "Playdigious is porting the dark-fantasy roguelike to iOS and Android.",
+          "source": {
+            "name": "Pocket Gamer",
+            "url": "https://www.pocketgamer.com/darkest-dungeon-ii/coming-to-mobile/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "Mobile's Halloween events: **Clash of Clans**, **Monopoly Go**, **Fortnite** and more",
+          "summary_md": "PocketGamer.biz rounds up how Supercell, Scopely, Epic, King, The Pokémon Company and others are dressing up live games for the season, a handy reference for seasonal live-ops ideas.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/mobiles-halloween-tricks-and-treats-clash-of-clans-talking-tom-fortnite-and-more/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "No PS5 or Switch 2 breakthrough today. Wii U general lifter watch: still no public repo or release from the r/decomps poster (checked GitHub and the web; the only new hit, CafeRecomp, is a separate BOTW-only Wii U recomp that isn't playable yet). Reddit's r/decomps feed was blocked again, so it wasn't read directly.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "Update: **TotK Recomp**, a second **Tears of the Kingdom** PC recomp, is out in beta",
+          "summary_md": "valentderah's native Windows port builds from your own 1.2.1 or 1.4.3 dump and runs at 60 fps or more up to 4K with mouse, gamepad and gyro; crashes and visual bugs are expected.",
+          "source": {
+            "name": "decomps.net",
+            "url": "https://decomps.net/news/totk-recomp-a-static-recompilation-of-zelda-tears-of-the-kingdom-for-w-Kuz9jfRRgm"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "**Super Smash Bros. Ultimate** runs natively on PC via **WindowSmash**",
+          "summary_md": "The Switch recomp builds a Windows program from your own 13.0.5 dump and keys, with up to eight controllers, DLC fighters and relayed online play; matches are still lightly tested.",
+          "source": {
+            "name": "Tgames",
+            "url": "https://www.tgames.fr/en/news/12448-smash-bros-ultimate-en-natif-sur-pc-sans-emulateur"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "**CPS-2 Recomp** 1.0 brings 17 Capcom arcade games to PC with rollback",
+          "summary_md": "Street Fighter Alpha, Vampire Savior, Marvel vs. Capcom and more leave beta with two-player online rollback across Windows, Mac, Linux and Steam Deck; you need your own ROM sets.",
+          "source": {
+            "name": "decomps.net",
+            "url": "https://decomps.net/news/cps-2-recomp-1-0-brings-17-recompiled-capcom-arcade-games-to-pc-with-r-8ztSbVRnLq"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "**DS Kart Recompiled** turns **Mario Kart DS** into a native Windows game",
+          "summary_md": "Version 0.1.0 translates both DS processors to C and builds from your own EU cartridge, with 4x 3D, up to 240 fps and LAN play.",
+          "source": {
+            "name": "decomps.net",
+            "url": "https://decomps.net/news/ds-kart-recompiled-0-1-0-turns-mario-kart-ds-into-a-native-windows-gam-N8qaKME2gy"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "Update: **Brawl Recompiled** 0.5.0 pushes **Smash Bros. Brawl** to 240 fps",
+          "summary_md": "The native Wii-to-PC port adds the frame-rate bump after last week's online play, with Project+ mods loading as on a Wii.",
+          "source": {
+            "name": "Tgames",
+            "url": "https://www.tgames.fr/en/news/12452-smash-bros-brawl-recompile-en-natif-sur-pc"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E6",
+          "headline_md": "**Zone of the Enders** recompiled from PS2 to Windows",
+          "summary_md": "ZOE-Recompiled 1.0 uses PS2Recomp for 60 fps, widescreen, save states and two-player Versus from your own US disc.",
+          "source": {
+            "name": "decomps.net",
+            "url": "https://decomps.net/news"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Halloween weekend (Oct 30–Nov 1): **You Can See Everything** vs. **Clayface** for No. 1",
+          "summary_md": "With Halloween on Saturday and no major openers, Gold Derby predicts You Can See Everything $14M, Clayface $12M, Wildwood $7M, Wicker $4M and Street Fighter $4M.",
+          "source": {
+            "name": "Gold Derby",
+            "url": "https://www.goldderby.com/film/2026/you-can-see-everything-clayface-halloween-box-office-weekend/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "**You Can See Everything** keeps beating forecasts",
+          "summary_md": "A24's Elizabeth Holmes documentary rose 25% in its second weekend and sits at $45.1M domestic, topping its forecast every week so far.",
+          "source": {
+            "name": "Gold Derby",
+            "url": "https://www.goldderby.com/film/2026/you-can-see-everything-clayface-halloween-box-office-weekend/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Last weekend: **Clayface** won with $24M",
+          "summary_md": "Warner Bros. and DC's body-horror origin story earned an A-minus CinemaScore, but horror tends to suffer on Halloween itself.",
+          "source": {
+            "name": "Gold Derby",
+            "url": "https://www.goldderby.com/film/2026/you-can-see-everything-clayface-halloween-box-office-weekend/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "New this week: **Everest: The Other Side** and **The Only Living Pickpocket in New York** review well",
+          "summary_md": "Disney's Imax doc is Certified Fresh at 88% (Metacritic 65), and John Turturro's crime drama, expanding this week, has 96% (Metacritic 80).",
+          "source": {
+            "name": "Gold Derby",
+            "url": "https://www.goldderby.com/film/2026/you-can-see-everything-clayface-halloween-box-office-weekend/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "**Patrick Stewart** dies at 86",
+          "summary_md": "The Star Trek and X-Men star died at home in Los Angeles; Ian McKellen, William Shatner and Hugh Jackman are among those paying tribute.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/tv/news/patrick-stewart-dead-star-trek-picardx-men-xavier-1236934412/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "**Nvidia** releases open-weight **Nemotron 3.5 Transcribe**",
+          "summary_md": "The speech model transcribes 40 languages, translates 31 to or from English and handles recordings up to an hour with up to eight speakers.",
+          "source": {
+            "name": "AI Early Edition",
+            "url": "https://aiearlyedition.com/brief/2026-10-29/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "**OpenAI** and **ServiceNow** widen their deal",
+          "summary_md": "OpenAI models and agents will act inside ServiceNow software, starting with a ServiceNow plugin for ChatGPT that's available now.",
+          "source": {
+            "name": "AI Early Edition",
+            "url": "https://aiearlyedition.com/brief/2026-10-29/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "**Mistral** releases weights for its trillion-parameter model",
+          "summary_md": "TechCrunch reports the open-weight release is aimed at cybersecurity.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/29/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "**Amazon** will sell its **Trainium** AI chips externally in late 2027",
+          "summary_md": "Jassy said the chips business is growing triple digits year over year and AWS will be a $1T revenue business within five to 10 years.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "**Reddit** is moving to a mostly logged-in experience",
+          "summary_md": "Search referrals fell by more than 1M a week in October; Reddit will test the change outside the US this quarter, while Q3 revenue rose 53% to $895M and ad revenue 54%.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "**GM** settles for $220M over selling drivers' private data",
+          "summary_md": "TechCrunch reports the settlement over GM's sale of driver data.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/29/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "**Meta** quietly launches **Style Sketch**, an AI fashion app",
+          "summary_md": "It's a new standalone AI app from Meta, per TechCrunch.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/29/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "Fan-fiction site **AO3** could be offline for up to 4 weeks",
+          "summary_md": "Archive of Our Own went down after a security incident, TechCrunch reports.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/29/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "**Nasdaq 100** futures −2.41%, **S&P 500** −1.03%, **Dow** +0.17%",
+          "summary_md": "Quoted at 4:14 AM AZ (7:14 ET) by Reuters, as Amazon and Intel deepen worries about AI spending; the Nasdaq-100 is on track to erase about $950B.",
+          "source": {
+            "name": "Yahoo Finance (Reuters)",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-sink-amazon-intel-114737736.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "**Intel** down more than 25%, **Amazon** −6.3% premarket",
+          "summary_md": "Same Reuters report, 4:14 AM AZ; Alphabet slipped another 0.6% after its record selloff.",
+          "source": {
+            "name": "Yahoo Finance (Reuters)",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-sink-amazon-intel-114737736.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "**Bitcoin** −4% to $77,465 after the Binance hack",
+          "summary_md": "Ether also fell 4% to $2,239.80 and BNB 5% to $702.28, per CNBC's Friday morning update.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/30/bitcoin-ether-price-binance-security-scare-rattles-crypto-markets.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "**Brent** crosses $116, **WTI** tops $103",
+          "summary_md": "Moneycontrol ties the jump to supply fears after attacks on Saudi Arabia.",
+          "source": {
+            "name": "Moneycontrol",
+            "url": "https://www.moneycontrol.com/news/business/markets/brent-crude-crosses-116-wti-tops-103-as-saudi-attacks-fuel-supply-disruption-fears-14064149.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "**Gold** $3,964.33, down 1.09%",
+          "summary_md": "Quoted at 5:07 AM AZ; it's back below $4,000.",
+          "source": {
+            "name": "Exa markets",
+            "url": "https://exa.ai/library/markets/commodity/gold?currency=USD"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 24% 🌧 | 27% 🌧 | 28% 🌧 | 41% 🌧 | 53% 🌧 | 57% 🌧 | 54% 🌧 | 86% 🌧 | 97% 🌧 | 80% 🌧 | 73% 🌧 | 60% 🌧 | 52% 🌧 | 39% 🌧 | 21% 🌧 | 36% 🌧 | 22% 🌧 | 17% 🌧 | 17% 🌧 |\n| Show Low | 0% | 0% | 0% | 11% | 11% | 11% | 16% 🌧 | 16% 🌧 | 16% 🌧 | 35% 🌧 | 35% 🌧 | 35% 🌧 | 86% 🌧 | 86% 🌧 | 86% 🌧 | 92% 🌧 | 92% 🌧 | 92% 🌧 | 48% 🌧 |\n| Snowflake | 0% | 0% | 0% | 9% | 9% | 9% | 14% 🌧 | 14% 🌧 | 14% 🌧 | 25% 🌧 | 25% 🌧 | 25% 🌧 | 82% 🌧 | 82% 🌧 | 82% 🌧 | 83% 🌧 | 83% 🌧 | 83% 🌧 | 46% 🌧 |\n\nHourly chance of precipitation from the api.weather.gov hourly forecast, fetched 5:09 AM AZ.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**Phoenix**: storms, high near 75, low around 64; ⚠️ Flood Watch",
+          "summary_md": "Showers and thunderstorms, heaviest noon to 5 PM, 100% chance with ¾ to 1 inch of rain possible; Flood Watches run until 6 PM today and until 5 AM Monday Nov 2.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Show Low**: storms later, high near 62, low around 43; ⚠️ Flood Watch",
+          "summary_md": "Slight chance of storms 11 AM–2 PM, then showers and thunderstorms (90%) continuing tonight; gusts to 22 mph; Flood Watch until 5 AM Monday Nov 2.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "**Snowflake**: storms later, high near 66, low around 43; ⚠️ Flood Watch",
+          "summary_md": "Slight chance of storms 11 AM–2 PM, then showers and thunderstorms (80%) through about 5 AM; gusts to 24 mph; Flood Watch until 5 AM Monday Nov 2.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5133&lon=-110.0782"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "**OpenAI**'s updated Model Spec",
+          "summary_md": "A rare plain-language look at how one major lab now wants its models to weigh your intent, harm, honesty and agency when instructions run out.",
+          "source": {
+            "name": "OpenAI",
+            "url": "https://openai.com/index/updated-model-spec"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
