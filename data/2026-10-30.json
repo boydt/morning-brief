@@ -33,8 +33,8 @@
         },
         {
           "id": "W3",
-          "headline_md": "Rare truce lets aid into Russian-occupied **Oleshky**, **Ukraine**",
-          "summary_md": "A humanitarian operation is under way in the occupied town, though there are serious doubts evacuees will be allowed to reach Ukrainian-held territory.",
+          "headline_md": "Update: aid truce in Russian-occupied **Oleshky**, **Ukraine**, enters day four",
+          "summary_md": "A humanitarian operation and truce in the occupied town is in its fourth day; separately, a Russian drone strike on a Dnipro station killed at least 14.",
           "source": {
             "name": "Euronews",
             "url": "https://www.euronews.com/2026/10/30"
@@ -107,8 +107,8 @@
         },
         {
           "id": "B5",
-          "headline_md": "**BP** profit quadruples on Iran-war refining margins",
-          "summary_md": "BP beat forecasts and cut net debt by $8.4B ahead of a December strategy update; Shell also nearly doubled its quarterly profit.",
+          "headline_md": "**BP** profit quadruples and **Shell** posts a record quarter",
+          "summary_md": "BP cut net debt by $8.4B, and Shell posted record adjusted earnings of $10.81B with a $5B buyback.",
           "source": {
             "name": "Euronews",
             "url": "https://www.euronews.com/2026/10/30"
@@ -179,7 +179,7 @@
         {
           "id": "E1",
           "headline_md": "Update: **TotK Recomp**, a second **Tears of the Kingdom** PC recomp, is out in beta",
-          "summary_md": "valentderah's native Windows port builds from your own 1.2.1 or 1.4.3 dump and runs at 60 fps or more up to 4K with mouse, gamepad and gyro; crashes and visual bugs are expected.",
+          "summary_md": "valentderah's native Windows port builds from your own 1.2.1 or 1.4.3 dump plus console keys and runs at 60 fps or more up to 4K with mouse, gamepad and gyro; crashes and visual bugs are expected.",
           "source": {
             "name": "decomps.net",
             "url": "https://decomps.net/news/totk-recomp-a-static-recompilation-of-zelda-tears-of-the-kingdom-for-w-Kuz9jfRRgm"
