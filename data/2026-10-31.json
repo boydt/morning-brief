@@ -12,7 +12,7 @@
         {
           "id": "W1",
           "headline_md": "**US** approves a $2.1B sale of 500 **Patriot** missiles to **Ukraine**",
-          "summary_md": "The State Department says partners and allies pay for it, with no US funds, via donations from Canada, Germany and Norway plus EU-backed loans; Zelenskyy thanked the US but warned delivery could take years.",
+          "summary_md": "The deal is funded by partners and allies, including Canada, Germany and Norway plus an EU Ukraine support loan, and Zelenskyy warned delivery could take years.",
           "source": {
             "name": "Anadolu Agency",
             "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-31-2026/4107022"
@@ -45,7 +45,7 @@
         {
           "id": "W4",
           "headline_md": "**France** braces for Halloween protests with 70,000 police",
-          "summary_md": "Mass protests are expected across the country today, with curfews in place; separately, Fitch cut France's outlook.",
+          "summary_md": "Curfews are in place and 70,000 police are deployed; separately, Fitch cut France's outlook.",
           "source": {
             "name": "Euronews",
             "url": "https://www.euronews.com/2026/10/31"
@@ -56,7 +56,7 @@
         {
           "id": "W5",
           "headline_md": "**DR Congo** Ebola death toll nears 5,000",
-          "summary_md": "Official figures show 10,274 confirmed cases and 4,992 deaths as of Oct. 28, across 67 health zones in eight provinces.",
+          "summary_md": "Official figures show 10,274 confirmed cases and 4,992 deaths as of Oct. 28.",
           "source": {
             "name": "Xinhua",
             "url": "https://english.news.cn/20261031/008e7edef7f54e9f807b91841c2a085f/c.html"
@@ -97,7 +97,7 @@
         {
           "id": "B3",
           "headline_md": "**Apple** buys AI data-engineering startup **Ascend.io**",
-          "summary_md": "The deal, disclosed under the EU's Digital Markets Act, comes ahead of Apple's earnings on Nov. 2; Ascend.io is winding down.",
+          "summary_md": "The deal was disclosed under the EU's Digital Markets Act, ahead of Apple's Nov. 2 earnings, its first under CEO John Ternus.",
           "source": {
             "name": "The Verge",
             "url": "https://www.theverge.com/tech/1023069/apple-has-acquired-ai-data-engineering-startup-ascend-io"
@@ -160,7 +160,7 @@
         {
           "id": "G4",
           "headline_md": "Games adapt to Apple's folding **iPhone Duo**",
-          "summary_md": "Playdigious has adapted **Planet of Lana**, **Don't Starve Together**, **Subnautica** and others for the new device, and **Solitaire 1380** shipped a Duo update.",
+          "summary_md": "The foldable runs iOS 27, and publisher Playdigious has adapted its titles for the new screen.",
           "source": {
             "name": "PocketGamer.biz",
             "url": "https://www.pocketgamer.biz/new-release-roundup-monster-hunter-outlanders-no-mans-sky-titanium-court-and-more/"
@@ -201,7 +201,7 @@
         {
           "id": "E3",
           "headline_md": "**God of War** (PS2) gets two native PC ports by static recompilation",
-          "summary_md": "Daniel Alves's gow-pc-port adds widescreen, up to 6x resolution and RetroAchievements, and Vnnc1's gow-native-pc hit 3.0 with faster code and older-GPU support; both build from your own USA disc.",
+          "summary_md": "Daniel Alves's gow-pc-port (Windows, experimental Linux) adds widescreen, up to 6x resolution and RetroAchievements from your own USA disc, and Vnnc1's gow-native-pc hit 3.0 with faster code and older-GPU support.",
           "source": {
             "name": "decomps.net",
             "url": "https://decomps.net/news"
@@ -212,7 +212,7 @@
         {
           "id": "E4",
           "headline_md": "**COGBox** 0.3.0 adds the first **Gears of War**, completing all four Xbox 360 games",
-          "summary_md": "Shagg's launcher of native PC recompilations now covers Gears 1 (preview), 2, 3 and Judgment, with ultrawide for the others; you need your own copies.",
+          "summary_md": "The native PC recompilation launcher now covers Gears of War 1 (as a preview), 2, 3 and Judgment.",
           "source": {
             "name": "decomps.net",
             "url": "https://decomps.net/news"
@@ -223,7 +223,7 @@
         {
           "id": "E5",
           "headline_md": "**007: Nightfire** (Xbox) and **GTA: Vice City Stories** (PS2) get native PC recomps",
-          "summary_md": "hk21x's Nightfire port adds mouse aim, ultrawide and an FOV slider, and gothamor's VCS Recomp 0.0.1 brings 60 fps-plus and widescreen to Windows and Linux; both need your own disc.",
+          "summary_md": "hk21x's Nightfire XBE Recomp adds mouse aim, ultrawide and an FOV setting, and gothamor's VCS Recomp 0.0.1 runs Vice City Stories at 60 fps-plus on Windows and Linux.",
           "source": {
             "name": "decomps.net",
             "url": "https://decomps.net/news"
@@ -234,7 +234,7 @@
         {
           "id": "E6",
           "headline_md": "**Harvest Moon** (SNES) is fully decompiled to C",
-          "summary_md": "HarvestMoonSnesDecomp rewrites all 778 routines, each checked byte for byte, and builds a native PC game from your own USA ROM.",
+          "summary_md": "HarvestMoonSnesDecomp covers all 778 routines and plays natively on PC.",
           "source": {
             "name": "decomps.net",
             "url": "https://decomps.net/news"
@@ -452,19 +452,19 @@
         },
         {
           "id": "M4",
-          "headline_md": "**Gold** sinks 3.6% to a one-year low near $3,876",
-          "summary_md": "Spot gold closed at $3,875.65 at 5 PM ET Friday (2 PM AZ) as the tech rout spread; silver fell 5.8% to $49.13.",
+          "headline_md": "**Gold** falls to a one-year low near $3,881",
+          "summary_md": "Spot gold was $3,880.97, down 3.5%, at 11:13 AM AZ Friday, and December futures settled at $3,898.90 (−3.3%); silver fell 6.5% to $49.00.",
           "source": {
-            "name": "Ausecure",
-            "url": "https://www.ausecure.com/gold-market-close-oct-30-2026/"
+            "name": "The Company Chronicle",
+            "url": "https://thecompanychronicle.com/story/gold-one-year-low-tech-liquidation-october-30-2026"
           },
           "details_md": null,
           "details_updated": null
         },
         {
           "id": "M5",
-          "headline_md": "**Bitcoin** steadies around $77,400",
-          "summary_md": "Coinbase spot was $77,418 and ether $2,244 at 5:05 AM AZ today, roughly flat after this week's drop below $78,000.",
+          "headline_md": "**Bitcoin** at about $77,400",
+          "summary_md": "Coinbase spot was $77,418 and ether $2,244 at 5:05 AM AZ today.",
           "source": {
             "name": "Coinbase",
             "url": "https://www.coinbase.com/price/bitcoin"
