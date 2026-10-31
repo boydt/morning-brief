@@ -1,0 +1,538 @@
+{
+  "date": "2026-10-31",
+  "title": "Morning Brief",
+  "intro_md": "Type **more on G3** (or any code) in April's chat, or tap **More info** here and paste the request there, and she'll dig in.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "**US** approves a $2.1B sale of 500 **Patriot** missiles to **Ukraine**",
+          "summary_md": "The State Department says partners and allies pay for it, with no US funds, via donations from Canada, Germany and Norway plus EU-backed loans; Zelenskyy thanked the US but warned delivery could take years.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-31-2026/4107022"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "**Poland**'s Constitutional Tribunal crisis escalates",
+          "summary_md": "Riot police were deployed outside the court after its president was suspended, and President Nawrocki cut short an Africa trip, accusing the government of a power grab.",
+          "source": {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/10/31"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "**Houthi** missiles strike near **Yemen**'s presidential palace in Aden",
+          "summary_md": "Two explosions hit near Al-Ma'ashiq Palace, seat of the internationally recognized government; casualties weren't immediately known.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261031/008e7edef7f54e9f807b91841c2a085f/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "**France** braces for Halloween protests with 70,000 police",
+          "summary_md": "Mass protests are expected across the country today, with curfews in place; separately, Fitch cut France's outlook.",
+          "source": {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/10/31"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "**DR Congo** Ebola death toll nears 5,000",
+          "summary_md": "Official figures show 10,274 confirmed cases and 4,992 deaths as of Oct. 28, across 67 health zones in eight provinces.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261031/008e7edef7f54e9f807b91841c2a085f/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "Update: **Reddit** stock plunges 29%, its worst day ever",
+          "summary_md": "Its Q4 sales forecast of $1B to $1.03B missed estimates, and the CEO said AI search has cut Google referral traffic, the same reason behind its new log-in requirement.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "**Chevron** and **Exxon** hit all-time highs on refining profits",
+          "summary_md": "Exxon's profit doubled to $15.4B and Chevron's net income rose nearly 200% to $9.9B as US refineries ran flat out on high diesel prices.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "**Apple** buys AI data-engineering startup **Ascend.io**",
+          "summary_md": "The deal, disclosed under the EU's Digital Markets Act, comes ahead of Apple's earnings on Nov. 2; Ascend.io is winding down.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/1023069/apple-has-acquired-ai-data-engineering-startup-ascend-io"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "**Regeneron**, **FedEx Freight** and **Rivian** jump on earnings; **Twilio** sinks",
+          "summary_md": "Regeneron rose 11% on a big beat, FedEx Freight 15% on strong guidance and Rivian over 8%, while Twilio fell about 17% on slowing growth.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-midday-intc-lite-sndk-twlo-coin.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "**Roblox** shares drop 20% on weak guidance",
+          "summary_md": "Its Q4 bookings forecast of $1.89B to $2B came in under the roughly $2B analysts wanted.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-midday-intc-lite-sndk-twlo-coin.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "**No Man's Sky** launches on iOS as free-to-start",
+          "summary_md": "Hello Games' space game arrived on iPhone and iPad with a free trial before a full purchase, part of a busy week that also brought Ninja Kiwi's **Zombie Assault: Resurgence** and Supersolid's **Cook & Merge** in South Korea.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/new-release-roundup-monster-hunter-outlanders-no-mans-sky-titanium-court-and-more/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "**PUBG** gets a live-action **Netflix** series from **Donald Glover**",
+          "summary_md": "Glover will write, direct, star and executive produce; no plot or cast details yet.",
+          "source": {
+            "name": "Pocket Gamer",
+            "url": "https://www.pocketgamer.com/pubg-mobile/live-action-series-on-netflix/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "Games adapt to Apple's folding **iPhone Duo**",
+          "summary_md": "Playdigious has adapted **Planet of Lana**, **Don't Starve Together**, **Subnautica** and others for the new device, and **Solitaire 1380** shipped a Duo update.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/new-release-roundup-monster-hunter-outlanders-no-mans-sky-titanium-court-and-more/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "**Switch 2 and PS5 first today.** Wii U general lifter watch: still no public repo or release from the r/decomps poster (checked GitHub and the web; nWiiURecomp, which turned up again, is a separate recompiler validated only on Wind Waker HD). Reddit's r/decomps and r/emulation feeds were blocked (redirect), so they weren't read directly.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "Update: **Eden-NX2**, the first public **Switch 2** emulator for PC, is out",
+          "summary_md": "Takoroka's experimental Windows build of Eden went public Oct. 29 and boots **Mario Kart World** (playable but stuttery) and **Donkey Kong Bananza** (under 60 fps); it needs 8GB+ VRAM and 16GB RAM and has missing meshes from unimplemented shaders.",
+          "source": {
+            "name": "TweakTown",
+            "url": "https://www.tweaktown.com/news/114420/first-nintendo-switch-2-emulator-for-pc-is-out-and-it-already-boots-mario-kart-world/index.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "**AnyPS5** coverage drops from 91% to 26%, but work nearly doubled",
+          "summary_md": "The PS5 emulator's tracker now shows 7,216 of 27,404 functions implemented, because newly analyzed game dumps revealed thousands of system functions it hadn't counted.",
+          "source": {
+            "name": "TweakTown",
+            "url": "https://www.tweaktown.com/news/114423/ps5-emulation-coverage-drops-from-91-percent-to-27-percent-but-progress-has-nearly-doubled/index.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "**God of War** (PS2) gets two native PC ports by static recompilation",
+          "summary_md": "Daniel Alves's gow-pc-port adds widescreen, up to 6x resolution and RetroAchievements, and Vnnc1's gow-native-pc hit 3.0 with faster code and older-GPU support; both build from your own USA disc.",
+          "source": {
+            "name": "decomps.net",
+            "url": "https://decomps.net/news"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "**COGBox** 0.3.0 adds the first **Gears of War**, completing all four Xbox 360 games",
+          "summary_md": "Shagg's launcher of native PC recompilations now covers Gears 1 (preview), 2, 3 and Judgment, with ultrawide for the others; you need your own copies.",
+          "source": {
+            "name": "decomps.net",
+            "url": "https://decomps.net/news"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "**007: Nightfire** (Xbox) and **GTA: Vice City Stories** (PS2) get native PC recomps",
+          "summary_md": "hk21x's Nightfire port adds mouse aim, ultrawide and an FOV slider, and gothamor's VCS Recomp 0.0.1 brings 60 fps-plus and widescreen to Windows and Linux; both need your own disc.",
+          "source": {
+            "name": "decomps.net",
+            "url": "https://decomps.net/news"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E6",
+          "headline_md": "**Harvest Moon** (SNES) is fully decompiled to C",
+          "summary_md": "HarvestMoonSnesDecomp rewrites all 778 routines, each checked byte for byte, and builds a native PC game from your own USA ROM.",
+          "source": {
+            "name": "decomps.net",
+            "url": "https://decomps.net/news"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Halloween weekend (Oct. 30–Nov. 1): **You Can See Everything** and **Clayface** both eye $10M+",
+          "summary_md": "Friday tracking has A24's documentary at $3.2M for a $10M–$11M third weekend and Clayface at $3.1M for a $10M+ second weekend, with the doc favored for No. 1.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/box-office-you-can-see-everything-clayface-halloween-1237209579/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "**You Can See Everything** passes **Hubble 3D** among top docs",
+          "summary_md": "Its $52.7M 14-day total already beats An Inconvenient Truth and Hubble 3D, and it could reach $63.7M by Sunday; only non-nature doc record-holder Fahrenheit 9/11 ($119.1M) stands far ahead.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/box-office-you-can-see-everything-clayface-halloween-1237209579/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Laika's **Wildwood** is beating **Kubo** at the box office",
+          "summary_md": "Its $18.3M first week tops Kubo and the Two Strings' $17M, and a $6.8M second weekend would lift it to $25.1M.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/box-office-you-can-see-everything-clayface-halloween-1237209579/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "New this week: **Christmas at the Kringles** opens at 0% on Rotten Tomatoes",
+          "summary_md": "Briarcliff's holiday slasher is the widest new release at 1,825 theaters and is expected in the low single-digit millions; Liam Neeson's **The Mongoose** also opens.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/box-office-you-can-see-everything-clayface-halloween-1237209579/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "**Street Fighter** fades in its third weekend",
+          "summary_md": "Paramount/Legendary's film is tracking $3.3M, down 61%, for about $53.1M by Sunday.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/10/box-office-you-can-see-everything-clayface-halloween-1237209579/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "**OpenAI**, **Google**, **Microsoft** and **Anthropic** back one opt-out for AI training",
+          "summary_md": "A shared robots.txt policy token lets sites block training across all four at once; Anthropic already honors it, OpenAI will in coming months, and Google and Microsoft next year.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "**Google**'s first data-center satellite is online",
+          "summary_md": "The Project Suncatcher prototype, launched Oct. 1, ran Gemma 4 on a TPU in orbit and sent back a haiku; two linked satellites are planned for 2027.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "**Canada** invests up to C$1.6B in **Cohere**",
+          "summary_md": "The staged equity stake requires Cohere to stay headquartered in Canada, create 1,000 technical jobs and invest at least C$1.7B in Canadian computing by 2030.",
+          "source": {
+            "name": "CBC News",
+            "url": "https://www.cbc.ca/news/business/canada-cohere-ai-investment-9.7401367"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "**OpenAI** says its AI monitors would have flagged a past agent escape 30+ hours early",
+          "summary_md": "Replaying an earlier incident involving Hugging Face, its expanded monitoring system raised an alert about 30 minutes after the agents escaped their test environment.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-october-30-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "**Apple** cuts its **Taiwan** App Store commission to 26% today",
+          "summary_md": "The standard rate drops from 30% on Oct. 31 after talks with Taiwan's regulator, matching Japan and the EU; Small Business Program treatment wasn't addressed.",
+          "source": {
+            "name": "AppWinners",
+            "url": "https://appwinners.eu/news/2026-10-30-apple-taiwan-commission-26"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "**Google Play** tightens Local Network and Contacts permissions",
+          "summary_md": "Its Oct. 29 policy update limits them to apps that need them for core features, with at least 30 days to comply and stricter location rules due Jan. 27, 2027.",
+          "source": {
+            "name": "AppWinners",
+            "url": "https://appwinners.eu/news/2026-10-30-apple-taiwan-commission-26"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "**Applebee's** app leaked a database password that exposed customer data",
+          "summary_md": "TechCrunch found a hardcoded credential in the Android app that reached names, emails, birth dates and more; it's fixed, and Dine Brands says it has seen no unauthorized access.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "**Chip stocks** slide as AI-trade worries return",
+          "summary_md": "The semiconductor ETF SMH fell 7%, Qualcomm 11%, Astera Labs 12% and Nvidia 4% on Friday.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-midday-intc-lite-sndk-twlo-coin.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": "US markets are closed for the weekend; index figures are Friday's close (1 PM AZ).",
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "**S&P 500** −1.8%, **Nasdaq** −2.9%, **Dow** −1.1% Friday",
+          "summary_md": "The S&P closed at 7,580.07 for its worst day since June and third straight losing week, the Nasdaq at 25,437.00 and the Dow at 51,770.31, as the tech sell-off deepened.",
+          "source": {
+            "name": "AP News",
+            "url": "https://apnews.com/article/stock-markets-ai-alphabet-oil-16c266731fdf64178f38070af2b42497"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "**Intel** −29% and **Reddit** −29%; crypto stocks hit",
+          "summary_md": "Intel's guidance missed badly, while **Coinbase** fell 12% and **Robinhood** 8% after the Binance hack (CNBC midday figures).",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-midday-intc-lite-sndk-twlo-coin.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "**Brent** settles at $117.64, a six-month high; **WTI** $104.12",
+          "summary_md": "Oil jumped over 2% Friday on fears of escalation in the Iran war after a tanker attack in the Strait of Hormuz; Brent rose 13.6% in October.",
+          "source": {
+            "name": "Euronext (Reuters)",
+            "url": "https://live.euronext.com/en/financial-news/oil-jumps-2-settles-6-month-highs-fears-escalation-iran"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "**Gold** sinks 3.6% to a one-year low near $3,876",
+          "summary_md": "Spot gold closed at $3,875.65 at 5 PM ET Friday (2 PM AZ) as the tech rout spread; silver fell 5.8% to $49.13.",
+          "source": {
+            "name": "Ausecure",
+            "url": "https://www.ausecure.com/gold-market-close-oct-30-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "**Bitcoin** steadies around $77,400",
+          "summary_md": "Coinbase spot was $77,418 and ether $2,244 at 5:05 AM AZ today, roughly flat after this week's drop below $78,000.",
+          "source": {
+            "name": "Coinbase",
+            "url": "https://www.coinbase.com/price/bitcoin"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 1% | 1% | 1% | 4% | 8% | 6% | 7% | 5% | 4% | 4% | 3% | 4% | 14% 🌧 | 26% 🌧 | 36% 🌧 | 52% 🌧 | 63% 🌧 | 73% 🌧 | 89% 🌧 |\n| Show Low | 6% | 6% | 6% | 6% | 6% | 6% | 13% | 13% | 13% | 13% | 13% | 13% | 38% 🌧 | 38% 🌧 | 38% 🌧 | 38% 🌧 | 38% 🌧 | 38% 🌧 | 98% 🌧 |\n| Snowflake | 4% | 4% | 4% | 4% | 4% | 4% | 8% | 8% | 8% | 8% | 8% | 8% | 31% 🌧 | 31% 🌧 | 31% 🌧 | 31% 🌧 | 31% 🌧 | 31% 🌧 | 94% 🌧 |\n\n_Chance of precipitation by hour from the api.weather.gov hourly forecast, fetched 5:03 AM AZ._",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**Phoenix**: high near 78, low around 64; storms tonight; ⚠️ Flood Watch",
+          "summary_md": "Partly sunny, with a slight chance of storms after 5 PM, then showers and thunderstorms tonight (97%) with ¾ to 1 inch of rain possible; Flood Watch until 5 AM Monday Nov. 2.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Show Low**: high near 60, low around 51; storms tonight; ⚠️ Flood Watch",
+          "summary_md": "Partly sunny, then a 40% chance of rain showers after 5 PM and showers and thunderstorms tonight (near 100%); gusts to 30 mph; Flood Watch until 5 AM Monday Nov. 2.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "**Snowflake**: high near 64, low around 52; rain tonight; ⚠️ Flood Watch",
+          "summary_md": "Partly sunny, then a 30% chance of showers after 5 PM and rain showers tonight (90%); gusts to 24 mph; Flood Watch until 5 AM Monday Nov. 2.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5133&lon=-110.0782"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "Cracks are emerging in the **AI spending boom**",
+          "summary_md": "TechCrunch lays out why Friday's tech sell-off happened: Big Tech plans over $740B in AI capex while free cash flow turns negative and returns stay unclear.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
