@@ -1,0 +1,571 @@
+{
+  "date": "2026-11-02",
+  "title": "Morning Brief",
+  "intro_md": "Type \"more on G3\" (or any code) in April's chat, or tap More info and paste the request there, for a deep dive. US midterm elections are tomorrow, Tue Nov 3.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": "US midterm elections are tomorrow, Tue Nov 3.",
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Update: **Iran** says the **Strait of Hormuz** could reopen in two days if the **US** meets its conditions",
+          "summary_md": "Foreign ministry spokesman Esmaeil Baghaei cut the timeline from seven days to two and said nuclear talks could resume, while China is sending an envoy and more than 300,000 Yemenis have fled fighting.",
+          "source": {
+            "name": "AP",
+            "url": "https://apnews.com/article/mideast-news-november-2-2026-8722c8b5a9deb228e7a188d4760ea8ed"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "**Trump** reportedly prefers diplomacy with **Iran** over **Netanyahu**'s push for strikes right after the midterms",
+          "summary_md": "Citing Axios, Anadolu reports the president favors a negotiated route while Israel's prime minister wants military action soon after Tuesday's vote.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "**Bulgaria**: **Iliana Yotova** wins the presidential runoff",
+          "summary_md": "Yotova beat Andrey Gyurov by roughly 57% to 40% in early counts (an Alpha Research exit poll had 52.5% to 43.4%).",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261102/19ee1e72fda646189d9777073aeba519/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Update: the **Oleshky** aid ceasefire in occupied **Ukraine** ends, and **Russia** resumes strikes on **Kherson**",
+          "summary_md": "Anadolu says the truce ended with no violations, and Euronews reports Russian attacks on Kherson resumed afterward.",
+          "source": {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/11/02"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "Emergency alert apps in **Russia** and **Ukraine** hacked to push fake radiation warnings",
+          "summary_md": "Anadolu, citing the BBC, says hackers sent false radiation alerts through emergency warning apps in both countries.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W6",
+          "headline_md": "**Germany**: more than 200 arrested after **Gen Z** protests",
+          "summary_md": "Police detained over 200 people after the youth-led demonstrations turned confrontational, Anadolu reports.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "**SpaceX** is in talks to buy **EchoStar**'s **Boost Mobile** or use its network",
+          "summary_md": "The Washington Post reports the deal would give Elon Musk a way into US wireless (Boost had 7.38M subscribers). EchoStar rose 3.4% premarket and T-Mobile fell 2%.",
+          "source": {
+            "name": "Reuters via Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/spacex-in-talks-to-buy-boost-mobile-or-use-its-network-washington-post-reports-4990666"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "**BP** closes the sale of 65% of **Castrol** to **Stonepeak**, and a **Blackstone**-led group buys into **LNG Canada**",
+          "summary_md": "BP gets about $6B after tax for debt reduction, and the Blackstone group is buying Mitsubishi's LNG Canada stake (about $3.1B according to Bloomberg).",
+          "source": {
+            "name": "Reuters via Boursorama",
+            "url": "https://www.boursorama.com/bourse/actualites/offres-du-jour-fusions-et-acquisitions-f4d812e205f513c7e108b8aa6c741469"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "**Baker Hughes** closes the roughly $1.45B sale of **Waygate Technologies** to **Hexagon**",
+          "summary_md": "The oilfield-services company completed the sale of its industrial inspection unit.",
+          "source": {
+            "name": "Baker Hughes",
+            "url": "https://investors.bakerhughes.com/news/press-releases/news-details/2026/Baker-Hughes-Closes-Sale-of-Waygate-Technologies-to-Hexagon/default.aspx"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "**Ryanair**'s first-half profit falls 15% as it faces a €2B jump in fuel costs",
+          "summary_md": "Europe's biggest budget airline says higher oil prices tied to the Gulf war hit its profit.",
+          "source": {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/11/02"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B5",
+          "headline_md": "**Apple** reports after the bell, **John Ternus**'s first earnings call as CEO",
+          "summary_md": "Palantir, Vertex, Marriott and Roku also report today, and the ISM manufacturing index comes out this morning.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://sg.finance.yahoo.com/news/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "**Sensor Tower**: **South Korean** mobile game downloads are down 28% in five years, but revenue per download hit a record",
+          "summary_md": "Downloads fell from about 540M (2021) to 390M (2026) while in-app revenue held near $5B a year. Puzzle games grew to 32% of downloads, and merge games' revenue jumped 94%.",
+          "source": {
+            "name": "ChosunBiz",
+            "url": "https://www.chosun.com/english/industry-en/2026/11/02/CKPMCUFXZ5BAVPDE6XR3TW7P5E/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "Has **Ubisoft** quietly killed the mobile **Assassin's Creed Jade**?",
+          "summary_md": "Ubisoft left the Tencent-built mobile game out of its latest Assassin's Creed franchise update, and Mobilegamer.biz asks whether it has been cancelled. There's no confirmation either way.",
+          "source": {
+            "name": "Mobilegamer.biz",
+            "url": "https://mobilegamer.biz/has-ubisoft-quietly-killed-tencent-collab-assassins-creed-jade/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "**Phantom Blade Zero** passes 4 million sales in 72 hours",
+          "summary_md": "S-Game's wuxia action RPG launched Oct 29 on PS5 and PC and peaked above 431,000 concurrent players on Steam.",
+          "source": {
+            "name": "Loot's Gaming Roundup",
+            "url": "https://loot-gaming-roundup.vercel.app/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "**Yakuza** creator **Toshihiro Nagoshi**'s **NetEase**-backed studio is dissolved",
+          "summary_md": "Nagoshi Studio was formally dissolved on Oct 31, according to Japan's government gazette. It had announced the action game Gang of Dragon in December 2025.",
+          "source": {
+            "name": "Loot's Gaming Roundup",
+            "url": "https://loot-gaming-roundup.vercel.app/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G5",
+          "headline_md": "**Forza** co-creator **Dan Greenawalt** is reportedly retiring from **Microsoft**",
+          "summary_md": "According to The Verge, the Turn 10 head is leaving after nearly 27 years as Microsoft merges Turn 10 into Playground Games.",
+          "source": {
+            "name": "Loot's Gaming Roundup",
+            "url": "https://loot-gaming-roundup.vercel.app/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "**Wii U lifter watch:** no public repo or release from the r/decomps poster yet. GitHub search found only small unrelated experiments: brandraft-exp/wiiu-recomp (1★), RPX2PC (0★), and the separate nWiiURecomp. Reddit was readable today: r/decomps' /new RSS loaded, with nothing about the lifter through 4:36 AM AZ.\n\nOther watch items: **AnyPS5** is at 26.12% total (9,252/35,416; libc 99%, libkernel 93%, AGC 98%). **KytyPS5** only had routine nightlies. **LASRecomp** is still on beta/test builds and not yet stable. **Kirikae** has nothing newer than v0.1.2 (Oct 24). **flossbud WWHDRecomp** has no releases. **RE4 (GameCube)** has no PC recomp; the only hit was a 0★ PS2-based Android experiment. Native-Switch port: **SwitchWakerHD** 1.0.0 is out.\n\n⚠️ An r/decomps user reports antivirus Trojan alerts after installing **Recompstore/Recomp Launcher**. This is unverified, and it's not Quiver Launcher.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "Update: **Eglantine** (**Switch 2** emulator for PC) gets **Fire Emblem: Fortune's Weave** rendering and big **Mario Kart World** fixes",
+          "summary_md": "Build 121 gets Fortune's Weave through NVN setup, with its 3D scenes, sky, gauges and movies rendering at the intended 30 fps. Build 129 (1:25 AM AZ) cuts MKW's Linux memory peak from 23.1 to 15.9 GB, removes ASTC stalls and fixes a crash, and fixes Splatoon Raiders on AMD.",
+          "source": {
+            "name": "GitHub (Eglantine)",
+            "url": "https://github.com/Djihads80/Eglantine/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "**Pokémon Pokopia** (**Switch 2**) runs natively on Apple Silicon Macs and iPhone via **pokopia-native**",
+          "summary_md": "xFractals' tool builds a native Mac and iPhone app from your own dump, with Metal graphics and 30 fps on iPhone. There's no Windows build, but the author also published shader fixes for the Eden-NS2 PC emulator fork.",
+          "source": {
+            "name": "GitHub (pokopia-native)",
+            "url": "https://github.com/xFractals/pokopia-native"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "**Savage Wind** Alpha 4: the **Breath of the Wild** PC recomp adds both DLCs and up to 55% more fps",
+          "summary_md": "The Switch-based static recomp for Windows, Linux and Steam Deck adds The Master Trials and The Champions' Ballad, plus HDR10, TAA, draw distance and full mouse support. It hits 72–105 fps at 1440p on an RTX 3060 and is still an alpha.",
+          "source": {
+            "name": "decomps.net",
+            "url": "https://decomps.net/news/savage-wind-alpha-4-adds-the-breath-of-the-wild-dlc-and-up-to-55-more-TPeGBuQvHU"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "Update: the **Tomodachi Life: Living the Dream** PC recomp hits 1.0.0",
+          "summary_md": "The Windows installer builds the game from your own dump and keys (about 40 minutes the first time), with 60 fps, up to 4K, 21:9 widescreen, mouse support and mod folders.",
+          "source": {
+            "name": "r/decomps",
+            "url": "https://www.reddit.com/r/decomps/comments/1xls362/tomodachi_life_living_the_dream_pc_recomp_100_out/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "**Wind Waker HD Recomp** v0.5.0 brings far fewer stutters and smoother frame interpolation",
+          "summary_md": "The Oct 29 release adds an in-game settings menu, 40 fps without judder, interpolation that no longer changes gameplay, and HDR on Linux. A new devel build landed this morning (4:19 AM AZ). There's no true-60 or 1.0 yet.",
+          "source": {
+            "name": "GitHub (ZeldaWWHDRecomp)",
+            "url": "https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E6",
+          "headline_md": "**Pokémon Legends: Arceus** gets an amateur recomp open for testing",
+          "summary_md": "The author says the build-it-yourself project uses LASRecomp's framework and is experimental, with bugs and performance issues.",
+          "source": {
+            "name": "r/decomps",
+            "url": "https://www.reddit.com/r/decomps/comments/1xlsbw9/pok%C3%A9mon_legends_arceus_amateur_recompilation/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Update: Halloween weekend actuals: **You Can See Everything** $10.6M, but **Wildwood** drops to $2.4M",
+          "summary_md": "Box Office Mojo now lists Laika's Wildwood at $2.41M (−80%, $20.8M total), far below Sunday's ~$7.5M estimate. Clayface is still listed as an estimate at $10.4M.",
+          "source": {
+            "name": "Box Office Mojo",
+            "url": "https://www.boxofficemojo.com/weekend/2026W44/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Update: **Godzilla Minus Zero** opens Friday with 92% on **Rotten Tomatoes**",
+          "summary_md": "It has 92% from 52 reviews. Critics praise the effects, though some say it keeps Godzilla off screen too long.",
+          "source": {
+            "name": "Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/godzilla_minus_zero"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Nov 6 openers beyond **Godzilla**: **Jimmy** and **Wild Horse Nine** at about $3M each, **Drummer Boy** at $2.5M",
+          "summary_md": "Box Office Theory's forecast has Godzilla Minus Zero at $29M and The Cat in the Hat at $21M, with I Play Rocky opening limited at about $500K.",
+          "source": {
+            "name": "Box Office Theory",
+            "url": "https://boxofficetheory.com/box-office-tracking-forecasts-hunger-games-sunrise-on-the-reaping-violent-night-2/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "Director **Michael Mann** suffers a minor accidental, self-inflicted gunshot wound",
+          "summary_md": "Anadolu reports the Heat director's injury is minor.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "**OpenAI** will make **ChatGPT** and **Codex** share one usage allowance starting in December",
+          "summary_md": "Heavier tasks in both will draw from one token-based pool (ordinary Instant chats won't count), and Plus, Pro and Business users will see their remaining balance in Settings.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-2-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "**OpenAI** signs **Abu Dhabi** deals with **ADNOC**, **G42**, **Mubadala** and the government",
+          "summary_md": "Sam Altman's agreements cover energy, investment analysis and government AI, as OpenAI seeks a $20B round co-led by UAE investors.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "Update: **Anthropic** confirms **Claude Code** now steers **Opus 5.5** away from recreating specific existing games",
+          "summary_md": "Original and genre games are still allowed. Reported tests show it still helps with decompilation and static recompilation work.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-2-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "**Apple Intelligence** comes to **China** with **Alibaba**'s **Qwen**, with beta testing starting Nov 4",
+          "summary_md": "The iOS 27.3 developer beta starts Wednesday, with a December rollout. The new Siri isn't part of this phase.",
+          "source": {
+            "name": "TechNode",
+            "url": "https://technode.com/2026/11/02/apple-confirms-qwen-integration-for-china-ai-rollout-with-beta-testing-starting-november-4/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A5",
+          "headline_md": "**Salesforce** buys military-logistics software maker **Rune Technologies**",
+          "summary_md": "Later reports put the deal at about $375M, a figure Salesforce didn't disclose.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-2-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "**Meta**'s ad revenue grew 26% last quarter, versus 12% for **Google** Search",
+          "summary_md": "Both grew, but Meta's AI-assisted targeting is widening the gap. AWS also grew 39.3%.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-2-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "**Apple** App Store: **Volume Purchasing** for subscriptions is live, and **Group Purchases** reach sandbox this month",
+          "summary_md": "Schools and businesses can now buy subscription seats (on by default for StoreKit 2 apps), and a single subscriber will be able to buy seats for others this winter.",
+          "source": {
+            "name": "AppsOps",
+            "url": "https://appsops.store/news/week-in-app-store-ops-november-1-2026"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "**Ford** launches a \"privacy promise\" for connected-car data",
+          "summary_md": "A new site explains what Ford collects and how to opt out. Ford says it doesn't share driving data with data brokers or use it for targeted ads.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "A cyberattack hits **Belgian** supermarket fridges",
+          "summary_md": "Euronews reports hackers targeted refrigeration systems at Belgian supermarkets.",
+          "source": {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/2026/11/02"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "**US futures** up about 0.6%; **Nasdaq 100** +0.84% (4:10 AM AZ)",
+          "summary_md": "S&P futures were at 7,623 and Dow futures at 52,217. By 4:53 AM AZ CNBC had Dow futures up 310 points.",
+          "source": {
+            "name": "Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-high-after-bruising-oct-earnings-elections-in-focus-4989789"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Premarket movers: **Inovio** +230%, **Perion** +29.5%, **Kosmos** −13.6%, **Okta** +3.6%",
+          "summary_md": "Inovio rose on FDA accelerated approval of Voceryq, Perion on Affle's $11.70-a-share buyout, Kosmos fell on its Q3 results, and Okta rose on joining the S&P 500 (Okta quote 3:15 AM AZ via Reuters).",
+          "source": {
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com/trading-ideas/movers/26/11/62769714/why-inovio-pharmaceuticals-shares-are-trading-higher-by-over-230-here-are-20-stocks-moving-premarket"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "**Bitcoin** near $78,000 (2:18 AM AZ)",
+          "summary_md": "Mostly flat from the weekend.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://sg.finance.yahoo.com/news/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "**Oil** slides: **Brent** −4.5% to $108.38, **WTI** −4% to $99.31 (4:53 AM AZ)",
+          "summary_md": "Iran's Hormuz reopening offer is weighing on crude.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "**Gold** +0.6% to $3,899.29 an ounce (4:01 AM AZ)",
+          "summary_md": "It's bouncing off Friday's one-year low; December futures are at $3,908.70.",
+          "source": {
+            "name": "Reuters via MarketScreener",
+            "url": "https://ca.marketscreener.com/news/gold-rebounds-from-one-year-low-as-oil-slides-ahead-of-us-midterms-ce785fd8de8fff24"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Show Low | 1% | 1% | 1% | 1% | 1% | 1% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\n_Chance of precipitation by hour from the api.weather.gov hourly forecast, fetched 5:02 AM AZ._",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**Phoenix**: sunny, high near 72, low around 56; 0% rain; no alerts",
+          "summary_md": "Light west wind 0 to 5 mph, partly cloudy tonight, with no rain expected (0% every hour).",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Show Low**: sunny, high near 55, low around 31; 0–1% rain; ⚠️ Flood Warning until 6 AM AZ",
+          "summary_md": "West wind 7 to 13 mph gusting to 20, mostly clear tonight, with no measurable rain expected. NWS Flagstaff's leftover Flood Warning from last night's rain expires at 6 AM AZ.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "**Snowflake**: sunny, high near 57, low around 30; 0% rain; ⚠️ Flood Warning until 7 AM AZ",
+          "summary_md": "West wind 6 to 12 mph gusting to 21, with fog possible after 10 PM and no rain expected. The NWS Flagstaff Flood Warning expires at 7 AM AZ.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0779"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "Inside **Elon Musk**'s plan to break into the $235B **wireless** industry",
+          "summary_md": "The Washington Post explains how Musk pressed Verizon and other carriers for network access before SpaceX's Boost Mobile talks. It's the backstory to today's biggest business deal story.",
+          "source": {
+            "name": "The Washington Post",
+            "url": "https://www.washingtonpost.com/technology/2026/11/02/inside-elon-musks-plan-upend-wireless-phone-industry/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
