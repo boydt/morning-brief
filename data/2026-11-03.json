@@ -1,0 +1,571 @@
+{
+  "date": "2026-11-03",
+  "title": "Morning Brief",
+  "intro_md": "Type \"more on G3\" (or any code) in April's chat, or tap More info and paste the request there, for a deep dive. US midterm Election Day is today, Tue Nov 3.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": "US midterm Election Day is today, Tue Nov 3. No races called yet in the trackers checked this morning.",
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "**US midterms:** Election Day opens with **57M+** early votes; House and Senate control at stake",
+          "summary_md": "Polls opened Tuesday after more than 57 million Americans already voted early (University of Florida Voting Lab). All 435 House seats and 35 Senate seats are on the ballot; Republicans hold a razor-thin House edge and 53–47 in the Senate.",
+          "source": {
+            "name": "CBS News",
+            "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Update: **US** strikes **Iran’s Qeshm Island** as midterm voting begins",
+          "summary_md": "US officials told CBS/BBC the limited defensive strikes responded to IRGC fire on a US aircraft. Iranian media reported explosions on Qeshm; Iran said it downed US drones. Talks via Qatar and Pakistan continued.",
+          "source": {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/articles/cx240mrm3g8vo"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "**Ukraine:** 18 killed, 27 missing in Russian strike on **Zaporizhzhia** aid school",
+          "summary_md": "Ukrainian authorities said Monday that 18 were killed and 27 missing in a Russian attack on Komyshuvakha. President Zelenskyy wrote that 10 aerial bombs struck a school where people were receiving humanitarian aid.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261103/9e33353149e54a98ad0f3f5f26782736/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "**Belgium:** PM **Bart De Wever** tenders resignation over budget impasse",
+          "summary_md": "De Wever (N-VA) offered resignation Monday after the five-party coalition deadlocked on the budget. King Philippe deferred a decision and will consult coalition leaders.",
+          "source": {
+            "name": "VRT NWS",
+            "url": "https://www.vrt.be/vrtnws/en/2026/11/02/prime-minister-de-wever-offers-resignation-to-king-filip/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "**Supreme Court** rejects Trump bid to quarantine California mail ballots",
+          "summary_md": "In a one-line unsigned order with no noted dissents, the Court denied the Justice Department’s request for an injunction requiring California officials to separate about 20,000 mail ballots from a \"likely noncitizen\" list.",
+          "source": {
+            "name": "CBS News",
+            "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W6",
+          "headline_md": "Election Day weather: floods force **Florida** polling moves; storms hit South",
+          "summary_md": "Officials moved at least 17 polling locations in five Florida counties after intense rainfall and flash flooding. A tornado watch covered parts of Oklahoma, Texas, and Arkansas overnight.",
+          "source": {
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com/politics/2026-election/live-blog/midterm-election-results-2026-news-trump-live-updates-rcna605763"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "**Apple** beats on Q4 sales; **margin guide** sinks stock in Ternus’s first report",
+          "summary_md": "Fiscal Q4 revenue was $114.5B (+12% YoY) and diluted EPS $2.10 (+14%), beating estimates. December-quarter gross-margin guide of 45–46% (on memory costs) sent shares down about 3% after hours / ~3.8% premarket.",
+          "source": {
+            "name": "Apple Newsroom",
+            "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "**Aramco** Q3 profit up **34%** to $36.25B amid war-driven refining margins",
+          "summary_md": "Net income rose to $36.25B from about $26.9B a year earlier despite Hormuz and infrastructure attacks; CNBC cited adjusted net income of $31.2B (+9%) and downstream adjusted earnings of $10.3B (+234%).",
+          "source": {
+            "name": "The National",
+            "url": "https://www.thenationalnews.com/business/energy/2026/11/03/aramco-posts-34-jump-in-q3-profit-despite-attacks-on-energy-infrastructure/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "**Nvidia** tells cloud partners: cap China at under **half** of new deals — FT",
+          "summary_md": "Citing five people, the FT said Nvidia verbally instructed data-center partners that new cloud contracts must sell at least 51% of services outside China; the guidance was not described as a written policy.",
+          "source": {
+            "name": "Investing.com (FT)",
+            "url": "https://www.investing.com/news/stock-market-news/nvidia-tells-data-center-partners-to-limit-china-sales-ft-4993618"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "**Palantir** beats, but stock drops on slower **US commercial** bookings",
+          "summary_md": "Revenue nearly doubled and topped $2B for the first time, with US commercial revenue surpassing US government, but shares slumped roughly 7–8% premarket as US commercial booking growth slowed.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B5",
+          "headline_md": "**RBA** hikes to **4.85%**; Asia tech shares slide before US midterms",
+          "summary_md": "Australia’s Reserve Bank raised its cash rate 25 bp to 4.85% in a 6–3 vote. MSCI Asia ex-Japan fell 1.4%, with South Korea down as much as 4.1% and Taiwan 3.6%.",
+          "source": {
+            "name": "Reuters via Investing.com",
+            "url": "https://www.investing.com/news/economy-news/morning-bid-so-much-for-a-quiet-day-before-the-us-midterms-4993520"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "**Top Hat** Fall Showcase: **Spooky Tales** publish deal; **Ova Magica** consoles Nov 10",
+          "summary_md": "Top Hat will publish Liminal Road’s retro horror anthology Spooky Tales on Steam PC, and Ova Magica hits Switch, Switch 2, PlayStation and Xbox on Nov 10, with more 2027 indie titles lined up.",
+          "source": {
+            "name": "Gematsu",
+            "url": "https://www.gematsu.com/2026/11/retro-inspired-horror-anthology-spooky-tales-to-be-published-by-top-hat-studios"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "**John Romero** confirms Xbox-canceled **Romero Games** shooter has a new (unnamed) publisher",
+          "summary_md": "After Xbox canceled the AAA shooter and the studio shrank, then rebuilt to about 15 people, Romero told VGC they closed a deal with someone he knew but can’t name yet; the game is a full redesign reusing prior art and code.",
+          "source": {
+            "name": "Polygon",
+            "url": "https://www.polygon.com/john-romero-game-new-publisher/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "Nov 3 iOS soft launches: **Timber Jam: Tree Sort**, **Popli: Drop & Merge**, **PortalPang Defense**",
+          "summary_md": "Scaling Radar’s Nov 3 games list flags fresh iOS drops including MOBIRIX’s PortalPang Defense, Timber Jam: Tree Sort, and Popli: Drop & Merge—new-release tracking, not chart claims.",
+          "source": {
+            "name": "Scaling Radar",
+            "url": "https://scalingradar.com/launches/?kind=games"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "SNAPP Attack Nov 2–8 iOS roundup: **Aeterna Loop**, **ASTRA TACTICS**, **Parryfall**, more",
+          "summary_md": "SNAPP’s week roundup frames a big post-Halloween App Store push including Aeterna Loop, ASTRA TACTICS, RAYNE: Covert Ops, Parryfall, War Pigeon, and many more before the App Store freeze.",
+          "source": {
+            "name": "SNAPP Attack",
+            "url": "https://snappattack.com/2026/11/02/this-weeks-ios-roundup-november-02-to-08/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "**Wii U lifter watch:** the early-Oct r/decomps PowerPC→x86 lifter (Mario 3D World / MK8 / NSMBU / Splatoon / BOTW claim) still has no newly public “when stable” GitHub drop. Separate experiments (nWiiURecomp, CafeRecomp, DolRecomp paths) are not that release. Reddit r/decomps and r/emulation RSS timed out this run; items below are from GitHub/aggregators and news sites.\n\n**Watch notes:** KytyPS5 only had a routine save-mount fix (not a milestone). No verified 48h milestones for Kirikae, AnyPS5 Astro Bot, or a Resident Evil 4 GameCube→PC recomp. LASRecomp is still not stable (Arc test build only).",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "First public **Switch 2** emulator build (**Eden-NX2**) plays **Mario Kart World** and **Donkey Kong Bananza** (rough)",
+          "summary_md": "Takoroka’s pre-release Eden fork runs commercial Switch 2 games on Windows PC—playable-ish, not polished. Coverage cites mesh/shader errors, Mario Kart World stuttering, and DK Bananza struggling to hit 60 fps on strong hardware (own dumps required).",
+          "source": {
+            "name": "TheGamer",
+            "url": "https://www.thegamer.com/nintendo-switch-2-emulator-available-now-mario-kart-world/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "Jailbroken **PS5** homebrew: **Hydroid** runs Android games; **EglantinePS5** brings experimental **Switch 2** emu",
+          "summary_md": "Hydroid runs native 64-bit Android titles on jailbroken PS5 (FW ≤13.60); EglantinePS5 is an early Eden/Eglantine port with experimental Switch 2 support, DualSense features, and mixed early game reports.",
+          "source": {
+            "name": "Android Authority",
+            "url": "https://www.androidauthority.com/ps5-run-android-switch-2-pc-games-3730686/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "**MediEvil** (PS1) static recomp reaches version **1.0** (AI-free)",
+          "summary_md": "flaffymg and DerpPrincess’s RecompOne-based MediEvil recomp hits 1.0 with stability, audio/FMV, shader, and mod-hub upgrades for Windows/macOS/Linux (own disc). AllRecomps also lists MediEvilRecomp v1.0.3 dated Nov 2.",
+          "source": {
+            "name": "Time Extension",
+            "url": "https://www.timeextension.com/news/2026/11/we-have-the-skills-to-bring-love-to-these-old-games-after-last-months-beta-medievils-ai-free-recomp-hits-version-1-0"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "Update: **Wind Waker HD** PC recomp drops devel-build d2c6f97 (pause-menu, GameCube prompts, Android half-speed fix)",
+          "summary_md": "ZeldaWWHDRecomp posted a Nov 2 development build (not a formal release) with QoL and platform fixes on top of v0.5.0; latest stable remains v0.5.0 (Oct 29). Needs your own Wii U dump.",
+          "source": {
+            "name": "newreleases.io",
+            "url": "https://newreleases.io/project/github/ZeldaWWHDRecomp/ZeldaWWHDRecomp/release/devel-build"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "**LASRecomp** ships test-462-arc-4 diagnostics for Intel Arc “device lost” leaving Mysterious Woods",
+          "summary_md": "The Arc-focused pre-release adds lighting diagnostics for issue #462; general users should stay on latest beta. Still not stable without crashes. AllRecomps still lists general beta_5.4 (Oct 29).",
+          "source": {
+            "name": "newreleases.io",
+            "url": "https://newreleases.io/project/github/peiikai/LASRecomp/release/test-462-arc-4"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E6",
+          "headline_md": "AllRecomps flood Nov 2–3: **Midtown Madness 3**, Xbox 360 **F.E.A.R.**, **God of War** (2005) PS2, **Kirby Air Ride**, more",
+          "summary_md": "Notable PC-oriented detections include Midtown Madness 3 v2.3.2, F.E.A.R. Xbox 360 Recompiled v1.6.0, God of War (2005) launcher-v0.2.8, and Kirby Air Ride v1.3.1. One-line Switch-hardware: SwitchWakerHD v1.1.0; Black Ops II Requiem NX 0.3.1.",
+          "source": {
+            "name": "AllRecomps",
+            "url": "https://allrecomps.com/updates/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Update: Halloween weekend finals — **You Can See Everything** $11.45M narrowly tops **Clayface** $11.00M; **Wildwood** $8.95M",
+          "summary_md": "Domestic Weekend 44 (Oct 30–Nov 1): You Can See Everything $11,445,629; Clayface $11,002,116; Wildwood $8,949,324. The Numbers total reporting movies ~$62.0M. Earlier Rentrak estimates were preliminary.",
+          "source": {
+            "name": "Box Office Mojo",
+            "url": "https://www.boxofficemojo.com/weekend/2026W44/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Halloween weekend ticket sales down ~42% WoW; 2026 YTD still ~+20% vs 2025",
+          "summary_md": "citybiz (Rentrak/Seeking Alpha, preliminary) frames ~$55.7M weekend (−42.1% WoW) but ahead of 2025’s comparable weekend; domestic YTD ~$8.46B (+20.1%).",
+          "source": {
+            "name": "citybiz",
+            "url": "https://www.citybiz.co/article/927371/you-can-see-everything-leads-halloween-box-office-as-weekend-ticket-sales-fall-42/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "**Wildwood** 99%/97% RT; **You Can See Everything** 96%/96%; **Clayface** 77%/94%",
+          "summary_md": "Rotten Tomatoes: LAIKA’s Wildwood 99% Tomatometer (164) / 97% Popcornmeter; A24’s You Can See Everything 96%/96%; DCU Clayface 77%/94%.",
+          "source": {
+            "name": "Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/wildwood"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "Nov 6 wide: **The Cat in the Hat**, **Godzilla Minus Zero** (93% RT), **Wild Horse Nine** (93% RT), **Jimmy**, **Drummer Boy**",
+          "summary_md": "Friday’s slate includes Bill Hader’s Cat in the Hat; Takashi Yamazaki’s Godzilla Minus Zero (93% early Tomatometer, 56 reviews); and Martin McDonagh’s Wild Horse Nine (93%/120).",
+          "source": {
+            "name": "TheMovieBox",
+            "url": "https://www.themoviebox.net/p/whats-coming-out-this-week-nov2-nov8-2026"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "**The Only Living Pickpocket in New York** explodes +1,255% to $1.88M on wide expansion",
+          "summary_md": "Sony’s film jumped to $1,878,274 (+1,254.6%) on 1,112 theaters (was ~6), cume $2,082,194 in week 3—a standout expansion play in a soft frame.",
+          "source": {
+            "name": "Box Office Mojo",
+            "url": "https://www.boxofficemojo.com/weekend/2026W44/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V6",
+          "headline_md": "Hits VOD/digital today: **Resident Evil**, **Primetime**, **Sense and Sensibility**, **Bad Apples**",
+          "summary_md": "Nov 3 digital includes Zach Cregger’s Resident Evil, Robert Pattinson’s Primetime, Daisy Edgar-Jones’s Sense and Sensibility, and Saoirse Ronan’s Bad Apples.",
+          "source": {
+            "name": "TheMovieBox",
+            "url": "https://www.themoviebox.net/p/whats-coming-out-this-week-nov2-nov8-2026"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "**Anthropic** discloses **$895.4B** compute commitments, ~**$17B** Q3 revenue ahead of IPO",
+          "summary_md": "Amended SEC filing shows AI infrastructure commitments of $895.4B as of Sept 30, with Q3 revenue $16.962B (+46.7% QoQ) and an operating loss of $567M after a profitable Q2.",
+          "source": {
+            "name": "Seoul Economic Daily",
+            "url": "https://en.sedaily.com/international/2026/11/03/anthropic-locks-in-895-billion-in-computing-deals-broadcom"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "**OpenAI** launches **Grid Protectors** program so AI campuses can cut power when grids strain",
+          "summary_md": "Working with utilities and regulators, OpenAI cites a Georgia Power model that can provide up to 1,000 MW of flexible demand response (~700,000 households of average demand).",
+          "source": {
+            "name": "OpenAI",
+            "url": "https://openai.com/index/grid-protectors-program/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "**Anthropic**, **OpenAI**, **Google**, **Microsoft** to support common robots.txt AI-scrape opt-out",
+          "summary_md": "Major AI labs backed a shared robots.txt signal so publishers can express one preference to multiple crawlers; Anthropic already supporting, OpenAI in coming months, Google and Microsoft next year.",
+          "source": {
+            "name": "Nieman Journalism Lab",
+            "url": "https://www.niemanlab.org/2026/11/anthropic-openai-google-and-microsoft-will-make-it-easier-for-publishers-to-opt-out-of-being-scraped/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "**Flower Labs** releases **Endeavor 1.1**; **Meituan** ships **LongCat-2.5** multimodal MoE",
+          "summary_md": "Endeavor 1.1 claims stronger reasoning/coding vs 1.0 plus multimodal inputs and EU/on-prem options. Meituan’s LongCat-2.5 is a 1.6T-parameter MoE (~48B active) for agentic multimodal coding.",
+          "source": {
+            "name": "Flower Labs",
+            "url": "https://flower.ai/blog/2026-11-03-introducing-endeavor-1.1"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "**Apple** advertising hits an all-time revenue record; Services **$31.573B** (+10%)",
+          "summary_md": "Fiscal Q4 Services were $31.573B (+9.8% YoY); CFO Parekh said advertising set an all-time record (no dollar breakout). Maps ads are live in the US and Canada.",
+          "source": {
+            "name": "PPC Land",
+            "url": "https://ppc.land/apples-ad-business-sets-all-time-record-as-services-gains-10-to-31-6bn/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "**Apple App Store:** dating & AI romantic companions get minimum **18+** (declarations start Nov 16)",
+          "summary_md": "From Nov 16, App Store Connect adds Dating and Relationships descriptors that force 18+ for real-person dating and romantic/sexual virtual companions; all apps must complete declarations by Jan 12, 2027.",
+          "source": {
+            "name": "Apple Developer News",
+            "url": "https://developer.apple.com/news/?id=yxkh08us"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "**Google Play** policy update: tighter permissions, Families Self-Certified Ads SDKs reopen, Japan payment deadline Dec 1",
+          "summary_md": "Oct 29 packet restricts Local Network and Manage Contacts permissions, reopens Families Self-Certified Ads SDKs to new applicants, and adds Nov trader-status and Dec 1 Japan payment deadlines.",
+          "source": {
+            "name": "Google Play Console Help",
+            "url": "https://support.google.com/googleplay/android-developer/answer/18100766?hl=en"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "**Marvell** to buy **Lumentum** in all-stock AI optics deal; **Oracle** files ~$20B raise for AI data centers",
+          "summary_md": "Each Lumentum share converts to 4.5 Marvell shares (expected close 1H 2028); CNBC-implied EV was cited around $115B. Separately, Oracle is selling $10B common stock plus $10B senior notes for AI infrastructure.",
+          "source": {
+            "name": "Saazora / CNBC",
+            "url": "https://saazora.com/blog/ai-saas-news-today-november-3-2026.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Premarket (~**4:51 AM AZ**): **Dow** futures −0.83%; **Nasdaq-100** +0.26%",
+          "summary_md": "As of ~4:51 AM AZ: Dow Jones futures 51,701 (−432 / −0.83%); S&P 500 futures 7,562.50 (−12 / −0.16%); Nasdaq 100 futures 28,200.50 (+73 / +0.26%).",
+          "source": {
+            "name": "Markets Insider",
+            "url": "https://markets.businessinsider.com/premarket"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Oil (**~1:51 AM AZ**, CNBC): **WTI** $97.97 (+1.57%); **Brent** $106.48 (+1.66%)",
+          "summary_md": "WTI Dec futures rose 1.57% to $97.97/bbl and Brent 1.66% to $106.48 after US Qeshm strikes; a later Markets Insider print showed WTI near $98.57.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/03/us-treasury-yields-bonds.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Gold softens: spot **$3,904.69** (−1.1%) ahead of midterms",
+          "summary_md": "Spot gold fell 1.1% to $3,904.69/oz; US Dec gold futures fell 1.4% to $3,914.70 as higher oil fed inflation and rate fears.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/03/gold-eases-ahead-of-us-midterm-elections.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "**Bitcoin** ~**$76,900** (**3:28 AM AZ**); ETFs lose $399M Monday",
+          "summary_md": "BTC edged about +0.2% to ~$76,900 after a ~$76,300 low. Spot bitcoin ETFs saw $399M outflows Monday (Farside), with BlackRock IBIT −$405M.",
+          "source": {
+            "name": "CoinDesk",
+            "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "Treasuries (**~1:51 AM AZ**): **10-year** ~4.92% as midterms and oil loom",
+          "summary_md": "Around 1:51 AM AZ: 10-year yield about 4.917%, 30-year ~5.288%, 2-year ~4.596%. JOLTS due later this week; payrolls Friday.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/03/us-treasury-yields-bonds.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Show Low | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\n*Data: api.weather.gov forecastHourly probabilityOfPrecipitation (times converted to America/Phoenix). No hour named rain/snow in shortForecast. Fetched Tue Nov 3, 2026, 5:10 AM AZ. No active NWS alerts for these cities.*",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**Phoenix AZ:** sunny, high near **76°F**, low around **56°F**, PoP **0%**",
+          "summary_md": "Sunny today with a high near 76°F and overnight/this morning low around 56°F; PoP 0%. Wind NNE 0–5 mph. No active NWS alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.0740"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Show Low AZ:** sunny, high near **59°F**, low around **32°F**, PoP **0%**",
+          "summary_md": "Sunny with a high near 59°F and overnight low around 32°F; tonight low around 37°F. PoP 0%. NE wind 2–8 mph, gusts to ~16 mph. No active alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "**Snowflake AZ:** patchy fog then mostly sunny, high near **57°F**, low around **31°F**, PoP **0%**",
+          "summary_md": "Patchy fog then mostly sunny; high near 57°F, overnight low around 31°F, tonight low around 34°F. PoP 0%. NE wind 1–5 mph. No active alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0784"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "**CBS News** Election Day 2026 live updates",
+          "summary_md": "Best single dashboard for what’s on the ballot today—House math, Senate battlegrounds, the SCOTUS California order, and White House watch plans—before any races are called.",
+          "source": {
+            "name": "CBS News",
+            "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
