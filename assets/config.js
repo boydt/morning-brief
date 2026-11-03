@@ -13,5 +13,5 @@ window.MORNING_BRIEF_CONFIG = {
   // Bundled copy shipped with the site (relative path) — used if GitHub can't be reached.
   localDataPath: 'data/',
 
-  aprilChatUrl: 'grokbot://app/v1/agent?id=30d1a93b-3a8a-435f-8b71-efa1bd39e86a',
+  aprilChatUrl: 'grokbot://app/v1/agent?id=6bcde8fc-48d9-4d58-93bb-ace85f7f2870',
 };
