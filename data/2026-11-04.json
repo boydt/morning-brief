@@ -296,8 +296,8 @@
         },
         {
           "id": "V3",
-          "headline_md": "Friday Nov 6 wide: **The Cat in the Hat**, **Godzilla Minus Zero**, **Wild Horse Nine**, more",
-          "summary_md": "TheMovieBox/BOM calendar: Bill Hader’s Cat in the Hat and Takashi Yamazaki’s Godzilla Minus Zero headline; also Wild Horse Nine, Jimmy, Drummer Boy, Ramayana: Rise of a Legend among the week’s slate.",
+          "headline_md": "Friday Nov 6 wide: **The Cat in the Hat**, **Godzilla Minus Zero**, **Wild Horse Nine**, **Jimmy**, more",
+          "summary_md": "TheMovieBox: Bill Hader’s Cat in the Hat and Takashi Yamazaki’s Godzilla Minus Zero headline Fri Nov 6 wide; also Wild Horse Nine, Jimmy, Drummer Boy. Wed Nov 4 limited: The Last Temptation of Becky, Trauma or Monsters All; Ramayana Part 1 IMAX today.",
           "source": {
             "name": "TheMovieBox",
             "url": "https://www.themoviebox.net/p/whats-coming-out-this-week-nov2-nov8-2026"
@@ -307,22 +307,22 @@
         },
         {
           "id": "V4",
-          "headline_md": "Tracking: **Cat in the Hat** ~$25–45M OW range; **Godzilla Minus Zero** ~$23–35M — neck-and-neck No. 1 fight",
-          "summary_md": "Box Office Theory / Boxoffice Pro / ComicBasics tracking clusters both tentpoles in the mid-$20Ms to low-$40Ms depending on source; competition for weekend crown expected.",
+          "headline_md": "Tracking (Boxoffice Pro long-range): **Cat in the Hat** **$40–50M** OW; **Godzilla Minus Zero** **$25–35M**",
+          "summary_md": "Boxoffice Pro (Oct 9 long-range for Nov 6): Cat $40–50M domestic OW; Godzilla Minus Zero $25–35M and rising on ticket sales/Imax marketing. Note: forecast dated ~4 weeks before open.",
           "source": {
-            "name": "Box Office Theory",
-            "url": "https://boxofficetheory.com/4-week-box-office-tracking-forecasts-street-fighter-clayface-godzilla-minus-zero-cat-in-the-hat/"
+            "name": "Boxoffice Pro",
+            "url": "https://www.boxofficepro.com/long-range-forecast-monsters-make-their-way-to-the-big-screen-in-the-cat-in-the-hat-godzilla-minus-zero/"
           },
           "details_md": null,
           "details_updated": null
         },
         {
           "id": "V5",
-          "headline_md": "Wed limited: **The Last Temptation of Becky**, **Trauma or, Monsters All**, **Rammstein: Live in Mexico City**",
-          "summary_md": "BOM/TheMovieBox Nov 4 theatrical adds include those titles plus De Gaulle: Resistance; Rocky 50th anniversary returns Nov 7.",
+          "headline_md": "Wed/Fri adds: Becky sequel + Fessenden horror today; **Rocky** 50th anniversary Fri Nov 6",
+          "summary_md": "TheMovieBox: Wed Nov 4 limited The Last Temptation of Becky and Trauma or, Monsters All; Fri Nov 6 also brings Rocky 50th anniversary re-release alongside the wide slate.",
           "source": {
-            "name": "Box Office Mojo",
-            "url": "https://www.boxofficemojo.com/calendar/2026-11-04/"
+            "name": "TheMovieBox",
+            "url": "https://www.themoviebox.net/p/whats-coming-out-this-week-nov2-nov8-2026"
           },
           "details_md": null,
           "details_updated": null
