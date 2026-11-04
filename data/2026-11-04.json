@@ -1,549 +1,527 @@
 {
-  "date": "2026-11-04",
-  "title": "Morning Brief",
-  "intro_md": "Type \"more on G3\" (or any code) in April's chat, or tap More info on the brief page and paste the request here, for a deep dive. Day after the midterms: Democrats projected to control House and Senate.",
-  "sections": [
+ "date": "2026-11-04",
+ "title": "Morning Brief",
+ "intro_md": "Type \"more on G3\" (or any code) in April's chat, or tap More info and paste the request there, for a deep dive.",
+ "sections": [
+  {
+   "id": "world",
+   "title": "World",
+   "icon": "🌍",
+   "body_md": null,
+   "items": [
     {
-      "id": "world",
-      "title": "World",
-      "icon": "🌍",
-      "body_md": "US midterms overnight: major outlets project Democrats flipped both chambers — a decisive rebuke of Trump’s second-term GOP.",
-      "items": [
-        {
-          "id": "W1",
-          "headline_md": "**Democrats** win **House** and **Senate**, taking full control of Congress",
-          "summary_md": "Ballotpedia (as of ~1:30 a.m. EST results cut): Democrats pick up ≥18 House seats and 7 Senate seats for at least a ~231–141 House and ~54–44 Senate majority; seven Trump-won states flipped Senate (IA, KS, ME, NC, OH, SC, TX).",
-          "source": {
-            "name": "Ballotpedia News",
-            "url": "https://news.ballotpedia.org/2026/11/04/democrats-win-u-s-house-and-senate-majorities/"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "W2",
-          "headline_md": "**Texas** elects Democrat **James Talarico** to Senate; **Gina Hinojosa** unseats Gov. Abbott",
-          "summary_md": "Ballotpedia: Talarico beats Ken Paxton — first Democrat elected statewide in Texas since 1994 and first Democratic TX senator since 1988; Hinojosa defeats Greg Abbott — first Democratic TX governor win since Ann Richards in 1990.",
-          "source": {
-            "name": "Ballotpedia News",
-            "url": "https://news.ballotpedia.org/2026/11/04/democrats-win-u-s-house-and-senate-majorities/"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "W3",
-          "headline_md": "**South Carolina** elects Democrat **Annie Andrews**; **Michigan** elects **Abdul El-Sayed**",
-          "summary_md": "Ballotpedia: Andrews beats Darline Graham — first Democratic SC senator since 1998. Separate MI result: El-Sayed defeats Mike Rogers (~52.4%–45.6% per election tallies reported Nov 4).",
-          "source": {
-            "name": "Ballotpedia News",
-            "url": "https://news.ballotpedia.org/2026/11/04/democrats-win-u-s-house-and-senate-majorities/"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "W4",
-          "headline_md": "**Spain** transport minister **Óscar Puente** resigns after Urda crash that killed **69**",
-          "summary_md": "Puente quit Tuesday in Congress six days after the high-speed collision near Urda (Renfe into stationary Iryo); he also withdrew from Nov 29 election lists, citing two serious rail accidents in under a year.",
-          "source": {
-            "name": "BBC News",
-            "url": "https://www.bbc.com/news/articles/c6wydqd4yxdyo"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "W5",
-          "headline_md": "**Trump** blames Iran war/gas prices; Iran’s Ghalibaf calls vote “**NO TO WAR**”",
-          "summary_md": "CNBC Morning Squawk: Trump said Iran war and gasoline prices partly drove GOP losses and told FT he has no immediate plans to strike Iran; Tehran parliament speaker Mohammad Bagher Ghalibaf said Americans said “NO TO WAR.”",
-          "source": {
-            "name": "CNBC",
-            "url": "https://www.cnbc.com/2026/11/04/a-blue-wave-sends-futures-into-the-green.html"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "W6",
-          "headline_md": "**Georgia:** **Keisha Lance Bottoms** elected first Black woman U.S. governor",
-          "summary_md": "Ballotpedia: Bottoms defeats Rick Jackson — first Black woman elected governor in the U.S. and first Democrat elected Georgia governor since 1998; Dems also gain IA/OH/TX governorships for ≥27 Dem vs 20 GOP seats.",
-          "source": {
-            "name": "Ballotpedia News",
-            "url": "https://news.ballotpedia.org/2026/11/04/democrats-win-u-s-house-and-senate-majorities/"
-          },
-          "details_md": null,
-          "details_updated": null
-        }
-      ]
+     "id": "W1",
+     "headline_md": "**Democrats win the House and Senate** in a midterm wave",
+     "summary_md": "AP reports Democrats took both chambers; NBC projects at least 258 House seats and seven Senate flips (Iowa, Kansas, Maine, North Carolina, Ohio, South Carolina, Texas).",
+     "source": {
+      "name": "AP News",
+      "url": "https://apnews.com/article/midterm-election-house-senate-democrats-republicans-trump-f126e12e05b579a327b98481c0ae2226"
+     },
+     "details_md": null,
+     "details_updated": null
     },
     {
-      "id": "business",
-      "title": "Business",
-      "icon": "💼",
-      "body_md": null,
-      "items": [
-        {
-          "id": "B1",
-          "headline_md": "**CVS Health** to split into two public companies by 1H **2028**",
-          "summary_md": "CVS will separate Aetna/Caremark/Specialty/Oak Street/Signify (stays “CVS Health”) from ~9,000 pharmacies + MinuteClinic + Health100 (“CVS Pharmacy”); tax-free to shareholders intended; Joyner leads solutions co., Prem Shah leads Pharmacy.",
-          "source": {
-            "name": "CVS / PR Newswire",
-            "url": "https://www.prnewswire.com/news-releases/cvs-health-announces-intent-to-create-two-distinct-leaders-in-healthcare-302928585.html"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "B2",
-          "headline_md": "**AMD** Q3: revenue **$13.4B** (+45% YoY), non-GAAP EPS **$2.09**; data center nearly doubles",
-          "summary_md": "AMD IR / StockTitan: Q3 revenue $13.377B; non-GAAP EPS $2.09 (+74%); Data Center record $8.546B (+97% YoY). CNBC: shares strong premarket; Lisa Su on Squawk on the Street 9 a.m. ET.",
-          "source": {
-            "name": "AMD IR / StockTitan",
-            "url": "https://www.stocktitan.net/news/AMD/amd-reports-third-quarter-2026-financial-7j6jzo29buqw.html"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "B3",
-          "headline_md": "**Euro area** inflation flash **4.0%** in October (from 3.8%) — energy **20.8%**",
-          "summary_md": "Eurostat flash: euro-area HICP 4.0% YoY in Oct (3.8% in Sept); energy the hottest component at 20.8% (from 18.9%); monthly +0.4%.",
-          "source": {
-            "name": "Eurostat",
-            "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-04112026-ap"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "B4",
-          "headline_md": "**Disney** readies more layoffs; some managers targeting up to **20%** savings",
-          "summary_md": "Deadline (citing Bloomberg/sources): thousands may be cut across TV networks and the film studio after VERO; Disney ~230k employees end of last fiscal year; company declined comment.",
-          "source": {
-            "name": "Deadline",
-            "url": "https://deadline.com/2026/11/disney-more-layoffs-2026-tv-networks-movie-studio-savings-1237211939/"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "B5",
-          "headline_md": "Futures rebound on Democratic sweep; **Tesla/SpaceX** pressured after Texas flips",
-          "summary_md": "CNBC Morning Squawk (6:29 a.m. EST): Dow/S&P/Nasdaq futures rallied from overnight lows; dollar to a one-month low; Tesla and SpaceX heavy in premarket after Texas Senate/governor flips and Musk’s large GOP spend.",
-          "source": {
-            "name": "CNBC",
-            "url": "https://www.cnbc.com/2026/11/04/a-blue-wave-sends-futures-into-the-green.html"
-          },
-          "details_md": null,
-          "details_updated": null
-        }
-      ]
+     "id": "W2",
+     "headline_md": "Update: **US and Iran** still far apart as **Qatar** steps up mediation",
+     "summary_md": "A senior Iranian official told Reuters the sides remain far from a deal after limited US strikes on Qeshm Island; Tehran ties reopening Hormuz to sanctions relief.",
+     "source": {
+      "name": "Korea Herald (Reuters)",
+      "url": "https://www.koreaherald.com/article/10925560"
+     },
+     "details_md": null,
+     "details_updated": null
     },
     {
-      "id": "games",
-      "title": "Games & mobile",
-      "icon": "🎮",
-      "body_md": null,
-      "items": [
-        {
-          "id": "G1",
-          "headline_md": "**Genshin Impact** Version **7.2** “Hour of Ruin” live Nov 4 — eastern Snezhnaya",
-          "summary_md": "AppGamer: Archon Quest summit in Snezhnaya; new rail-linked cities Novokitezhgrad/Old Kitezhgrad; new 5★ Electro Catalyst Mitya with Furina rerun; event window yields 560 Primogems if finished on time.",
-          "source": {
-            "name": "AppGamer",
-            "url": "https://www.appgamer.com/mobile-games-weekly-update-roundup-2-8-november-2026"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "G2",
-          "headline_md": "**Brawl Stars** Nov 3 update: 3 new Brawlers + Ranked overhaul (unlock **5,000** trophies)",
-          "summary_md": "Supercell adds Legendary Thunder Frogs plus Mythics Rey and Ruby; Ranked now needs Power 11, unlocks at 5k trophies (was 1k), six free maxed Brawlers/season, gentler resets; Mega Showdown (20p) and Counterlight added.",
-          "source": {
-            "name": "AppGamer",
-            "url": "https://www.appgamer.com/mobile-games-weekly-update-roundup-2-8-november-2026"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "G3",
-          "headline_md": "**Pokémon GO:** November GO Pass live; **Altered Forme Giratina** raids Nov 4–8",
-          "summary_md": "Free track includes Groudon + 400 coins; Deluxe $7.99; Raid Hour today 6–7pm local; Halloween Part II ends 8pm Nov 5.",
-          "source": {
-            "name": "AppGamer",
-            "url": "https://www.appgamer.com/mobile-games-weekly-update-roundup-2-8-november-2026"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "G4",
-          "headline_md": "**Anipang 4** adds in-house Smart Match 3 engine + Haptic Play",
-          "summary_md": "WEMADE PLAY: engine does ~1,000 puzzle sims/sec, tested on ~8,000 stages; eight vibration patterns; PD expects >200 puzzles/month (more than double prior).",
-          "source": {
-            "name": "AVING",
-            "url": "https://us.aving.net/news/articleView.html?idxno=55149"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "G5",
-          "headline_md": "**Clash Royale** King vs King: Evo Giant + Evo Mirror; CRL Finals Shanghai Nov 6–8",
-          "summary_md": "Evo Giant leaves a Rage trail when enraged; Evo Mirror copies last card’s Evolution (or acts like Mirror); Daily Puzzles through Nov 8.",
-          "source": {
-            "name": "AppGamer",
-            "url": "https://www.appgamer.com/mobile-games-weekly-update-roundup-2-8-november-2026"
-          },
-          "details_md": null,
-          "details_updated": null
-        }
-      ]
+     "id": "W3",
+     "headline_md": "Update: **Russia** fires 365 missiles and drones at **Ukraine's** power grid",
+     "summary_md": "Zelenskiy says the strikes knocked out power across regions a week before US-brokered talks, and the Zaporizhzhia aid-school death toll has risen to at least 33.",
+     "source": {
+      "name": "CNBC TV18 (Reuters)",
+      "url": "https://www.cnbctv18.com/world/russia-launches-365-missiles-drones-at-ukraine-cuts-power-across-regions-ahead-of-us-peace-talks-20026562.htm"
+     },
+     "details_md": null,
+     "details_updated": null
     },
     {
-      "id": "emulation",
-      "title": "Video Game Emulation",
-      "icon": "🕹️",
-      "body_md": "**Wii U lifter watch:** Early-Oct r/decomps PowerPC→x86 claim (Mario 3D World / MK8 / NSMBU / Splatoon / BOTW) still has **no newly public “when stable” GitHub drop** today. Separate tools (CafeRecomp last push ~Oct 18; nWiiURecomp idle since Aug) are **not** that release. Reddit r/decomps + r/emulation blocked this run (network policy); GitHub/web search used instead.\n\n**Watch notes:** KytyPS5 only shipped routine Nov 3–4 nightlies (font/save-mount) — not a gameplay milestone. No verified 24–48h breakthrough for Kirikae, AnyPS5 Astro Bot, RE4 GameCube→PC, or Wind Waker HD beyond prior devel build.",
-      "items": [
-        {
-          "id": "E1",
-          "headline_md": "Update: **LASRecomp** posts **test-beta6-preview** (Nov 3) + **test-574-snow** (Nov 4) — still not stable",
-          "summary_md": "Beta 6 WIP test build for feedback, plus a snow/autumn ground-tile cosmetic test (#574/#575/#577). Official latest remains beta_5.4; authors warn not for general use — still not crash-free stable.",
-          "source": {
-            "name": "GitHub (peiikai/LASRecomp)",
-            "url": "https://github.com/peiikai/LASRecomp/releases"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "E2",
-          "headline_md": "**Super Smash Bros. for Wii U** — Smash 4 PC recomp **v0.1.2** (Windows)",
-          "summary_md": "AllRecomps detects Nov 4 USA Wii U static recomp with local multiplayer and beta streaming netplay; original online still needs Pretendo. Own dump required.",
-          "source": {
-            "name": "AllRecomps",
-            "url": "https://allrecomps.com/updates/"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "E3",
-          "headline_md": "**Pokémon Brilliant Diamond/Shining Pearl** Strahlender installer **v0.1.5** (Switch→PC/macOS/iOS)",
-          "summary_md": "AllRecomps Nov 4: static Switch recomp with local installers including Mac-built iPhone/iPad apps; own data required; iOS signing/experimental ARM Linux caveats apply.",
-          "source": {
-            "name": "AllRecomps",
-            "url": "https://allrecomps.com/updates/"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "E4",
-          "headline_md": "**Melee Unlocked** **v0.9.98** — Melee decomp source port + separate static recomp engine",
-          "summary_md": "AllRecomps Nov 4: NTSC 1.02 ISO, Slippi integration, 60 Hz logic decoupled from display; Linux included. PC-focused Melee stack.",
-          "source": {
-            "name": "AllRecomps",
-            "url": "https://allrecomps.com/updates/"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "E5",
-          "headline_md": "AllRecomps Nov 4 PC wave: **Mushihimesama Futari** v1.5.5, **Sonic Free Riders** v0.10.45, **ICO** native v0.10.1, more",
-          "summary_md": "Notable PC detections today also include WWE SvR 2011 v2.1.9, F-Zero X v0.1.6, Rush 2 N64 v1.0.41. One-line Switch-hardware ports skipped.",
-          "source": {
-            "name": "AllRecomps",
-            "url": "https://allrecomps.com/updates/"
-          },
-          "details_md": null,
-          "details_updated": null
-        }
-      ]
+     "id": "W4",
+     "headline_md": "**Trump** says US will stop about **$4B** a year in aid to **Israel** after 2026",
+     "summary_md": "He gave no details on how, since the current aid memorandum runs through September 2028.",
+     "source": {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/5f374b32b07b/world/middle-east/trump-says-us-will-stop-paying-israel-after-year-end-2026-11-03/"
+     },
+     "details_md": null,
+     "details_updated": null
     },
     {
-      "id": "movies",
-      "title": "Movies",
-      "icon": "🎬",
-      "body_md": null,
-      "items": [
-        {
-          "id": "V1",
-          "headline_md": "Weekend 44 hold: **You Can See Everything** $11.45M narrowly tops **Clayface** $11.00M; **Wildwood** $8.95M",
-          "summary_md": "Box Office Mojo (Oct 30–Nov 1): A24 doc $11,445,629 (cume $64.7M); Clayface $11,002,116 ($44.7M); Wildwood $8,949,324 ($27.4M); Wicker $4.36M; Street Fighter $3.66M.",
-          "source": {
-            "name": "Box Office Mojo",
-            "url": "https://www.boxofficemojo.com/weekend/2026W44/"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "V2",
-          "headline_md": "**You Can See Everything** (Fielder/Holmes doc) **96%/96%** RT — first doc #1 since Fahrenheit 9/11 era buzz",
-          "summary_md": "Rotten Tomatoes: 96% Tomatometer (206) / 96% Popcornmeter; A24 wide since Oct 16; Nathan Fielder & Lance Oppenheim direct Elizabeth Holmes portrait.",
-          "source": {
-            "name": "Rotten Tomatoes",
-            "url": "https://www.rottentomatoes.com/m/you_can_see_everything"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "V3",
-          "headline_md": "Friday Nov 6 wide: **The Cat in the Hat**, **Godzilla Minus Zero**, **Wild Horse Nine**, **Jimmy**, more",
-          "summary_md": "TheMovieBox: Bill Hader’s Cat in the Hat and Takashi Yamazaki’s Godzilla Minus Zero headline Fri Nov 6 wide; also Wild Horse Nine, Jimmy, Drummer Boy. Wed Nov 4 limited: The Last Temptation of Becky, Trauma or Monsters All; Ramayana Part 1 IMAX today.",
-          "source": {
-            "name": "TheMovieBox",
-            "url": "https://www.themoviebox.net/p/whats-coming-out-this-week-nov2-nov8-2026"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "V4",
-          "headline_md": "Tracking (Boxoffice Pro long-range): **Cat in the Hat** **$40–50M** OW; **Godzilla Minus Zero** **$25–35M**",
-          "summary_md": "Boxoffice Pro (Oct 9 long-range for Nov 6): Cat $40–50M domestic OW; Godzilla Minus Zero $25–35M and rising on ticket sales/Imax marketing. Note: forecast dated ~4 weeks before open.",
-          "source": {
-            "name": "Boxoffice Pro",
-            "url": "https://www.boxofficepro.com/long-range-forecast-monsters-make-their-way-to-the-big-screen-in-the-cat-in-the-hat-godzilla-minus-zero/"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "V5",
-          "headline_md": "Wed/Fri adds: Becky sequel + Fessenden horror today; **Rocky** 50th anniversary Fri Nov 6",
-          "summary_md": "TheMovieBox: Wed Nov 4 limited The Last Temptation of Becky and Trauma or, Monsters All; Fri Nov 6 also brings Rocky 50th anniversary re-release alongside the wide slate.",
-          "source": {
-            "name": "TheMovieBox",
-            "url": "https://www.themoviebox.net/p/whats-coming-out-this-week-nov2-nov8-2026"
-          },
-          "details_md": null,
-          "details_updated": null
-        }
-      ]
+     "id": "W5",
+     "headline_md": "**Ethiopia** expels six **Sudanese** diplomats",
+     "summary_md": "Relations keep sliding as each side accuses the other of backing its enemies (the RSF and Tigray rebels).",
+     "source": {
+      "name": "Reuters via StreetInsider",
+      "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+     },
+     "details_md": null,
+     "details_updated": null
     },
     {
-      "id": "ai",
-      "title": "AI",
-      "icon": "🤖",
-      "body_md": null,
-      "items": [
-        {
-          "id": "A1",
-          "headline_md": "**OpenAI:** ChatGPT search volume = **~20%** of Google’s — ads expanding",
-          "summary_md": "Verge (Nov 3): consumer lead Adam Fry said ChatGPT web-search queries equal about one-fifth of Google’s volume; company defending ads and adding sponsored product images.",
-          "source": {
-            "name": "The Verge",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "A2",
-          "headline_md": "**Google** will cut student **Search** unless schools opt into AI (Guided Learning)",
-          "summary_md": "9to5Google (Nov 3): Gemini + Search off by default for K–12 until admins enable; Google says Search/AI are integrated so fully disabling AI also disables Search; Guided Learning pilot this month, broader early 2027.",
-          "source": {
-            "name": "9to5Google",
-            "url": "https://9to5google.com/2026/11/03/google-search-ai-guided-learning-changes/"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "A3",
-          "headline_md": "**Anthropic** amended S-1: ~**$17B** Q3 revenue; **$895.4B** compute purchase commitments",
-          "summary_md": "CNBC (Nov 2 filing coverage still driving AI tape): $33.24B revenue for 9 months (+~1,200% YoY); Q3 ~$17B (+47% QoQ, slower than prior quarters); $104B nine-month net loss mostly fair-value of convertibles.",
-          "source": {
-            "name": "CNBC",
-            "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "A4",
-          "headline_md": "Midterms ripple: AI/data-center backlash + Musk “data centers in space” quip",
-          "summary_md": "CNBC: AI/data-center restrictions were a campaign issue; Amazon/Alphabet/Nvidia recovered from earlier declines despite state-level buildout concerns after the blue wave.",
-          "source": {
-            "name": "CNBC",
-            "url": "https://www.cnbc.com/2026/11/04/a-blue-wave-sends-futures-into-the-green.html"
-          },
-          "details_md": null,
-          "details_updated": null
-        }
-      ]
-    },
-    {
-      "id": "tech",
-      "title": "Tech, app stores & ads",
-      "icon": "📱",
-      "body_md": null,
-      "items": [
-        {
-          "id": "T1",
-          "headline_md": "**Reddit** begins testing **search-page ads** after login-wall shift",
-          "summary_md": "AdExchanger: contextual search ads (e.g. “espresso station”); Reddit cited Google AI Overviews crushing referral traffic while its own ad run-rate topped $3B.",
-          "source": {
-            "name": "AdExchanger",
-            "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-04112026/"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "T2",
-          "headline_md": "**Apple** App Store: dating apps + AI companions restricted to **18+**",
-          "summary_md": "AdExchanger roundup citing TechCrunch: policy tweak limits those categories to adult users.",
-          "source": {
-            "name": "AdExchanger",
-            "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-04112026/"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "T3",
-          "headline_md": "**Netflix** launching **AI Discover** recommendation interface",
-          "summary_md": "AdExchanger cites THR: new AI Discover UI for more targeted content recommendations.",
-          "source": {
-            "name": "AdExchanger",
-            "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-04112026/"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "T4",
-          "headline_md": "Publishers say **Meta** ToS change opts sites into **AI scraping**",
-          "summary_md": "AdExchanger cites Digiday: planned terms change would opt any site posting on Meta into AI scraping — publishers call it hostage-taking.",
-          "source": {
-            "name": "AdExchanger",
-            "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-04112026/"
-          },
-          "details_md": null,
-          "details_updated": null
-        }
-      ]
-    },
-    {
-      "id": "markets",
-      "title": "Markets",
-      "icon": "📈",
-      "body_md": null,
-      "items": [
-        {
-          "id": "M1",
-          "headline_md": "US futures green after blue wave; Tue cash: Dow **51,787**, S&P **7,569**, Nasdaq **25,372**",
-          "summary_md": "CNBC (6:29 a.m. EST Nov 4): Dow/S&P/Nasdaq futures rallied from overnight lows after Dems took Congress. Report.az (04.11.2026 09:05): Tue closes Dow 51,786.72 (−197), S&P 7,568.92 (+28), Nasdaq 25,372.01 (+208).",
-          "source": {
-            "name": "CNBC / Report.az",
-            "url": "https://www.cnbc.com/2026/11/04/a-blue-wave-sends-futures-into-the-green.html"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "M2",
-          "headline_md": "Oil soft; gold higher — Brent **$102.80**, WTI **$95.15**, gold **$3,950.50**",
-          "summary_md": "Report.az (04.11.2026 09:05): Brent $102.80 (−2.38), WTI $95.15 (−1.84), gold $3,950.50 (+16.00).",
-          "source": {
-            "name": "Report.az",
-            "url": "https://report.az/en/finance/key-indicators-of-world-commodity-stock-and-currency-markets-04-11-2026"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "M3",
-          "headline_md": "**Bitcoin** ~**$78,300** after V-shaped rebound from sub-**$76k**",
-          "summary_md": "CoinDesk (~3:37 a.m. EST update Nov 4): BTC erased early midterm-scare dip below $76k, trading ~$78,300 (~+1% day); election-day BTC options blocks ~$660M notional.",
-          "source": {
-            "name": "CoinDesk",
-            "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "M4",
-          "headline_md": "**Nikkei** slides to **60,128** (−2,954); Europe soft; Shanghai **3,604** (−35)",
-          "summary_md": "Report.az (04.11.2026 09:05): Nikkei 60,128.26 (−2,953.60); DAX 25,864.62 (−116); FTSE 10,638.43 (−123); Shanghai Composite 3,603.50 (−34.53).",
-          "source": {
-            "name": "Report.az",
-            "url": "https://report.az/en/finance/key-indicators-of-world-commodity-stock-and-currency-markets-04-11-2026"
-          },
-          "details_md": null,
-          "details_updated": null
-        }
-      ]
-    },
-    {
-      "id": "weather",
-      "title": "Weather",
-      "icon": "🌤️",
-      "body_md": "| | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Show Low | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 1% | 0% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 1% | 0% |\n\nHourly precip probabilities from api.weather.gov forecastHourly (times converted to AZ). Fetched ~5:04 AM AZ Wed Nov 4, 2026. No rain/snow named in shortForecast for these hours.",
-      "items": [
-        {
-          "id": "X1",
-          "headline_md": "**Phoenix AZ:** Wed sunny **77°F** / clear night **56°F** — precip **0%**, light SSW wind",
-          "summary_md": "NWS PSR: sunny Wednesday high near 77 falling to ~74 afternoon; clear overnight low ~56; Wednesday precip chance 0%. No alerts in forecast text.",
-          "source": {
-            "name": "weather.gov (NWS PSR)",
-            "url": "https://api.weather.gov/gridpoints/PSR/159,58/forecast"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "X2",
-          "headline_md": "**Show Low AZ:** Wed sunny **59°F** / mostly clear **34°F** — breezy SW gusts **~35 mph**",
-          "summary_md": "NWS FGZ: sunny high near 59 falling to ~53 afternoon; SW wind 13–20 mph with gusts as high as 35; night low ~34; precip ~1%.",
-          "source": {
-            "name": "weather.gov (NWS FGZ)",
-            "url": "https://api.weather.gov/gridpoints/FGZ/128,40/forecast"
-          },
-          "details_md": null,
-          "details_updated": null
-        },
-        {
-          "id": "X3",
-          "headline_md": "**Snowflake AZ:** Wed sunny **65°F** / mostly clear **33°F** — SW gusts **~36 mph**",
-          "summary_md": "NWS FGZ: sunny high near 65 falling to ~59 afternoon; SW 10–21 mph gusting to 36; night low ~33; precip ~1%.",
-          "source": {
-            "name": "weather.gov (NWS FGZ)",
-            "url": "https://api.weather.gov/gridpoints/FGZ/127,52/forecast"
-          },
-          "details_md": null,
-          "details_updated": null
-        }
-      ]
-    },
-    {
-      "id": "worth-reading",
-      "title": "Worth reading in full",
-      "icon": "📖",
-      "body_md": null,
-      "items": [
-        {
-          "id": "R1",
-          "headline_md": "Ballotpedia Brew: full midterms map — Senate flips, trifectas, data-center recalls",
-          "summary_md": "Why read: the cleanest single-page wrap of what actually flipped — seven Trump-won Senate seats, at least three new Dem trifectas, four governorship gains (TX/GA/IA/OH), and early notes on data-center recall elections — better than fragmented live blogs for Boyd’s morning scan.",
-          "source": {
-            "name": "Ballotpedia News",
-            "url": "https://news.ballotpedia.org/2026/11/04/democrats-win-u-s-house-and-senate-majorities/"
-          },
-          "details_md": null,
-          "details_updated": null
-        }
-      ]
+     "id": "W6",
+     "headline_md": "**Greenland** parliament approves defense pact with the **US and Denmark**; **Spain's** transport minister resigns",
+     "summary_md": "The Greenland deal paves the way for a bigger US military presence; in Spain, Óscar Puente quit after a Toledo high-speed train crash killed 69.",
+     "source": {
+      "name": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-4-2026/4110977"
+     },
+     "details_md": null,
+     "details_updated": null
     }
-  ]
+   ]
+  },
+  {
+   "id": "business",
+   "title": "Business",
+   "icon": "💼",
+   "body_md": null,
+   "items": [
+    {
+     "id": "B1",
+     "headline_md": "**AMD** jumps 7%+ premarket on a Q3 beat and strong outlook",
+     "summary_md": "AMD guided Q4 sales above estimates and expects 80% revenue growth in 2027 on data-center chips.",
+     "source": {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rise-democrats-095138242.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B2",
+     "headline_md": "**Novo Nordisk** beats as the **Wegovy pill** tops estimates; outlook raised",
+     "summary_md": "Q3 sales were DKK 79.2B ($11.9B) and shares rose as much as 6%; the CFO will leave at year-end.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B3",
+     "headline_md": "**CVS Health** beats, raises guidance and plans a split",
+     "summary_md": "Investing.com reports CVS topped estimates and lifted guidance alongside its plan to split in two.",
+     "source": {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/earnings/cvs-health-beats-estimates-raises-guidance-amid-split-plans-4998598"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B4",
+     "headline_md": "**Uber** posts Q3 results",
+     "summary_md": "Uber released its third-quarter 2026 results this morning.",
+     "source": {
+      "name": "Business Wire",
+      "url": "https://www.businesswire.com/news/home/20261104186867/en/Uber-Announces-Results-for-Third-Quarter-2026"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B5",
+     "headline_md": "**Disney** plans thousands of job cuts, its fourth round this year",
+     "summary_md": "AdExchanger, citing Bloomberg, says managers have a 20% reduction goal.",
+     "source": {
+      "name": "AdExchanger",
+      "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-04112026/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "games",
+   "title": "Games & mobile",
+   "icon": "🎮",
+   "body_md": null,
+   "items": [
+    {
+     "id": "G1",
+     "headline_md": "**Ubisoft** reportedly bids for **Arkane Lyon** (Marvel's Blade) from Xbox",
+     "summary_md": "At least three companies have made offers, and Microsoft extended the buyer search to a December deadline.",
+     "source": {
+      "name": "GAMES.GG",
+      "url": "https://games.gg/news/ubisoft-makes-bid-for-potential-arkane-lyon-acquisition/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G2",
+     "headline_md": "Game industry cut about **11,000 jobs** through October while hiring AI-skilled staff",
+     "summary_md": "A tally of global layoffs shows restructuring continuing as studios add AI roles.",
+     "source": {
+      "name": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com/technology/2026/11/04/game-industry-cuts-11000-jobs-while-hiring-ai-savvy-recruits"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G3",
+     "headline_md": "**Valve** tightens Steam submission rules as new releases pile up",
+     "summary_md": "Digital Trends reports tougher review requirements after volume overwhelmed the process.",
+     "source": {
+      "name": "Digital Trends",
+      "url": "https://www.digitaltrends.com/gaming/steam-is-drowning-in-new-games-and-valve-is-dropping-tougher-restrictions/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G4",
+     "headline_md": "**Astragon** closes its Hamm studio, ending the **Seafarer** team",
+     "summary_md": "Heise says the closure hits about 30 employees.",
+     "source": {
+      "name": "heise online",
+      "url": "https://www.heise.de/en/news/Astragon-closes-development-studio-End-for-Seafarer-team-in-Hamm-11508999.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "emulation",
+   "title": "Video Game Emulation",
+   "icon": "🕹️",
+   "body_md": "Wii U lifter watch: no public repo or release from u/Mindstormman found today. A separate GitHub repo, [nWiiURecomp](https://github.com/BlackLineInteractive/nWiiURecomp), exists with 0 stars and isn't confirmed to be his project. Reddit's RSS feeds returned nothing to my server today, so r/decomps wasn't read directly.",
+   "items": [
+    {
+     "id": "E1",
+     "headline_md": "**Tears of the Kingdom Recomp 0.3.4**: Switch game running natively on Windows, Linux and Steam Deck",
+     "summary_md": "The static recomp by valentderah passed 4,000 GitHub stars in under a week; 0.3.4 fixes audio dropouts, amiibo crashes and Intel GPU errors (author says much of the code is AI-written).",
+     "source": {
+      "name": "Overclocked",
+      "url": "https://overclockedhq.com/news/totk-recomp-tears-of-the-kingdom-native-pc-steam-deck"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E2",
+     "headline_md": "**DriveClub Recomp** (PS4) adds DLSS, Reflex and FSR 4",
+     "summary_md": "It runs the PS4 game's x86-64 code natively with Vulkan graphics, up to 4K and unlocked frame rates; needs your own copy at patch 1.28.",
+     "source": {
+      "name": "GameGPU",
+      "url": "https://en.gamegpu.com/news/igry/nativnyj-pk-port-driveclub-poluchil-podderzhku-razresheniya-dlss-4-5-i-fsr-4"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E3",
+     "headline_md": "Recomp tracker logs **200 releases** this week, incl. **PS4Recomp 0.1.1**, **Saints Row** static recomp 0.1.0 and **Smash4PC** 0.1.2",
+     "summary_md": "Other Nov 2–4 drops include Xenia Canary, Luigi's Mansion Recompiled 1.1.6, Konami Viper static recomp 0.13 and Metroid Prime Port 0.40.",
+     "source": {
+      "name": "Recomp Software",
+      "url": "https://recompsoftware.com/this-week/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "movies",
+   "title": "Movies",
+   "icon": "🎬",
+   "body_md": null,
+   "items": [
+    {
+     "id": "V1",
+     "headline_md": "Global weekend (Oct 30–Nov 1): **Clayface** leads with **$22.8M** worldwide",
+     "summary_md": "It's at $83M WW on a $44M budget; Laika's **Wildwood** was No. 2 globally with $12.3M ($35.8M cume).",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/11/box-office-global-clayface-resident-evil-1237210872/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V2",
+     "headline_md": "**Resident Evil** reaches **$400M** worldwide",
+     "summary_md": "Deadline says it's passed Sinners and The Nun and is $600K from topping Backrooms as A24's biggest.",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/11/box-office-global-clayface-resident-evil-1237210872/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V3",
+     "headline_md": "**The Odyssey** hits **$1.799B** WW, Universal's biggest international cume ever",
+     "summary_md": "Its $1.17B overseas beats Furious 7; domestic finished at $625.5M.",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/11/box-office-global-clayface-resident-evil-1237210872/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V4",
+     "headline_md": "Nov 6 openers: **The Cat in the Hat** and **Godzilla Minus Zero** both tracking **$25–35M**",
+     "summary_md": "Box Office Theory calls the No. 1 spot a close race.",
+     "source": {
+      "name": "Box Office Theory",
+      "url": "https://boxofficetheory.com/4-week-box-office-tracking-forecasts-street-fighter-clayface-godzilla-minus-zero-cat-in-the-hat/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V5",
+     "headline_md": "**Other Mommy** passes **$107.4M** worldwide",
+     "summary_md": "The Blumhouse horror added $8.4M globally in its fourth weekend with strong European openings.",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/11/box-office-global-clayface-resident-evil-1237210872/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "icon": "🤖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "A1",
+     "headline_md": "**Tencent** launches **Hy4**, adding image understanding, with open weights coming",
+     "summary_md": "Pricing stays at about $2.70 per million output tokens; weights and system cards are due in the coming days.",
+     "source": {
+      "name": "Tencent",
+      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A2",
+     "headline_md": "**OpenAI** partners with **Cathedral Systems**, the firm that probed Anthropic",
+     "summary_md": "OpenAI also raised bug-bounty rewards and said ChatGPT has 1.2 billion weekly users.",
+     "source": {
+      "name": "The Neuron",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A3",
+     "headline_md": "**Google** makes schools that turn off its AI lose **Search** too",
+     "summary_md": "Lina Khan said Google is making clear it will punish those who don't fall in line.",
+     "source": {
+      "name": "AdExchanger",
+      "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-04112026/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A4",
+     "headline_md": "**AMD**, **FuriosaAI** and **MangoBoost** form an AI infrastructure alliance",
+     "summary_md": "They'll combine CPUs, GPUs, NPUs and DPUs, targeting a first system in 2027.",
+     "source": {
+      "name": "Asia Business Daily",
+      "url": "https://www.asiae.co.kr/en/article/2026110411195564944"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Tech, app stores & ads",
+   "icon": "📱",
+   "body_md": null,
+   "items": [
+    {
+     "id": "T1",
+     "headline_md": "**Google Play** opens its **Registered App Stores** program: $10,000 a year, US excluded",
+     "summary_md": "From Dec 1, approved third-party stores on Android 17 QPR2+ get one-tap installs and background updates.",
+     "source": {
+      "name": "TechRepublic",
+      "url": "https://www.techrepublic.com/article/news-google-android-registered-app-stores-program/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T2",
+     "headline_md": "**Apple** opens **Siri AI** to developers in the iOS 27.3 betas",
+     "summary_md": "Apps can hook content and actions into Siri through App Intents, including multi-step requests.",
+     "source": {
+      "name": "The Neuron",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T3",
+     "headline_md": "**Reddit** starts testing **search ads**; **Netflix** launches **AI Discover**",
+     "summary_md": "Reddit's ads will match search context, days after it moved to login-only viewing.",
+     "source": {
+      "name": "AdExchanger",
+      "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-04112026/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T4",
+     "headline_md": "**Lenovo** ships a 1.6-liter desktop that runs ~35B-parameter models locally",
+     "summary_md": "It pairs a Zhaoxin CPU with a 160 TOPS Houmo NPU, about 29 tokens/sec on Qwen3.6-35B.",
+     "source": {
+      "name": "AI Affairs",
+      "url": "https://www.aiaffairs.com/technology/lenovo-kaitian-zhaoxin-houmo-local-35b-ai-desktop/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Markets",
+   "icon": "📈",
+   "body_md": null,
+   "items": [
+    {
+     "id": "M1",
+     "headline_md": "Futures rally on the blue wave (**4:45 AM AZ**): **Dow** +1.58%, **S&P 500** +1.16%, **Nasdaq-100** +0.96%",
+     "summary_md": "They recovered from overnight lows; Tuesday the S&P gained 0.4% and the Dow slipped 0.4%.",
+     "source": {
+      "name": "Markets Insider",
+      "url": "https://markets.businessinsider.com/premarket"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M2",
+     "headline_md": "Movers: **AMD** +7%+, **Palantir** −2.3%; **SpaceX** and **Trump Media** lower premarket",
+     "summary_md": "Palantir fell on worries a Democratic Congress tightens rules on data centers.",
+     "source": {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rise-democrats-095138242.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M3",
+     "headline_md": "**Gold** back above **$4,000**, about $4,037 (+2.5%) at **5:08 AM AZ**",
+     "summary_md": "A weaker dollar and falling yields lifted it.",
+     "source": {
+      "name": "TradingView",
+      "url": "https://www.tradingview.com/news/tradingview:49a94e833094b:0-xauusd-btcusd-gold-is-back-above-4-000-bitcoin-recovers-from-election-shakeup/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M4",
+     "headline_md": "**Bitcoin** V-shaped rebound to about **$78,300** (**1:37 AM AZ**)",
+     "summary_md": "It dipped below $76,000 as results came in, then recovered as uncertainty faded.",
+     "source": {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M5",
+     "headline_md": "Oil (**1:15 AM AZ**): **Brent** $103.95 (+0.35%), **WTI** $96 (flat); **10-year** at 4.92% (**3:25 AM AZ**)",
+     "summary_md": "Traders await Washington's next move on Iran.",
+     "source": {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rise-democrats-095138242.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "weather",
+   "title": "Weather",
+   "icon": "🌤️",
+   "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Show Low | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 1% | 0% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 1% | 0% |\n\n_Chance of precipitation by hour (AZ), from the api.weather.gov hourly forecast, fetched about 5:08 AM AZ._",
+   "items": [
+    {
+     "id": "X1",
+     "headline_md": "**Phoenix AZ:** sunny, high near **77°F**, low around **56°F**, **0%** precip",
+     "summary_md": "No active alerts.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X2",
+     "headline_md": "**Show Low AZ:** sunny and breezy, high near **59°F**, low around **34°F**, ~**1%** precip",
+     "summary_md": "SW winds 13–20 mph, gusts to 35 mph; no active alerts.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X3",
+     "headline_md": "**Snowflake AZ:** sunny and breezy, high near **65°F**, low around **33°F**, ~**1%** precip",
+     "summary_md": "SW winds 10–21 mph, gusts to 36 mph; no active alerts.",
+     "source": {
+      "name": "National Weather Service",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "worth-reading",
+   "title": "Worth reading in full",
+   "icon": "📖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "R1",
+     "headline_md": "**Ballotpedia:** Democrats win U.S. House and Senate majorities",
+     "summary_md": "A clear, race-by-race rundown of every Senate flip, the redistricting math and state legislature changes behind last night's wave.",
+     "source": {
+      "name": "Ballotpedia News",
+      "url": "https://news.ballotpedia.org/2026/11/04/democrats-win-u-s-house-and-senate-majorities/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  }
+ ]
 }
