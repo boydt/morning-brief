@@ -1,0 +1,516 @@
+{
+  "date": "2026-11-05",
+  "title": "Morning Brief - Prem",
+  "intro_md": "Type \"more on G3\" (or any code) in April's chat, or tap More info and paste the request there, for a deep dive.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "**Europe bomb-threat wave** hits **14+** passenger flights",
+          "summary_md": "A second wave this week forced diversions (including Aer Lingus Dublin–Rome to France’s Evreux base); the UK Transport Secretary called them malicious hoaxes, and completed checks found no explosives.",
+          "source": {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/live/cwjdmnrg94ezt"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Update: **Democrats** hold a midterm wave; **Trump** and **Vance** blame the **Iran** war",
+          "summary_md": "DW (with AP/Reuters) projects House ≥237–139 and Senate 54–44; Trump said the Iran conflict was “worth it,” while Vance called the war “the reason we lost.”",
+          "source": {
+            "name": "Deutsche Welle",
+            "url": "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "**IRGC**: three vessels catch fire in the **Strait of Hormuz**",
+          "summary_md": "Via IRNA, Iran said a large tanker hit a mine on an “unauthorized route,” with a second supertanker and a tug also ablaze in separate incidents; the IRGC claimed continued control of the strait.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-5-2026/4112214"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "**Yemen**: missile strike kills **13** recruits, wounds **65**",
+          "summary_md": "A government official told Xinhua a ballistic missile hit a training center in Qatabah, Al-Dhalea, during morning exercises and blamed the Houthis.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261105/b900df3424df4a52b1e2ea703f97ee53/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "**AstraZeneca** makes a ~**$10B** offer for **Rhythm Pharmaceuticals**",
+          "summary_md": "Reuters says the non-binding bid is up to about $134/share including milestones; Rhythm closed +28% at $110.68 (~$7.64B market cap).",
+          "source": {
+            "name": "Investing.com (Reuters)",
+            "url": "https://www.investing.com/news/stock-market-news/astrazeneca-made-10-billion-offer-for-obesity-drugmaker-rhythm-sources-say-5001694"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "**China** blocks **SoftBank**’s **ABB** robotics deal",
+          "summary_md": "ABB said China prohibited SoftBank’s acquisition of its robotics unit, agreed at a $5.375B enterprise value.",
+          "source": {
+            "name": "ABB",
+            "url": "https://new.abb.com/news/detail/140154/update-on-divestment-of-abb-robotics"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "**Qualcomm** beats, guides soft; stock **−7%** after hours",
+          "summary_md": "Adj. EPS $2.17 and revenue $10.44B (−7% YoY); handset chips −26% to $5.14B while auto +89% to $1.99B; Q1 guide $10.4–$11.2B revenue.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "**Amazon** drops **Grubhub**, taps **Uber Eats** for Prime US delivery",
+          "summary_md": "Prime members order Uber Eats via Amazon with no Uber account and free delivery over $25; Grubhub+ via Amazon ends today, with existing Grubhub+ usable through Dec 31, 2027.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B5",
+          "headline_md": "**Toyota** raises its earnings forecast; **Nintendo** H1 profit **+11%**",
+          "summary_md": "Toyota lifted its outlook on a weaker yen and cost cuts; Nintendo’s H1 net profit was 220.92B yen (~$1.39B) on software and the new Mario movie.",
+          "source": {
+            "name": "Dow Jones (Morningstar)",
+            "url": "https://www.morningstar.com/news/dow-jones/202611053349/dow-jones-top-company-headlines-at-3-am-et-italys-leonardo-lifts-order-guidance-again-as-defense-business-grows-strongly-abb"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "**God of War Laufey** delayed to **May 20, 2027**",
+          "summary_md": "Sony Santa Monica pushed the PS5 exclusive from Feb 16 for polish; it’s the first mainline God of War without Kratos as lead.",
+          "source": {
+            "name": "Eurogamer",
+            "url": "https://www.eurogamer.net/god-of-war-laufey-delayed-may-three-months"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "**Macronix** exits **Switch / Switch 2** cartridge ROM chips",
+          "summary_md": "ROM fell to 5% of sales last quarter (from 26% a year earlier) as the firm shifts to NOR/eMMC, which could lift cartridge costs or push Game-Key Cards.",
+          "source": {
+            "name": "Eurogamer",
+            "url": "https://www.eurogamer.net/nintendo-switch-2-cartridge-macronix-ending-rom-manufacturing"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "Update: **Arkane Lyon** union says **Microsoft** “sabotaged” **Blade** then used delays to close the studio",
+          "summary_md": "France’s STJV says a 19-month hiring freeze caused the delays Microsoft cited, and demands €200K (~$225K) redundancy per worker plus two years of redeployment support.",
+          "source": {
+            "name": "PC Gamer",
+            "url": "https://www.pcgamer.com/gaming-industry/french-game-union-accuses-microsoft-of-sabotaging-blade-and-then-using-the-fallout-to-justify-closing-arkane/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "Hyper-casual October: **Magic Sort** **9.1M** downloads; **Colony Flow** **$9.3M** IAP",
+          "summary_md": "Magic Sort led downloads (+5% MoM); Colony Flow led IAP (~+37% MoM); Food Hunt hit 5.52M downloads (~+34% MoM).",
+          "source": {
+            "name": "Gamigion",
+            "url": "https://gamigion.substack.com/p/mobile-gaming-today-127"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G5",
+          "headline_md": "**Xbox Cloud Gaming** previews phone-as-controller and Nano Wi-Fi connect",
+          "summary_md": "A Nov 4 preview lets phones drive supported smart TVs via browser controls, and US Xbox Nano Controllers can connect over Wi-Fi to cut lag.",
+          "source": {
+            "name": "Xbox Wire",
+            "url": "https://news.xbox.com/en-us/2026/11/04/cloud-gaming-inputs-preview/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: still no public repo or release from u/Mindstormman. Separate projects (CafeRecomp, nWiiURecomp) exist but aren’t that claim. Reddit’s r/decomps RSS timed out this run, so the subreddit wasn’t read directly. No credible PS5 or Switch 2 commercial-game emulator breakthrough in the last 24–48h.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "**ZeldaWWHDRecomp** drops a Nov 4 devel build (native PC Wind Waker HD)",
+          "summary_md": "Stable is still v0.5.0 (Oct 29); `@735ce6b` adds Android save-transfer fixes, randomized USA TWWHD Randomizer setup, Steam Controller on macOS, GameCube HUD prompts, and more (Windows/macOS/Linux/Android; no game files shipped).",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "**LAS Recomp** posts Beta 6 preview and snow test builds",
+          "summary_md": "Latest regular release is still beta_5.4; Nov 3–4 test builds (test-beta6-preview, test-574-snow) are explicitly in-dev for issues #574/#575/#577, not general use.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/peiikai/LASRecomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "**shadPS4** v0.21.0 out Oct 30; Nov 5 pre-release landed",
+          "summary_md": "“Until Mavethee Dawn” fixes platinum unlocks, texture cache, Rosetta 2 workarounds and USB/music HLE; pre-release `98ef621` published today.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/shadps4-emu/shadPS4/releases/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "**PCSX2** 2.9.x nightlies continue through ~**2.9.155**",
+          "summary_md": "Development builds only (no new stable); recent work includes Vulkan feedback-loop texture fixes.",
+          "source": {
+            "name": "Retro Replay",
+            "url": "https://retro-replay.com/week-in-emulation-october-26-november-2-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Domestic weekend (Oct 30–Nov 1): **You Can See Everything** **$11.4M** edges **Clayface** **$11.0M**",
+          "summary_md": "A24’s 3-hour doc led a soft ~$62.2M overall frame (−38% WoW); Clayface cume $44.7M, Wildwood $8.9M / $27.4M cume.",
+          "source": {
+            "name": "Box Office Mojo",
+            "url": "https://www.boxofficemojo.com/weekend/2026W44/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "**You Can See Everything** scores **96%/96%** on Rotten Tomatoes",
+          "summary_md": "207 critic reviews and 2,500+ verified audience ratings; Clayface sits at 78% critics / 94% audience.",
+          "source": {
+            "name": "Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/you_can_see_everything"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Fri Nov 6: **Godzilla Minus Zero** tracking ~**$30M**; **Cat in the Hat** **$20–25M**",
+          "summary_md": "Variety says Godzilla opens from 3,254 NA theaters (RT 89%); Cat in the Hat aims for ~4,000 venues on a $92M budget.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-estimates-cat-in-the-hat-1236938885/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "**Resident Evil** still **$157.4M** domestic through week 7",
+          "summary_md": "It added $2.6M last weekend; Other Mommy is at $55.7M domestic after week 4.",
+          "source": {
+            "name": "Box Office Mojo",
+            "url": "https://www.boxofficemojo.com/weekend/2026W44/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "Also opening Nov 6: **Wild Horse Nine** **$5–7M**, **Ramayana** ~**$6M** (4 days)",
+          "summary_md": "Searchlight’s McDonagh film targets ~1,000 screens; Sony’s Ramayana aims for ~1,300 theaters, Variety’s widest NA Indian release call.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-estimates-cat-in-the-hat-1236938885/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "**OpenAI** pledges to pay full data-center power costs after local votes",
+          "summary_md": "CNBC: voters backed restrictions or rejected pro-development in 40 of 41 local measures across 10 states; OpenAI says owned DCs will pay full power, solicit input, and publish construction plans.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "**OpenAI** cyber pipeline finds **948** working Linux LPE PoCs in one run",
+          "summary_md": "A mid-Oct run produced 2,308 candidates → 1,724 reproduced → 948 LPE PoCs plus 291 info-leak PoCs at ~$1.21M API cost (~$1,279 per LPE), with human review before reporting.",
+          "source": {
+            "name": "OpenAI",
+            "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "**Meta** acquires AI coding startup **Conductor**",
+          "summary_md": "Terms undisclosed; the cloud service shuts Nov 20 with cloud data deletion after, while local features continue into early 2027.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "**Meta** president: midterms make new data centers harder to build",
+          "summary_md": "Dina Powell McCormick told the WSJ Tech conference the results will complicate greenfield builds, with more optimism about expanding existing sites.",
+          "source": {
+            "name": "Dow Jones (Morningstar)",
+            "url": "https://www.morningstar.com/news/dow-jones/202611053349/dow-jones-top-company-headlines-at-3-am-et-italys-leonardo-lifts-order-guidance-again-as-defense-business-grows-strongly-abb"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "**AppLovin** crushes Q3; shares jump ~**20–25%**",
+          "summary_md": "Revenue $2.18B (+55.5% YoY) and GAAP EPS $4.30; Q4 revenue guide midpoint $2.38B; stock closed +20.33% Wed at $326.99 and was +18% premarket Thu (~5:02 AM AZ).",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-nasdaq-app-delivers-strong-223804244.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "**Apple** lets apps show subscription retention offers on cancel",
+          "summary_md": "Apps may surface value reminders and special-offer messages when users cancel subscriptions.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/1027121/apple-apps-subscription-retention-messages-cancelation"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "**Discord** ditching Electron for a **Rust** desktop client",
+          "summary_md": "CTO says Electron/React Native go away in favor of shared Rust with native mobile UI; a Windows screenshot showed ~290MB RAM vs often ≥1GB.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "**X** rolls out a faster rewritten web app country-by-country",
+          "summary_md": "An engineer said profile load over a slow connection dropped from 22s to 2.7s to first post; logged-out/crawler views are already on the new stack.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Wed close (post-midterm rally): **Dow +3.03%**, **S&P +1.58%**, **Nasdaq +1.44%**",
+          "summary_md": "Dow +1,569.40 to 53,356.12; S&P 500 +119.70 to 7,688.62; Nasdaq Composite +364.50 to 25,736.51 (US close ~1:00 PM AZ Wed).",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261105/b900df3424df4a52b1e2ea703f97ee53/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Thu ~5:00 AM AZ futures: Dow **+0.4%**, S&P **−0.1%**, Nasdaq-100 **−0.7%**",
+          "summary_md": "Yahoo’s early wrap shows AI/chip rotation overnight after the midterm rally.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Asia chips slide: **Samsung** and **SK Hynix** both **>7%** down; Kospi **>5%**",
+          "summary_md": "Bloomberg/AP: the Kospi sank more than 5% and Nikkei 225 nearly −2% as AI names sold off.",
+          "source": {
+            "name": "Bloomberg (swissinfo)",
+            "url": "https://www.swissinfo.ch/eng/post-midterm-rotation-hurts-chips%2C-boosts-china%3A-markets-wrap/92330151"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "Oil: Brent ~**$96.18** (+1.6% Thu); gold ~**$4,124**/oz; Bitcoin ~**$80,424**",
+          "summary_md": "Bloomberg Thu quotes (via swissinfo); Wed Brent had closed near $98.70 (−4.73% at 9:15 AM AZ Wed per Anadolu).",
+          "source": {
+            "name": "Bloomberg (swissinfo)",
+            "url": "https://www.swissinfo.ch/eng/post-midterm-rotation-hurts-chips%2C-boosts-china%3A-markets-wrap/92330151"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|------|----|----|----|----|----|-----|-----|-----|----|----|----|----|----|----|----|----|----|-----|-----|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Show Low | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\nHourly PoP from api.weather.gov (NWS), fetched 5:03 AM AZ Thu Nov 5. No rain/snow named in hourly shortForecasts.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**Phoenix**: High **78°F** / Low **57°F**, sunny, PoP **0%**, no alerts",
+          "summary_md": "Clear to mostly sunny through the day; overnight low near 57°F with 0% PoP tonight.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.0740"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Show Low**: High **57°F** / Low **37°F**, sunny, PoP **0%** today / **5%** tonight, no alerts",
+          "summary_md": "Sunny Thursday; overnight low near 37°F with a slight (5%) precip chance tonight.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "**Snowflake**: High **57°F** / Low **36°F**, sunny, PoP **0%** today / **2%** tonight, no alerts",
+          "summary_md": "Sunny Thursday; overnight low near 36°F with a 2% precip chance tonight.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0784"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "**OpenAI**’s data-center power pledge after anti–DC local votes",
+          "summary_md": "Worth reading because it ties the midterm shock (40 of 41 local measures against or restricting data-center expansion) to how Big AI will site, finance, and sell power costs—and helps explain today’s chip/AI rotation.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
