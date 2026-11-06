@@ -1,0 +1,527 @@
+{
+  "date": "2026-11-06",
+  "title": "Morning Brief - Prem",
+  "intro_md": "Type “more on G3” (or any code) in April’s chat, or tap More info on this page and paste the request there, and I’ll dig in.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "**Paraguay**’s president **Santiago Peña** resigns over the **Ueno Bank** collapse",
+          "summary_md": "Peña announced his resignation Thursday as lawmakers debated impeachment; the central bank started resolution proceedings for the digital lender Tuesday after its solvency ratio fell below half the required minimum.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261106/12f8326e8a914ff78c0cd55262096086/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "**France** protests: about **600,000** march, **400+** arrests",
+          "summary_md": "The Interior Ministry estimate was about 600,000 marchers (the CGT union said ~1.6 million); authorities reported over 400 arrests and more than 50 injured police officers.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Update: **Europe** bomb-threat wave now **18+** flights",
+          "summary_md": "At least 18 passenger flights reported threats, with emergency landings, diversions and military escorts (yesterday’s count was 14+).",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Update: **IRGC** says it shot down two **US** drones over **Qeshm Island**",
+          "summary_md": "Iran’s state news agency IRNA reported the claim, which has not been independently verified in the sources read.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "**Israel**: **Eisenkot** leads Netanyahu in recommendations to form the next government",
+          "summary_md": "Yashar’s chair Gadi Eisenkot received 67 recommendations to Netanyahu’s 46, and the party urged President Herzog to hand him the mandate.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": "The October jobs report lands at 6:30 AM AZ today, so its result isn’t in this brief.",
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "**NYT Company** in exclusive talks to buy **Letterboxd** for ~**$330M**",
+          "summary_md": "No deal is signed and talks could still fall apart; Letterboxd has about 30 million users and A24 reportedly dropped out as the price rose.",
+          "source": {
+            "name": "Reuters via Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/new-york-times-company-in-advanced-talks-to-acquire-letterboxd-for-roughly-330-million-nyt-reports-5006200"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "**Axon** puts **$1.2B** more into **Skydio**; stock **−14%** after hours",
+          "summary_md": "Axon becomes Skydio’s exclusive US and Canada distributor but missed Q3 profit estimates ($1.72 vs $1.88 EPS) and trimmed its 2026 growth outlook to about 30%.",
+          "source": {
+            "name": "Reuters via StreetInsider",
+            "url": "https://www.streetinsider.com/Reuters/Axon+invests+%241.2+billion+more+in+drone+maker+Skydio%2C+lowers+annual+revenue+growth+forecast/27301570.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "Jobs report preview: economists expect **+59K** jobs, unemployment **4.2%**",
+          "summary_md": "September was +29K; payroll growth from January 2025 through September 2026 averaged only 35K a month.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "Traders see a **68%** chance the **Fed** raises rates in December",
+          "summary_md": "That’s per CME FedWatch, cited Friday as higher oil fed inflation worries.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/06/gold-eases-on-inflation-worries-from-higher-oil-us-payrolls-data-in-focus.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B5",
+          "headline_md": "**Musk**’s paper wealth down **$113B** in two days as **Tesla** and **SpaceX** sink",
+          "summary_md": "Tesla fell 3.34% Wednesday and 10.7% Thursday; SpaceX fell 3.8% then 9%, per Bloomberg’s Billionaires Index.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "**Sony** games profit **+83%**; **Wolverine** sells **2.4M**, **PS5** shipments fall",
+          "summary_md": "Game & Network Services operating profit was about ¥220B ($1.3B); PS5 sold 2.6M units versus 4M a year ago, and Sony raised its full-year games profit forecast to ¥700B.",
+          "source": {
+            "name": "GamesBeat",
+            "url": "https://gamesbeat.com/sonys-game-division-profits-rose-83-in-september-quarter-but-ps5-sales-dipped/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "Update: **Nintendo** says no further **Switch 2** price hike planned",
+          "summary_md": "Furukawa said Nintendo can secure enough memory; Switch 2 sales fell 37.4% year over year after the earlier $50 increase to $499.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "**Unity** posts its first profit since IPO as **Vector** ads grow **126%**",
+          "summary_md": "Q3 revenue was $622M (+32%) with $122M GAAP net income, and Unity guided Q4 strategic revenue up 65–67%; the ironSource Ads network is shut down.",
+          "source": {
+            "name": "Mobilegamer.biz",
+            "url": "https://mobilegamer.biz/unity-posts-first-profit-since-its-ipo-as-vector-grows-126/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "**GTA VI** launches Nov 19 on **PS5** and **Xbox**, **$79.99**",
+          "summary_md": "A PC version has no date yet; the retail box holds only a download code.",
+          "source": {
+            "name": "AFP via France 24",
+            "url": "https://www.france24.com/en/live-news/20261106-grand-theft-auto-vi-what-we-know"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "**Wii U lifter watch:** no confirmed public repo or release from the r/decomps Wii U lifter (u/Mindstormman) turned up today. Search only found small unrelated repos such as [nWiiURecomp](https://github.com/BlackLineInteractive/nWiiURecomp) (0 stars), which I can’t tie to that project. Reddit’s RSS feeds returned a redirect, so r/decomps and r/emulation weren’t read directly; worth a browser check. No new verified news today on LAS Recomp, Kirikae or a RE4 GameCube PC port.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "**Lichii** forks boot the **Switch 2** *Ocarina of Time* remake on PC",
+          "summary_md": "It’s far from playable: the open world has flashing artifacts, though the Great Deku Tree ran about 40–60 FPS on high-end rigs, and the official Lichii build may not run it yet, so be careful with random forks.",
+          "source": {
+            "name": "DSOGaming",
+            "url": "https://www.dsogaming.com/videotrailer-news/nintendo-switch-2-emulator-lichii-can-boot-and-run-the-legend-of-zelda-ocarina-of-time/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "**EglantinePS5** brings experimental **Switch 2** emulation to jailbroken **PS5**",
+          "summary_md": "It’s an early alpha with video, audio, input and saves working; reports say *Pokémon Pokopia* works while *Mario Kart World* is mixed, and it needs firmware 13.60 or older.",
+          "source": {
+            "name": "Android Authority",
+            "url": "https://www.androidauthority.com/ps5-run-android-switch-2-pc-games-3730686/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "**Hydroid** runs 64-bit **Android** games natively on jailbroken **PS5**",
+          "summary_md": "It uses the dynarmic recompiler, and *Subway Surfers*, *Sonic Dash*, *Shadow Fight 2* and *Jetpack Joyride* are already playable.",
+          "source": {
+            "name": "Android Authority",
+            "url": "https://www.androidauthority.com/ps5-run-android-switch-2-pc-games-3730686/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "**COGBox** puts the classic **Xbox 360** *Gears of War* games on PC via static recompilation",
+          "summary_md": "It’s a native Windows build with a Direct3D 12 renderer and you must supply your own copies and title updates; all four games are covered, with Gears 1 a lower priority.",
+          "source": {
+            "name": "Overclock3D",
+            "url": "https://overclock3d.net/news/software/cogbox-brings-all-classic-xbox-360-gears-of-war-games-to-pc/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "Recomp tracker: **287** releases this week, including **Perfect Dark XBLA** and **Mario Party** ports",
+          "summary_md": "Nov 6 entries include Perfect Dark XBLA PC Recomp v0.9.1, Mario Party: Recompiled v0.2.9 and Mario Party 2: Recompiled v0.2.11; Demon’s Souls Recomp v2026.11.04 landed Nov 5.",
+          "source": {
+            "name": "Recomp",
+            "url": "https://recompsoftware.com/this-week/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": "Last weekend’s numbers ran in yesterday’s brief; this weekend’s actuals post Sunday.",
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "**Godzilla Minus Zero** takes ~**$6M** in previews, a record for distributor **GKIDS**",
+          "summary_md": "Deadline’s early read says it could top the $30M+ industry forecast; Boxoffice Pro’s range is $25–35M for Nov 6–8. Rotten Tomatoes shows 90% critics and 96% audience.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "**The Cat in the Hat** opens soft: ~**$1M** previews, **$15–20M** weekend forecast",
+          "summary_md": "Early reviews are lukewarm and tracking slid through release week, per Boxoffice Pro; it’s a $86M net production.",
+          "source": {
+            "name": "Boxoffice Pro",
+            "url": "https://www.boxofficepro.com/weekend-preview-godzilla-minus-zero-to-stomp-to-the-top/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "**Drummer Boy** eyed at **$10–15M**; **You Can See Everything** may keep holding",
+          "summary_md": "Angel Studios’ musical Revolutionary War drama is forecast as the studio’s best performer since *Young Washington*.",
+          "source": {
+            "name": "Boxoffice Pro",
+            "url": "https://www.boxofficepro.com/weekend-preview-godzilla-minus-zero-to-stomp-to-the-top/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "**Imax** books record Q3: **$175M** revenue (+64%) on *The Odyssey*",
+          "summary_md": "The film grossed over $550M on Imax screens in the quarter and about $1.8B worldwide; Imax now expects to beat its $1.4B 2026 projection.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/news/imax-quarterly-revenue-record-the-odyssey-1236940229/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "**Cameron Diaz** Netflix comedy **Bad Day** gets a trailer, arrives Dec 11",
+          "summary_md": "She plays a single mom who accidentally robs a bank.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/news/bad-day-trailer-cameron-diaz-netflix-1236939650/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "Update: **OpenAI** launches **GPT-6 Cyber**, rated “Critical” for cyber capability",
+          "summary_md": "Access is restricted via Daybreak Red; it scored 48.5% on ExploitGym versus 32.1% for GPT-5.6 Cyber and costs $20 / $100 per million input / output tokens.",
+          "source": {
+            "name": "VentureBeat",
+            "url": "https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "**METR** says **Anthropic**’s AI progress is running ~**2x** faster, but key evidence is redacted",
+          "summary_md": "The Nov 5 report covers Aug 12–Oct 29 and credits AI tools helping staff; Anthropic cited confidentiality for the redactions.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "**Claude** Personal Finance beta connects read-only to bank accounts",
+          "summary_md": "US Pro, Max and Ultra users link accounts through Plaid; it can’t move money and reviews up to two years of transactions.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "**DOJ** launches a Super Intelligence Task Force",
+          "summary_md": "It targets unlawful AI use by foreign governments and criminals, plus AI-related fraud.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A5",
+          "headline_md": "**Google** ships **Gemini Omni 1.2 Flash** video, 15-second clips at **$0.07/sec**",
+          "summary_md": "Pricing for 720p video is cut 30% and it supports iterative edits through follow-up prompts.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "**Apple** opens **Siri AI** to all third-party developers in the **iOS 27.3** beta",
+          "summary_md": "Apps expose actions through App Intents and can add “app skills” for multi-step workflows; App Store submissions for these open in spring.",
+          "source": {
+            "name": "Apple Developer",
+            "url": "https://developer.apple.com/news/?id=gdk2umrf"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "**Google** makes **Gemini** and **Search** opt-in for K–12 school accounts after backlash",
+          "summary_md": "Schools can keep Search without Gemini, but AI Mode and AI Overviews stay; there’s no AI-free Search option.",
+          "source": {
+            "name": "Ars Technica",
+            "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "**Meta** lets US users video chat with their **Muse** AI avatar",
+          "summary_md": "The avatar answers with facial expressions and gestures, supports interruptions and offers hundreds of voices.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": "_Quote times are AZ. US jobs report is due 6:30 AM AZ._",
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Thu close: **Dow −3.44%**, **S&P −4.36%**, **Nasdaq −5.52%**",
+          "summary_md": "Dow 51,523.06, S&P 500 7,353.73 and Nasdaq 24,315.00 were each the worst day since April 2025; the Nasdaq is in correction, with Nvidia and Qualcomm down over 9%.",
+          "source": {
+            "name": "AP / CNBC",
+            "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-afe254c608c3d1fe2ea792812ba9765a"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Fri ~4:59 AM AZ: Nasdaq-100 futures **+1.7%**, S&P **+0.4%**, Dow **−0.9%**",
+          "summary_md": "Chip stocks are bouncing after the rout while the jobs report caps gains; VIX closed Thursday at 28.2.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Asia routs: **Nikkei ~−6%**, **Kospi ~−6.7%**, **Taiex −4.5%**",
+          "summary_md": "Fri morning, per the Guardian’s live blog (~4:59 AM AZ); the FTSE 100 was down about 1.75% at one point.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "**Brent $96.93**, **gold $4,063**, **Bitcoin ~$75,692**",
+          "summary_md": "Brent −1.38% and WTI $89.17 at 1:38 AM AZ (down from above $110 Monday); spot gold −0.6% at 7:48 PM AZ Thu; Bitcoin −6.2% in 24h at about 9:45 PM AZ Thu.",
+          "source": {
+            "name": "CNBC / CryptoTicker",
+            "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 4% | 4% | 4% | 4% | 2% | 3% | 3% | 4% | 8% | 9% | 5% |\n| Show Low | 12% | 12% | 12% | 30% 🌧 | 30% 🌧 | 30% 🌧 | 53% 🌧 | 53% 🌧 | 53% 🌧 | 65% 🌧 | 65% 🌧 | 65% 🌧 | 36% 🌧 | 36% 🌧 | 36% 🌧 | 31% 🌧 | 31% 🌧 | 31% 🌧 | 4% |\n| Snowflake | 12% | 12% | 12% | 24% 🌧 | 24% 🌧 | 24% 🌧 | 51% 🌧 | 51% 🌧 | 51% 🌧 | 66% 🌧 | 66% 🌧 | 66% 🌧 | 34% 🌧 | 34% 🌧 | 34% 🌧 | 29% 🌧 | 29% 🌧 | 29% 🌧 | 3% |\n\n_Chance of precipitation by hour (AZ). Source: [api.weather.gov hourly forecast](https://api.weather.gov/gridpoints/FGZ/128,40/forecast/hourly), fetched 5:06 AM AZ Fri Nov 6, 2026._",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**Phoenix**: high **78°F**, low **57°F** (overnight), sunny",
+          "summary_md": "Chance of precipitation 0–9% through the day (0.00 in expected); no active alerts.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.0740"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Show Low**: high **55°F**, low **36°F**, showers and thunderstorms likely",
+          "summary_md": "Rain showers from ~8 AM then thunderstorms likely, 70% chance, about 0.07 in expected and no snow; no active alerts.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "**Snowflake**: high **56°F**, low **35°F**, showers and thunderstorms likely",
+          "summary_md": "Rain showers from ~8 AM then thunderstorms likely, 70% chance, about 0.05 in expected and no snow; no active alerts.",
+          "source": {
+            "name": "weather.gov",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5131&lon=-110.0786"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "The Guardian’s live blog on the global AI-driven sell-off",
+          "summary_md": "Best single read on why the post-midterm rout hit, with bull and bear analyst views on whether Democrats will actually slow the data-center boom.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
