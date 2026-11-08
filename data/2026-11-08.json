@@ -1,0 +1,483 @@
+{
+  "date": "2026-11-08",
+  "title": "Morning Brief - Prem",
+  "intro_md": "Type \"more on G3\" (or any code) in April's chat, or tap More info and paste the request there.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "US disables an Iran-blockade runner in the **Gulf of Oman**, launches **Task Force Iron Gate**",
+          "summary_md": "CENTCOM says a US aircraft disabled the M/V Huda after it tried to breach the blockade, and a new ~20-person task force will target Iran's land and Caspian supply routes.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-8-2026/4115649"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "**Herzog** taps **Gadi Eisenkot** to form Israel's next government",
+          "summary_md": "Neither Netanyahu's bloc nor his rival's won a majority; Eisenkot gets 28 days, plus a possible 14-day extension.",
+          "source": {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/world?page=3"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Gunman kills **six** in Kraków's main square",
+          "summary_md": "Three more bodies were found at the attacker's home, and Poland's interior minister says far-right ideology may have influenced him.",
+          "source": {
+            "name": "BBC News",
+            "url": "https://www.bbc.com/news/world?page=3"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Houthi TV says at least **27** killed in strikes near **Sanaa**",
+          "summary_md": "Houthi-run al-Masirah blamed Saudi warplanes; the Saudi-led coalition said it intercepted a Houthi cruise missile, and the claims weren't independently verified.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261108/5e72b6c3d9be42faa86443b3792082b5/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "**M5.7** quake hits central Japan, **20+** injured",
+          "summary_md": "The 1:04 a.m. local quake centered in western Shizuoka registered upper 5 in Aichi; no tsunami warning.",
+          "source": {
+            "name": "Kyodo News",
+            "url": "https://english.kyodonews.net/articles/-/90712"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W6",
+          "headline_md": "Heavy rain floods ~**70,000** tents in Gaza",
+          "summary_md": "Gaza's media office says shelters washed away in 12 hours, with aid shortages hampering the response.",
+          "source": {
+            "name": "Devdiscourse (Reuters summary)",
+            "url": "https://www.devdiscourse.com/article/international/4003428-reuters-world-news-summary"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W7",
+          "headline_md": "Update: ousted Paraguay president **Santiago Peña** formally charged",
+          "summary_md": "Prosecutors charged him with breach of trust tied to the Ueno Bank collapse.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261108/5e72b6c3d9be42faa86443b3792082b5/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "**Berkshire Hathaway** Q3 operating earnings **$12.71B**; buybacks more than double to **$9.6B**",
+          "summary_md": "Berkshire shares rose 5%+ this week while the S&P fell almost 2.7%, as money rotated out of AI-heavy tech.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "AP: midterm results reshuffled Wall Street winners and losers",
+          "summary_md": "AI, defense and oil stocks fell on expectations of tighter data-center rules and an end to the Iran war, while hospitals and tariff-hit liquor makers rose.",
+          "source": {
+            "name": "AP via LancasterOnline",
+            "url": "https://lancasteronline.com/business/stock_market/ap-business-summarybrief-at-11-44-a-m-est/article_ed6cd4ac-4898-521c-8839-1e2a286feecb.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "NASA's **$10B** CLPS 2 lunar contract picks vendors including **ispace U.S.** and **Firefly**",
+          "summary_md": "The 10-year master contract lets selected companies bid on Moon delivery missions.",
+          "source": {
+            "name": "NewsForAgent",
+            "url": "https://newsforagent.com/news/2026-11-07"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "**Poppy Playtime Chapter 5** lands on Android and iOS",
+          "summary_md": "The horror series' latest chapter is out on mobile.",
+          "source": {
+            "name": "iXBT Games",
+            "url": "https://ixbt.games/en/news/2026/11/07/xaggi-vaggi-snova-vysel-na-oxotu-piataia-glava-poppy-playtime-dobralas-do-android-i-ios.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "**Call of Duty: Mobile** 7th anniversary Season 10 brings **Verdansk** and **Gulag** on Nov 11",
+          "summary_md": "It's a big Battle Royale overhaul for the anniversary season.",
+          "source": {
+            "name": "GamingonPhone",
+            "url": "https://gamingonphone.com/news/call-of-duty-mobile-celebrates-7th-anniversary-with-verdansk-gulag-massive-battle-royale-changes-and-more/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "Nexon's **TalesWeaver** is getting a mobile MMORPG",
+          "summary_md": "A focus-group test is set for December in Korea, with sign-ups through Nov 15.",
+          "source": {
+            "name": "GamingonPhone",
+            "url": "https://gamingonphone.com/news/nexons-beloved-talesweaver-ip-is-getting-a-mobile-mmorpg-adaptation-focus-group-test-set-for-december-in-korea/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "Sony delays **PlayStation Pulse Elevate** speakers indefinitely",
+          "summary_md": "The delay came less than a week before launch; the same roundup notes Warzone is now out on Switch 2.",
+          "source": {
+            "name": "Games Newswire",
+            "url": "https://newswire.games/2026/11/07/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: no new public repo or release from the r/decomps developer found today. GitHub search turned up only older Wii U recomp projects (CafeRecomp, nWiiURecomp). r/decomps itself couldn't be read this run (the RSS fetch timed out).",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "**Hookshot**: NotRexed's native PC recomp of the **Switch 2** *Ocarina of Time* remake",
+          "summary_md": "It statically recompiles the game's Arm code into a Windows build you make from your own copy, adding frame gen, upscaling and ultrawide; the dev reports ~50 fps without frame gen on a Ryzen 7600X + RTX 4060 Ti, and three new builds shipped overnight (new installer, no Visual Studio needed, AMD black-screen fix).",
+          "source": {
+            "name": "XDA Developers",
+            "url": "https://www.xda-developers.com/zelda-ocarina-of-time-alread-running-on-pc-with-dlss-5-frame-generation/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "**Nxnative** adds Switch 2 support on Mac, running *Ocarina of Time* smoothly",
+          "summary_md": "It runs the game's ARM64 code directly on Apple chips and translates graphics to Metal, and clips show 60 fps in the Great Deku Tree.",
+          "source": {
+            "name": "XDA Developers",
+            "url": "https://www.xda-developers.com/zelda-ocarina-of-time-alread-running-on-pc-with-dlss-5-frame-generation/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "Recomp week: **271** releases, including **Virtua Fighter Recomp v1.6.0**, **TotK Recomp v0.3.13** and **NSMB Wii Multiplayer v0.5.0**",
+          "summary_md": "Also new are SMM2 Recomp v0.7.10, Ratchet & Clank: Tools of Destruction Recompiled v1.2.0, ps2-native-recomp v0.0.2 and a fresh Xenia Canary build.",
+          "source": {
+            "name": "Recomp (This week)",
+            "url": "https://recompsoftware.com/this-week/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Update: **Godzilla Minus Zero** opens to ~**$32M** (Nov 6–8 est.), a record",
+          "summary_md": "That's the biggest domestic opening ever for a live-action foreign-language film, with an A CinemaScore and 74% of the gross from IMAX and premium screens.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "**The Cat in the Hat** takes No. 2 with ~**$20M**",
+          "summary_md": "WB's animated film got an A CinemaScore but 48% from critics on Rotten Tomatoes.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "**Drummer Boy** ~**$8.8M** at No. 3; **You Can See Everything** ~**$7.8M**, total **$78.7M**",
+          "summary_md": "A24's doc is set to pass March of the Penguins ($77.4M), and some now see a $100M shot.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "**Ramayana: Rise of a Legend** ~**$7.3M** three-day (**$10.8M** total); **Wild Horse Nine** ~**$4.5M**",
+          "summary_md": "Ramayana is the widest North American release for an Indian film; Wild Horse Nine is 89% on RT.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "Weekend total ~**$114M**, the best first November weekend since Covid",
+          "summary_md": "It's up 40% from the same weekend last year.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "**OpenAI** banks **$11B** first tranche at a **$1.25T** valuation",
+          "summary_md": "The round could reach $20B; OpenAI had sought $30B at $1.4T before the AI selloff, and Anthropic is reportedly moving toward an IPO.",
+          "source": {
+            "name": "Daily Summary Of",
+            "url": "https://dailysummaryof.com/ai/2026-11-07"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "OpenAI releases **BioBasicsBench** for wet-lab analysis",
+          "summary_md": "GPT-6 Astra scored 66.7% vs 43.8% for GPT-5.6 Sol on 100 lab tasks, and OpenAI says models still stumble on controls and imaging.",
+          "source": {
+            "name": "AI SI Daily",
+            "url": "https://aisidaily.com/daily/ai-daily-2026-11-07/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "**Cohere** valued at **US$25.5B** as Canada and Nvidia back its Series E",
+          "summary_md": "Canada committed up to CAD1.6B in equity in a round targeting up to CAD7B.",
+          "source": {
+            "name": "AI Magazine",
+            "url": "https://aimagazine.com/news/this-weeks-top-five-stories-in-ai-week-1-november"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "**Meta** and China's **Fourier** built a humanoid robot prototype, \"Max\"",
+          "summary_md": "The Information reports the 106-lb robot took three months, and a second version is underway.",
+          "source": {
+            "name": "AI Magazine",
+            "url": "https://aimagazine.com/news/this-weeks-top-five-stories-in-ai-week-1-november"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "Apple ships five products Nov 6, including its first **OLED touchscreen MacBook Pros**",
+          "summary_md": "Also out: an OLED iPad mini (A20 Pro), an M6 iMac and an M6 14-inch MacBook Pro, with HomeView and a new Apple TV 4K coming Nov 13.",
+          "source": {
+            "name": "MacRumors",
+            "url": "https://www.macrumors.com/2026/11/07/top-stories-apple-product-launches/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "**iOS 27.3** beta adds Safari vertical tabs, Adaptive Dark Mode and Siri AI tweaks",
+          "summary_md": "The revamped Health app is back and due before year-end.",
+          "source": {
+            "name": "MacRumors",
+            "url": "https://www.macrumors.com/2026/11/07/top-stories-apple-product-launches/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "WSJ: the AI-driven memory shortage gives flash suppliers leverage over Apple",
+          "summary_md": "Shortages and high prices are expected to persist through 2030.",
+          "source": {
+            "name": "MacRumors",
+            "url": "https://www.macrumors.com/2026/11/07/top-stories-apple-product-launches/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "Xbox tests using your phone as a controller on smart TVs",
+          "summary_md": "It's part of a push to make cloud gaming easier to reach.",
+          "source": {
+            "name": "Games Newswire",
+            "url": "https://newswire.games/2026/11/07/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": "US markets are closed for the weekend; there are no fresh oil or gold quotes since Friday's settle (covered yesterday).",
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Week: all three US indexes posted weekly losses; S&P **−~2.7%**",
+          "summary_md": "Friday close (4 PM ET / 2 PM AZ): the Philadelphia chip index rose 4.2% and Nvidia gained nearly 3% after its worst day since Jan 2025.",
+          "source": {
+            "name": "Business Standard",
+            "url": "https://www.business-standard.com/markets/news/wall-street-rebounds-as-chip-stocks-rally-after-heavy-ai-related-selloff-126110700047_1.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "**Bitcoin** ~**$75,900.71** (+0.19%)",
+          "summary_md": "Quoted Sun Nov 8; the page doesn't show an exact time.",
+          "source": {
+            "name": "Exa Markets",
+            "url": "https://exa.ai/library/markets/crypto/BTC"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Show Low | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\n_Source: api.weather.gov hourly forecasts (probabilityOfPrecipitation), fetched 5:03 AM AZ Sun Nov 8._",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**Phoenix**: sunny, **82°** / **59°**, 0% precip",
+          "summary_md": "There are no active alerts and winds are light.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Show Low**: sunny, **62°** / **32°**, 0% precip",
+          "summary_md": "Gusts up to 20 mph and no alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "**Snowflake**: sunny, **63°** / **31°**, 0% precip",
+          "summary_md": "Gusts up to 18 mph and no alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "\"Houston, we have a wardrobe problem\": NASA's Moon spacesuits may not be ready for 2028",
+          "summary_md": "This Washington Post deep dive into Axiom's troubled suit program shows how one piece of hardware could slip the Artemis landing.",
+          "source": {
+            "name": "The Washington Post",
+            "url": "https://www.washingtonpost.com/politics/2026/11/07/nasas-new-moon-spacesuits-may-not-be-ready-2028-artemis-landing/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
