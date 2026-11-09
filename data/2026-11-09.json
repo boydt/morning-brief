@@ -1,0 +1,516 @@
+{
+  "date": "2026-11-09",
+  "title": "Morning Brief - Prem",
+  "intro_md": "Type \"more on G3\" (or any code) in April's chat, or tap More info and paste the request there, and she'll dig in.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Trump says new **Iran** strikes \"highly unlikely\" if talks progress",
+          "summary_md": "He told CNN further action likely isn't needed but didn't rule it out; Qatar's PM meets him in the Oval Office Monday to push mediation.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-9/4116449"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "**COP31** climate talks open in Antalya, Türkiye",
+          "summary_md": "The UN climate conference runs Nov 9–20.",
+          "source": {
+            "name": "NPR",
+            "url": "https://www.npr.org/programs/morning-edition/nx-s1-5961637/morning-edition-for-november-9-2026?showDate=2026-11-09"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Egypt train collision in Giza kills **7**, injures **112**",
+          "summary_md": "Two trains collided Sunday in Giza governorate, Egypt's health ministry said.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261109/e1d906afa36f4aa7b8e1eed37bad74d3/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Houthis claim missile and drone strikes on **Riyadh** airport and Aramco sites",
+          "summary_md": "The Saudi-led coalition said it intercepted two ballistic missiles aimed at Riyadh.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261109/e1d906afa36f4aa7b8e1eed37bad74d3/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "South Africa's **ANC** stays largest party at **30.76%** in local elections",
+          "summary_md": "That's down more than 14 points from 2021; the DA took 24.64% and Zuma's MK 9.76%.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261109/e1d906afa36f4aa7b8e1eed37bad74d3/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W6",
+          "headline_md": "DR Congo military court sentences **66** soldiers to death",
+          "summary_md": "They were convicted on three counts including cowardice, local media reported.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-9/4116449"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "**Nvidia** board opens independent probe after reports CEO **Jensen Huang** was targeted by a foreign intelligence effort",
+          "summary_md": "Huang admitted a personal relationship and apologized to staff; House chairs want a closed-door briefing Nov 18.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "**Crédit Agricole** proposes merging its Italian arm with **Banco BPM**",
+          "summary_md": "The deal would create Italy's third-largest bank and lift Crédit Agricole's stake from 29.6% to about 45%.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "Fed's **Musalem** calls inflation the top concern; December hike odds near **77%**",
+          "summary_md": "Chicago Fed's Goolsbee also called inflation the economy's biggest problem after a strong jobs report.",
+          "source": {
+            "name": "Active Investor",
+            "url": "https://activeinvestormag.com/day/2026-11-08/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "China's **Huaxin** to buy Brazil's **CSN Cimentos** for **$1.64B**",
+          "summary_md": "It would be China's first entry into Brazil's cement market, pending approvals.",
+          "source": {
+            "name": "Daily Summary",
+            "url": "https://dailysummaryof.com/business/2026-11-08"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B5",
+          "headline_md": "Poppi founders launch **Jetty** hydration drinks to take on Gatorade",
+          "summary_md": "The self-funded brand sells at Whole Foods, Target and Amazon online.",
+          "source": {
+            "name": "Daily Summary",
+            "url": "https://dailysummaryof.com/business/2026-11-08"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "Square Enix announces **Dragon Quest RPG: The Cursed Tree and the Chosen Isle** for iOS and Android",
+          "summary_md": "More details and the trailer premiere Nov 10.",
+          "source": {
+            "name": "Gematsu",
+            "url": "https://www.gematsu.com/2026/11/dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle-announced-for-ios-android"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "Kabam's **WB All-Star Mayhem** idle RPG starts regional testing this month",
+          "summary_md": "100+ characters from Looney Tunes, DC, Cartoon Network and more; soft launch on iOS and Android in select markets.",
+          "source": {
+            "name": "Licensing.biz",
+            "url": "https://licensing.biz/kabam-announces-wb-all-star-mayhem/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "**My Hero Ultra Rumble Mobile** opens pre-registration",
+          "summary_md": "A separate mobile battle royale with iOS–Android cross-play but no console/PC cross-play.",
+          "source": {
+            "name": "GAMES.GG",
+            "url": "https://games.gg/news/my-hero-ultra-rumble-mobile-teaser/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "HoYoverse's life sim **Petit Planet** launches Dec 4 on PC and mobile",
+          "summary_md": "It features social spaces and AI-powered NPCs; HoYoverse also showed Honkai: Nexus Anima.",
+          "source": {
+            "name": "Digital Today",
+            "url": "https://www.digitaltoday.co.kr/en/view/122717/hoyoverse-unveils-two-new-titles-from-ai-social-to-strategy-combat"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: no public repo or release from the r/decomps poster found today (r/decomps itself couldn't be loaded directly this run).",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "**NX2navi**: a second native PC recomp of the Switch 2 *Ocarina of Time* remake",
+          "summary_md": "tangerineturtle1's Windows build adds DLSS/DLAA, FSR 3.1 frame gen, HDR, 21:9/32:9 and precompiled shaders; early but playable at 60+ fps.",
+          "source": {
+            "name": "Wccftech",
+            "url": "https://wccftech.com/zelda-ocarina-of-time-remake-pc-recompilation-switch-2-emulator-ps5/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "**EglantinePS5** fork runs Switch 2 games on jailbroken PS5s",
+          "summary_md": "It boots *Ocarina of Time* and others, but frame rates are poor and crashes frequent.",
+          "source": {
+            "name": "Wccftech",
+            "url": "https://wccftech.com/zelda-ocarina-of-time-remake-pc-recompilation-switch-2-emulator-ps5/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "**shadPS4** posts a new pre-release build",
+          "summary_md": "Pre-release 3d007aa landed Nov 8 on top of v0.21.0.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/shadps4-emu/shadPS4/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "**Dolphin 2609b** released",
+          "summary_md": "A new Dolphin build dropped Nov 8.",
+          "source": {
+            "name": "Planet Emulation",
+            "url": "https://www.planetemu.net/en/news/08-11-2026-dolphin-v2609b"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "**Xenia** updates to v1.0.2844",
+          "summary_md": "The Xbox 360 emulator shipped a new build in today's Git roundup.",
+          "source": {
+            "name": "Emu-France",
+            "url": "https://www.emu-france.com/news/144388-www-mini-sac-de-git-2026-11-08/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Update: **Godzilla Minus Zero** now at **$31.6M** for Nov 6–8, a Gkids record",
+          "summary_md": "*The Cat in the Hat* is at $20.5M and *Drummer Boy* $9.3M in Deadline's latest numbers.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "This weekend: **Ebenezer: A Christmas Carol** tracks ~**$22M**",
+          "summary_md": "*How to Rob a Bank* tracks ~$10M and *Victorian Psycho* ~$4M (Nov 13); Sony's *Ghost Soldier* opens Wed at ~$4.4M.",
+          "source": {
+            "name": "Box Office Theory",
+            "url": "https://boxofficetheory.com/box-office-tracking-forecasts-ebenezer-hunger-games-sunrise-on-the-reaping-focker-in-law/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "**Hunger Games: Sunrise on the Reaping** tracks **$116M** for Nov 20",
+          "summary_md": "Range is $105M–$140M, chasing *Michael*'s $97.2M as Lionsgate's top 2026 debut.",
+          "source": {
+            "name": "Box Office Theory",
+            "url": "https://boxofficetheory.com/box-office-tracking-forecasts-ebenezer-hunger-games-sunrise-on-the-reaping-focker-in-law/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "**Wild Horse Nine** holds **94%** on Rotten Tomatoes",
+          "summary_md": "Martin McDonagh's Sam Rockwell spy film is one of 2026's highest-rated thrillers.",
+          "source": {
+            "name": "Collider",
+            "url": "https://collider.com/wild-horse-nine-rotten-tomatoes-score-is-it-good/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "**Anthropic** IPO investors push valuation toward **$1.2–1.3T**",
+          "summary_md": "Reports say buyers are talking down a $1.5T figure; no price range or date has been filed.",
+          "source": {
+            "name": "ACTA Daily",
+            "url": "https://actadaily.com/2026-11-08"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "**Google** buys Crusoe's unfinished Wyoming data center site, plans **$17B** build",
+          "summary_md": "Crusoe will still develop another Google campus near Amarillo, Texas.",
+          "source": {
+            "name": "Kill The AI",
+            "url": "https://killtheai.com/news/top-10-ai-news-today-november-8-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "Elvis and Eminem rights holders sue **Suno** over AI music clones",
+          "summary_md": "The new suits target AI-generated songs imitating the artists.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "**Palo Alto Networks** in talks to buy AI-agent security startup **Clutch** for **$500M**",
+          "summary_md": "Clutch secures AI agents' access to corporate systems.",
+          "source": {
+            "name": "Kill The AI",
+            "url": "https://killtheai.com/news/top-10-ai-news-today-november-8-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "Apple is racing to make **Siri** more agentic",
+          "summary_md": "The Verge reports Apple is pushing Siri toward taking actions in apps for users.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "iOS 27.3 beta hints AI chatbots may come to Apple's **HomeView**",
+          "summary_md": "Code in the beta points to chatbot support in the home app.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Apple reportedly trims engineers' daily AI-tool budget from **$300** to **$200**",
+          "summary_md": "Bloomberg says deeper cuts are being considered but unconfirmed.",
+          "source": {
+            "name": "Mind and Machine Weekly",
+            "url": "https://mindandmachineweekly.substack.com/p/mind-and-machine-weekly-8-november"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "**Dow futures +538 (1.1%)**, S&P futures +0.7%, Nasdaq 100 +0.4% early Monday",
+          "summary_md": "Lower oil lifted futures ahead of CPI and AI earnings this week (CNBC, early Monday).",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Oil slides: **WTI $88.17** (−~3%), **Brent $94.94** (−3.4%)",
+          "summary_md": "Quoted in CNBC's early-Monday update.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "**Nikkei** rebounds **1.7%** after Friday's ~6% drop",
+          "summary_md": "At 58,409 as of 5:27 PM AZ Sunday, led by machinery and financials.",
+          "source": {
+            "name": "Narrative Flow Intel",
+            "url": "https://www.narrativeflowintel.com/evening-edition-sunday-november-8-2026-7-50-pm-et/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "**Gold $4,108** (+1.29%); **Bitcoin ~$74,416** (−0.46%)",
+          "summary_md": "Gold quoted 5:01 AM AZ Monday; Bitcoin early Monday.",
+          "source": {
+            "name": "Exa Markets",
+            "url": "https://exa.ai/library/markets/commodity/gold?currency=USD"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Show Low | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\n*Hourly chance of precipitation from the api.weather.gov forecastHourly endpoint, fetched 5:00 AM AZ.*",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**Phoenix**: sunny, **83°** / **59°**, 0% precip",
+          "summary_md": "No active alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Show Low**: sunny, **62°** / **29°**, 0% precip",
+          "summary_md": "No active alerts; a freeze-cold night.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "**Snowflake**: sunny, **62°** / **29°**, 0% precip",
+          "summary_md": "No active alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "Why decomp.dev is shutting down: \"The game reverse engineering community is the latest casualty of AI\"",
+          "summary_md": "A clear look at how AI-rushed forks and ports are straining the decomp scene behind the recomps you follow.",
+          "source": {
+            "name": "Engadget",
+            "url": "https://www.engadget.com/2307604/game-reverse-engineering-community-latest-ai-casualty/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
