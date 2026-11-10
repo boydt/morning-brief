@@ -1,0 +1,472 @@
+{
+  "date": "2026-11-10",
+  "title": "Morning Brief - Prem",
+  "intro_md": "Type \"more on G3\" (or any code) in April's chat, or tap **More info** on an item and paste the request there, and she'll dig in.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "US-brokered **Russia–Ukraine** talks open in Abu Dhabi",
+          "summary_md": "Kushner and Witkoff are mediating the first direct talks in months; the sides remain far apart on territory and security guarantees.",
+          "source": {
+            "name": "AP News",
+            "url": "https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-uae-3d878a3e56d5df5bd198a6d20c824d18"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Update: Trump says the Iran war is \"militarily effectively over\"",
+          "summary_md": "Speaking after meeting Qatar's prime minister, Trump said the US is \"just keeping it the status quo\"; Iran's president says Tehran is open to talks.",
+          "source": {
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com/news/morning-digest-on-november-10-2026/article71684764.ece"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Rep. **Massie** forces a House vote on impeaching **Hegseth**",
+          "summary_md": "The Kentucky Republican filed articles over the Iran war; a vote is expected this week and needs a few GOP votes to pass.",
+          "source": {
+            "name": "CBS News",
+            "url": "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "**12** migrants found dead off Crete; about **105** rescued",
+          "summary_md": "Greek authorities reported the deaths across three separate rescue operations south of the island.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://aa.com.tr/en/world/morning-briefing-nov-10/4118200"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "Flooding swamps tens of thousands of tents in **Gaza**",
+          "summary_md": "The Board of Peace warned of an escalating humanitarian emergency after two days of seasonal flooding.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://aa.com.tr/en/world/morning-briefing-nov-10/4118200"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "**Boeing** to cut about **5%** of its commercial airplane workforce",
+          "summary_md": "Stephanie Pope told staff slower 737 MAX ramps leave the unit overstaffed; cuts mix attrition and layoffs, with notices starting in December.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "Update: **Nvidia** shares fall **4.2%** to an April low over the Huang probe",
+          "summary_md": "Investors are questioning the CEO's future after the board opened an inquiry into whether a foreign intelligence effort targeted him.",
+          "source": {
+            "name": "Reuters via Euronext",
+            "url": "https://live.euronext.com/en/financial-news/stocks-jump-oil-tumbles-nvidia-falls-amid-internal-probe"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "**Mitsui Chemicals** to buy chip-materials maker **JSR** for about **$11.6B**",
+          "summary_md": "It's the biggest deal in Japan's chemicals sector, and Mitsui Chemicals' shares fell 8.5% on the news.",
+          "source": {
+            "name": "ACTA Daily",
+            "url": "https://actadaily.com/2026-11-09"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "**Honda** to invest **$3B** in a new Ohio hybrid plant",
+          "summary_md": "The facility is due to start production in 2029 and build up to 240,000 vehicles a year.",
+          "source": {
+            "name": "Morningstar / Dow Jones",
+            "url": "https://www.morningstar.com/news/dow-jones/2026110913083/dow-jones-top-company-headlines-at-5-pm-et-anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-skydance"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "**Warhammer Survivors** launches on iOS and Android",
+          "summary_md": "Auroch Digital and Poncle's Vampire Survivors-style bullet heaven has 40 characters, 75+ weapons, and a 10% launch discount.",
+          "source": {
+            "name": "Pocket Gamer",
+            "url": "https://www.pocketgamer.com/warhammer-survivors/out-now-on-mobile/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "This week's new mobile games include **Football Manager 27 Touch** on Apple Arcade",
+          "summary_md": "Other Nov 9–15 launches include Lil' Guardsman, Booster Pack Heroes, and Thrifty Business.",
+          "source": {
+            "name": "AppGamer",
+            "url": "https://www.appgamer.com/new-mobile-games-this-week-on-ios-and-android-9-15-november"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "**Delta Force** opens its \"Aurora\" season with a Phantom Blade Zero collab",
+          "summary_md": "Garena's Nov 10 update is live now.",
+          "source": {
+            "name": "Garena",
+            "url": "https://deltaforce.garena.com/en/news/announcement/STZAUY"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: no public repo or release from the r/decomps Wii U lifter author turned up in web searches today, and Reddit's feeds blocked direct reads.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "**Astral Chain PC** recomp posts a new build",
+          "summary_md": "The native Windows x86-64 static recomp of the Switch game (Vulkan, your own dump required) shipped a Nov 10 build and is playable through the story.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/captainj-sparrow/astral-chain-pc-recomp/releases"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "**ps2-native-recomp** reaches v0.0.5",
+          "summary_md": "An early-stage PS2-to-native recompiler pushed a new release on Nov 9.",
+          "source": {
+            "name": "Recomp weekly tracker",
+            "url": "https://recompsoftware.com/this-week/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "**Virtua Fighter Recomp v1.7.0** plus VF2 and VF3 recomp updates",
+          "summary_md": "All three Sega arcade recomps updated on Nov 10, alongside SMM2 Recomp v0.7.11 and Shaolin Monks Recomp v0.5.0.",
+          "source": {
+            "name": "Recomp weekly tracker",
+            "url": "https://recompsoftware.com/this-week/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "**PCSX2 2.9.167** prerelease lands with a Vulkan graphics change",
+          "summary_md": "It's a dev build, not stable; RPCS3, shadPS4, KytyPS5, and DuckStation also kept daily builds flowing.",
+          "source": {
+            "name": "Retro Replay",
+            "url": "https://retro-replay.com/week-in-emulation-november-2-9-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Weekend Nov 6–8: **Godzilla Minus Zero** No. 1 at **$30.6M**",
+          "summary_md": "The Cat in the Hat was second at $20.0M, then Drummer Boy $9.4M and Ramayana $8.9M; A24's You Can See Everything passed $79.4M.",
+          "source": {
+            "name": "Box Office Mojo",
+            "url": "https://www.boxofficemojo.com/weekend/2026W45/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "**Godzilla Minus Zero** earns an **A** CinemaScore and **90%** on Rotten Tomatoes",
+          "summary_md": "Audiences rate it 96% on the Popcornmeter.",
+          "source": {
+            "name": "Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/godzilla_minus_zero"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "This weekend: **How to Rob a Bank** ($8–15M) and **Victorian Psycho** ($2.5–5M) join Ebenezer",
+          "summary_md": "Box Office Theory pins Ebenezer near $22M, with Hunger Games still tracking $100M+ for Nov 20.",
+          "source": {
+            "name": "Box Office Theory",
+            "url": "https://boxofficetheory.com/box-office-tracking-forecasts-ebenezer-hunger-games-sunrise-on-the-reaping-focker-in-law/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "**Skydance** targets **$6B+** in cuts after the Warner Bros. merger",
+          "summary_md": "Savings include $2.2B in overhead and facilities, $1.4B in tech, and $1B in marketing over three years.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "**Anthropic** releases **Claude Fable 5.2** and **Mythos 5.2**",
+          "summary_md": "Output is 30% faster than 5.1 and pricing drops to $8 / $40 per million tokens; Mythos is limited to vetted orgs.",
+          "source": {
+            "name": "The Context",
+            "url": "https://thecontext.dev/en/briefing/2026-11-10/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "**Meta** launches **Muse Ember**, a cheap model for agent busywork",
+          "summary_md": "At $0.10 / $0.50 per million tokens, Meta says it matches Claude Haiku 5.5 at about a third of the cost.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/09/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "**Anthropic** buys **$3.4B** of gas turbines and still plans its IPO",
+          "summary_md": "The Claude maker is joining the natural-gas rush for data center power despite market jitters.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/09/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "Google adds **Google Maps Platform** app-building to **AI Studio**",
+          "summary_md": "Developers can prompt their way to map apps with free sandbox access and no credit card.",
+          "source": {
+            "name": "Google Developers Blog",
+            "url": "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "Apple ships **iOS 27.2.1** with security fixes",
+          "summary_md": "Patches cover Messages, AirPlay, and more; iOS 26.7.3 and watchOS 27.2.1 also went out.",
+          "source": {
+            "name": "9to5Mac",
+            "url": "https://9to5mac.com/2026/11/09/ios-27-2-1-has-fixes-for-security-issues-in-messages-airplay-and-more/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "**Wyndham** exposed customer data through an app security lapse",
+          "summary_md": "TechCrunch reports the hotel giant's app left guest data open.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/09/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Ad tech split: **AppLovin** revenue up **55%** while rivals struggle",
+          "summary_md": "Digiday's Q3 breakdown also has Unity up 32%, led by its Vector AI ad platform.",
+          "source": {
+            "name": "Digiday",
+            "url": "https://digiday.com/media/by-the-numbers-ad-techs-widening-divide-as-applovin-surges-and-rivals-struggle-in-q3/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Futures mixed pre-CPI: **Dow +0.5%**, S&P +0.2%, Nasdaq 100 −0.1%",
+          "summary_md": "Quoted at 3:17 AM ET (1:17 AM AZ); October CPI is due at 8:30 AM ET (6:30 AM AZ).",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-mixed-ahead-100856193.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Monday close: **Dow +1,104 (2.15%) to 52,389.75**",
+          "summary_md": "The S&P 500 rose 2.35% to 7,549.94, its best day since April, and the Nasdaq gained 2.74%.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Oil keeps sliding: **WTI $84.48** (−2.2%)",
+          "summary_md": "Quoted 08:55 GMT (1:55 AM AZ); Brent was near $91 after Monday's 5.9% drop.",
+          "source": {
+            "name": "Capital Street FX",
+            "url": "https://www.capitalstreetfx.com/market-analysis/daily-commodity-report-10-nov-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "**Gold $4,076** (−1.5%), **Bitcoin ~$74,141** (−1.5%)",
+          "summary_md": "Gold quoted 12:04 UTC (5:04 AM AZ); traders now price a December Fed hike.",
+          "source": {
+            "name": "CoinDesk",
+            "url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Show Low | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\nChance of precipitation by hour (AZ). Source: [api.weather.gov hourly forecast](https://api.weather.gov), fetched 5:04 AM AZ, Nov 10.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**Phoenix**: sunny, **83°** / **58°**, 0% precip",
+          "summary_md": "Sunny today with light winds and a clear night; no active alerts.",
+          "source": {
+            "name": "NWS Phoenix",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Show Low**: sunny, **60°** / **31°**, 0% precip",
+          "summary_md": "Sunny with northeast wind up to 9 mph, mostly clear tonight; no active alerts.",
+          "source": {
+            "name": "NWS Flagstaff",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X3",
+          "headline_md": "**Snowflake**: fog early, then sunny, **61°** / **31°**, 0% precip",
+          "summary_md": "Patchy fog before 8 AM, then sunny; fog may return after 2 AM tonight. No active alerts.",
+          "source": {
+            "name": "NWS Flagstaff",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=34.5133&lon=-110.0782"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "All the takeaways about **GTA VI** from Take-Two's earnings call",
+          "summary_md": "GamesBeat lays out what Zelnick said about \"unprecedented\" pre-orders and the Nov 19 launch, a useful read on where game spending is headed this holiday.",
+          "source": {
+            "name": "GamesBeat",
+            "url": "https://gamesbeat.com/all-the-takeaways-on-gta-from-the-take-two-earnings-call-strauss-zelnick/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
