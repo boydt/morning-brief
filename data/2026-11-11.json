@@ -1,0 +1,571 @@
+{
+ "date": "2026-11-11",
+ "title": "Morning Brief - Prem",
+ "intro_md": "Type \"more on G3\" (or any code) in April's chat, or tap **More info** on an item and paste the request there, and she'll dig in.",
+ "sections": [
+  {
+   "id": "world",
+   "title": "World",
+   "icon": "🌍",
+   "body_md": null,
+   "items": [
+    {
+     "id": "W1",
+     "headline_md": "Update: House blocks the bid to impeach **Hegseth**, for now",
+     "summary_md": "The House torpedoed Rep. Massie's impeachment effort against Defense Secretary Pete Hegseth.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W2",
+     "headline_md": "US Army soldier arrested in the UK on suspicion of spying for Russia",
+     "summary_md": "A US soldier was arrested in Britain on suspicion of espionage for Russia.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W3",
+     "headline_md": "**Bessent** reportedly moved to a military base over Iranian threats",
+     "summary_md": "Treasury Secretary Scott Bessent was reportedly relocated to a military base over threats on his life from Iran.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W4",
+     "headline_md": "Hundreds of schools in **Italy** and the **UK** evacuated over hoax bomb threats",
+     "summary_md": "Schools in both countries were cleared after what officials called hoax bomb threats.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W5",
+     "headline_md": "**Kennedy** family sues to block Trump's arch near JFK's grave",
+     "summary_md": "The Kennedys argue the planned arch would cast a shadow on JFK's grave at Arlington.",
+     "source": {
+      "name": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "title": "Business",
+   "icon": "💼",
+   "body_md": null,
+   "items": [
+    {
+     "id": "B1",
+     "headline_md": "Update: **Anthropic** sets its IPO range at **$70–$78**, trading targeted for **Nov 19**",
+     "summary_md": "The range implies a valuation of about $1.4 trillion, and an Australian retail offering opened Wednesday.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B2",
+     "headline_md": "**CoreWeave** beats on revenue and raises guidance",
+     "summary_md": "The neocloud's Q3 beat and higher 2026 outlook eased AI-slowdown worries; shares jumped about 15% premarket.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B3",
+     "headline_md": "US credit card debt hits a record **$1.29 trillion**",
+     "summary_md": "New York Fed research shows card balances at an all-time high, and HELOC balances posted their biggest jump since 2005.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B4",
+     "headline_md": "US gas prices fall below **$4** for the first time since July",
+     "summary_md": "The national average slipped under $4 a gallon.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B5",
+     "headline_md": "**Alibaba** plans to list **T-Head**, its Nvidia-rival chip unit",
+     "summary_md": "Alibaba announced plans to take its chip business public.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "games",
+   "title": "Games & mobile",
+   "icon": "🎮",
+   "body_md": null,
+   "items": [
+    {
+     "id": "G1",
+     "headline_md": "**Ocarina of Time** remake sells **5.2M+** in four days",
+     "summary_md": "Nintendo says it's the fastest-selling Switch 2 game it has published.",
+     "source": {
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net/zelda-ocarina-of-time-switch-2-sales-nintendo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G2",
+     "headline_md": "Mobile publisher **Fortis Games** shuts down; up to **440** workers affected",
+     "summary_md": "The mobile studio has closed, with as many as 440 staff hit.",
+     "source": {
+      "name": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/mobile-publisher-fortis-games-shuts-down-up-to-440-workers-affected"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G3",
+     "headline_md": "EU's draft **Digital Fairness Act** targets loot boxes, virtual currencies and pay-to-win",
+     "summary_md": "A leaked draft would get tough on monetization tactics that are common in mobile games.",
+     "source": {
+      "name": "MobileGamer.biz",
+      "url": "https://mobilegamer.biz/eus-draft-digital-fairness-act-takes-aim-at-loot-boxes-virtual-currencies-and-pay-to-win/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G4",
+     "headline_md": "**PlayStation** cancels live-service shooter **Fairgames**",
+     "summary_md": "Sony has scrapped the long-troubled heist shooter.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G5",
+     "headline_md": "**GTA 6** becomes the most pre-ordered game in PlayStation Store history",
+     "summary_md": "Rockstar's game set the PS Store pre-order record.",
+     "source": {
+      "name": "Eurogamer",
+      "url": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "emulation",
+   "title": "Video Game Emulation",
+   "icon": "🕹️",
+   "body_md": "Wii U lifter watch: no public repo or release from u/Mindstormman's r/decomps Wii U lifter turned up in today's web, GitHub or r/decomps checks.",
+   "items": [
+    {
+     "id": "E1",
+     "headline_md": "Switch 2: **Recompia** (Pokopia PC recomp) posts **v0.10.4-beta.1** and moves to **Dittobyte**",
+     "summary_md": "The pre-release (2:58 AM AZ) adds Discord Rich Presence in the launcher and a frame monitor that catches mid-run slowdowns.",
+     "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Dittobyte/Recompia/releases/tag/v0.10.4-beta.1"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E2",
+     "headline_md": "Switch: **MHGU Recomp 0.16.1** adds crossplay lag compensation with emulator players",
+     "summary_md": "Monster Hunter Generations Ultimate's PC recomp now works with a Forge mod so friends on Ryujinx or Eden get lag compensation too (2:06 AM AZ).",
+     "source": {
+      "name": "GitHub",
+      "url": "https://github.com/morerokk/MHGURecomp/releases/tag/0.16.1"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E3",
+     "headline_md": "Switch: **XCX Recomp v0.1.18** adds an in-game mod manager",
+     "summary_md": "Xenoblade Chronicles X's PC recomp can now install, update and toggle mods from the F1 menu (11:18 PM AZ Tue).",
+     "source": {
+      "name": "GitHub",
+      "url": "https://github.com/jmars125/xcx-recomp/releases/tag/v0.1.18"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E4",
+     "headline_md": "PS3: **shaderscan v1.0.0** pre-builds shader caches for PS3 recomp ports",
+     "summary_md": "The open-source tool from the Resistance trilogy PC port author extracts shaders from your own game files to end first-run stutter.",
+     "source": {
+      "name": "r/decomps",
+      "url": "https://www.reddit.com/r/decomps/comments/1xtc5aw/shaderscan_v100_is_out_opensource_tool_that/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E5",
+     "headline_md": "PS2: **Jet Li: Rise to Honor** static recomp is playable through level one at 60 fps",
+     "summary_md": "A new PS2 static recompilation project shared early progress on r/decomps.",
+     "source": {
+      "name": "r/decomps",
+      "url": "https://www.reddit.com/r/decomps/comments/1xtb3ky/jet_li_rise_to_honor_ps2_static_recompilation/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "movies",
+   "title": "Movies",
+   "icon": "🎬",
+   "body_md": "No new weekend box office since yesterday's brief (Nov 6–8); next weekend's numbers land Sunday.",
+   "items": [
+    {
+     "id": "V1",
+     "headline_md": "**How to Rob a Bank** first reactions are mostly positive ahead of its **Nov 13** opening",
+     "summary_md": "Critics call David Leitch's heist comedy with Nicholas Hoult slick and fun, with some calling it messy; full reviews drop today.",
+     "source": {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/david-leitch-how-to-rob-a-bank-first-reactions-1236752753/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V2",
+     "headline_md": "Documentary **NAZA** passes **1.5 million** cinema admissions worldwide",
+     "summary_md": "The film from the No Other Land co-directors is one of 2026's most-watched theatrical docs.",
+     "source": {
+      "name": "Variety",
+      "url": "https://variety.com/2026/film/news/naza-no-other-land-cinema-admissions-1236944995/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V3",
+     "headline_md": "A **You've Got Mail** reboot is in the works at Warner Bros.",
+     "summary_md": "The studio is developing a new take on the 1998 romcom.",
+     "source": {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/youve-got-mail-reboot-warner-bros-1236752627/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V4",
+     "headline_md": "**VisionQuest** finale teases a surprise return in **Avengers: Doomsday**",
+     "summary_md": "The post-credits scene sets up a character comeback for Marvel's next Avengers film.",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/11/visionquest-teases-avengers-doomsday-character-post-credits-scene-1237220017/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V5",
+     "headline_md": "**ITV** cuts **$40M** from content spending as UK ads slump",
+     "summary_md": "The broadcaster trimmed its budget after weak Q3 ad revenue, while its sale to Sky stays on track.",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/11/itv-cutting-budget-weak-advertising-market-q3-results-1237220058/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "icon": "🤖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "A1",
+     "headline_md": "Google releases **Gemini 4 Carbon** with an agent \"swarm\" feature",
+     "summary_md": "The model is rolling out publicly with multi-agent swarms.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A2",
+     "headline_md": "**Anthropic** launches **Claude Meetings**, turning discussions into plans and tasks",
+     "summary_md": "It's part of a push that The Verge describes as Anthropic's own AI office suite.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A3",
+     "headline_md": "**ChatGPT** gets verified **Business Agents** and business profiles",
+     "summary_md": "OpenAI is adding verified agents for businesses, making ChatGPT a bit more like Google.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A4",
+     "headline_md": "New York's AI safety law takes effect for **OpenAI** and **Anthropic**",
+     "summary_md": "Frontier AI labs now face new state oversight in New York.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A5",
+     "headline_md": "**OpenAI** acquires travel startup **Odessia**",
+     "summary_md": "The startup was created by the founder of Sonder.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Tech, app stores & ads",
+   "icon": "📱",
+   "body_md": null,
+   "items": [
+    {
+     "id": "T1",
+     "headline_md": "Apple confirms an outage hitting **iCloud** and other services",
+     "summary_md": "Apple acknowledged an ongoing outage Tuesday affecting iCloud and more.",
+     "source": {
+      "name": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/10/apple-confirms-ongoing-outage-affecting-icloud-and-more/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T2",
+     "headline_md": "**PlayStation Plus** PC app shuts down next month",
+     "summary_md": "Sony is retiring its barely used Windows app.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T3",
+     "headline_md": "**X** launches its own clipping feature to boost influencer engagement",
+     "summary_md": "The new tool lets creators clip content natively on X.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T4",
+     "headline_md": "**Adobe** brings AI agents to Photoshop, Premiere and Firefly, with MCP support in 2027",
+     "summary_md": "Adobe MAX added agentic tools and easier object removal across its creative apps.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T5",
+     "headline_md": "Apple Support Community forums close for good on **Nov 20**",
+     "summary_md": "Apple is shutting down its long-running user help forums.",
+     "source": {
+      "name": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Markets",
+   "icon": "📈",
+   "body_md": null,
+   "items": [
+    {
+     "id": "M1",
+     "headline_md": "Futures up: **Nasdaq 100 +1.9%**, **S&P 500 +0.9%**, **Dow +76 (0.2%)**",
+     "summary_md": "Tech led a rebound on CoreWeave's beat; a December Fed hike is about 90% priced in, and the bond market is closed for Veterans Day (CNBC, 4:29 AM AZ).",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M2",
+     "headline_md": "Tuesday close: **Dow −0.3% to 52,231.89**, **S&P −0.38% to 7,520.93**, **Nasdaq −0.74% to 25,065.87**",
+     "summary_md": "Hot October CPI (+0.4% m/m) and Nvidia weakness dragged stocks lower.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M3",
+     "headline_md": "Movers: **Nvidia +5%** premarket; **Nebius +11.4%**, **Iren +7.9%**",
+     "summary_md": "Nvidia rebounded after a near-10% drop to start the week (CNBC, 4:29 AM AZ).",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M4",
+     "headline_md": "Oil rebounds: **WTI $86.76** (+$1.02), **Brent $92.55** (+$1.08)",
+     "summary_md": "Quoted at 10:51 PM AZ Tue, as Hormuz shipping attacks offset Iran truce hopes.",
+     "source": {
+      "name": "Report.az",
+      "url": "https://report.az/en/finance/key-indicators-of-international-commodity-stock-and-currency-markets-11-11-2026"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M5",
+     "headline_md": "**Gold $4,044.74** (+0.14%); **Bitcoin ~$73,910** (−0.5% in 24h)",
+     "summary_md": "Gold quoted at 5:06 AM AZ (Exa markets) after Tuesday's near-3% drop; Bitcoin from CoinGecko at 5:05 AM AZ.",
+     "source": {
+      "name": "Exa markets",
+      "url": "https://exa.ai/library/markets/commodity/gold?currency=USD"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "weather",
+   "title": "Weather",
+   "icon": "🌤️",
+   "body_md": "| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Phoenix | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Show Low | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Snowflake | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\n_Hourly chance of precipitation from the api.weather.gov hourly forecast, fetched 5:03 AM AZ._",
+   "items": [
+    {
+     "id": "X1",
+     "headline_md": "**Phoenix**: sunny, **84°** / **59°**, 0% precip",
+     "summary_md": "Sunny for Veterans Day with a high near 84° and a clear night around 59°; 0% chance of rain or snow and no active alerts.",
+     "source": {
+      "name": "weather.gov",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=33.4484&lon=-112.074"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X2",
+     "headline_md": "**Show Low**: sunny, **59°** / **34°**, 0% precip",
+     "summary_md": "Sunny for Veterans Day with a high near 59° and a clear night around 34°; 0% chance of rain or snow and no active alerts.",
+     "source": {
+      "name": "weather.gov",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=34.2542&lon=-110.0298"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X3",
+     "headline_md": "**Snowflake**: sunny, **59°** / **34°**, 0% precip",
+     "summary_md": "Sunny for Veterans Day with a high near 59° and a clear night around 34°; 0% chance of rain or snow and no active alerts.",
+     "source": {
+      "name": "weather.gov",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=34.5134&lon=-110.0782"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "worth-reading",
+   "title": "Worth reading in full",
+   "icon": "📖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "R1",
+     "headline_md": "The US is winning the AI race. **Jensen Huang** could have blown it",
+     "summary_md": "A clear look at why the Nvidia CEO's scandal matters well beyond one company, for chips, China and the AI race.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  }
+ ]
+}
