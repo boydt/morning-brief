@@ -1,0 +1,538 @@
+{
+  "date": "2026-11-12",
+  "title": "Morning Brief - Prem",
+  "intro_md": "Type \"more on G3\" (or any code) in April's chat, or tap More info and paste the request there, and she'll dig in.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "US envoys **Witkoff** and **Kushner** arrive in Moscow to meet **Putin**",
+          "summary_md": "It follows Abu Dhabi talks where Russia and Ukraine agreed in principle on a new large-scale prisoner exchange.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-12/4121709"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Israel's security cabinet orders the military to prepare for a possible strike on **Iran**",
+          "summary_md": "Iran warned that US bases and interests are within range of its missiles and drones.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-12/4121709"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Iran refuses to hand over its enriched uranium as two more tankers explode in **Hormuz**",
+          "summary_md": "Security chief Mohsen Rezaei said no talks with Washington are under way; the Revolutionary Guards reported the tanker blasts.",
+          "source": {
+            "name": "World Watch",
+            "url": "https://worldwatch.media/en/digest/2026-11-12"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Democrat **Scott Colom** wins Mississippi's Senate race",
+          "summary_md": "He's the state's first Democratic senator in nearly four decades and its first Black US senator since Reconstruction.",
+          "source": {
+            "name": "AP via Yahoo News",
+            "url": "https://sg.news.yahoo.com/ap-top-stories-november-12-103524771.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "Spain holds its first general strike in **14 years** over housing costs",
+          "summary_md": "Millions joined; separately, Congo's Ebola outbreak has passed **11,000** cases and **5,000** deaths, the deadliest in its history.",
+          "source": {
+            "name": "World Watch",
+            "url": "https://worldwatch.media/en/digest/2026-11-12"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "**Nvidia**'s board is preparing to oust CEO **Jensen Huang**, WSJ reports",
+          "summary_md": "The move follows a company probe into an affair with a woman alleged to be a Chinese spy, plus a reported second affair with an Nvidia executive.",
+          "source": {
+            "name": "Dow Jones via Morningstar",
+            "url": "https://www.morningstar.com/news/dow-jones/202611119380/dow-jones-top-company-headlines-at-7-pm-et-nvidia-is-preparing-to-oust-ceo-jensen-huang-united"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "**OpenAI**'s quarterly revenue reportedly tops **$10 billion**, but heavy losses continue",
+          "summary_md": "Its adjusted operating margin improved but it remains far from profitable.",
+          "source": {
+            "name": "Dow Jones via Morningstar",
+            "url": "https://www.morningstar.com/news/dow-jones/202611119380/dow-jones-top-company-headlines-at-7-pm-et-nvidia-is-preparing-to-oust-ceo-jensen-huang-united"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "**Pfizer** signs a **$1.5 billion** deal with **Blackstone** to fund a weight-loss drug",
+          "summary_md": "The money covers development of berobenatide, an investigational obesity treatment.",
+          "source": {
+            "name": "Dow Jones via Morningstar",
+            "url": "https://www.morningstar.com/news/dow-jones/202611119380/dow-jones-top-company-headlines-at-7-pm-et-nvidia-is-preparing-to-oust-ceo-jensen-huang-united"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "**Western Union** scraps its **$500 million** takeover of **Intermex**",
+          "summary_md": "Pushback from California regulators ended the cross-border payments deal.",
+          "source": {
+            "name": "Dow Jones via Morningstar",
+            "url": "https://www.morningstar.com/news/dow-jones/202611119380/dow-jones-top-company-headlines-at-7-pm-et-nvidia-is-preparing-to-oust-ceo-jensen-huang-united"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B5",
+          "headline_md": "NYSE owner ICE and OKX will launch **24/7 tokenized stock trading** on **Nov 23**",
+          "summary_md": "Eligible US customers will be able to trade tokenized versions of 70+ assets.",
+          "source": {
+            "name": "Dow Jones via Morningstar",
+            "url": "https://www.morningstar.com/news/dow-jones/202611119380/dow-jones-top-company-headlines-at-7-pm-et-nvidia-is-preparing-to-oust-ceo-jensen-huang-united"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "Update: **Supercell** and **King** bosses push back on the EU's **Digital Fairness Act**",
+          "summary_md": "The Commission formally proposed it Nov 11; it would switch off paid virtual currencies by default for minors and ban loot boxes and pay-to-win for them, with fines up to 6% of global revenue.",
+          "source": {
+            "name": "Mobilegamer.biz",
+            "url": "https://mobilegamer.biz/supercell-and-king-bosses-warn-eus-digital-fairness-act-would-hurt-players-and-mobile-studios/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "**Lego Digital Play** buys Manchester mobile studio **ForthStar Games**",
+          "summary_md": "The undisclosed deal expands Lego's presence in mobile gaming.",
+          "source": {
+            "name": "FTMQ Gaming",
+            "url": "https://gaming.ftmq.com/story/the-day-in-60-seconds-thursday-12-november-bd9ec1"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "More than **1,600** Rockstar UK staff start voting on union recognition",
+          "summary_md": "The ballot runs Nov 12–26, a week before **GTA VI** launches on Nov 19.",
+          "source": {
+            "name": "The Register",
+            "url": "https://www.theregister.com/software/2026/11/12/rockstar-workers-vote-on-union-recognition-as-gta-vi-launch-looms/5309319"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "Take-Two says **GTA VI** pre-orders are running far above expectations",
+          "summary_md": "It still posted a rare **$54M** quarterly loss, partly on softer NBA 2K27 sales.",
+          "source": {
+            "name": "Video Games Industry Memo",
+            "url": "https://www.videogamesindustrymemo.com/p/four-things-we-learned-at-the-ai"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G5",
+          "headline_md": "**PlayStation 5** passes **100 million** units shipped",
+          "summary_md": "Sony updated its official figures, making it the eighth console to reach the milestone.",
+          "source": {
+            "name": "FTMQ Gaming",
+            "url": "https://gaming.ftmq.com/story/the-day-in-60-seconds-thursday-12-november-bd9ec1"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: still no public repo or release from u/Mindstormman's r/decomps Wii U lifter (an unrelated 0-star toolkit, BlackLineInteractive/nWiiURecomp, turned up on GitHub). The r/decomps feed timed out this morning, so Reddit wasn't read directly.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "Switch 2: **NX2navi v0.9.0** (Ocarina of Time PC recomp) is out with a new shader translator",
+          "summary_md": "Posted this morning; existing installs update in the launcher, and shaders re-translate in the background for a few minutes of play.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/tangerineturtle1/NX2navi/releases/tag/v0.9.0"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "Switch 2: NotRexed's **Hookshot 2.1** brings the Ocarina of Time recomp to Windows and Linux",
+          "summary_md": "Playable from Kokiri Forest on, it needs a mesh-shader GPU and still lists crash and shadow bugs; at least six OoT recomps have gone public in a week.",
+          "source": {
+            "name": "Recomp",
+            "url": "https://recompsoftware.com/this-week/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "Switch 2: **Fritchii v5.8.4** emulator boosts Ocarina of Time performance",
+          "summary_md": "It fixes saves landing in the wrong profile and adds per-game DLSS settings, on top of 5.8's stutter and VRAM fixes.",
+          "source": {
+            "name": "One Percent Lows",
+            "url": "https://www.onepercentlows.com/news/2026-11-11-fritchii-v5-8-4-releases-with-performance-improvements"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "PS5: **KytyPS5** can now swap Sony's PSSR upscaling for **NVIDIA DLSS**",
+          "summary_md": "It works in PS5 Pro mode on RTX cards, and users supply their own DLSS model.",
+          "source": {
+            "name": "VideoCardz",
+            "url": "https://videocardz.com/newz/ps5-emulator-kytyps5-adds-nvidia-dlss-support-to-replace-sonys-pssr-upscaling"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": "Weekend box office for Nov 13–15 lands Sunday; these are forecasts.",
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Johnny Depp's **Ebenezer** is forecast to open to **$20M–$25M** this weekend",
+          "summary_md": "It's Depp's first major studio film since 2018, directed by Ti West.",
+          "source": {
+            "name": "Boxoffice Pro",
+            "url": "https://www.boxofficepro.com/weekend-box-office-preview-johnny-depp-attempts-a-comeback-with-ebenezer/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "**Godzilla Minus Zero** is forecast at **$12M–$17M** in its second weekend",
+          "summary_md": "It opened to **$30.6M**, the best debut ever for a foreign-language live-action film domestically.",
+          "source": {
+            "name": "Boxoffice Pro",
+            "url": "https://www.boxofficepro.com/weekend-box-office-preview-johnny-depp-attempts-a-comeback-with-ebenezer/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Update: **How to Rob a Bank** sits at **44%** on Rotten Tomatoes from 39 reviews",
+          "summary_md": "Wider reviews are cooler than the first reactions; it opens Nov 13, tracking around **$6M–$10M**.",
+          "source": {
+            "name": "Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/how_to_rob_a_bank_2026"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "**Skydance** plans a **$30B+** yearly content spend while layoffs loom",
+          "summary_md": "An HBO Max and Paramount+ bundle comes in early 2027, and Jeremy Latcham replaces Gunn and Safran at DC Studios.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/features/skydance-david-ellison-plan-layoffs-content-spend-1236944352/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "**TSMC** approves up to **$1 billion** to invest in **Anthropic** and **OpenAI**",
+          "summary_md": "It's a bid to broaden its AI exposure beyond making the chips.",
+          "source": {
+            "name": "Dow Jones via Morningstar",
+            "url": "https://www.morningstar.com/news/dow-jones/202611119380/dow-jones-top-company-headlines-at-7-pm-et-nvidia-is-preparing-to-oust-ceo-jensen-huang-united"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "Google launches the **Gemini Decisions API** for fast yes/no and scoring calls",
+          "summary_md": "It evaluates up to 1,000 questions per request and starts at $0.10 per million input tokens.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-12-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "DeepMind unveils **AlphaGenome 2** for cell-level DNA predictions",
+          "summary_md": "It finds nearly twice as many gene-expression variants as before; research use only.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-12-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "Amazon releases **AWS Emulator**, a free local simulator of 200+ services",
+          "summary_md": "Amazon says AI agents wrote all of its code with no human code review.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-12-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A5",
+          "headline_md": "**United Airlines** moves to block third-party AI agents from booking flights",
+          "summary_md": "It cites risks to personal data, unintended purchases and frequent-flyer miles.",
+          "source": {
+            "name": "Malpass",
+            "url": "https://malpass.co/top-ai-stories-2026-11-12/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "**Roku** is quitting the smart home business to focus on streaming",
+          "summary_md": "Days after Fox closed its purchase, it's winding down device sales but will keep supporting existing gear.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/streaming/1031590/roku-is-done-with-the-smart-home"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "Google tests a **View app screenshots** link in mobile app-install search ads",
+          "summary_md": "Users can preview store screenshots before installing; it may be a small test.",
+          "source": {
+            "name": "PPC News Feed",
+            "url": "https://ppcnewsfeed.com/ppc-news/2026-11/google-tests-view-app-screenshots-in-mobile-search-ads/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "IBM announces its **Nighthawk r3** quantum processor with **520** qubits",
+          "summary_md": "It's built to run 10,000 quantum operations.",
+          "source": {
+            "name": "Techmeme",
+            "url": "https://www.techmeme.com/261112/h0630"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "Meta infrastructure chief **Santosh Janardhan** will leave in early 2027",
+          "summary_md": "Former AWS exec Dave Brown becomes head of infrastructure.",
+          "source": {
+            "name": "Techmeme",
+            "url": "https://www.techmeme.com/261112/h0630"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T5",
+          "headline_md": "Commerce is reportedly finalizing a rule to block Chinese remote access to US AI chips",
+          "summary_md": "It targets remote data-center access and chip smuggling into China.",
+          "source": {
+            "name": "Techmeme",
+            "url": "https://www.techmeme.com/261112/h0630"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Futures mixed at 3:32 AM AZ: **Dow +0.12%**, **S&P 500 −0.31%**, **Nasdaq 100 −0.64%**",
+          "summary_md": "Traders see a December Fed hike as a certainty per CME FedWatch; PPI is due Friday.",
+          "source": {
+            "name": "Reuters via Investing.com",
+            "url": "https://ca.investing.com/news/stock-market-news/nasdaq-futures-fall-as-nvidia-turmoil-rattles-ai-stocks-4951887"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Wednesday close: **Dow +0.49% to 52,486.49**, **S&P +1.31% to 7,619.38**, **Nasdaq +1.60% to 25,466.19**",
+          "summary_md": "CoreWeave's results revived the AI trade.",
+          "source": {
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com/markets/equities/26/11/63174263/stock-market-today-nvda-rout-drags-nasdaq-sp-500-futures-lower-as-nvidia-board-weighs-jensen-huangs-future-crwv-ttek-fnv-in-focus"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Movers at 3:26 AM AZ: **Nvidia −6.57%**, **CoreWeave −5.54%**, **Tetra Tech +8.42%** premarket",
+          "summary_md": "Nvidia fell on reports its board may remove Huang; Tetra Tech beat estimates.",
+          "source": {
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com/markets/equities/26/11/63174263/stock-market-today-nvda-rout-drags-nasdaq-sp-500-futures-lower-as-nvidia-board-weighs-jensen-huangs-future-crwv-ttek-fnv-in-focus"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "Oil steady early: **WTI ~$86.40** (−0.15%), **Brent ~$92.86** (+0.11%)",
+          "summary_md": "Quoted in the early New York session.",
+          "source": {
+            "name": "Benzinga",
+            "url": "https://www.benzinga.com/markets/equities/26/11/63174263/stock-market-today-nvda-rout-drags-nasdaq-sp-500-futures-lower-as-nvidia-board-weighs-jensen-huangs-future-crwv-ttek-fnv-in-focus"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "**Gold ~$3,964** (−0.9%) slips below $4,000; **Bitcoin ~$73,519** (−0.55%)",
+          "summary_md": "Quoted at 1:35 AM AZ.",
+          "source": {
+            "name": "FXStreet",
+            "url": "https://www.fxstreet.com/analysis/gold-breaks-back-below-4-000-as-bitcoin-road-to-60k-seems-opening-faster-than-markets-expect-202611120835"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "No ice storm or tornado threat for the St. Louis area in the next 7 days ([NWS St. Louis](https://forecast.weather.gov/product.php?site=LSX&issuedby=LSX&product=AFD), [SPC](https://www.spc.noaa.gov/products/exper/day4-8/)); NWS does expect the season's first hard freeze Fri night into the weekend, with lows in the 20s.\n\n**Chance of precipitation today, hourly (CT)**\n\n| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| St. Peters | – | 0% | 0% | 1% | 2% | 3% | 4% | 7% | 12% 🌧 | 16% 🌧 | 17% 🌧 | 14% 🌧 | 9% | 5% | 2% | 0% | 0% | 0% | 0% |\n| Berkeley | – | 0% | 1% | 1% | 3% | 4% | 5% | 9% | 15% 🌧 | 20% 🌧 | 20% 🌧 | 18% 🌧 | 13% 🌧 | 7% | 3% | 1% | 1% | 1% | 1% |\n\n_Source: [api.weather.gov hourly forecast](https://api.weather.gov/gridpoints/LSX/80,81/forecast/hourly), fetched 6:00 AM CT; 5a is before the forecast window._",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**St. Peters**: partly sunny, high near **51°**, low around **32°**",
+          "summary_md": "Scattered showers 1–5 PM CT (20%), falling to 47° in the afternoon, NW gusts to 25 mph; no active alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7875&lon=-90.6299"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Berkeley**: partly sunny, high near **51°**, low around **34°**",
+          "summary_md": "Scattered showers after 1 PM CT (20%), falling to 46° in the afternoon, NW gusts to 25 mph; no active alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7545&lon=-90.3312"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "The unfolding **Jensen Huang** scandal: a timeline",
+          "summary_md": "It lays out how a Chinese-spy probe, two affairs and chip-smuggling questions reached Nvidia's board in one clear read.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
