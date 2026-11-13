@@ -1,0 +1,505 @@
+{
+  "date": "2026-11-13",
+  "title": "Morning Brief - Prem",
+  "intro_md": "Type \"more on G3\" (or any code) in April's chat, or tap **More info** on an item and paste the request there, and I'll dig in.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Trump pulls **JD Vance** off Iran talks and says a deal is no longer needed",
+          "summary_md": "Trump said on Truth Social that Vance will focus on corruption in Democratic-run cities and states; Israeli officials say the channel hasn't fully collapsed.",
+          "source": {
+            "name": "Christian Science Monitor",
+            "url": "https://www.csmonitor.com/Daily/2026/20261113"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Russia and Ukraine agree to their **largest-ever prisoner exchange**",
+          "summary_md": "Zelenskyy announced the swap after meeting US envoys Witkoff and Kushner in Dublin, and said Europeans will join the next round of talks.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-13/4123624"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Israeli strike on Gaza's **Nasser Hospital** kills 6",
+          "summary_md": "The strike hit one of Gaza's main working hospitals; Anadolu reports 11 Palestinians killed across Gaza Thursday despite last year's ceasefire.",
+          "source": {
+            "name": "Christian Science Monitor",
+            "url": "https://www.csmonitor.com/Daily/2026/20261113"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Trump threatens to **double tariffs on Mexico** over migrant caravans",
+          "summary_md": "He said tariffs would rise immediately unless Mexico stops what he called large caravans heading to the US border.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-13/4123624"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "Indonesia's VP **Gibran Rakabuming Raka** submits his resignation",
+          "summary_md": "He resigned after court rulings questioned his educational credentials.",
+          "source": {
+            "name": "World Watch",
+            "url": "https://worldwatch.media/en/digest/2026-11-13"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "Update: **Jensen Huang** resigns as Nvidia CEO; **Colette Kress** named interim",
+          "summary_md": "Nvidia has hired an outside firm to search for a successor, and the Senate Banking Committee has asked Huang to testify next month.",
+          "source": {
+            "name": "NPR",
+            "url": "https://www.npr.org/programs/morning-edition/nx-s1-6013686/morning-edition-for-november-13-2026"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "Huge AI week ahead: **Nvidia earnings Tuesday**, **Anthropic IPO Thursday**",
+          "summary_md": "Dow Jones says Anthropic's expected listing would be the world's largest IPO.",
+          "source": {
+            "name": "Morningstar (Dow Jones)",
+            "url": "https://www.morningstar.com/news/dow-jones/202611133725/north-american-morning-briefing-stock-futures-mixed-as-investors-parse-fallout-from-jensen-huangs-exit"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "**Cisco** posts record quarter, revenue up **24% to $18.52B**, but margins slip",
+          "summary_md": "Gross margin narrowed to 65.6% from 68.1% on lower-margin AI networking gear and pricier memory.",
+          "source": {
+            "name": "Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/premarket-movers-modine-surges-cerebras-jumps-on-microsoft-deal-5024934"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "**Strategy** to be dropped from MSCI indexes as bitcoin slumps",
+          "summary_md": "Shares were set to extend losses after MSCI's decision and bitcoin's slide to its lowest since mid-August.",
+          "source": {
+            "name": "Morningstar (Dow Jones)",
+            "url": "https://www.morningstar.com/news/dow-jones/202611133725/north-american-morning-briefing-stock-futures-mixed-as-investors-parse-fallout-from-jensen-huangs-exit"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "Mobile studio **Fortis Games** shuts down, up to **440** jobs hit",
+          "summary_md": "Las Vegas Sands ended funding; Twilight Towers closes Nov 16 and its other titles never fully launched.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/fortis-games-shuts-down-as-up-to-440-jobs-are-put-at-risk/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "Rovio cuts about **20** at hypercasual studio **Ruby Games**",
+          "summary_md": "Only a small team remains in Izmir to run existing games, with no new games planned.",
+          "source": {
+            "name": "Gamigion",
+            "url": "https://www.gamigion.com/mass-layoffs-at-rovio-turkiye-ruby-games/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "Saudi **PIF** reportedly weighing a bid for **Unity**",
+          "summary_md": "Reuters reported the interest, a possible big shift for the engine most mobile studios build on.",
+          "source": {
+            "name": "Games Newswire",
+            "url": "https://newswire.games/2026/11/12/mobile-industry-fortis-closes-rovio-cuts/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "Take-Two's mobile slips, with **Color Block Jam** declining",
+          "summary_md": "Take-Two forecast further contraction in mobile, and PlayStation quietly closed the soft-launched Ratchet & Clank: Ranger Rumble.",
+          "source": {
+            "name": "Games Newswire",
+            "url": "https://newswire.games/2026/11/12/mobile-industry-fortis-closes-rovio-cuts/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: no public repo or release from the r/decomps author found today; r/decomps' feed couldn't be read from the server.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "Switch 2: a **Mario Kart World** recomp (mkw-recomp) is out for PC",
+          "summary_md": "First released Nov 9 for Linux and Windows on game version 1.0.0; it's early, racing at about 30 fps on a Radeon 660M at 720p.",
+          "source": {
+            "name": "LoveGame",
+            "url": "https://lovegame.space/en/news/switch-2-pc-recompilation-fire-emblem-ocarina/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "PS5/PS4: new **KytyPS5** (r261112) and **shadPS4** (Nov 12) builds",
+          "summary_md": "Fresh builds of both are out; neither lists a new commercial-game breakthrough.",
+          "source": {
+            "name": "Emu-France",
+            "url": "https://www.emu-france.com/news/144522-www-mini-sac-de-git-2026-11-11/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "**RetroRecomp v1.7.3** adds experimental **MSX/MSX2** static recompilation",
+          "summary_md": "The ahead-of-time recompiler also cuts Mega Drive interpretation (UMK3 from 2.4% to about 0.3%) and makes PC Engine code fully native.",
+          "source": {
+            "name": "RetroRecomp",
+            "url": "https://retro-recomp.com/news"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "**Xenia v1.0.2844** (Xbox 360) lands, plus a new Xenia Edge build",
+          "summary_md": "Both were posted Nov 12–13 alongside new RPCS3 and Vita3K builds.",
+          "source": {
+            "name": "Emu-France",
+            "url": "https://www.emu-france.com/news/144522-www-mini-sac-de-git-2026-11-11/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": null,
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Update: Depp's **Ebenezer** opens today at **51%** on Rotten Tomatoes",
+          "summary_md": "Critics are split on Depp, but the supporting cast (McKellen, Grint, Riseborough) is drawing praise.",
+          "source": {
+            "name": "The Hollywood Reporter",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/ebenezer-reviews-johnny-depp-1236754299/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Last weekend (Nov 6–8): **Godzilla Minus Zero** opened to a record **$30.6M**",
+          "summary_md": "It's the biggest domestic opening ever for a foreign-language live-action film, with an A CinemaScore and 90% on RT.",
+          "source": {
+            "name": "Boxoffice Pro",
+            "url": "https://www.boxofficepro.com/weekend-box-office-preview-johnny-depp-attempts-a-comeback-with-ebenezer/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "**The Cat in the Hat** opened to **$20M** and is forecast **$10M–$15M** in week 2",
+          "summary_md": "It's at 46% on RT but earned an A CinemaScore.",
+          "source": {
+            "name": "Boxoffice Pro",
+            "url": "https://www.boxofficepro.com/weekend-box-office-preview-johnny-depp-attempts-a-comeback-with-ebenezer/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "New openers **How to Rob a Bank** and **Ghost Soldier** track for **$6M–$10M**",
+          "summary_md": "Either could slip into the top five if The Cat in the Hat drops hard.",
+          "source": {
+            "name": "Boxoffice Pro",
+            "url": "https://www.boxofficepro.com/weekend-box-office-preview-johnny-depp-attempts-a-comeback-with-ebenezer/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "**Coyote vs. Acme** passes **$120M** worldwide and is in Oscar talk",
+          "summary_md": "Warner Bros. passed on releasing it.",
+          "source": {
+            "name": "Boxoffice Pro",
+            "url": "https://www.boxofficepro.com/weekend-box-office-preview-johnny-depp-attempts-a-comeback-with-ebenezer/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "Google launches **Gemini 4 Hydrogen**, a fast model for coding and agents",
+          "summary_md": "Priced at $1.50/$7.50 per million input/output tokens with a 1M context; it's rolling out in the Gemini app, Search and the API.",
+          "source": {
+            "name": "Google",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "Baidu will open-source **ERNIE 5.5 Flash Preview** weights by **Nov 25**",
+          "summary_md": "It's a 280B-parameter model (14B active) with a 1M-token context.",
+          "source": {
+            "name": "Max's AI Brief",
+            "url": "https://maxsaibrief.com/articles/2026-11-12-gemini-decisions-api-grok-bot-1-alphagenome-2/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "OpenAI retires ChatGPT's **Advanced and Standard voice** on **Dec 11**",
+          "summary_md": "Voice moves fully to GPT-Live, which OpenAI says nearly doubled voice usage.",
+          "source": {
+            "name": "Max's AI Brief",
+            "url": "https://maxsaibrief.com/articles/2026-11-12-gemini-decisions-api-grok-bot-1-alphagenome-2/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "**Cerebras** jumps **17%+** premarket after landing **Microsoft** as a customer",
+          "summary_md": "It also raised its 2026 revenue forecast, easing worries about AI infrastructure spending.",
+          "source": {
+            "name": "Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/premarket-movers-modine-surges-cerebras-jumps-on-microsoft-deal-5024934"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "**Microsoft 365** outage hits Outlook and Teams into a second day",
+          "summary_md": "Downdetector logged hundreds of thousands of reports in 70+ countries; shares fell about 2% premarket.",
+          "source": {
+            "name": "Morningstar (Dow Jones)",
+            "url": "https://www.morningstar.com/news/dow-jones/202611133725/north-american-morning-briefing-stock-futures-mixed-as-investors-parse-fallout-from-jensen-huangs-exit"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "Apple adds new **age-rating questions** to App Store Connect on **Nov 16**",
+          "summary_md": "Shared Location and Dating declarations arrive; dating apps get 18+, and all apps must answer by Jan 12, 2027.",
+          "source": {
+            "name": "AppWinners",
+            "url": "https://appwinners.eu/news/2026-11-12-store-paperwork-review-queues"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Google Play wants every developer to declare **trader status** by **Feb 1, 2027**",
+          "summary_md": "Missing it can block updates; from Mar 1, traders' contact details (including home address for individuals) show on listings.",
+          "source": {
+            "name": "AppWinners",
+            "url": "https://appwinners.eu/news/2026-11-12-store-paperwork-review-queues"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "App Review queues stall, with approved **expedites** not moving apps",
+          "summary_md": "Developers report apps stuck in Waiting for Review for two weeks, plus piecemeal rejections.",
+          "source": {
+            "name": "AppWinners",
+            "url": "https://appwinners.eu/news/2026-11-12-store-paperwork-review-queues"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Futures up at 4:07 AM AZ: **Dow +0.2%**, **S&P 500 +0.2%**, **Nasdaq 100 +0.2%**",
+          "summary_md": "Investors await October's producer price index this morning.",
+          "source": {
+            "name": "Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/premarket-movers-modine-surges-cerebras-jumps-on-microsoft-deal-5024934"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Thursday close: **S&P 500 −0.4% to 7,592**, as **Nvidia fell 4.3%**",
+          "summary_md": "The 10-year Treasury yield closed above 5% for the first time since Oct 22.",
+          "source": {
+            "name": "ThriveInMarkets",
+            "url": "https://thriveinmarkets.com/market-insights/morning-analysis-2026-11-13/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Premarket at 4:07 AM AZ: **Modine +31%**, **Cerebras +17%**, **Nvidia +2.8%**, **Cisco ~−2%**",
+          "summary_md": "Modine jumped on a Bloomberg report that Samsung is in talks to buy it.",
+          "source": {
+            "name": "Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/premarket-movers-modine-surges-cerebras-jumps-on-microsoft-deal-5024934"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "Oil and gold at 1:55 AM AZ: **WTI $88.99**, **gold $3,897.72** near a one-year low",
+          "summary_md": "Brent settled at $95.82 Thursday; markets price an 89% chance of a December Fed hike.",
+          "source": {
+            "name": "Capital Street FX",
+            "url": "https://www.capitalstreetfx.com/market-analysis/daily-commodity-report-13-nov-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "**Bitcoin ~$69,100** at 11:30 PM AZ Thursday, lowest since August",
+          "summary_md": "Ether was near $1,939, down about 4% on the day.",
+          "source": {
+            "name": "ThriveInMarkets",
+            "url": "https://thriveinmarkets.com/market-insights/morning-analysis-2026-11-13/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "No ice storm or tornado threat for the St. Louis area in the next 7 days, and no active NWS alerts for either point ([NWS](https://api.weather.gov/alerts/active?point=38.7875,-90.6299), [SPC day 4–8](https://www.spc.noaa.gov/products/exper/day4-8/)). The first rain chance is a slight chance of light rain Thursday Nov 19 (about 15–17%).\n\n**Hourly chance of precipitation today (CT)**\n\n| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| St. Peters | – | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Berkeley | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\n_Source: api.weather.gov hourly forecast (NWS St. Louis grids LSX 80,81 and 90,80), fetched 6:01 AM CT. St. Peters 5a had already passed in the data._",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**St. Peters**: sunny, high near **46°**, low around **27°**",
+          "summary_md": "0% chance of precipitation, northwest wind 8–12 mph, no active alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7875&lon=-90.6299"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Berkeley**: sunny, high near **46°**, low around **30°**",
+          "summary_md": "0% chance of precipitation, northwest wind 7–12 mph, no active alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7545&lon=-90.3312"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "How China took over the **$121B** mobile gaming market",
+          "summary_md": "China held 40% of top-100 mobile game revenue by mid-2026 vs. 16.5% for the US, which is useful context for where hypercasual competition is coming from.",
+          "source": {
+            "name": "The Japan Times (Bloomberg)",
+            "url": "https://www.japantimes.co.jp/business/2026/11/11/tech/us-mobile-gaming-china/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
