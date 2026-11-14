@@ -1,0 +1,549 @@
+{
+ "date": "2026-11-14",
+ "title": "Morning Brief - Prem",
+ "intro_md": "Type \"more on G3\" (or any code) in April's chat, or tap **More info** on an item and paste the request there, and I'll dig in.",
+ "sections": [
+  {
+   "id": "world",
+   "title": "World",
+   "icon": "🌍",
+   "body_md": null,
+   "items": [
+    {
+     "id": "W1",
+     "headline_md": "FAA lifts a nationwide **ground stop** after an air-traffic telecom outage",
+     "summary_md": "The stop lasted about four hours Friday night; FlightAware counted more than 10,000 delayed or canceled flights, and officials say there's no sign of an attack so far.",
+     "source": {
+      "name": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W2",
+     "headline_md": "**Trump, Xi and Putin** will hold a first-ever three-way meeting in Shenzhen next week",
+     "summary_md": "The White House says Trump will focus on reducing nuclear weapons at the APEC sidelines; a US official said no agreement is expected.",
+     "source": {
+      "name": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W3",
+     "headline_md": "Zelensky says US envoys floated Ukraine **ceding Donbas** in exchange for **NATO membership**",
+     "summary_md": "He said the idea was raised as part of US efforts to end the war with Russia.",
+     "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news/world"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W4",
+     "headline_md": "Russia strikes a **hospital in central Kyiv**",
+     "summary_md": "The Guardian reports the strike came after a SpaceX system faltered.",
+     "source": {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/theguardian/2026/nov/14"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W5",
+     "headline_md": "**Ebola** cases top **11,000** six months into the outbreak",
+     "summary_md": "Africa CDC says the death toll is still rising, with the biggest problems in the Democratic Republic of the Congo.",
+     "source": {
+      "name": "Xinhua",
+      "url": "https://english.news.cn/20261114/29ab40daef2043c084f16bc7766e2c36/c.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "title": "Business",
+   "icon": "💼",
+   "body_md": null,
+   "items": [
+    {
+     "id": "B1",
+     "headline_md": "Update: Nvidia's board has approached **Arm CEO Rene Haas** about succeeding Jensen Huang",
+     "summary_md": "Reuters cites a Financial Times report; Nvidia reports quarterly results Tuesday after the close.",
+     "source": {
+      "name": "Reuters via Euronext",
+      "url": "https://live.euronext.com/en/financial-news/stocks-mostly-ease-tech-nvidia-concerns-airline-shares-fall-late-session"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B2",
+     "headline_md": "Update: **Anthropic** targets a valuation of about **$1.33 trillion** or more for Thursday's IPO",
+     "summary_md": "CEO Dario Amodei told Jamie Dimon he hopes the IPO will \"underpromise and overdeliver.\"",
+     "source": {
+      "name": "Morningstar (Dow Jones)",
+      "url": "https://www.morningstar.com/news/dow-jones/202611139459/dow-jones-top-company-headlines-at-3-pm-et-anthropic-chief-tells-jamie-dimon-he-hopes-ipo-will-underpromise-and-overdeliver-meta"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B3",
+     "headline_md": "Wholesale prices rose **6.5%** from a year earlier, the biggest jump since **Nov 2022**",
+     "summary_md": "October's PPI rose 0.3% on the month, a bit below the 0.4% economists expected.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B4",
+     "headline_md": "**Tesla** invites select customers to buy a **Cybercab** for personal use",
+     "summary_md": "The headline crossed late Friday, alongside a report that Musk will join Trump on his China trip.",
+     "source": {
+      "name": "SquawkNews",
+      "url": "https://squawknews.com/news/archive/2026-11-13"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B5",
+     "headline_md": "Battery maker **ESS Tech** files for **Chapter 7** and shuts down",
+     "summary_md": "The company said it ended operations and let all employees and officers go after reviewing strategic options.",
+     "source": {
+      "name": "SquawkNews",
+      "url": "https://squawknews.com/news/archive/2026-11-13"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "games",
+   "title": "Games & mobile",
+   "icon": "🎮",
+   "body_md": null,
+   "items": [
+    {
+     "id": "G1",
+     "headline_md": "**PUBG Mobile Flash**, a lighter version of PUBG Mobile, launches worldwide",
+     "summary_md": "Level Infinite says it had 27 million pre-registrations, and AppWinners shows it at No. 1 on iPhone in 47 countries this week.",
+     "source": {
+      "name": "Mobilegamer.biz",
+      "url": "https://mobilegamer.biz/new-game-digest-pubg-transformers-plants-vs-zombies-football-manager-prince-of-persia-more/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G2",
+     "headline_md": "Casual soft launches: Ten Square's **Fishing Trip** leans harder on **rewarded ads**, and Outfit7 tests **Roll & Merge: Farm Go**",
+     "summary_md": "Fishing Trip is in soft launch on Android in five countries; Outfit7's dice-plus-merge farm game is in soft launch in the US and three other countries.",
+     "source": {
+      "name": "Mobilegamer.biz",
+      "url": "https://mobilegamer.biz/new-game-digest-pubg-transformers-plants-vs-zombies-football-manager-prince-of-persia-more/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G3",
+     "headline_md": "**Nexon** cancels six projects and plans deeper cuts next year",
+     "summary_md": "Every project now has to meet a minimum profit bar and pass three approval stages; more than 300 staff are reportedly waiting for new assignments.",
+     "source": {
+      "name": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/nexon-plans-deeper-cuts-after-cancelling-six-projects/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G4",
+     "headline_md": "China approves Saudi-backed **Savvy Games**' $6B+ purchase of **Mobile Legends** maker Moonton",
+     "summary_md": "The ByteDance sale, agreed in March, still hasn't closed.",
+     "source": {
+      "name": "esports.gg",
+      "url": "https://esports.gg/news/mobile-legends-bang-bang/china-approves-savvy-games-group-mlbb-moonton-games-acquisition/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G5",
+     "headline_md": "GDC survey: **34%** of game workers lost a job in the past two years",
+     "summary_md": "The survey covered more than 2,600 industry professionals.",
+     "source": {
+      "name": "Kotaku",
+      "url": "https://kotaku.com/gdc-state-of-industry-job-losses-layoffs-ai-report-2000756433"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "emulation",
+   "title": "Video Game Emulation",
+   "icon": "🕹️",
+   "body_md": "Wii U lifter watch: no public repo or release from u/Mindstormman yet (checked GitHub, web search and r/decomps).",
+   "items": [
+    {
+     "id": "E1",
+     "headline_md": "Switch 2: **Hookshot** vanished from GitHub, and its continuation **Longshot** shipped a new nightly today",
+     "summary_md": "Longshot nightly-132 came out at 4:51 AM AZ with new pipeline, damage-scaling, input and audio options; Hookshot and its author's GitHub account have returned 404 since Nov 13, with no DMCA notice posted ([Recomp](https://recompsoftware.com/this-week/)).",
+     "source": {
+      "name": "Longshot (Magic Bean)",
+      "url": "https://git.magicbean.dev/MagicBeanDev/Longshot/releases"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E2",
+     "headline_md": "Update: **NX2navi 0.10.0 / 0.10.1** fix Ocarina of Time's physics bugs above 60 fps",
+     "summary_md": "Among the fixes, moving platforms carry Link again above 100 fps; the launcher updates itself, and a 0.10.2 preview landed this morning.",
+     "source": {
+      "name": "GitHub (NX2navi)",
+      "url": "https://github.com/tangerineturtle1/NX2navi/releases"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E3",
+     "headline_md": "Update: **RetroRecomp v1.7.4** adds experimental **MSX2+** and **Atari ST** static recompilation",
+     "summary_md": "It also adds a new in-game menu and safer save states, and Mega Drive support is up to 97%.",
+     "source": {
+      "name": "RetroRecomp",
+      "url": "https://retro-recomp.com/news"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E4",
+     "headline_md": "**Project Gotham Racing 4** gets a static recompilation with a D3D12 renderer and DLSS/FSR frame generation",
+     "summary_md": "The Xbox 360 recomp was posted to r/decomps overnight.",
+     "source": {
+      "name": "r/decomps",
+      "url": "https://www.reddit.com/r/decomps/comments/1xvy2mw/project_gotham_racing_4_edition_2026_static/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E5",
+     "headline_md": "Takedown worries: r/decomps asks why recomps keep getting pulled",
+     "summary_md": "Commenters say GitHub bans uploaders rather than fight Nintendo, and push for self-hosted Git, which is the route Longshot took.",
+     "source": {
+      "name": "r/decomps",
+      "url": "https://www.reddit.com/r/decomps/comments/1xvv9ja/why_are_all_these_recompiles_and_decompiles_being/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "movies",
+   "title": "Movies",
+   "icon": "🎬",
+   "body_md": null,
+   "items": [
+    {
+     "id": "V1",
+     "headline_md": "Update: Depp's **Ebenezer** took **$7.1M** Friday (with previews) and is headed for a **$20M+** No. 1 weekend",
+     "summary_md": "Deadline says another $20M is expected from 63 overseas markets; critics are lukewarm (53% on RT), but audiences gave it 4.5 stars on PostTrak.",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/11/box-office-ebenezer-1237222749/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V2",
+     "headline_md": "**The Cat in the Hat** made **$2.9M** on its second Friday and is tracking about **$12M** for the weekend (−40%)",
+     "summary_md": "That would bring its total to $38.7M by Sunday, per Deadline.",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/11/box-office-ebenezer-1237222749/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V3",
+     "headline_md": "**How to Rob a Bank** flopped with **$900K** in previews; **Ghost Soldier**'s five-day start is about **$7.1M**",
+     "summary_md": "Ramayana: Rise of a Legend is projected fourth with about $5M (−44%).",
+     "source": {
+      "name": "World of Reel",
+      "url": "https://www.worldofreel.com/blog/2026/11/13/box-office-ebenezer-hits-15m-in-previews-45-star-posttrak-overrules-critics-how-to-rob-a-bank-falls-flat-with-900k"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V4",
+     "headline_md": "Martin McDonagh's **Wild Horse Nine** (**94%** on RT, **77** on Metacritic) expands to **2,175** screens",
+     "summary_md": "Searchlight is nearly doubling it from 1,100 screens; John Malkovich won Venice's Volpi Cup for the role ([scores](https://techpastweek.com/blog/wild-horse-nine-reviews-94-percent-rotten-tomatoes)).",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/11/indie-films-opening-victorian-psycho-paper-tiger-almodovar-1237223240/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V5",
+     "headline_md": "New indies: James Gray's **Paper Tiger** (85% RT), Almodóvar's **Bitter Christmas** (84%) and **Victorian Psycho** (1,206 screens)",
+     "summary_md": "A24's Club Kid also expands to 27 screens ahead of a nationwide Thanksgiving rollout.",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/11/indie-films-opening-victorian-psycho-paper-tiger-almodovar-1237223240/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "icon": "🤖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "A1",
+     "headline_md": "Nonprofits sue **OpenAI, Anthropic, Google, Meta and SpaceX** to halt more-capable AI",
+     "summary_md": "The suit asks a court to stop development of models beyond current systems, citing the labs' own warnings about risk.",
+     "source": {
+      "name": "The Neuron",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-13-2026/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A2",
+     "headline_md": "**SpaceX** plans **$74B+** in AI supercomputing campuses, including a ~**$50B** site in **Arizona**",
+     "summary_md": "The Arizona campus still needs county approval; the Texas site is designed to make its own electricity.",
+     "source": {
+      "name": "The Neuron",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-13-2026/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A3",
+     "headline_md": "**ChatGPT Wallet** lets OpenAI's agents make approved purchases",
+     "summary_md": "It's rolling out to eligible US Pro users, who save a card once for agent checkouts.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A4",
+     "headline_md": "Anthropic opens **self-hosted Claude Managed Agents** in private beta",
+     "summary_md": "Companies can run agents, sandboxes and session history on their own infrastructure.",
+     "source": {
+      "name": "TLDR AI",
+      "url": "https://ai.tldr.tech/p/2026-11-13-tldr-ai"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A5",
+     "headline_md": "**Notion** says hackers reached some customer AI chats through the **Fireworks** breach",
+     "summary_md": "Fewer than 1% of workspaces were affected.",
+     "source": {
+      "name": "The Neuron",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-13-2026/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Tech, app stores & ads",
+   "icon": "📱",
+   "body_md": null,
+   "items": [
+    {
+     "id": "T1",
+     "headline_md": "Update: Microsoft says **Outlook, Teams and Copilot** are fully restored after the day-long outage",
+     "summary_md": "Microsoft also said it saw no link between its services and Friday's FAA ground stop ([Anadolu](https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855)).",
+     "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news/world"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T2",
+     "headline_md": "Apple's **Siri AI Developer Preview** lets any app plug into Siri through App Intents and new **Skills**",
+     "summary_md": "It's in the 27.3 betas, limited to developer builds and internal TestFlight for now, and not available in the EU.",
+     "source": {
+      "name": "InfoQ",
+      "url": "https://www.infoq.com/news/2026/11/apple-siri-ai-integration/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T3",
+     "headline_md": "**Amazon** plans a **World Product Graph** to index products sold online, including on rival sites",
+     "summary_md": "The Verge says the index is meant to power AI shopping search.",
+     "source": {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T4",
+     "headline_md": "Google and Samsung open preorders for **Gemini smart glasses** from **$395**",
+     "summary_md": "Styles from Warby Parker and Gentle Monster ship Dec 10.",
+     "source": {
+      "name": "The Neuron",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-13-2026/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T5",
+     "headline_md": "**SpaceX Starship**'s double-catch test falls short as the booster lands in the ocean",
+     "summary_md": "SpaceX aborted the booster catch on the 15th Starship flight Friday.",
+     "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news/world"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Markets",
+   "icon": "📈",
+   "body_md": null,
+   "items": [
+    {
+     "id": "M1",
+     "headline_md": "Friday close (2:00 PM AZ): **Dow +0.10% to 52,347.55**, **S&P 500 −0.40% to 7,561.67**, **Nasdaq −0.91% to 25,136.27**",
+     "summary_md": "Even so, all three posted their best week since August: S&P +2.5%, Nasdaq +2.3%, Dow +2.1%.",
+     "source": {
+      "name": "Reuters via Euronext",
+      "url": "https://live.euronext.com/en/financial-news/stocks-mostly-ease-tech-nvidia-concerns-airline-shares-fall-late-session"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M2",
+     "headline_md": "Chips slid at Friday's close (2:00 PM AZ): **AMD −8.75%**, **Dell −7.18%**, **Cisco −6.24%**, **Nvidia −2.01% to $162.85**",
+     "summary_md": "Nvidia's market cap closed below $4 trillion; the Philly chip index fell 3.4%, and airline stocks dropped 1.4% late on the FAA ground stop.",
+     "source": {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-010-5026559"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M3",
+     "headline_md": "Oil and gold at 11:17 PM AZ Friday: **WTI $88.56**, **Brent $95.84**, **gold $3,886.30** (−$28.40)",
+     "summary_md": "Prices were compared with the previous day's close.",
+     "source": {
+      "name": "Report.az",
+      "url": "https://report.az/en/finance/key-indicators-of-world-commodity-stock-and-currency-markets-14-11-2026"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M4",
+     "headline_md": "**Bitcoin ~$67,183** (−3.1% in 24h) and **Ether ~$1,908** (−2.7%) at 5:09 AM AZ Saturday",
+     "summary_md": "Bitcoin keeps sliding from about $69,100 on Thursday night.",
+     "source": {
+      "name": "CoinGecko",
+      "url": "https://www.coingecko.com/en/coins/bitcoin"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "weather",
+   "title": "Weather",
+   "icon": "🌤️",
+   "body_md": "No ice storm or tornado threat for the St. Louis area in the next 7 days, and no active NWS alerts for either point ([NWS alerts](https://api.weather.gov/alerts/active?point=38.7875,-90.6299), [SPC day 4–8](https://www.spc.noaa.gov/products/exper/day4-8/)). NWS St. Louis expects dry weather through midweek, then only a slight chance of rain Friday Nov 20 (about 20%) ([NWS St. Louis discussion](https://forecast.weather.gov/product.php?site=LSX&issuedby=LSX&product=AFD)).\n\n**Hourly chance of precipitation today (CT)**\n\n| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| St. Peters | – | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Berkeley | – | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\nSource: NWS forecastHourly (api.weather.gov, LSX grids 80,81 and 90,80), fetched 6:06 AM CT. 5a is \"–\" because it had already passed and wasn't in the data; no rain, snow or ice is in any hour.",
+   "items": [
+    {
+     "id": "X1",
+     "headline_md": "**St. Peters**: sunny, high near **49°**, low around **28°** tonight",
+     "summary_md": "0% chance of rain all day, light northwest wind, and no alerts; sunny again Sunday with a high near 52°.",
+     "source": {
+      "name": "NWS",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=38.7875&lon=-90.6299"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X2",
+     "headline_md": "**Berkeley**: sunny, high near **49°**, low around **30°** tonight",
+     "summary_md": "0% chance of rain all day, northwest wind around 5 mph, and no alerts; sunny Sunday with a high near 52°.",
+     "source": {
+      "name": "NWS",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=38.7545&lon=-90.3312"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "worth-reading",
+   "title": "Worth reading in full",
+   "icon": "📖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "R1",
+     "headline_md": "An OpenAI board member warns an AI \"takeover\" could be months away",
+     "summary_md": "Paul Christiano lays out, step by step, how today's reward-hacking AI agents could grow into a real threat, and Ars weighs how seriously to take it.",
+     "source": {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  }
+ ]
+}
