@@ -1,0 +1,571 @@
+{
+ "date": "2026-11-15",
+ "title": "Morning Brief - Prem",
+ "intro_md": "Type \"more on G3\" (or any code) in April's chat, or tap **More info** on an item and paste the request there, and I'll dig in.",
+ "sections": [
+  {
+   "id": "world",
+   "title": "World",
+   "icon": "🌍",
+   "body_md": null,
+   "items": [
+    {
+     "id": "W1",
+     "headline_md": "Iran says **three tankers** hit mines in the **Strait of Hormuz** and caught fire",
+     "summary_md": "Iran's navy said one tanker was hit Saturday morning and two more later in the day on an unauthorized route; Reuters could not immediately verify the claims.",
+     "source": {
+      "name": "The Straits Times (Reuters)",
+      "url": "https://www.straitstimes.com/world/middle-east/irans-navy-says-three-tankers-on-fire-after-hitting-mines-in-hormuz"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W2",
+     "headline_md": "Update: SpaceX's **Starship** ship was **caught by the launch tower** for the first time",
+     "summary_md": "On its 15th flight test the spacecraft returned after about 22.5 hours and was caught at about 3:20 PM CT Saturday, a day after the booster catch failed.",
+     "source": {
+      "name": "Xinhua",
+      "url": "http://www.chinaview.cn/20261115/893b2d6dbb424447be33e51976d918e9/c.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W3",
+     "headline_md": "Update: Kremlin sets the **Trump–Xi–Putin** meeting for **Nov 19** in Shenzhen",
+     "summary_md": "It will be on the sidelines of APEC; a US official says Iran will be on the agenda.",
+     "source": {
+      "name": "Anadolu Agency",
+      "url": "https://aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W4",
+     "headline_md": "**Quad summit** with Modi, Trump, Takaichi and Albanese expected **Nov 17** in Manila",
+     "summary_md": "It would be the first Quad summit since 2024, on the sidelines of the ASEAN summits.",
+     "source": {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/news/morning-digest-november-15-2026/article71703055.ece"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W5",
+     "headline_md": "Midterm counting: **Peltola** widens her lead over **Sen. Dan Sullivan** in Alaska; **Boebert** loses her House seat",
+     "summary_md": "Counting continues nearly two weeks after the US midterms.",
+     "source": {
+      "name": "Anadolu Agency",
+      "url": "https://aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "title": "Business",
+   "icon": "💼",
+   "body_md": null,
+   "items": [
+    {
+     "id": "B1",
+     "headline_md": "Update: **Anthropic**'s IPO is several times oversubscribed at **$70–$78** a share",
+     "summary_md": "The 825 million-share deal would raise about $64.4B at the top of the range (about $1.4T fully diluted); pricing is expected Wed Nov 18 and Nasdaq trading as \"ANT\" Thu Nov 19.",
+     "source": {
+      "name": "Wall Street Feed",
+      "url": "https://wallstfeed.com/weekend-briefing-nvidia-ai-financier-anthropic-ipo-november-14/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B2",
+     "headline_md": "**Elon Musk** and other tech execs sign a petition asking Nvidia to **reinstate Jensen Huang**",
+     "summary_md": "The \"Stand with Jensen\" petition asks the board to restore Huang while an independent investigation proceeds.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B3",
+     "headline_md": "Nvidia's first earnings under interim CEO **Colette Kress** land **Tuesday** after the close",
+     "summary_md": "Investors are watching its role as AI's financier, including about $36B in off-balance-sheet commitments to neocloud providers (CNBC).",
+     "source": {
+      "name": "AI Briefing",
+      "url": "https://aibriefing.io/brief/2026-11-14/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B4",
+     "headline_md": "Update: after the FAA ground stop, **Sean Duffy** asks Congress for **$50B** to overhaul air traffic control",
+     "summary_md": "He blamed the \"incredibly old\" system; cancellations and delays were expected to continue through the weekend.",
+     "source": {
+      "name": "Xinhua",
+      "url": "http://www.chinaview.cn/20261115/893b2d6dbb424447be33e51976d918e9/c.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B5",
+     "headline_md": "**Agile Robots** raises **$500M** at an **$8.5B** valuation",
+     "summary_md": "SoftBank led the round, and Nvidia is among the investors.",
+     "source": {
+      "name": "Wall Street Feed",
+      "url": "https://wallstfeed.com/weekend-briefing-nvidia-ai-financier-anthropic-ipo-november-14/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "games",
+   "title": "Games & mobile",
+   "icon": "🎮",
+   "body_md": null,
+   "items": [
+    {
+     "id": "G1",
+     "headline_md": "Update: **PUBG Mobile Flash** hits **No. 1** on the US iPhone charts",
+     "summary_md": "The lightweight PUBG Mobile spin-off debuted at the top of the US iPhone games chart after launching worldwide.",
+     "source": {
+      "name": "GameForce Mobile",
+      "url": "https://www.gameforcemobile.com/news/5943-pubg-mobile-flash-reaches-number-one-on-us-iphone-charts-as-lightweight-battle-royale-gain"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G2",
+     "headline_md": "Capcom launches **Monster Hunter Puzzles: Felyne Isles Furever**, an offline puzzle game with **2,400+** levels",
+     "summary_md": "It replaces the free-to-play original, which shuts down Jan 14, 2027; Switch and Steam ports are planned.",
+     "source": {
+      "name": "GameFragger",
+      "url": "https://gamefragger.com/multiplatform/action-rpg/monster-hunter/monster-hunter-puzzles-felyne-isles-furever-launches-as-an-offline-version-with-over-2400-puzzles-a30148"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G3",
+     "headline_md": "**Learnings** topped Q3 mobile ad revenue at about **$135M**, ahead of **Voodoo** at $83.1M",
+     "summary_md": "Voodoo still led downloads with 117M, while total downloads across 19 markets fell 7.3% from a year earlier (Sensor Tower).",
+     "source": {
+      "name": "Mobilegamer.biz",
+      "url": "https://mobilegamer.biz/data-digest-learnings-tops-ad-charts-savvys-6bn-moonton-deal-decas-4-5m-buy-more/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G4",
+     "headline_md": "**Warhammer Survivors**, made with Vampire Survivors creator **poncle**, is out on iOS and Android",
+     "summary_md": "The bullet-heaven game launched alongside PC and console, with 40+ characters and 75+ weapons.",
+     "source": {
+      "name": "MastersInGaming",
+      "url": "https://mastersingaming.com/2026/11/14/new-release-roundup-football-manager-27-mobile-pubg-mobile-flash-transformers-eternal-war-ungodly-and-more/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G5",
+     "headline_md": "Samsung's **One UI 9.5 PlayOn Agent** brings game chats, events and rewards into system apps",
+     "summary_md": "In-game chat shows up in Samsung Messages, and events and login rewards appear on lock-screen and home-screen widgets.",
+     "source": {
+      "name": "SamMobile",
+      "url": "https://www.sammobile.com/news/one-ui-9-5-playon-agent-keep-up-games-without-opening-them/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "emulation",
+   "title": "Video Game Emulation",
+   "icon": "🕹️",
+   "body_md": "Wii U lifter watch: still no public repo or release from u/Mindstormman (checked GitHub and web search; r/decomps itself was unreadable from here today).",
+   "items": [
+    {
+     "id": "E1",
+     "headline_md": "Switch: **LAS Recomp Beta 6** adds **Android** and **iPhone/iPad** builds plus experimental frame generation",
+     "summary_md": "Posted at 11:35 PM AZ Saturday and marked Latest, but it's still a beta and not yet called stable; it also adds touch controls, shadow and AO settings, and a detailed performance HUD.",
+     "source": {
+      "name": "GitHub (LASRecomp)",
+      "url": "https://github.com/peiikai/LASRecomp/releases/tag/beta_6"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E2",
+     "headline_md": "Update: **NX2navi 0.12.0** merges into **Triforce**, and its launcher now opens Triforce Setup",
+     "summary_md": "Posted at 9:53 PM AZ Saturday. Existing builds, saves and settings stay, Play NX2navi still works, and Triforce's Convert saves page brings saves over.",
+     "source": {
+      "name": "GitHub (NX2navi)",
+      "url": "https://github.com/tangerineturtle1/NX2navi/releases/tag/v0.12.0"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E3",
+     "headline_md": "Switch: the **Pokémon Sword/Shield** PC recomp **v0.3.0** adds TAA/**DLAA**, ambient occlusion and mouse support",
+     "summary_md": "Posted at 7:44 PM AZ Saturday; the dev says it holds 60 fps at 1440p and 4K on an RTX 3080.",
+     "source": {
+      "name": "GitHub (swsh-recomp)",
+      "url": "https://github.com/raulzrrs/swsh-recomp/releases/tag/v0.3.0"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E4",
+     "headline_md": "Switch 2: the **Pokopia** recomp (**Recompia**) moved to Dittobyte and shipped **0.13.7**, which fixes black screens on Intel GPUs",
+     "summary_md": "Posted at 8:43 PM AZ Saturday after three quick hotfixes that evening; MHGU Recomp 0.17.3 and Bayonetta 3's Witch Time v0.10.1 also shipped small fixes.",
+     "source": {
+      "name": "GitHub (Recompia)",
+      "url": "https://github.com/Dittobyte/Recompia/releases/tag/v0.13.7"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E5",
+     "headline_md": "3DS emulator **Azahar 2127.0** is at **RC3**, and **macXenos 1.0** brings Xbox 360 emulation to Macs",
+     "summary_md": "Azahar adds ROM Bundles, a JIT-less FastInterp core for iPhone and a move to GPLv3+ (2126.2 stays the stable release); macXenos is a Metal port of Xenia Canary.",
+     "source": {
+      "name": "RetroVault",
+      "url": "https://retrovault.ch/news/azahar-2127-rc1-rc2-gplv3-rom-bundles-fastinterp-2026"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E6",
+     "headline_md": "Watch list: **Quiver Launcher 4.0.0-beta.5** is out but **not stable yet**, and **Longshot** keeps shipping nightlies",
+     "summary_md": "Quiver's beta.5 was posted at 2:25 AM AZ; Longshot's newest is nightly-189 (4:10 AM AZ).",
+     "source": {
+      "name": "GitHub (Quiver Launcher)",
+      "url": "https://github.com/tgeorgiadis/quiver-launcher/releases"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "movies",
+   "title": "Movies",
+   "icon": "🎬",
+   "body_md": null,
+   "items": [
+    {
+     "id": "V1",
+     "headline_md": "Update: **Ebenezer** made **$6.7M** Friday with previews; Paramount still sees a **$20M** No. 1 opening, but rivals see it lower",
+     "summary_md": "These are Saturday-morning projections for Nov 13–15, not final numbers. It has an A- CinemaScore, and the whole box office is pacing for about $80M, up 8% from a year ago.",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/11/box-office-ebenezer-1237222749/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V2",
+     "headline_md": "**Godzilla Minus Zero** is falling about **74%** in its second weekend to around **$8M**",
+     "summary_md": "That would put it at about $48.5M domestic by Sunday; it made $73.6M worldwide in its first week (Friday projection).",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/11/box-office-ebenezer-1237222749/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V3",
+     "headline_md": "Update: **How to Rob a Bank** is pacing for about **$4.7M** (B- CinemaScore), and **Ghost Soldier** for **$4.9M** over three days ($8M over five)",
+     "summary_md": "How to Rob a Bank cost a net $40M, versus a net $18M for Ghost Soldier (Saturday projections).",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/11/box-office-ebenezer-1237222749/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V4",
+     "headline_md": "A24's **You Can See Everything** is still pulling about **$4.5M** in its fifth weekend",
+     "summary_md": "Its running total is expected to reach about $87.5M by Sunday (Friday projection).",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/11/box-office-ebenezer-1237222749/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V5",
+     "headline_md": "Next weekend: **The Hunger Games: Sunrise on the Reaping** opens **Nov 20**, tracking for **$80M+**",
+     "summary_md": "Presales are Lionsgate's strongest since the pandemic, early premium shows start Nov 18, and reviews aren't posted yet.",
+     "source": {
+      "name": "Action Network",
+      "url": "https://www.actionnetwork.com/entertainment/hunger-games-sunrise-on-the-reaping-box-office-tracking"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "icon": "🤖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "A1",
+     "headline_md": "**llama.cpp** reaches **1.0** with a stable API",
+     "summary_md": "The local-inference engine behind Ollama, LM Studio and most on-device AI now promises not to break apps built on it without warning.",
+     "source": {
+      "name": "AI Briefing",
+      "url": "https://aibriefing.io/brief/2026-11-14/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A2",
+     "headline_md": "**LangChain** raises **$300M** at a **$3B** valuation",
+     "summary_md": "CapitalG led the Series C; LangChain says its LangSmith agent platform has 7,000 customers.",
+     "source": {
+      "name": "AI Briefing",
+      "url": "https://aibriefing.io/brief/2026-11-14/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A3",
+     "headline_md": "IBM previews **Granite 4.1** models built to resist **prompt injection**",
+     "summary_md": "The experimental 3B and 8B models separate instructions from data; IBM reports near-zero attack success on one benchmark but says they aren't for production.",
+     "source": {
+      "name": "AI Briefing",
+      "url": "https://aibriefing.io/brief/2026-11-14/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A4",
+     "headline_md": "Anthropic's **Claude Duet** is an AI agent for people who don't code",
+     "summary_md": "The Verge calls it surprisingly helpful for everyday work.",
+     "source": {
+      "name": "Walter Stein AI news",
+      "url": "https://walterstein.eu/en/ai-news/2026-11-14"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A5",
+     "headline_md": "Google DeepMind introduces **AlphaGenome 2** for genetic research",
+     "summary_md": "It predicts how DNA variants change gene activity and is free through an API for non-commercial research.",
+     "source": {
+      "name": "AIdapted",
+      "url": "https://aidapted.ro/en/articles/whats-happening-in-ai-november-14-2026/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A6",
+     "headline_md": "Unit 42: hackers used **autonomous AI agents** in 25 operations against at least 19 organizations",
+     "summary_md": "The attackers combined the open-source Cairn framework with Zhipu GLM and DeepSeek models; 10 targets had access or data taken.",
+     "source": {
+      "name": "AIdapted",
+      "url": "https://aidapted.ro/en/articles/whats-happening-in-ai-november-14-2026/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Tech, app stores & ads",
+   "icon": "📱",
+   "body_md": null,
+   "items": [
+    {
+     "id": "T1",
+     "headline_md": "Sony pulls **Ratchet & Clank: Ranger Rumble** from the App Store and Google Play on **Nov 21**",
+     "summary_md": "Its in-app purchases are already gone, and the servers shut down May 1, 2027.",
+     "source": {
+      "name": "Appdook",
+      "url": "https://appdook.com/news/apple-news-roundup-2026-11-14"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T2",
+     "headline_md": "**Epic** urges the Supreme Court to uphold Apple's **App Store contempt ruling**",
+     "summary_md": "Appdook listed it among Friday's Apple business and legal news; there are no further details yet.",
+     "source": {
+      "name": "Appdook",
+      "url": "https://appdook.com/news/apple-news-roundup-2026-11-14"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T3",
+     "headline_md": "**Perplexity Teammates**, round-the-clock AI agents, reach its Mac app for Max subscribers",
+     "summary_md": "Max costs $167 a month billed annually, and each teammate gets its own desktop and browser.",
+     "source": {
+      "name": "Appdook",
+      "url": "https://appdook.com/news/apple-news-roundup-2026-11-14"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T4",
+     "headline_md": "Apple Maps in **iOS 27** quietly adds **Local Lists** of trending restaurants",
+     "summary_md": "There are 1,021 lists of 20 places each, ranked by what people view, share and interact with in Maps.",
+     "source": {
+      "name": "Appdook",
+      "url": "https://appdook.com/news/apple-news-roundup-2026-11-14"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Markets",
+   "icon": "📈",
+   "body_md": null,
+   "items": [
+    {
+     "id": "M1",
+     "headline_md": "Friday close (2:00 PM AZ): **Dow +0.10% to 52,347.55**, **S&P 500 −0.40% to 7,561.67**, **Nasdaq −0.91% to 25,136.27**",
+     "summary_md": "The chip index fell 3.4%, but all three indexes gained for the week. US futures haven't opened yet (they open Sunday at 4:00 PM AZ).",
+     "source": {
+      "name": "Reuters via Euronext",
+      "url": "https://live.euronext.com/en/financial-news/stocks-mostly-ease-tech-nvidia-concerns-airline-shares-fall-late-session"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M2",
+     "headline_md": "Rates: the **2-year Treasury** yield had its biggest weekly rise in 2+ years, and the **dollar index** hit a 19-month high (103.40)",
+     "summary_md": "As of Friday's close, FedWatch put an 11% chance on a half-point Fed hike in December.",
+     "source": {
+      "name": "Reuters via Euronext",
+      "url": "https://live.euronext.com/en/financial-news/stocks-mostly-ease-tech-nvidia-concerns-airline-shares-fall-late-session"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M3",
+     "headline_md": "Commodities at Friday's settle: **Brent $95.84**, **WTI $88.56** (both down for the week), and COMEX **gold $3,879.70**, down **4.55%** for the week",
+     "summary_md": "Oil was little changed on the day as the focus stayed on a blockade of Iran rather than renewed conflict.",
+     "source": {
+      "name": "Morningstar (Dow Jones)",
+      "url": "https://www.morningstar.com/news/dow-jones/202611139071/comex-gold-ends-the-week-455-lower-at-387970-data-talk"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M4",
+     "headline_md": "**Bitcoin $65,303**, down **4.28%** on the day, at 5:04 AM AZ Sunday",
+     "summary_md": "That's down from a $68,226 previous close.",
+     "source": {
+      "name": "Exa markets",
+      "url": "https://exa.ai/library/markets/crypto/BTC"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "weather",
+   "title": "Weather",
+   "icon": "🌤️",
+   "body_md": "No ice storm or tornado threat for the St. Louis area through Friday, and no active NWS alerts for either point ([NWS alerts](https://api.weather.gov/alerts/active?point=38.7875,-90.6299)). NWS St. Louis expects dry weather through at least midweek, with patchy river-valley fog this morning; a stronger system next weekend could bring 0.1–0.2 in of rain, with a 30–50% chance ([NWS St. Louis discussion](https://forecast.weather.gov/product.php?site=LSX&issuedby=LSX&product=AFD)).\n\n**Hourly chance of precipitation today (CT)**\n\n| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| St. Peters | – | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Berkeley | – | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\nSource: NWS forecastHourly (api.weather.gov, LSX grids 80,81 and 90,80), fetched at 6:05 AM CT. 5a shows \"–\" because that hour had already passed and wasn't in the data. No hour has rain, snow or ice.",
+   "items": [
+    {
+     "id": "X3",
+     "headline_md": "⚠️ Low-confidence severe storm signal: **Sat Nov 21**, mid-Mississippi Valley including the St. Louis area",
+     "summary_md": "SPC says isolated severe storms are possible Saturday as a system moves east, but confidence is too low for any risk area. There's no risk level and no ice threat; NWS has a 30–40% chance of rain Saturday and Saturday night.",
+     "source": {
+      "name": "SPC Day 4–8 Outlook",
+      "url": "https://www.spc.noaa.gov/products/exper/day4-8/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X1",
+     "headline_md": "**St. Peters**: mostly sunny, high near **54°**, low around **30°** tonight, 0% rain chance",
+     "summary_md": "It warms to the upper 60s by Friday, Nov 20.",
+     "source": {
+      "name": "NWS",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=38.7875&lon=-90.6299"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X2",
+     "headline_md": "**Berkeley**: patchy fog 8–9 AM CT, then mostly sunny, high near **54°**, low around **33°** tonight, 0% rain chance",
+     "summary_md": "It warms to the upper 60s by Friday, Nov 20.",
+     "source": {
+      "name": "NWS",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=38.7545&lon=-90.3312"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "worth-reading",
+   "title": "Worth reading in full",
+   "icon": "📖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "R1",
+     "headline_md": "What happened to **hypercasual**? An Azur Games exec maps how the market shifted to hybrid-casual",
+     "summary_md": "Worth reading in full (from April 2026) for its data on downloads, ad-versus-IAP segmentation and why new entrants drive growth, all directly relevant to your one-week casual games.",
+     "source": {
+      "name": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/what-happened-to-hypercasual-the-markets-evolution-over-the-past-year/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  }
+ ]
+}
