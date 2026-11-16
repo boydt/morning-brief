@@ -1,0 +1,560 @@
+{
+  "date": "2026-11-16",
+  "title": "Morning Brief - Prem",
+  "intro_md": "Type \"more on G3\" (or any code) in April's chat, or tap **More info** on an item and paste the request there, and I'll dig in.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Iran hits a **US radar station in Bahrain** with drones, its second attack on Bahrain in three days",
+          "summary_md": "It ends a roughly two-month lull while US talks are stalled; the NYT reports the **USS Theodore Roosevelt** will soon make it **three US carriers** in the region.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Update: Iran's Revolutionary Guards say **two more tankers** hit mines in the **Strait of Hormuz**, and one sank",
+          "summary_md": "The IRGC says six tankers have caught fire in similar incidents over two days; the claims come via Iranian state media.",
+          "source": {
+            "name": "The Indian Express",
+            "url": "https://indianexpress.com/article/world/world-news-today-live-updates-tankers-catch-fire-strait-of-hormuz-iran-us-donald-trump-benjamin-netanyahu-saudi-arabia-jensen-huang-nvidia-10964913/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Yemen's government forces pull back from the **Bab al-Mandab** strait as the **Houthis** advance",
+          "summary_md": "Southern forces say they're redeploying to defend Aden; Saudi Arabia separately says it shot down Houthi drones over Mecca and Medina.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261116/00055113636b428fb787c33ef0bb7cc5/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "**Estonia** will close all border crossings with **Russia** from **Dec 1**",
+          "summary_md": "The foreign minister cited a failed sabotage attempt against an Estonian defense company.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "A **UPS cargo plane** and a **passenger jet** collided at **Miami International Airport** Saturday night",
+          "summary_md": "Two people had minor injuries in the collision around 9:15 PM local time.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261116/00055113636b428fb787c33ef0bb7cc5/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "Update: **Jensen Huang** has discussed **returning as Nvidia CEO**, the FT reports",
+          "summary_md": "An open letter for his reinstatement has 165,000+ signatures, over 7,500 of them self-identified Nvidia staff; interim CEO Colette Kress presents earnings Tuesday.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "The **euro** falls to an **18-month low** just above **$1.10** as the dollar rallies",
+          "summary_md": "Investors expect US rates to rise faster than eurozone rates because US inflation looks sticky.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "ECB vice president warns an **AI repricing** could cause big market losses",
+          "summary_md": "Boris Vujcic said IPO volumes relative to US GDP are on track to top the dot-com peak, a pattern that often coincides with market tops.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "UK **2-year gilt yields** top **5%** for the first time since Feb 2024",
+          "summary_md": "The Bank of England's chief economist, Huw Pill, signaled rate rises next month and in early 2027.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B5",
+          "headline_md": "**Tata Motors** shares drop **8.7%**, their worst day since Feb 2022, after cutting the **Jaguar Land Rover** margin outlook",
+          "summary_md": "It now expects a 2–3% adjusted EBIT margin, down from 4%, after a quarterly net loss of about $588M.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "Gravity launches **RO Lite - Match**, a Ragnarok-themed **triple-tile matching** puzzle game, worldwide",
+          "summary_md": "It's the third game in its RO Lite casual line (after Arrow and Block Puzzle), with felt-textured art, layered stages and boss stages.",
+          "source": {
+            "name": "Inven Global",
+            "url": "https://www.invenglobal.com/articles/28624/gravity-officially-launches-casual-title-ro-lite-match-based-on-ragnarok-ip"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "Bart Bonte's color puzzle **brown** arrives on iOS and Android **Tue Nov 17**",
+          "summary_md": "It's the ninth game in his series: 50 levels, each with its own logic, and several hints per level.",
+          "source": {
+            "name": "AppGamer",
+            "url": "https://www.appgamer.com/new-mobile-games-this-week-ios-android-november-16-22-2026"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "Water puzzle **Acequia** is out on iPhone and iPad: **no ads**, 13 free levels, then one purchase",
+          "summary_md": "You tip clay pots to route water through 74 gardens; no sign-in is needed, and it's in 45 languages.",
+          "source": {
+            "name": "AppGamer",
+            "url": "https://www.appgamer.com/new-mobile-games-this-week-ios-android-november-16-22-2026"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "**Playtika** ends its sale review and stays an **independent** public company",
+          "summary_md": "The board decided independence offers the best long-term value for shareholders.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/hot-five-dfa-dominance-playtika-rules-out-sale-and-nexon-cancels-six-projects/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G5",
+          "headline_md": "**Prince of Persia: The Lost Crown** is coming to **Apple Arcade**",
+          "summary_md": "It already has controller support, 60 FPS and accessibility options; this week's launches also include Transformers: Eternal War and Poppy Playtime Chapter 5.",
+          "source": {
+            "name": "Mobi.gg",
+            "url": "https://mobi.gg/en/news/mobile-game-news-recap-272/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: still no public repo or release from the r/decomps user. GitHub searches turned up only single-game Wii U recomps (e.g., BOTW, Smash 4, MH3U, all from October), not a general lifter, and r/decomps was unreadable today (Reddit blocked it). Watch list: [Quiver Launcher 4.0.0-beta.6](https://github.com/tgeorgiadis/quiver-launcher/releases) (6:15 AM AZ Sunday) is still a beta, not 4.0.0 stable. Longshot, Recompia (0.13.9) and Boxshelf only shipped routine builds. No new NotRexed activity.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "PS5: **KytyPS5** can now upscale **PSSR** games with **AMD FSR**, and build **2026-11-15** is out",
+          "summary_md": "Update since Nov 13: it already supported swapping PSSR for DLSS, and the project says 41% of PS5 system library functions are now in place.",
+          "source": {
+            "name": "GameGPU",
+            "url": "https://en.gamegpu.com/news/zhelezo/v-emulyatore-playstation-5-kytyps5-realizovali-masshtabirovanie-pssr-cherez-biblioteki-amd-fsr"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "Switch 2: **RetroArch** (22 cores) and **Dolphin NX2** hit the **kaiHEN** homebrew environment",
+          "summary_md": "Dolphin NX2 v1.0.0 (Nov 15) is a first test release that runs GameCube games like Mario Kart: Double Dash!!; you need kaiHEN, firmware 23.0.1 demos, and your own games.",
+          "source": {
+            "name": "SceneGaming",
+            "url": "https://scenegaming.com/en/news/retroarch-dolphin-nx2-switch-2-kaihen"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "Arcade: **SM2-Emu** is now **Keisho** (0.9.60) and adds **Sega Model 3**",
+          "summary_md": "52 of 54 tested Model 3 sets reach gameplay, including Scud Race and Daytona USA 2, with linked multi-cabinet races over Wi-Fi.",
+          "source": {
+            "name": "Pants Pants Revolution",
+            "url": "https://pantspantsrevolution.com/sm2-emu-is-now-keisho-and-adds-sega-model-3-support/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "A dev added **rollback netplay** to **MAME** for up to **4-player** co-op arcade games",
+          "summary_md": "Join with a 7-character room code, with no accounts or router setup; all 256 listed games were tested online on Linux, Steam Deck, Windows and Mac.",
+          "source": {
+            "name": "Reddit r/emulation",
+            "url": "https://www.reddit.com/r/emulation/comments/1xx6upx/i_added_rollback_netplay_to_mame_for_coop_arcade/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": "**Domestic top 10, weekend Nov 13–15, 2026 (Sunday studio estimates; actuals due Monday)**\n\n| Rank | Title | Weekend gross | Change vs last weekend | Total domestic gross | Weeks in release | Theaters | Distributor |\n|---|---|---|---|---|---|---|---|\n| 1 | Ebenezer | $19,000,000 | new | $19,000,000 | 1 | 3,535 | Paramount |\n| 2 | The Cat in the Hat | $11,400,000 | −43% | $38,165,000 | 2 | 4,003 | Warner Bros. |\n| 3 | Godzilla Minus Zero | $8,310,000 | −73% | $48,883,262 | 2 | 3,246 | GKIDS |\n| 4 | Ramayana: Rise of a Legend | $5,500,000 | −38% | $24,131,000 | 2 | 1,110 | Sony Pictures Releasing |\n| 5 | You Can See Everything | $5,470,790 | −35% | $89,009,559 | 5 | 1,845 | A24 |\n| 6 | Ghost Soldier | $5,200,000 | new | $8,309,000 | 1 | 2,558 | Sony (Columbia)* |\n| 7 | How to Rob a Bank | $5,175,000 | new | $5,175,000 | 1 | 2,810 | Amazon MGM Studios |\n| 8 | Wild Horse Nine | $4,600,000 | −22% | $13,324,332 | 2 | 2,175 | Searchlight Pictures |\n| 9 | Wildwood | $4,372,404 | −40% | $48,310,469 | 4 | 2,173 | Fathom Entertainment* |\n| 10 | Clayface | $3,725,000 | −45% | $63,634,000 | 4 | 2,284 | Warner Bros. |\n\nSource: grosses, change, totals and theaters from [The Numbers](https://www.the-numbers.com/box-office-chart/weekend/2026/11/13) (estimates); weeks and distributors from [Box Office Mojo](https://www.boxofficemojo.com/weekend/2026W46/estimates/). *Box Office Mojo left these two distributors blank, so they come from [Deadline](https://deadline.com/2026/11/box-office-ebenezer-1237222749/) and Boxoffice Pro.",
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "**Ebenezer** did better abroad, for a **$42M** global opening",
+          "summary_md": "Foreign audiences in 62 markets added $23M; the UK led, and it was No. 1 in Italy, Mexico and Spain. That's good enough on a net $38M budget, Deadline says.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/box-office-global-ebenezer-ramayana-godzilla-minus-zero-1237224479/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Audiences like **Ebenezer** more than critics do: **A-** CinemaScore and **90%** audience score vs **54%** from critics",
+          "summary_md": "Its audience skews older (78% of over-55s would definitely recommend it), so Deadline expects it to hold through Thanksgiving.",
+          "source": {
+            "name": "Boxoffice Pro",
+            "url": "https://www.boxofficepro.com/weekend-box-office-ebenezer-delivers-top-spot-finish-for-johnny-depp/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "**How to Rob a Bank** is a money-loser, Deadline says",
+          "summary_md": "The David Leitch film cost a net $40M before marketing, and the Gen Z men it targeted were only 21% of the audience.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/box-office-ebenezer-1237222749/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "**Ramayana** nears **$150M** worldwide; **Godzilla Minus Zero** passes **$100M**",
+          "summary_md": "Ramayana is now the seventh-biggest Indian film ever, with India's biggest second weekend; Godzilla cost about $20M to make.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/box-office-global-ebenezer-ramayana-godzilla-minus-zero-1237224479/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "Laika's **Wildwood** reaches **$70M** worldwide and should pass **Kubo** ($76.2M)",
+          "summary_md": "France and other territories still haven't opened.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/box-office-global-ebenezer-ramayana-godzilla-minus-zero-1237224479/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V6",
+          "headline_md": "Update: **The Hunger Games: Sunrise on the Reaping** could open to **$100M** next weekend",
+          "summary_md": "Deadline now floats $100M for the Nov 20 opening, up from the $80M+ tracking we noted yesterday, and expects a quiet pre-holiday weekend before it.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/box-office-ebenezer-1237222749/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "AI is now the **Fed's** most-cited financial stability risk",
+          "summary_md": "87% of surveyed contacts flagged AI-related risks, up from 50% in May, pointing to complex AI financing, cyber threats and a possible correction.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "The **US and allies** agree to protect **critical AI supply chains** from China-linked weak points",
+          "summary_md": "Countries including Japan and India will name sensitive technologies for joint protection, and US lawmakers are pushing tighter AI-chip export rules.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "Google's **Gemini 4 Carbon** takes first place on **MathArena**, ahead of **GPT-6.1 Sol**",
+          "summary_md": "The tested setup cost about 15x more per evaluation and often ran past the time limit.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "**Disney** leans into AI with **Ozzy Fox**, an AI-assisted animated series coming to **Disney+** in December",
+          "summary_md": "Its proposed $1B OpenAI partnership fell apart after Sora shut down.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A5",
+          "headline_md": "**Sierra's Poppy 1.0** tells AI shopping agents what each business allows, and **Shopify** turned it on store-wide",
+          "summary_md": "More than 100 companies are taking part, and Meta's Muse checks for it automatically.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "Apple will stop accepting **On-Demand Resources** in **new apps** from **early 2027**",
+          "summary_md": "Per the Nov 12 App Store Connect notes, apps that have never used ODR must switch to Background Assets; existing ODR apps keep working for now.",
+          "source": {
+            "name": "IndApp",
+            "url": "https://indapp.io/en/app-store-connect-2027-on-demand-resources-cutoff/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "Google Play now hosts private **vibe-coded** personal apps with **no developer account**, and adds **\"Ask Play about this app\"**",
+          "summary_md": "You can now ask questions on any store listing before installing; a \"Shop devices\" link is also coming in select regions.",
+          "source": {
+            "name": "MiscW",
+            "url": "https://www.miscw.com/google-play-adds-hardware-store-ai-app-features-and-national-esports-championship-157071.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Ads: the **AppLovin–Unity** fight over the **Ad Quality** SDK is still in arbitration, with no ruling yet",
+          "summary_md": "AdBic suggests publishers using MAX or LevelPlay audit which ad SDKs and review tools run in their builds and watch Unity's bids inside MAX.",
+          "source": {
+            "name": "AdBic",
+            "url": "https://adbic.io/levelplay-ad-quality-applovin-unity-dispute-sdk-audit/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "ULA's **Vulcan** failed to put **40 Amazon Leo** internet satellites into orbit",
+          "summary_md": "The rocket had an in-flight anomaly shortly after liftoff from Florida.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T5",
+          "headline_md": "A hack of La Poste's **Maileva** exposed data on about **22 million** people",
+          "summary_md": "French media report the breach hit La Poste Group's digital mail subsidiary.",
+          "source": {
+            "name": "Anadolu Agency",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": "Futures, oil and gold percentages compare with Friday's last trade, calculated from Yahoo Finance data.",
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Futures at 5:03 AM AZ: **S&P 500 −0.48%**, **Nasdaq 100 −1.16%**, **Dow +0.04%**",
+          "summary_md": "Tech is leading the drop ahead of Nvidia's earnings Tuesday after the close and Anthropic's IPO pricing Wednesday.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/NQ%3DF/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "AI names slide premarket (5:13 AM AZ): **Nvidia ~$156.98 (≈−3.6%)**, **CoreWeave ≈−7.5%**, **Nebius ≈−7.4%**",
+          "summary_md": "Changes are vs Friday's close; earlier, Asian chip and AI stocks fell, and the Kospi and TW50 slid.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/NVDA/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Oil and gold at 5:03 AM AZ: **WTI $87.91 (−0.7%)**, **Brent $95.14 (−0.7%)**, **gold $3,876 (−0.3%)**",
+          "summary_md": "Oil slipped even with the new Hormuz tanker reports.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/CL%3DF/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "**Bitcoin ~$63,965** and **Ether ~$1,793**, both down about 2% since midnight UTC, at 5:12 AM AZ",
+          "summary_md": "Bitcoin is about $1,300 below yesterday's 5 AM AZ reading.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/BTC-USD/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "Japan's **Nikkei 225** closed **−2.4% at 59,662** (11:30 PM AZ Sunday) after weak Q3 GDP",
+          "summary_md": "The dollar index is near 103.5, and the euro is at an 18-month low.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/%5EN225/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "No ice storm or tornado threat for the St. Louis area in the next 7 days, and no active NWS alerts for either point ([NWS alerts](https://api.weather.gov/alerts/active?point=38.7875,-90.6299)). Update: yesterday's low-confidence severe-storm signal for Saturday is gone from today's [SPC Day 4–8 outlook](https://www.spc.noaa.gov/products/exper/day4-8/), and SPC Days 1–3 show no severe areas. NWS St. Louis expects dry, warming weather (upper 60s to low 70s Thu–Fri), then a cold front Sat Nov 21 with light rain at most: about a 60% chance of any rain but 30% or less for 0.10 in or more, and lows stay well above freezing all week ([NWS St. Louis discussion](https://forecast.weather.gov/product.php?site=LSX&issuedby=LSX&product=AFD)).\n\n**Hourly chance of precipitation today (CT)**\n\n| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| St. Peters | – | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Berkeley | – | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\nSource: NWS forecastHourly (api.weather.gov, LSX grids 80,81 and 90,80), fetched at 6:10 AM CT. 5a shows \"–\" because that hour had already passed and wasn't in the data. No hour has rain, snow or ice.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**St. Peters**: sunny, high near **56°**, low around **35°** tonight, 0% rain chance",
+          "summary_md": "Light south wind of 1–5 mph; patchy river-valley fog may linger until about 8–9 AM CT.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7875&lon=-90.6299"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Berkeley**: sunny, high near **57°**, low around **37°** tonight, 0% rain chance",
+          "summary_md": "Tuesday is sunny and 58°, and it warms to about 67° by Thursday.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7545&lon=-90.3312"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "Wes Fenlon: **Ocarina of Time just proved every Nintendo game is a PC game now**",
+          "summary_md": "A long, inside look at how AI-assisted coding is making Switch 2 forks and recomps like the OoT ones you follow appear at breakneck speed, and what that means for Nintendo.",
+          "source": {
+            "name": "Read Only Memo",
+            "url": "https://readonlymemo.com/ocarina-of-time-recomp-hookshot-vibe-coding/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
