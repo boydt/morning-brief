@@ -32,8 +32,40 @@
   });
   const PURIFY = { FORBID_TAGS: ['style', 'form', 'input', 'button', 'textarea', 'select', 'iframe'], FORBID_ATTR: ['style'] };
   // Block markdown (GFM on: tables, strikethrough, autolinks). DOMPurify keeps table/thead/tbody/tr/th/td
-  // by default. After sanitizing, every table is wrapped in a horizontally scrollable container and
-  // cells holding a percentage (e.g. "60% 🌧") get a subtle tint class by value (pct-1 … pct-4).
+  // by default. After sanitizing, every table is wrapped in a horizontally scrollable container,
+  // cells holding a percentage (e.g. "60% 🌧") get a subtle tint class by value (pct-1 … pct-4),
+  // and ⬆ / ⬇ characters in cells are wrapped in .arrow-up / .arrow-down (emoji left in place).
+  function colorizeTableArrows(root) {
+    const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+    const nodes = [];
+    for (let n = walker.nextNode(); n; n = walker.nextNode()) {
+      const text = n.nodeValue;
+      if (text && (text.includes('\u2B06') || text.includes('\u2B07')) && n.parentElement && n.parentElement.closest('td, th')) {
+        nodes.push(n);
+      }
+    }
+    for (const node of nodes) {
+      const text = node.nodeValue;
+      const frag = document.createDocumentFragment();
+      let i = 0;
+      for (let j = 0; j < text.length; j++) {
+        const ch = text[j];
+        if (ch === '\u2B06' || ch === '\u2B07') {
+          if (j > i) frag.append(document.createTextNode(text.slice(i, j)));
+          let end = j + 1;
+          if (text[end] === '\uFE0F') end++;
+          const span = document.createElement('span');
+          span.className = ch === '\u2B06' ? 'arrow-up' : 'arrow-down';
+          span.textContent = text.slice(j, end);
+          frag.append(span);
+          i = end;
+          j = end - 1;
+        }
+      }
+      if (i < text.length) frag.append(document.createTextNode(text.slice(i)));
+      node.replaceWith(frag);
+    }
+  }
   function enhanceTables(html) {
     if (!/<table/i.test(html)) return html;
     const t = document.createElement('template');
@@ -52,6 +84,7 @@
         td.dataset.pct = String(v);
         if (v > 0) td.classList.add(v >= 75 ? 'pct-4' : v >= 50 ? 'pct-3' : v >= 25 ? 'pct-2' : 'pct-1');
       }
+      colorizeTableArrows(table);
     }
     return t.innerHTML;
   }

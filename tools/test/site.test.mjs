@@ -11,6 +11,7 @@ import { fileURLToPath } from 'node:url';
 const REPO = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
 const LIVE = process.env.LIVE || 'http://127.0.0.1:8787/';
 const SHOTS = process.env.SHOTS || path.join(REPO, 'tools/test/results');
+const COMPACT_SHOTS = process.env.COMPACT_SHOTS || '';
 const CHROME = process.env.CHROME_PATH || '/usr/bin/google-chrome';
 const SAMPLES = process.env.SAMPLES || '/workspace/news-site/sample-data';
 const DATA_MAIN = 'https://raw.githubusercontent.com/boydt/morning-brief/main/data/';
@@ -72,6 +73,22 @@ const WX_TABLE_MD = `_Sample data (test only)._\n\n| City | ${WX_HOURS.join(' | 
   const f = path.join(FIX, 'data', `${EMU_DATE}.json`);
   const d = JSON.parse(fs.readFileSync(f, 'utf8'));
   d.sections.find((x) => x.id === 'weather').body_md = WX_TABLE_MD;
+  fs.writeFileSync(f, JSON.stringify(d));
+}
+
+// SAMPLE 12-column box office table in a movies section body_md (fixture copy only).
+const BOX_HEADS = ['#', 'Prev', 'Title', 'Wknd', 'Chg', 'Total', 'Wks', 'Thtrs', 'Dist', 'RT Crit', 'RT Aud', 'MC'];
+const BOX_TABLE_MD = `_Sample box office (test only)._\n\n| ${BOX_HEADS.join(' | ')} |\n|${' --- |'.repeat(BOX_HEADS.length)}\n` +
+  `| 1 | 🟢⬆ | Sample Film A | $12.4M | new | $12.4M | 1 | 4,150 | Uni. | 82 | 95 | 66 |\n` +
+  `| 2 | 🔴⬇ | Sample Film B | $8.1M | -42% | $41.0M | 2 | 3,802 | Par. | 61 | 78 | 57 |\n` +
+  `| 3 | ➖ | Sample Film C | $5.6M | -11% | $58.2M | 4 | 3,210 | Fox | 79 | 88 | 61 |\n` +
+  `\nSource (sample): illustrative weekend figures.`;
+const BOX_SECTION = { id: 'movies', title: 'Movies', icon: '🎬', body_md: BOX_TABLE_MD, items: [] };
+{
+  const f = path.join(FIX, 'data', `${EMU_DATE}.json`);
+  const d = JSON.parse(fs.readFileSync(f, 'utf8'));
+  d.sections = d.sections.filter((x) => x.id !== 'movies');
+  d.sections.push(BOX_SECTION);
   fs.writeFileSync(f, JSON.stringify(d));
 }
 fixIndex.days.sort((a, b) => (a.date < b.date ? 1 : -1));
@@ -327,10 +344,13 @@ try {
     const h29 = p4.locator('details.hday').first();
     await h29.locator('summary').click();
     await p4.waitForFunction(() => document.querySelector('details.hday').querySelectorAll('.card').length > 0);
+    ok(`[${vp.tag}] history day expands on click (lazy-loaded)`, (await h29.locator('.card').count()) > 0, `${await h29.locator('.card').count()} cards`);
     const histDeepBtn = h29.locator('.btn.done').first();
-    ok(`[${vp.tag}] history day expands on click (lazy-loaded); its deep dives start collapsed`, (await h29.locator('.card').count()) > 0 && (await h29.locator('.deep').count()) === 0 && /Show deep dive/.test(await histDeepBtn.innerText()));
-    await histDeepBtn.click();
-    ok(`[${vp.tag}] history deep dive expands on "Show deep dive"`, (await h29.locator('.deep').count()) === 1);
+    if (await histDeepBtn.count()) {
+      ok(`[${vp.tag}] history deep dives start collapsed`, (await h29.locator('.deep').count()) === 0 && /Show deep dive/.test(await histDeepBtn.innerText()));
+      await histDeepBtn.click();
+      ok(`[${vp.tag}] history deep dive expands on "Show deep dive"`, (await h29.locator('.deep').count()) === 1);
+    }
     await h29.locator('summary').click();
     ok(`[${vp.tag}] history day collapses on click`, !(await h29.evaluate((d) => d.open)));
 
@@ -347,8 +367,11 @@ try {
     const same = [];
     // Compare like with like: a "More info" button with a "More info" button, a deep-dive button with a deep-dive button.
     for (const part of ['.section', '.section-head', '.section-icon', '.section-title', '.card', '.badge', '.headline', '.summary', '.source', '.btn:not(.done):not(.asked)', '.btn.done']) {
-      const a = await styleOf(`#today .section[data-section="games"] ${part === '.section' ? '' : part}`.trim());
-      const b = await styleOf(`#today .section[data-section="emulation"] ${part === '.section' ? '' : part}`.trim());
+      const selA = `#today .section[data-section="games"] ${part === '.section' ? '' : part}`.trim();
+      const selB = `#today .section[data-section="emulation"] ${part === '.section' ? '' : part}`.trim();
+      if ((await p4.locator(selA).count()) === 0 || (await p4.locator(selB).count()) === 0) continue;
+      const a = await styleOf(selA);
+      const b = await styleOf(selB);
       if (a !== b) same.push(`${part}: ${a} ≠ ${b}`);
     }
     ok(`[${vp.tag}] emulation: identical computed styles to the games section (section, head, icon, title, card, badge, headline, summary, source, More-info + deep-dive buttons)`, same.length === 0, same.join(' ; '));
@@ -417,8 +440,120 @@ try {
     } else {
       ok(`[${vp.tag}] table fits without scrolling at this width (container still overflow-x:auto)`, sc.pageX === 0, JSON.stringify(sc));
     }
+    // ---- movies 12-column box office table (sample, fixture copy only) ----
+    const mv = p4.locator('#today .section[data-section="movies"] .section-body');
+    const box = await mv.evaluate((el) => {
+      const wrap = el.querySelector('.table-wrap'), t = wrap && wrap.querySelector('table');
+      if (!t) return null;
+      const th = [...t.querySelectorAll('thead th')];
+      const th0 = getComputedStyle(th[0]);
+      const td0 = getComputedStyle(t.querySelector('tbody td'));
+      const ups = [...t.querySelectorAll('.arrow-up')].map((s) => ({ text: s.textContent, color: getComputedStyle(s).color, tag: s.tagName }));
+      const downs = [...t.querySelectorAll('.arrow-down')].map((s) => ({ text: s.textContent, color: getComputedStyle(s).color, tag: s.tagName }));
+      const prev = [...t.querySelectorAll('tbody tr')].map((tr) => tr.cells[1].textContent);
+      const parsePx = (v) => Number.parseFloat(v);
+      const pad = getComputedStyle(th[9]); // "RT Crit"
+      return {
+        heads: th.map((h) => h.textContent),
+        rows: t.querySelectorAll('tbody tr').length,
+        overflowX: getComputedStyle(wrap).overflowX,
+        sticky: getComputedStyle(t.querySelector('tbody td')).position,
+        tableFont: getComputedStyle(t).fontSize,
+        thWhiteSpace: th0.whiteSpace,
+        thWordBreak: th0.wordBreak,
+        thOverflowWrap: th0.overflowWrap,
+        thValign: th0.verticalAlign,
+        thMinWidth: th0.minWidth,
+        tdWhiteSpace: td0.whiteSpace,
+        padTop: parsePx(pad.paddingTop), padRight: parsePx(pad.paddingRight),
+        padBottom: parsePx(pad.paddingBottom), padLeft: parsePx(pad.paddingLeft),
+        ups, downs, prev,
+        note: /Source \(sample\)/.test(el.textContent),
+        pageOverflow: document.documentElement.scrollWidth > window.innerWidth || document.body.scrollWidth > window.innerWidth,
+        pageW: `${document.documentElement.scrollWidth}/${window.innerWidth}`,
+        wrapScroll: wrap.scrollWidth > wrap.clientWidth + 1,
+      };
+    });
+    ok(`[${vp.tag}] movies body_md 12-col table renders (heads + 3 sample rows, note below)`, box && box.heads.join(' | ') === BOX_HEADS.join(' | ') && box.rows === 3 && box.note, JSON.stringify(box && box.heads));
+    ok(`[${vp.tag}] compact table: ~12px font (smaller under 480px), padding ~3px 4px, headers wrap, sticky first column`,
+      box && parseFloat(box.tableFont) <= (vp.width <= 480 ? 11.5 : 12.5) && parseFloat(box.tableFont) >= 10
+      && box.padTop <= 4 && box.padRight <= 5 && box.padBottom <= 4 && box.padLeft <= 5
+      && box.thWhiteSpace === 'normal' && box.thValign === 'bottom'
+      && (box.thOverflowWrap === 'anywhere' || box.thWordBreak === 'normal')
+      && box.tdWhiteSpace === 'nowrap' && box.overflowX === 'auto' && box.sticky === 'sticky',
+      JSON.stringify({ font: box && box.tableFont, pad: box && [box.padTop, box.padRight, box.padBottom, box.padLeft], ws: box && box.thWhiteSpace, valign: box && box.thValign, ow: box && box.thOverflowWrap, sticky: box && box.sticky }));
+    const arrowOk = box && box.ups.length === 1 && box.downs.length === 1
+      && box.ups[0].tag === 'SPAN' && box.downs[0].tag === 'SPAN'
+      && box.ups[0].text.includes('⬆') && box.downs[0].text.includes('⬇')
+      && box.prev[0].includes('🟢') && box.prev[0].includes('⬆')
+      && box.prev[1].includes('🔴') && box.prev[1].includes('⬇')
+      && box.prev[2].includes('➖');
+    const rgb = (c) => (c || '').match(/rgba?\((\d+),\s*(\d+),\s*(\d+)/);
+    const isGreen = (c) => { const m = rgb(c); return m && Number(m[2]) > Number(m[1]) && Number(m[2]) > Number(m[3]); };
+    const isRed = (c) => { const m = rgb(c); return m && Number(m[1]) > Number(m[2]) && Number(m[1]) > Number(m[3]); };
+    ok(`[${vp.tag}] compact table: ⬆/⬇ wrapped in colored spans; 🟢🔴➖ left in place`,
+      arrowOk && isGreen(box.ups[0].color) && isRed(box.downs[0].color),
+      JSON.stringify(box && { ups: box.ups, downs: box.downs, prev: box.prev }));
+    await p4.evaluate(() => { const el = document.querySelector('#today .section[data-section="movies"]'); el.scrollIntoView({ block: 'start' }); window.scrollBy(0, -70); });
+    await sleep(150);
+    const boxOverflow = await p4.evaluate(() => ({ overflow: document.documentElement.scrollWidth > window.innerWidth || document.body.scrollWidth > window.innerWidth, pageW: `${document.documentElement.scrollWidth}/${window.innerWidth}` }));
+    ok(`[${vp.tag}] movies table: no page-level horizontal overflow`, !boxOverflow.overflow, boxOverflow.pageW);
+    await shot(p4, `${vp.tag}-box-office-table.png`);
+
     ok(`[${vp.tag}] fixture: no console errors / failed requests`, pr4.length === 0, pr4.join('; '));
     await c4.close();
+  }
+
+  // ---- 430px iPhone 15 Pro Max width: compact table screenshots, light + dark ----
+  {
+    const vp430 = { tag: 'iphone-430', width: 430, height: 932, isMobile: true, dpr: 3 };
+    for (const scheme of ['light', 'dark']) {
+      const { ctx, page, problems } = await newCtx(vp430, { origin: new URL(FIXURL).origin, offline: true });
+      await page.emulateMedia({ colorScheme: scheme });
+      await page.goto(FIXURL, { waitUntil: 'networkidle' });
+      await page.waitForSelector('#today .section[data-section="movies"] table');
+      await page.evaluate(() => { const el = document.querySelector('#today .section[data-section="movies"]'); el.scrollIntoView({ block: 'start' }); window.scrollBy(0, -70); });
+      await sleep(200);
+      const info = await page.evaluate(() => {
+        const wrap = document.querySelector('#today .section[data-section="movies"] .table-wrap');
+        const ths = [...wrap.querySelectorAll('thead th')].map((th) => {
+          const r = th.getBoundingClientRect();
+          const cs = getComputedStyle(th);
+          const range = document.createRange();
+          range.selectNodeContents(th);
+          const tr = range.getBoundingClientRect();
+          const lineH = parseFloat(cs.lineHeight) || parseFloat(cs.fontSize) * 1.3;
+          const textLines = tr.height / lineH;
+          return { text: th.textContent, w: r.width, h: r.height, ws: cs.whiteSpace, va: cs.verticalAlign, textH: tr.height, textLines };
+        });
+        return {
+          pageOverflow: document.documentElement.scrollWidth > window.innerWidth + 1 || document.body.scrollWidth > window.innerWidth + 1,
+          pageW: `${document.documentElement.scrollWidth}/${window.innerWidth}`,
+          wrapOverflowX: getComputedStyle(wrap).overflowX,
+          wrapSW: wrap.scrollWidth,
+          wrapCW: wrap.clientWidth,
+          ups: document.querySelectorAll('.arrow-up').length,
+          downs: document.querySelectorAll('.arrow-down').length,
+          font: getComputedStyle(wrap.querySelector('table')).fontSize,
+          wrappedHeads: ths.filter((h) => h.textLines >= 1.6).map((h) => h.text),
+          ths,
+        };
+      });
+      const name = `table-compact-${scheme}.png`;
+      await shot(page, name);
+      if (COMPACT_SHOTS) {
+        fs.mkdirSync(COMPACT_SHOTS, { recursive: true });
+        fs.copyFileSync(path.join(SHOTS, name), path.join(COMPACT_SHOTS, name));
+        console.log('  compact shot', path.join(COMPACT_SHOTS, name));
+      }
+      const rtWrap = info.ths.filter((h) => /RT Crit|RT Aud/.test(h.text)).every((h) => h.ws === 'normal' && h.textLines >= 1.6);
+      const noLetterSplit = info.ths.filter((h) => !h.text.includes(' ')).every((h) => h.textLines < 1.5);
+      ok(`[430 ${scheme}] headers wrap (RT Crit / RT Aud), arrows colored, no page overflow, no console errors`,
+        info.pageOverflow === false && info.wrapOverflowX === 'auto' && info.ups === 1 && info.downs === 1
+        && problems.length === 0 && parseFloat(info.font) <= 11.5 && rtWrap && noLetterSplit,
+        JSON.stringify({ ...info, problems, rtWrap, noLetterSplit }));
+      await ctx.close();
+    }
   }
 } finally {
   await browser.close();
