@@ -1,0 +1,505 @@
+{
+ "date": "2026-11-18",
+ "title": "Morning Brief - Prem",
+ "intro_md": "Type \"more on G3\" (or any code) here, or tap **More info** on an item on the brief page and paste the request here, and I'll dig in.",
+ "sections": [
+  {
+   "id": "world",
+   "title": "World",
+   "icon": "🌍",
+   "body_md": null,
+   "items": [
+    {
+     "id": "W1",
+     "headline_md": "Update: **Trump lands in Shenzhen**, greeted by **Xi** at the airport, ahead of Thursday's first-ever **Trump–Xi–Putin** meeting",
+     "summary_md": "Xi and Putin held their 50th meeting on the APEC sidelines Wednesday.",
+     "source": {
+      "name": "The Indian Express",
+      "url": "https://indianexpress.com/article/world/world-news-live-updates-trump-china-us-tech-outages-first-xi-putin-meet-apec-qeshm-island-hormuz-russia-ukraine-10967706/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W2",
+     "headline_md": "After US strikes on Iran's **Qeshm Island**, Iran hits **Bahrain** and a **Kuwaiti base** used by US forces; the **Houthis** fire cruise missiles at **Riyadh**",
+     "summary_md": "The Houthi fire followed a major Saudi-backed coalition air attack on the group's missiles and drones, and a UAE state oil tanker was attacked in the Strait of Hormuz.",
+     "source": {
+      "name": "AP",
+      "url": "https://apnews.com/article/mideast-news-iran-bahrain-us-november-18-2026-b71b1d25f3cff987b4b125196ecb4c3a"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W3",
+     "headline_md": "The Pentagon tells Ukraine's backers that **deep strikes inside Russia** don't work; **Germany** calls that view \"quite stupid\"",
+     "summary_md": "Britain sided with Germany at the NATO meeting, and a Dutch firm says seven of its Ruta cruise missiles hit the Kerch Bridge.",
+     "source": {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/18/ukraine-war-briefing-us-criticises-kyiv-deep-strikes-russia"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W4",
+     "headline_md": "Israel's Knesset elects **Matan Kahana**, a Netanyahu opponent, as speaker by **66–52**",
+     "summary_md": "That gives Netanyahu's opponents control of the legislative agenda while coalition talks continue.",
+     "source": {
+      "name": "Xinhua",
+      "url": "https://english.news.cn/20261118/21ab75809e404540a97295a9fde9f74d/c.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W5",
+     "headline_md": "Mongolia's president **Ukhnaa Khurelsukh** says he will resign amid abuse-of-power and bribery allegations",
+     "summary_md": "Parliament has the final say on whether to accept it.",
+     "source": {
+      "name": "Xinhua",
+      "url": "https://english.news.cn/20261118/21ab75809e404540a97295a9fde9f74d/c.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "title": "Business",
+   "icon": "💼",
+   "body_md": null,
+   "items": [
+    {
+     "id": "B1",
+     "headline_md": "Update: **Nvidia** beats with **$115.8B** in revenue (+103%) and guides **$130B** for next quarter; the board says it won't bring back **Jensen Huang**",
+     "summary_md": "Interim CEO Colette Kress raised next fiscal year's growth outlook to about 75%, from 70%.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B2",
+     "headline_md": "**Anthropic** prices its IPO tonight and is likely to go **above its $70–$78 range**, sources say; trading starts **Thu** as **ANT**",
+     "summary_md": "It is offering 825 million shares, worth up to about $1.4T at the top of the range.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B3",
+     "headline_md": "**Target** posts its best sales growth in five years and **raises its outlook**",
+     "summary_md": "Comparable sales rose 5.6% vs. 3.8% expected, and full-year EPS guidance is now $10.65–$11.40.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B4",
+     "headline_md": "**Lowe's** beats on **$22.76B** in sales and nudges up its full-year outlook despite a slow housing market",
+     "summary_md": "Online sales rose 17.4%; about $250M in tariff refunds added 34 cents to EPS.",
+     "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "games",
+   "title": "Games & mobile",
+   "icon": "🎮",
+   "body_md": null,
+   "items": [
+    {
+     "id": "G1",
+     "headline_md": "Google Play's **Best of Play 2026**: **Arknights: Endfield** wins Best Game; **Subway Surfers City** wins **Best Pick Up & Play**",
+     "summary_md": "Other winners: Sea of Stars (Story), Deep Rock Galactic: Survivor (Indie), Warframe (Multiplayer), Zenless Zone Zero (Ongoing).",
+     "source": {
+      "name": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/google-plays-best-of-play-2026-winners/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G2",
+     "headline_md": "**GTA 6** leads **The Game Awards 2026** with **8 nominations**, a day before it launches **Thu Nov 19**",
+     "summary_md": "Best Mobile nominees: Arknights: Endfield, Monster Hunter Outlanders, Neverness to Everness, Pokémon Champions and Where Winds Meet; the show is Dec 10.",
+     "source": {
+      "name": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/gta-6-leads-the-game-awards-2026-with-eight-nominations"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G3",
+     "headline_md": "Sensor Tower: South Korea's mobile game **downloads fell 28%** from 2021 to 2026 while **revenue held near $5B**",
+     "summary_md": "Publishers are leaning on retention and casual spin-offs; hybrid-casual maker **Supercent** grew overseas revenue 97% in Q1–Q3.",
+     "source": {
+      "name": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/report-south-koreas-mobile-game-downloads-fall-28-as-revenue-holds-near-5bn/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G4",
+     "headline_md": "**Netflix** confirms **layoffs** in its games division after a restructuring",
+     "summary_md": "It says its games strategy is unchanged; Next Games is now its only first-party studio.",
+     "source": {
+      "name": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/netflix-confirms-games-division-layoffs/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G5",
+     "headline_md": "A UK tribunal throws out the **£2B PlayStation Store** class action over Sony's **30% cut**",
+     "summary_md": "It found players have real alternatives (discs, rival consoles), unlike in the earlier App Store ruling.",
+     "source": {
+      "name": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/uk-tribunal-dismisses-2bn-playstation-class-action-suit-which-alleged-unfair-pricing-over-30-cut-on-playstation-store"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "emulation",
+   "title": "Video Game Emulation",
+   "icon": "🕹️",
+   "body_md": "Wii U lifter watch: still no public repo. The r/decomps new page shows no lifter announcement (it does show a new mod rule: \"No Switch 2 repo links at all!\"), and GitHub searches for Wii U lifter/recomp turn up only single-game projects (BOTWRecomp for macOS, updated Nov 17; Tekken Tag 2 Wii U port) and the older brandraft-exp/wiiu-recomp, not a general lifter. Watch list: [Quiver Launcher](https://github.com/tgeorgiadis/quiver-launcher/releases) is still on 4.0.0-beta.7 (5:27 AM AZ Monday), not stable. [Longshot](https://git.magicbean.dev/MagicBeanDev/Longshot/releases) has only nightlies since v3.0.0-rc.7 (latest nightly-484 at 1:48 AM AZ today). Boxshelf (v1.82.0-beta.14, Nov 14) and NX2navi (v0.12.0, Nov 14) have nothing new, and NotRexed's last public activity was Nov 13.",
+   "items": [
+    {
+     "id": "E1",
+     "headline_md": "Switch 2 on Android: **Banana Native v0.3.40** runs **10 Switch 2 games**, including **Mario Kart World** and **Donkey Kong Bananza**",
+     "summary_md": "Shaders now compile in the background as you play; you need your own console dump and a flagship phone with about 12–16GB of RAM.",
+     "source": {
+      "name": "Android Authority",
+      "url": "https://www.androidauthority.com/banana-native-switch-2-games-android-3736047/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E2",
+     "headline_md": "PS5: original-Xbox emulator **XPSemu Alpha 3.6** adds GPU-powered **AI texture upscaling** and EvolutionX dashboard support",
+     "summary_md": "It also fixes OutRun 2 SP (Chihiro) booting and Silent Hill 2's pause-screen smear; it needs a jailbroken PS5 (kstuff).",
+     "source": {
+      "name": "Emu Radar",
+      "url": "https://emu-radar.customfw.xyz/news/xpsemu-alpha-3-6/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E3",
+     "headline_md": "PS3 recomp: **Asura's Wrath** gets a native PC port, **v1.0**, made by statically recompiling the PowerPC code",
+     "summary_md": "Up to 4K and 120 fps with no emulator or PS3 firmware; you build it from your own copy of the European release.",
+     "source": {
+      "name": "GitHub (RecompPort)",
+      "url": "https://github.com/RecompPort/asura-wrath-pc/releases"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E4",
+     "headline_md": "**DOOM Recomp 1.1.0** (DOOM 2016 natively on Apple Silicon) fixes **macOS 26** and adds the **GOG** version",
+     "summary_md": "Posted at 8:14 PM AZ Tuesday, a day after 1.0.0; you need your own Windows copy.",
+     "source": {
+      "name": "GitHub (DOOM Recomp)",
+      "url": "https://github.com/NightSightProductions/doom-recomp/releases"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E5",
+     "headline_md": "3DS emulator **Azahar 2127.0** reaches release candidate, with all-in-one **ROM bundles** and a faster iOS interpreter",
+     "summary_md": "Per-game settings arrive on Android; the stable release isn't out yet.",
+     "source": {
+      "name": "Recalbox",
+      "url": "https://www.recalbox.com/blog/2026-11-16-azahar-2127-emulateur-3ds-nintendo-mise-a-jour-retrogaming-emulation"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "movies",
+   "title": "Movies",
+   "icon": "🎬",
+   "body_md": "**Domestic top 10, weekend Fri–Sun Nov 13–15, 2026 (Monday actuals)**\n\n| # | Prev | Title | Wknd | Chg | Total | Wks | Thtrs | Dist | RT Crit | RT Aud | MC |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | new | [Ebenezer](https://www.rottentomatoes.com/m/ebenezer_2026) | $19.0m | new | $19.0m | 1 | 3.5k | Para. | 53% | 90% | 46 |\n| 2 | 2 ➖ | [The Cat in the Hat](https://www.rottentomatoes.com/m/the_cat_in_the_hat) | $11.3m | −44% | $38.1m | 2 | 4.0k | WB | 47% | 87% | 46 |\n| 3 | 1 🔴⬇ | [Godzilla Minus Zero](https://www.rottentomatoes.com/m/godzilla_minus_zero) | $8.5m | −72% | $49.1m | 2 | 3.2k | GKIDS | 90% | 96% | 74 |\n| 4 | 4 ➖ | [Ramayana](https://www.rottentomatoes.com/m/ramayana_rise_of_a_legend) | $5.8m | −35% | $24.4m | 2 | 1.1k | Sony | 78% | 94% | 58 |\n| 5 | 5 ➖ | [You Can See Everything](https://www.rottentomatoes.com/m/you_can_see_everything) | $5.5m | −35% | $89.0m | 5 | 1.8k | A24 | 97% | 95% | 97 |\n| 6 | new | [How to Rob a Bank](https://www.rottentomatoes.com/m/how_to_rob_a_bank_2026) | $5.2m | new | $5.2m | 1 | 2.8k | Amazon | 36% | 81% | 48 |\n| 7 | new | [Ghost Soldier](https://www.rottentomatoes.com/m/ghost_soldier) | $5.1m | new | $8.2m | 1 | 2.6k | Sony | 40% | 90% | 41 |\n| 8 | 8 ➖ | [Wild Horse Nine](https://www.rottentomatoes.com/m/wild_horse_nine) | $4.5m | −23% | $13.2m | 2 | 2.2k | Searchl. | 93% | 92% | 77 |\n| 9 | 6 🔴⬇ | [Wildwood](https://www.rottentomatoes.com/m/wildwood) | $4.4m | −39% | $48.4m | 4 | 2.2k | Fathom | 97% | 97% | 87 |\n| 10 | 7 🔴⬇ | [Clayface](https://www.rottentomatoes.com/m/clayface) | $3.7m | −45% | $63.6m | 4 | 2.3k | WB | 78% | 94% | 58 |\n\nPrev = last weekend's rank; titles link to Rotten Tomatoes; RT Crit/RT Aud = Rotten Tomatoes critics/audience; MC = Metacritic. Dropped out: Angel's **Drummer Boy** fell from No. 3 to No. 11 (−64%). Scores rechecked this morning (Ghost Soldier now 40% critics, How to Rob a Bank 81% audience). Sources: [The Numbers](https://www.the-numbers.com/box-office-chart/weekend/2026/11/13), [Box Office Mojo](https://www.boxofficemojo.com/weekend/2026W46/) (weeks, distributors), [Rotten Tomatoes](https://www.rottentomatoes.com/), [Metacritic](https://www.metacritic.com/).",
+   "items": [
+    {
+     "id": "V1",
+     "headline_md": "Update: **The Hunger Games: Sunrise on the Reaping** reviews are in: **75%** on Rotten Tomatoes (80 reviews), **56** on Metacritic",
+     "summary_md": "It opens Fri Nov 20 as the weekend's big new release.",
+     "source": {
+      "name": "Rotten Tomatoes",
+      "url": "https://www.rottentomatoes.com/m/the_hunger_games_sunrise_on_the_reaping"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V2",
+     "headline_md": "First reactions call Fincher and Tarantino's **The Further Mis-Adventures of Cliff Booth** an \"absolute triumph\"",
+     "summary_md": "Brad Pitt's sequel opens only in IMAX on Nov 25, then streams on Netflix Dec 23.",
+     "source": {
+      "name": "Variety",
+      "url": "https://variety.com/2026/film/news/cliff-booth-first-reactions-brad-pitt-fincher-tarantino-1236948975/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V3",
+     "headline_md": "Small releases are growing: **Club Kid** rose **87%** on 27 screens ($28,002 per screen) and **I Play Rocky** rose 46% before it goes wide Friday",
+     "summary_md": "Paper Tiger still had the weekend's best per-screen average.",
+     "source": {
+      "name": "The Numbers",
+      "url": "https://www.the-numbers.com/box-office-chart/weekend/2026/11/13"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V4",
+     "headline_md": "Ron Howard says a **Grinch** sequel with **Jim Carrey** goes ahead only with a great script, and there's no script yet",
+     "summary_md": "Universal and Imagine are developing it; Howard says it would still be live action.",
+     "source": {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ron-howard-grinch-sequel-only-move-forward-perfect-script-1236758080/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "icon": "🤖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "A1",
+     "headline_md": "OpenAI launches **GPT-6.2 Astra** (frontier) and **GPT-6.2 Sol** (everyday) in ChatGPT, Codex and the API",
+     "summary_md": "Astra's API prices are 20% lower than GPT-6 Astra's ($8 in / $40 out per million tokens); Sol keeps GPT-6.1 Sol's prices.",
+     "source": {
+      "name": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A2",
+     "headline_md": "DeepMind spinout **Isomorphic Labs** raises **$5B** to take its AI-designed drugs into clinical trials",
+     "summary_md": "Greenoaks and Sequoia co-led, six months after a $2.1B Series B.",
+     "source": {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A3",
+     "headline_md": "The Trump administration plans to name **Nvidia** and more than two dozen firms US AI **\"national champions\"**",
+     "summary_md": "Amazon, Microsoft, OpenAI and Anthropic are expected on the list, with faster export licenses and federal financing.",
+     "source": {
+      "name": "The Neuron",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-17-2026/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A4",
+     "headline_md": "Tencent's **Hy4 flash** has 224B parameters (12B active), a **1M-token** context and costs about **$0.07 per million input tokens**",
+     "summary_md": "That's Tencent's own pricing figure.",
+     "source": {
+      "name": "The Neuron",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-17-2026/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Tech, app stores & ads",
+   "icon": "📱",
+   "body_md": null,
+   "items": [
+    {
+     "id": "T1",
+     "headline_md": "Apple changes **App Store prices** in 5 countries on **Dec 3**, and adds **California sales tax** on some app categories from **Jan 1**",
+     "summary_md": "Botswana, Colombia, Egypt, Rwanda and Türkiye change; US shelf prices don't, but California buyers may pay more with tax.",
+     "source": {
+      "name": "9to5Mac",
+      "url": "https://9to5mac.com/2026/11/17/apple-announces-app-store-price-changes-in-multiple-countries-new-california-tax-rules/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T2",
+     "headline_md": "Ads: **AppLovin** quietly stopped letting publishers create new waterfall lines outside its own **MAX** mediation",
+     "summary_md": "New Unity LevelPlay apps can't add AppLovin demand at all; AdMob apps can still use it through bidding.",
+     "source": {
+      "name": "PPC Land",
+      "url": "https://ppc.land/applovin-blocks-new-waterfall-lines-for-apps-on-rival-mediation/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T3",
+     "headline_md": "A hack of **Optimizely** loaded card-skimming and crypto-stealing code on **178** organizations' sites, including CNN, BBC and Zoom",
+     "summary_md": "It also pushed iOS exploit kits; anyone who entered a card on those sites on Nov 16 should check statements and update iOS.",
+     "source": {
+      "name": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Markets",
+   "icon": "📈",
+   "body_md": null,
+   "items": [
+    {
+     "id": "M1",
+     "headline_md": "Futures at 2:53 AM AZ: **S&P 500 +0.62%**, **Nasdaq 100 +1.17%**, **Dow +0.28%**, lifted by Nvidia",
+     "summary_md": "Fed minutes come out today, and Anthropic prices its IPO this evening.",
+     "source": {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/economy-news/nasdaq-futures-jump-as-nvidia-forecast-lifts-ai-trade-ahead-of-anthropic-pricing-5035347"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M2",
+     "headline_md": "**Nvidia ~$160.14** premarket at 5:06 AM AZ, up about **3%** from Tuesday's $155.46 close",
+     "summary_md": "Reuters also had CoreWeave up 6.5% and Nebius up 8.1% early.",
+     "source": {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/NVDA/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M3",
+     "headline_md": "**Gold ~$3,763** at 4:56 AM AZ, down about **2.5%** to its lowest in more than a year as the dollar hits a 19-month high",
+     "summary_md": "Miners like Newmont and Freeport were lower premarket.",
+     "source": {
+      "name": "Morningstar (Dow Jones)",
+      "url": "https://www.morningstar.com/news/dow-jones/202611182532/north-american-morning-briefing-stock-futures-rise-after-nvidia-earnings-soothe-ai-jitters"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M4",
+     "headline_md": "Oil at about 4:54 AM AZ: **WTI $83.96 (−0.8%)**, **Brent $89.96 (−0.5%)**",
+     "summary_md": "Supply-surplus worries are outweighing tanker attacks in the Gulf.",
+     "source": {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CL=F/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M5",
+     "headline_md": "**Bitcoin ~$64,127 (−1.2%)** and **Ether ~$1,798 (−1.3%)** at 5:05 AM AZ; Japan's **Nikkei** closed **+0.3% at 59,024** (11:45 PM AZ)",
+     "summary_md": "Crypto changes are vs. the start of the UTC day.",
+     "source": {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BTC-USD/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "weather",
+   "title": "Weather",
+   "icon": "🌤️",
+   "body_md": "No ice storm or tornado threat for the St. Louis area in the next 7 days (NWS/SPC): no active NWS alerts at either point ([NWS alerts](https://api.weather.gov/alerts/active?point=38.7875,-90.6299)), SPC Days 1–3 show no severe areas near Missouri, and NWS St. Louis lists no watches or advisories. Update on Saturday: SPC's Day 4–8 outlook now puts the isolated severe chance Sat–Sun over the **central and southern Plains**, with confidence too low to draw a risk area ([SPC Day 4–8](https://www.spc.noaa.gov/products/exper/day4-8/)). Locally, NWS expects highs in the upper 60s to about 70 through Saturday, then a cold front with rain Saturday night into Sunday (40% / 30%), and a cold snap next week with highs in the 40s and lows in the 20s; Tuesday night has a 20% chance of light snow or a rain-snow mix with little or no accumulation, so no ice expected ([NWS St. Louis discussion](https://forecast.weather.gov/product.php?site=LSX&issuedby=LSX&product=AFD)). The LSX Hazardous Weather Outlook wasn't available through the NWS API this morning.\n\n**Hourly chance of precipitation today (CT)**\n\n| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| St. Peters | – | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Berkeley | – | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\nSource: NWS forecastHourly (api.weather.gov, LSX grids 80,81 and 90,80), fetched at 6:03 AM CT. 5a shows \"–\" because that hour had already passed. No hour has rain, snow or ice.",
+   "items": [
+    {
+     "id": "X1",
+     "headline_md": "**St. Peters**: mostly sunny and warmer, high near **65°**, low around **44°** tonight, 0% rain chance",
+     "summary_md": "South wind 5–12 mph, gusting to about 20 mph late morning into the afternoon.",
+     "source": {
+      "name": "NWS",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=38.7875&lon=-90.6299"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X2",
+     "headline_md": "**Berkeley**: mostly sunny, high near **65°**, low around **45°** tonight, 0% rain chance",
+     "summary_md": "South wind 6–10 mph; a little river fog was reported early but isn't expected to spread.",
+     "source": {
+      "name": "NWS",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=38.7545&lon=-90.3312"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "worth-reading",
+   "title": "Worth reading in full",
+   "icon": "📖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "R1",
+     "headline_md": "Microsoft, FAA, Chase, NSA, Apple: **why everything seems to be breaking at once**",
+     "summary_md": "A clear look at whether a week of big outages is sabotage or just brittle, AI-strained systems; Apple blamed its own outage Tuesday on an internal update, not an attack.",
+     "source": {
+      "name": "NBC News",
+      "url": "https://www.nbcnews.com/tech/security/microsoft-faa-chase-nsa-week-major-outages-tech-plan-conspiracy-down-rcna609876"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  }
+ ]
+}
