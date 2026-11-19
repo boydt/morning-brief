@@ -1,0 +1,549 @@
+{
+  "date": "2026-11-19",
+  "title": "Morning Brief - Prem",
+  "intro_md": "Type \"more on G3\" (or any code) here, or tap **More info** on an item on the brief page and paste the request here, and I'll dig in.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Update: the first **Trump–Xi–Putin** meeting in Shenzhen ends after about **80 minutes** with **no binding deal**, and Chinese state media publish a four-point \"peace declaration\"",
+          "summary_md": "The declaration commits the three to strategic stability and UN reform; Ukraine and nuclear arms were discussed without a settlement.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Update: Iran says its drones hit **Patriot systems** at Kuwait's **Ali Al-Salem** air base, and CENTCOM says **no US personnel were hurt**",
+          "summary_md": "Iran's army chief vows a \"more crushing\" response if the US strikes again; mediation shows no breakthrough.",
+          "source": {
+            "name": "World Watch",
+            "url": "https://worldwatch.media/en/digest/2026-11-19"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Hegseth signs a deal in Caracas **restoring US–Venezuela military ties**, from training to intelligence sharing",
+          "summary_md": "He called Venezuela a \"compliant security partner\" since Maduro's capture in January.",
+          "source": {
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com/news/morning-digest-november-19-2026/article71717709.ece"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Democrat **Mary Peltola** beats Sen. Dan Sullivan in **Alaska**, giving Democrats a **56–44 Senate** majority",
+          "summary_md": "Per the South China Morning Post, via World Watch.",
+          "source": {
+            "name": "World Watch",
+            "url": "https://worldwatch.media/en/digest/2026-11-19"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "NASA's **Voyager 1** is now **one light-day** from Earth, about 26 billion km away, the farthest any human-made object has gone",
+          "summary_md": "NASA put the milestone at 4:16 AM CT Wednesday.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261119/6753e5392cb54036b5b5c89268acafa7/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "Update: **Anthropic** prices its IPO at **$83**, above its $70–$78 range, raising **$81B** at a **$1.5T** valuation; **ANT** starts trading on Nasdaq today",
+          "summary_md": "It's the biggest IPO on record, ahead of SpaceX's ~$75B in June.",
+          "source": {
+            "name": "AP",
+            "url": "https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "Health insurers sink on a proposed Medicare Advantage audit rule: **Humana −13%**, **UnitedHealth −10.2%**, Elevance −7.6%",
+          "summary_md": "CMS's CRUSH rule would extrapolate audit findings, recovering about $9B a payment year; comments are open until Jan 19.",
+          "source": {
+            "name": "StockAnalysis",
+            "url": "https://stockanalysis.com/news/unitedhealth-humana-fall-cms-medicare-advantage-audit-rule/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "**Walmart** reports before the bell; analysts expect **64¢ EPS** on **$187.27B** in revenue, with the call at **7 AM CT**",
+          "summary_md": "It's a read on holiday spending, with Walmart up about 13% this year.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "Update: the **Fed minutes** show most officials expect more rate hikes, and a few floated **50 bp**; markets price about **93%** odds of a December hike",
+          "summary_md": "CME FedWatch also shows about a 7% chance of a 50 bp move.",
+          "source": {
+            "name": "FXStreet",
+            "url": "https://www.fxstreet.com/news/dow-jones-futures-rise-ahead-of-anthropic-ipo-market-debut-202611190830"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "**GTA VI** is out today on **PS5** and **Xbox Series X|S**, rolling out at midnight local time; Xbox One can stream it through **Xbox Cloud** from midnight CT",
+          "summary_md": "PS5 needs a firmware update before you can play.",
+          "source": {
+            "name": "CBS News",
+            "url": "https://www.cbsnews.com/news/grand-theft-auto-6-release-date-price-what-to-know/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "**GTA VI** scores **99 on Metacritic**, tying Ocarina of Time as the best-reviewed game ever (98 on OpenCritic)",
+          "summary_md": "IGN gave it 10/10; the rare dissent says the first dozen hours drag.",
+          "source": {
+            "name": "Polygon",
+            "url": "https://www.polygon.com/gta-6-review-roundup/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "Rockstar says the **PS5 Pro** is \"not powerful enough\" for a **60 fps** GTA VI, and no 40 fps mode is coming either",
+          "summary_md": "The Pro's GPU adds ray-traced shadows and PSSR; its CPU is the bottleneck.",
+          "source": {
+            "name": "Kotaku",
+            "url": "https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "**Four of five** Game Awards **Best Mobile Game** nominees come from Chinese companies",
+          "summary_md": "China and Japan dominate the mobile shortlist.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/latest/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G5",
+          "headline_md": "Hyper-casual publisher **SayGames** explains how its **Barbie** collab in **My Perfect Hotel** fits its live-ops plan",
+          "summary_md": "A licensed-IP playbook for casual sims, from its chief publishing officer.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/latest/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: still no public repo. The r/decomps new page shows no lifter announcement (it does show a new mod rule banning GTA VI repo links), and GitHub searches for Wii U lifter/recomp turn up nothing new since yesterday. The newest are single-game projects like CaptainToadRecomp (Android prototype, updated Nov 10) and older tools like CafeRecomp and brandraft-exp/wiiu-recomp, none of them a general lifter.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "Switch 2 on Android: the **Hokkaido 0.7.0** emulator now has **Banana Native** built in, so it can make **native ports** of some Switch 2 games",
+          "summary_md": "You can choose emulation or native per game; it also makes the Ocarina of Time remake playable on Exynos Galaxy S26 phones.",
+          "source": {
+            "name": "Android Authority",
+            "url": "https://www.androidauthority.com/switch-2-emulator-native-ports-banana-native-3736425/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "PS3 recomp: **RACiT v1.0.0** (Ratchet & Clank: A Crack in Time via ps3recomp) is out, plus early **Into the Nexus**, **Android** and **macOS** builds",
+          "summary_md": "It adds 1.20-patch fixes and starts work on going past 60 fps; bring your own disc dump.",
+          "source": {
+            "name": "Emu Radar",
+            "url": "https://emu-radar.customfw.xyz/news/racit-v1-0-0-into-the-nexus-android-macos/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "Xbox 360 recomp: **Marathon Recompiled v1.0.0** brings **Sonic the Hedgehog (2006)** natively to PC, Linux and Mac using **XenonRecomp**",
+          "summary_md": "It needs an AVX CPU, a Vulkan 1.2, D3D12 or Metal 3 GPU, and your own game dump.",
+          "source": {
+            "name": "Emu Radar",
+            "url": "https://emu-radar.customfw.xyz/news/sonic-the-hedgehog-2006-marathon-recomp-v1-0-0/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "PS2: **Izanagi**, a native **Persona 4** port built on the decomp, runs on PC, Linux, macOS and Android",
+          "summary_md": "It's a work in progress with widescreen and PCSX2 save import; bring your own USA ISO.",
+          "source": {
+            "name": "Emu Radar",
+            "url": "https://emu-radar.customfw.xyz/news/izanagi-native-pc-port-persona-4-ps2/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "GTA VI watch: there is **no credible native PC port or recomp**, and r/decomps now **bans GTA VI repo links**",
+          "summary_md": "Any 'GTA 6 PC/PS5 emulator' download is a scam.",
+          "source": {
+            "name": "Reddit r/decomps",
+            "url": "https://www.reddit.com/r/decomps/new/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E6",
+          "headline_md": "**Ika**, a free, open-source **Android emulator for Windows** with GPU acceleration (LineageOS/Android 16 in WSL2), is out",
+          "summary_md": "Android apps open in their own windows; 8GB of RAM recommended.",
+          "source": {
+            "name": "Reddit r/emulation",
+            "url": "https://www.reddit.com/r/emulation/new/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": "**Domestic top 10, weekend Fri–Sun Nov 13–15, 2026 (Monday actuals)** — still the latest reported weekend; the Nov 20–22 weekend reports Sunday.\n\n| # | Prev | Title | Wknd | Chg | Total | Wks | Thtrs | Dist | RT Crit | RT Aud | MC |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | new | [Ebenezer](https://www.rottentomatoes.com/m/ebenezer_2026) | $19.0m | new | $19.0m | 1 | 3.5k | Para. | 54% | 89% | 46 |\n| 2 | 2 ➖ | [The Cat in the Hat](https://www.rottentomatoes.com/m/the_cat_in_the_hat) | $11.3m | −44% | $38.1m | 2 | 4.0k | WB | 47% | 87% | 46 |\n| 3 | 1 🔴⬇ | [Godzilla Minus Zero](https://www.rottentomatoes.com/m/godzilla_minus_zero) | $8.5m | −72% | $49.1m | 2 | 3.2k | GKIDS | 90% | 96% | 74 |\n| 4 | 4 ➖ | [Ramayana](https://www.rottentomatoes.com/m/ramayana_rise_of_a_legend) | $5.8m | −35% | $24.4m | 2 | 1.1k | Sony | 77% | 93% | 58 |\n| 5 | 5 ➖ | [You Can See Everything](https://www.rottentomatoes.com/m/you_can_see_everything) | $5.5m | −35% | $89.0m | 5 | 1.8k | A24 | 97% | 95% | 96 |\n| 6 | new | [How to Rob a Bank](https://www.rottentomatoes.com/m/how_to_rob_a_bank_2026) | $5.2m | new | $5.2m | 1 | 2.8k | Amazon | 37% | 81% | 48 |\n| 7 | new | [Ghost Soldier](https://www.rottentomatoes.com/m/ghost_soldier) | $5.1m | new | $8.2m | 1 | 2.6k | Sony | 38% | 90% | 41 |\n| 8 | 8 ➖ | [Wild Horse Nine](https://www.rottentomatoes.com/m/wild_horse_nine) | $4.5m | −23% | $13.2m | 2 | 2.2k | Searchl. | 93% | 92% | 77 |\n| 9 | 6 🔴⬇ | [Wildwood](https://www.rottentomatoes.com/m/wildwood) | $4.4m | −39% | $48.4m | 4 | 2.2k | Fathom | 97% | 96% | 87 |\n| 10 | 7 🔴⬇ | [Clayface](https://www.rottentomatoes.com/m/clayface) | $3.7m | −45% | $63.6m | 4 | 2.3k | WB | 78% | 94% | 58 |\n\nPrev = last weekend's rank; titles link to Rotten Tomatoes; RT Crit/RT Aud = Rotten Tomatoes critics/audience; MC = Metacritic. Dropped out: Angel's **Drummer Boy** fell from No. 3 to No. 11 (−64%). Scores rechecked this morning: Ebenezer now 54%/89%, Ramayana 77%/93%, How to Rob a Bank 37%, Ghost Soldier 38%, Wildwood audience 96%, You Can See Everything MC 96. Sources: [The Numbers](https://www.the-numbers.com/box-office-chart/weekend/2026/11/13), [Box Office Mojo](https://www.boxofficemojo.com/weekend/2026W46/) (weeks, distributors, from last check), [Rotten Tomatoes](https://www.rottentomatoes.com/), [Metacritic](https://www.metacritic.com/).",
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "**Hunger Games: Sunrise on the Reaping** opens on about **3,900** screens; Deadline sees **$90M–$120M** domestic and **$160M–$190M** worldwide",
+          "summary_md": "Previews started Wednesday evening; NRG is lower at $80M+.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/hunger-games-sunrise-on-the-reaping-box-office-opening-forecast-1237228101/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Boxoffice Pro forecasts **$100M–$120M** for Hunger Games, which would be the first **$100M+** opener since **Spider-Man: Brand New Day** in July",
+          "summary_md": "It sees Ebenezer sliding to third with $8M–$13M.",
+          "source": {
+            "name": "Boxoffice Pro",
+            "url": "https://www.boxofficepro.com/weekend-preview-hunger-games-sunrise-on-the-reaping-looking-at-100m-debut/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Stallone biopic **I Play Rocky** goes wide on about **2,000** screens; forecasts run from about **$12M** (Deadline) to **$15M–$20M** (Boxoffice Pro)",
+          "summary_md": "It has made $1M in limited release, with 87% critics and 98% audience on RT.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/hunger-games-sunrise-on-the-reaping-box-office-opening-forecast-1237228101/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "Trailer: **Glen Powell** plays a crashing country star who goes back to college in Judd Apatow's **The Comeback King** (Universal)",
+          "summary_md": "Co-stars include Madelyn Cline and Cristin Milioti, plus cameos from Reba McEntire and Chris Stapleton.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/the-comeback-king-trailer-glen-powell-judd-apatow-1237228094/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "Over Thanksgiving, some of AMC's **IMAX** screens shift from Hunger Games to Netflix's **The Mis-Adventures of Cliff Booth**",
+          "summary_md": "Hunger Games keeps big IMAX runs at Regal, Cinemark and others.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/hunger-games-sunrise-on-the-reaping-box-office-opening-forecast-1237228101/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "Update: OpenAI's **GPT-6.2 Astra** is its first released model to hit its **\"High\" AI self-improvement** threshold, and both new models hit **\"Critical\"** for cyber",
+          "summary_md": "The system card also flags models not mentioning obstacles that blocked a task.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "Google renames its Spark agent **Gemini Tasks** and makes it **free in six countries**, adding business calls and Google Pay checkout in the US",
+          "summary_md": "It can handle recurring research and schedule tasks.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "**Nvidia**'s interim CEO **Kress** reportedly ends chip sales to **China**, and **Jensen Huang** will testify to House committees on **Dec 1**",
+          "summary_md": "Nvidia says its open-source plans, including the Hugging Face deal, still stand.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "Vals tests find several leading AI models picked **civilian sites as military targets** once the task was framed as a **game**",
+          "summary_md": "No strikes were authorized; it was a simulation.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A5",
+          "headline_md": "**Gemini** now keeps chats with history turned off for about **two months**, up from 72 hours, and separates training opt-out from history",
+          "summary_md": "Google says the data is kept for safety and service operations.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "**NGINX** ships emergency fixes for **10 bugs**, including two **critical** HTTP/2 remote-code flaws that researchers found with AI; update to **1.31.9**",
+          "summary_md": "One flaw dates back to 2015; there's no known exploitation yet.",
+          "source": {
+            "name": "The Register",
+            "url": "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "**Google Wallet** is now on the US **iPhone App Store** for passes, tickets and online checkout, but **no in-store tap-to-pay**",
+          "summary_md": "It requires iOS 17 or later, and Google calls it a hub for AI-agent purchases.",
+          "source": {
+            "name": "Talk Android",
+            "url": "https://www.talkandroid.com/535512-google-wallet-iphone-ios-us-launch/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Three senators press **Apple, Google and Meta** over AI **\"nudify\" apps**; a watchdog found **135** of them available to 13-year-olds' accounts",
+          "summary_md": "Apple says it already pulled 28 and acted on the rest.",
+          "source": {
+            "name": "9to5Mac",
+            "url": "https://9to5mac.com/2026/11/18/apple-among-the-companies-facing-pressure-from-us-senators-over-nudify-apps/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "Design tools: **Unity** acquires **Synty Studios** to bring its stylized asset library to its **Unity Spark** AI game-creation platform",
+          "summary_md": "Synty's founders and most of its artists join Unity.",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/latest/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Futures at 4:24 AM CT: **Nasdaq-100 +1.94%**, **S&P 500 +1.09%**, **Dow +0.57%**, ahead of Anthropic's debut",
+          "summary_md": "Wednesday: Dow −1.1%, S&P −0.2% (fifth straight loss), Nasdaq +0.4%.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Premarket at 3:13 AM CT: **Nvidia +1.6%**; Intel, AMD, Micron and Marvell up **3–4.5%**; **CoreWeave +3.5%**, **Nebius +4.6%**; Take-Two +0.9%",
+          "summary_md": "Nvidia had fallen five sessions in a row.",
+          "source": {
+            "name": "Reuters via Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-jump-as-anthropics-record-ipo-pricing-fuels-hopes-for-strong-debut-5038156"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Oil and gold at 5:01 AM CT: **WTI $82.44 (+0.2%)**, **Brent $89.29 (+0.1%)**, **gold $3,737.60 (−0.1%)**",
+          "summary_md": "Small moves vs. the prior settlement on Yahoo.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/GC=F/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "Crypto at about 5:10 AM CT: **Bitcoin ~$63,620 (+1.0%)**, **Ether ~$1,800 (+1.4%)**",
+          "summary_md": "Changes vs. the prior daily close on Yahoo.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/BTC-USD/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "Asia: **Nikkei +0.71%** to 59,444, **Kospi +1.39%**; Hong Kong's **Hang Seng −2.04%** late in the session",
+          "summary_md": "China's CSI 300 closed flat.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "No ice storm or tornado threat for the St. Louis area in the next 7 days (NWS/SPC): no active NWS alerts at either point ([NWS alerts](https://api.weather.gov/alerts/active?point=38.7875,-90.6299)), and NWS St. Louis lists no watches or advisories. SPC's Day 1 marginal risk is only in central California, and Saturday's Day 3 marginal risk covers north Texas, Oklahoma and Kansas, not Missouri ([SPC Day 3](https://www.spc.noaa.gov/products/outlook/day3otlk.html)). The Day 4–8 outlook says severe potential is limited, with Sunday's low-end chance in east Texas, south Arkansas and Louisiana ([SPC Day 4–8](https://www.spc.noaa.gov/products/exper/day4-8/)). Locally, NWS expects highs around 70 through Saturday, then a cold front with rain late Saturday night into Sunday. Models show 0.2–0.6 in. of rain, but the chance of even 0.1 in. in eastern Missouri is only about 40%. After that it turns cool, with highs in the 40s and lows in the 20s, and no snow or ice in the 7-day forecast ([NWS St. Louis discussion](https://forecast.weather.gov/product.php?site=LSX&issuedby=LSX&product=AFD), 3:31 AM CT). The LSX Hazardous Weather Outlook wasn't available through the NWS API this morning.\n\n**Hourly chance of precipitation today (CT)**\n\n| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| St. Peters | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 1% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Berkeley | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 0% | 0% | 0% | 0% | 0% | 1% | 1% |\n\nSource: NWS forecastHourly (api.weather.gov, LSX grids 80,81 and 90,80), fetched at 5:07 AM CT. Every hour is 0–1%, with no rain, snow or ice.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**St. Peters**: sunny, high near **71°**, low around **44°** tonight, 0–1% chance of rain",
+          "summary_md": "Friday is similar (high 72°); rain is likely Saturday night (60%) and Sunday (50%).",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7875&lon=-90.6299"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Berkeley**: sunny, high near **70°**, clear tonight with a low around **47°**, 0–1% chance of rain",
+          "summary_md": "Saturday night 50% and Sunday 60% for rain, then highs in the 40s next week.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7545&lon=-90.3312"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "**'It's a risk'**: how Rockstar built the most detailed, and most romantic, GTA yet",
+          "summary_md": "Rob Nelson on building Leonida first, the hand-holding button and functional bedsheets. A sharp look at the design choices behind today's biggest launch.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
