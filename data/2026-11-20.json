@@ -1,0 +1,494 @@
+{
+  "date": "2026-11-20",
+  "title": "Morning Brief - Prem",
+  "intro_md": "Type \"more on G3\" (or any code) here, or tap **More info** on an item on the brief page and paste the request here, and I'll dig in.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Update: the Shenzhen summit ends with a joint **\"Declaration toward Peace\"** from Trump, Xi and Putin",
+          "summary_md": "The three leaders agreed to hold talks on reducing nuclear risks and stopping the spread of nuclear weapons after a closed-door meeting.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-20-2026/4131638"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "The UN's top court rules **Myanmar committed genocide** against the Rohingya, the first time it has found a state guilty",
+          "summary_md": "After a three-hour ruling in The Gambia v. Myanmar, the ICJ also found Myanmar failed to prevent and punish genocide in Rakhine state.",
+          "source": {
+            "name": "UN News",
+            "url": "https://news.un.org/en/story/2026/11/1168836"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Update: a Houthi strike hits Riyadh's tallest skyscraper, the **PIF Tower** that houses Saudi Arabia's wealth fund",
+          "summary_md": "Saudi civil defense reported damage to several floors and nearby buildings but no injuries; the Houthis also claim attacks on Riyadh's airport and a Jubail petrochemical plant.",
+          "source": {
+            "name": "NBC News / Reuters",
+            "url": "https://www.nbcnews.com/world/saudi-arabia/riyadhs-tallest-skyscraper-hit-houthi-strike-saudi-wealth-fund-hq-rcna610352"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "Türkiye's homegrown **Kizilelma** unmanned fighter jet enters military service",
+          "summary_md": "Erdogan announced the milestone, and Baykar says it delivered the first three aircraft.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-20-2026/4131638"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "Update: **Anthropic** shares slip about **6% to $91.30** premarket a day after jumping 17% in their debut",
+          "summary_md": "The stock is falling back toward its $83 IPO price as the record listing fails to calm the AI sell-off.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "Update: **Walmart** narrowly beats estimates and **raises its full-year outlook**",
+          "summary_md": "Global e-commerce grew 17% and US ads 37%; the CEO says rising diesel costs are being offset partly by tariff refunds.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "**BASF** walks away from its **€11.2B** bid for chemicals rival **Evonik**",
+          "summary_md": "BASF says Evonik showed no meaningful engagement, even with a further moderate raise to its €24-a-share offer on the table.",
+          "source": {
+            "name": "RTÉ / Reuters",
+            "url": "https://www.rte.ie/news/business/2026/1120/1599955-basf-ends-pursuit-of-evonik/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "**UniCredit** and Germany reach a broad deal on its **Commerzbank** takeover",
+          "summary_md": "The merged German business would stay headquartered and listed in Frankfurt, and Berlin dropped its demand for two supervisory-board seats.",
+          "source": {
+            "name": "Reuters (via Investing.com)",
+            "url": "https://www.investing.com/news/stock-market-news/exclusiveunicredit-and-germany-reach-broad-agreement-on-commerzbank-takeover-5037328"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "**GTA VI** sold an estimated **24.58M copies** and about **$2.36B** on day one, per Sensor Tower",
+          "summary_md": "About 75% were on PS5; Rockstar and Take-Two haven't confirmed any figures yet.",
+          "source": {
+            "name": "VGC",
+            "url": "https://www.videogameschronicle.com/news/gta-6-sold-around-25-million-copies-and-made-2-36-billion-in-its-first-day-estimates-suggest/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "Valve's **512GB Steam Machine** is now on open sale, with no waitlist",
+          "summary_md": "The 2TB model is out of stock, and Valve warns that rising memory and storage costs cloud future supply and pricing.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "**Ubisoft** cuts **166 jobs** in Canada: 128 in Montreal and 38 in Quebec City",
+          "summary_md": "Ubisoft says the cuts hit production teams and support staff, under 4% of its Canadian workforce.",
+          "source": {
+            "name": "CBC News",
+            "url": "https://www.cbc.ca/news/business/ubisoft-layoffs-166-montreal-quebec-city-9.7428473"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "Hyper-casual: Grand Games joins the **smash-like** race with **Knock And Drop!**, and Hungry Studio's **Rotate Rings** jumps 334% to 14.6M downloads",
+          "summary_md": "Royal Smash sits at $8.9M in IAP, and 72% of Rotate Rings installs came from paid UA.",
+          "source": {
+            "name": "Gamigion",
+            "url": "https://gamigion.substack.com/p/mobile-gaming-today-129"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G5",
+          "headline_md": "**Modern Warfare 4** was October's best-selling US game, per Circana",
+          "summary_md": "Content spending fell 14% year on year, mostly because of mobile.",
+          "source": {
+            "name": "Warp Pipes",
+            "url": "https://warppipes.com/en/articles/video-game-news-digest-2026-11-20"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: still no public repo. The r/decomps new page has no lifter post, and a GitHub search finds no Wii U recomp repos created since Nov 17. The existing general tools, RebrewU (last push Oct 18) and nWiiURecomp (Aug 5), are older projects, not the announced lifter. GTA VI watch: no credible native-PC recomp or port. No PS5 or Switch 2 commercial-game breakthroughs in the last 24–48 hours.",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "**VUEPort**, a new free, open-source **Virtual Boy** (and \"VB Color\") emulator, launches for browser, desktop, mobile and VR",
+          "summary_md": "Team VUEngine built it on the accurate Shrooms-VB core and runs it at vueport.net.",
+          "source": {
+            "name": "Team VUEngine (Patreon)",
+            "url": "https://www.patreon.com/VUEngine/posts/introducing-boy-173263316"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "**Geartowns 1.0.8** adds a keyboard mapper, Game Focus mode and faster, more accurate 486 emulation for **FM Towns**",
+          "summary_md": "It also improves CRT shaders and fast-forward audio; you still need firmware dumped from your own hardware.",
+          "source": {
+            "name": "Retro Handhelds",
+            "url": "https://retrohandhelds.gg/geartowns-1-0-8-gives-fm-towns-emulation-better-controls/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "Nov 19 builds: **PCSX2 v2.9.183**, **RPCS3** v0.0.43 alpha, **Xenia** and Xenia Edge, **Dolphin** 2609-289, **Azahar** 2127.0 rc4, shadPS4 Pre and the **KytyPS5** r261119 dev build",
+          "summary_md": "These are routine dev builds, not announced breakthroughs.",
+          "source": {
+            "name": "EmuCR",
+            "url": "https://www.emucr.com/2026_11_19_archive.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "**r/decomps** adds a rule: **no Switch 2 repo links at all**, on top of its GTA VI repo-link ban",
+          "summary_md": "Both rules are pinned at the top of the subreddit.",
+          "source": {
+            "name": "r/decomps",
+            "url": "https://www.reddit.com/r/decomps/new/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": "**Domestic top 10, weekend Fri–Sun Nov 13–15, 2026 (Monday actuals)**: still the latest reported weekend; the Nov 20–22 weekend reports Sunday.\n\n| # | Prev | Title | Wknd | Chg | Total | Wks | Thtrs | Dist | RT Crit | RT Aud | MC |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | new | [Ebenezer](https://www.rottentomatoes.com/m/ebenezer_2026) | $19.0m | new | $19.0m | 1 | 3.5k | Para. | 54% | 89% | 46 |\n| 2 | 2 ➖ | [The Cat in the Hat](https://www.rottentomatoes.com/m/the_cat_in_the_hat) | $11.3m | −44% | $38.1m | 2 | 4.0k | WB | 47% | 88% | 46 |\n| 3 | 1 🔴⬇ | [Godzilla Minus Zero](https://www.rottentomatoes.com/m/godzilla_minus_zero) | $8.5m | −72% | $49.1m | 2 | 3.2k | GKIDS | 90% | 95% | 74 |\n| 4 | 4 ➖ | [Ramayana](https://www.rottentomatoes.com/m/ramayana_rise_of_a_legend) | $5.8m | −35% | $24.4m | 2 | 1.1k | Sony | 77% | 93% | 58 |\n| 5 | 5 ➖ | [You Can See Everything](https://www.rottentomatoes.com/m/you_can_see_everything) | $5.5m | −35% | $89.0m | 5 | 1.8k | A24 | 97% | 95% | 97 |\n| 6 | new | [How to Rob a Bank](https://www.rottentomatoes.com/m/how_to_rob_a_bank_2026) | $5.2m | new | $5.2m | 1 | 2.8k | Amazon | 38% | 81% | 48 |\n| 7 | new | [Ghost Soldier](https://www.rottentomatoes.com/m/ghost_soldier) | $5.1m | new | $8.2m | 1 | 2.6k | Sony | 38% | 90% | 41 |\n| 8 | 8 ➖ | [Wild Horse Nine](https://www.rottentomatoes.com/m/wild_horse_nine) | $4.5m | −23% | $13.2m | 2 | 2.2k | Searchl. | 93% | 92% | 77 |\n| 9 | 6 🔴⬇ | [Wildwood](https://www.rottentomatoes.com/m/wildwood) | $4.4m | −39% | $48.4m | 4 | 2.2k | Fathom | 97% | 96% | 87 |\n| 10 | 7 🔴⬇ | [Clayface](https://www.rottentomatoes.com/m/clayface) | $3.7m | −45% | $63.6m | 4 | 2.3k | WB | 78% | 94% | 58 |\n\nPrev = last weekend's rank; titles link to Rotten Tomatoes; RT Crit/RT Aud = Rotten Tomatoes critics/audience; MC = Metacritic. Dropped out: Angel's **Drummer Boy** fell from No. 3 to No. 11 (−64%). Scores rechecked this morning: Cat in the Hat audience is now 88%, Godzilla Minus Zero audience 95%, How to Rob a Bank critics 38%, and You Can See Everything MC 97. Sources: [The Numbers](https://www.the-numbers.com/box-office-chart/weekend/2026/11/13), [Box Office Mojo](https://www.boxofficemojo.com/weekend/2026W46/) (weeks, distributors; The Numbers for Ghost Soldier's and Wildwood's distributors), [Rotten Tomatoes](https://www.rottentomatoes.com/), [Metacritic](https://www.metacritic.com/).",
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "**Hunger Games: Sunrise on the Reaping** takes **$21.25M** in previews, the franchise's second-best behind Catching Fire",
+          "summary_md": "That beats Wicked's $19.2M, and Deadline says a $100M opening looks well in store.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Update: Lionsgate projects **$80M+**, but sources tell THR that Sunrise could reach **$100M–$130M** from 3,900 theaters",
+          "summary_md": "The film cost roughly $150M; Joseph Zada plays young Haymitch.",
+          "source": {
+            "name": "The Hollywood Reporter",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-1236759813/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Black Bear buys **Bill Hader**'s directing debut, the horror-thriller **They Know**, co-starring Linda Cardellini",
+          "summary_md": "MRC fully financed it, and it is now in post-production.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/news/bill-hader-horror-movie-they-know-acquired-black-bear-1236953795/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "Magnolia buys the TIFF dramedy **Trash Mountain** (Caleb Hearon, Zooey Deschanel), set in **rural Missouri**",
+          "summary_md": "A theatrical release is planned for next year; Colin Trevorrow produces.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/news/caleb-hearon-zooey-deschanel-trash-mountain-magnolia-1236953596/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "**Auli'i Cravalho** joins Amazon MGM and Miramax's new **Serendipity**, a modern update rather than a remake",
+          "summary_md": "She joins Milo Manheim, Whitney Peak and Stephen Kalyn.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/news/serendipity-reboot-cast-aulii-cravalho-1236953411/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "Google brings **computer use** to the **Gemini app for Mac**, so it can work local apps, files and websites in the background",
+          "summary_md": "It runs in an isolated window with a live preview, and you approve key actions.",
+          "source": {
+            "name": "Google",
+            "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "**Apple** appears to be building its own **computer-use AI agent**, going by a job listing",
+          "summary_md": "Bloomberg also reports that macOS 27.3 makes it harder for third-party agents to take full control.",
+          "source": {
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "**Microsoft** launches **seven MAI models** for coding, cybersecurity, images and real-time voice at lower prices",
+          "summary_md": "MAI Code 2 is in GitHub Copilot, and MAI Realtime 1 is in limited preview.",
+          "source": {
+            "name": "Microsoft AI",
+            "url": "https://microsoft.ai/news/microsoft-ignite-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "Google picks Blue Origin's **New Glenn** to launch **Project Suncatcher** AI-compute satellites in Q1 2029",
+          "summary_md": "Each satellite will carry roughly a data-center rack of TPU computing.",
+          "source": {
+            "name": "Via Satellite",
+            "url": "https://www.satellitetoday.com/launch/2026/11/19/google-orders-heavy-lift-launch-for-project-suncatcher-from-blue-origin/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A5",
+          "headline_md": "OpenAI's **GPT-Live-1.1** voice model is now in the **API**",
+          "summary_md": "It improves accent consistency and task completion and adds a cheaper standby mode.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-20-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "The **European Commission** confirms an **AI-assisted cyberattack** that disrupted payroll and staff systems for over 10 days",
+          "summary_md": "POLITICO says CERT-EU traced the open-source AI hacking platform ARTEX; the first signs appeared Oct. 22.",
+          "source": {
+            "name": "The Record",
+            "url": "https://therecord.media/european-commission-confirms-cyberattack-using-ai"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "App stores: Taiwan's FTC is reviewing **CyberLink**'s complaint that **Apple** unfairly terminated its developer account",
+          "summary_md": "CyberLink puts the hit at $7.6M a year and wants its account restored and compensation.",
+          "source": {
+            "name": "MLex",
+            "url": "https://www.mlex.com/mlex/articles/2552690/taiwan-ftc-reviews-complaint-against-apple-over-developer-account-termination"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Design tools: **Canva** adds **AI Controls**, an off switch for generative AI and an option to see less AI content in its library",
+          "summary_md": "Both are available now on Canva Free and Pro.",
+          "source": {
+            "name": "Canva",
+            "url": "https://www.canva.com/newsroom/news/ai-controls-canva/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Futures at 5:00 AM CT: **Nasdaq-100 −1%**, **S&P 500 −0.5%**, **Dow** just below flat",
+          "summary_md": "This follows Thursday's 2%+ drop across all three indexes; Anthropic closed at $97, and Nvidia is extending a six-day slide.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-volatility-092827348.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Asia and Europe at about 4:00 AM CT: **Taiwan −6.7%** (TSMC about −6%), **Nikkei −5%**, **Kospi −5.5%**, **SoftBank −14.5%**, **Stoxx 600 −1.3%**",
+          "summary_md": "Asia is heading for its worst week since 2020.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Oil at 10:04 PM CT Thu: **Brent $92.77 (+0.9%)**, **WTI Dec $83.46 (+0.3%)** after the Houthi strikes on Riyadh",
+          "summary_md": "Both are still on track for a third straight weekly loss.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/20/oil-wti-brent-hormuz.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "Gold and crypto at 3:41 AM CT: **gold down nearly 3% to $3,514**, its lowest since early Sep 2025; **Bitcoin ~$61,900**",
+          "summary_md": "Rising real yields are weighing on both; gold is down 15% and Bitcoin 28% this quarter.",
+          "source": {
+            "name": "CoinDesk",
+            "url": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "No ice storm or tornado threat for the St. Louis area in the next 7 days (NWS/SPC). There are no active NWS alerts at either point ([NWS alerts](https://api.weather.gov/alerts/active?point=38.7875,-90.6299)), and NWS St. Louis lists no watches or advisories for MO or IL. SPC has no severe areas today; Saturday's marginal risk covers north Texas, western Oklahoma and central Kansas ([SPC Day 2](https://www.spc.noaa.gov/products/outlook/day2otlk.html)); Sunday has no severe areas, with only scattered storms possible in the middle and lower Mississippi Valley ([SPC Day 3](https://www.spc.noaa.gov/products/outlook/day3otlk.html)). The Day 4–8 outlook limits severe risk to the East Coast and Gulf Coast ([SPC Day 4–8](https://www.spc.noaa.gov/products/exper/day4-8/)). NWS St. Louis expects a cold front to bring near-100% odds of light rain Saturday night into Sunday, then 5–10° below normal by Tuesday. The 7-day forecasts for both cities mention no snow, sleet, freezing rain or thunder. A marginal elevated fire danger is possible this afternoon in parts of southeast Missouri and southern Illinois ([NWS St. Louis discussion](https://forecast.weather.gov/product.php?site=LSX&issuedby=LSX&product=AFD), 3:52 AM CT). I couldn't check the WPC winter outlooks or the LSX Hazardous Weather Outlook this morning (the HWO wasn't available through the NWS API).\n\n**Hourly chance of precipitation today (CT)**\n\n| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| St. Peters | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Berkeley | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\nSource: NWS forecastHourly (api.weather.gov, LSX grids 80,81 and 90,80), fetched at 5:02 AM CT. Every hour is 0%: sunny, then clear.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**St. Peters**: sunny, high near **74°**, clear tonight with a low around **48°**, 0% chance of rain all day; no active alerts",
+          "summary_md": "Saturday is sunny and 73°; light rain moves in Saturday night into Sunday, then highs only in the 40s next week.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7875&lon=-90.6299"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Berkeley**: sunny, high near **73°**, clear tonight with a low around **49°**, 0% chance of rain all day; no active alerts",
+          "summary_md": "Same pattern: light rain Sunday, then a cool, sunny week with lows in the upper 20s to low 30s.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7545&lon=-90.3312"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "**For the first time, the UN's top court finds a country responsible for genocide**",
+          "summary_md": "AP's account explains what the Myanmar ruling means, and why it matters even though the ICJ can't enforce it.",
+          "source": {
+            "name": "AP News",
+            "url": "https://apnews.com/article/rohingya-myanmar-genocide-court-icj-30df77b12bf3f911f1100e77ebe3973a"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}

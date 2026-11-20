@@ -1,6 +1,12 @@
 {
   "days": [
     {
+      "date": "2026-11-20",
+      "title": "Morning Brief - Prem",
+      "headline_count": 37,
+      "deep_dive_count": 0
+    },
+    {
       "date": "2026-11-19",
       "title": "Morning Brief - Prem",
       "headline_count": 42,
@@ -307,5 +313,5 @@
       "deep_dive_count": 4
     }
   ],
-  "generated_at": "2026-11-19T11:13:24Z"
+  "generated_at": "2026-11-20T11:07:40Z"
 }
