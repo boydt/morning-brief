@@ -1,0 +1,417 @@
+{
+  "date": "2026-11-21",
+  "title": "Morning Brief - Prem",
+  "intro_md": "Type \"more on G3\" (or any code) here, or tap **More info** on an item on the brief page and paste the request here, and I'll dig in.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Two Russian missiles and a suspected drone come down in **Poland**, which calls it a likely **intentional provocation** timed to European military drills",
+          "summary_md": "One Kh-101 landed in the village of Nowy Lipowiec during Russia's strikes on Ukraine; no one was hurt.",
+          "source": {
+            "name": "France 24",
+            "url": "https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "**Trump** says he's \"not rushing\" a decision on new **Iran** strikes and will look at it after the start of the year",
+          "summary_md": "He faces pressure from Netanyahu for a bombing campaign, while the naval blockade and economic pressure play out.",
+          "source": {
+            "name": "Axios",
+            "url": "https://www.axios.com/2026/11/19/trump-iran-attacks-israel-new-year"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "**Denmark** expels Russia's defense attaché and halts non-essential visas for Russians after arrests in an alleged plot to kill a Ukrainian rapper",
+          "summary_md": "The attaché has seven days to leave.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "A Russian morning attack on **Kyiv** injures two men and damages homes in three districts",
+          "summary_md": "Falling debris set a private home on fire in Podil; one of the injured was hospitalized.",
+          "source": {
+            "name": "Kyiv Post",
+            "url": "https://www.kyivpost.com/post/90795"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "Update: Reuters reports the SEC's **Nvidia** probe is focused on **accounting**, and the shares fell about **13%** Friday",
+          "summary_md": "The stock had been down more than 6% before the report; the SEC declined to comment.",
+          "source": {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/5f374b32b07b/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "**PayPal** names Xero's **Claire Bramley** CFO, replacing Jamie Miller in a wider leadership overhaul",
+          "summary_md": "She starts in February 2027.",
+          "source": {
+            "name": "PayPal",
+            "url": "https://investor.pypl.com/news-and-events/news-details/2026/PayPal-Announces-Executive-Leadership-Appointments-to-Advance-Three-Year-Strategy/default.aspx"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "**ABB** weighs listing its robotics unit if it can't save the **$5.4B** sale to SoftBank that China blocked",
+          "summary_md": "One option is carving out the Chinese business, about 30% of the unit, sources told Reuters.",
+          "source": {
+            "name": "Reuters via AOL",
+            "url": "https://www.aol.com/articles/exclusive-abb-considers-robotics-listing-162853000.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "NRF expects **182.7 million** people to shop over Thanksgiving weekend, down from 186.9 million last year",
+          "summary_md": "60% of shoppers started by early November.",
+          "source": {
+            "name": "NRF",
+            "url": "https://nrf.com/media-center/press-releases/183-million-consumers-expected-to-shop-during-thanksgiving-weekend"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": "No new hyper-casual or mobile game news in the last 24 hours.",
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "Update: Take-Two says **GTA VI** made **$3.79B** in day-one retail sales, a record for any entertainment launch",
+          "summary_md": "It also sold 32.5M units before release and scored 99 on Metacritic.",
+          "source": {
+            "name": "ABC News",
+            "url": "https://abcnews.com/GMA/Culture/grand-theft-auto-vi-breaks-1st-day-sales-record/story?id=138328412"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "Update: **Ubisoft** first-half net bookings drop **16.5%** to €644.7M, and it launches **Motherbrain**, a generative-AI gameplay subsidiary",
+          "summary_md": "Motherbrain will build NPCs with memory and AI game masters.",
+          "source": {
+            "name": "Warp Pipes",
+            "url": "https://warppipes.com/en/articles/video-game-news-digest-2026-11-20"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: it's already public as [CafeRecomp](https://github.com/hardkiller2565123123/CafeRecomp), with BOTW as its first game; still no tagged GitHub release. GTA VI: still no verified native-PC recomp or port. Xmarc says his PS5-to-PC build only reaches the menu, and the viral PC video is a hoax made from GTA V footage ([XDA](https://www.xda-developers.com/that-viral-gta-6-pc-port-video-hoax-made-from-recycled-gta-5-footage/)).",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "**Eglantine**, the open-source **Switch 2** emulator forked from Eden, Yuzu and Sudachi, ships its Nov 19 build",
+          "summary_md": "It adds a task/mesh-shader fallback toggle, throttles ASTC texture transcodes and fixes Linux builds.",
+          "source": {
+            "name": "EmuCR",
+            "url": "https://www.emucr.com/2026/11/eglantine-20261119.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "**Pulse of Time** adds full **DualSense** haptics, adaptive triggers and lightbar to the Switch 2 **Ocarina of Time** remake running in Lichii",
+          "summary_md": "It's free and GPL-3.0, and only reads memory, so it doesn't modify the game or the emulator.",
+          "source": {
+            "name": "r/emulation",
+            "url": "https://www.reddit.com/r/emulation/new/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "**Batocera 44** is out with updated emulator cores and a new bootloader-flash option",
+          "summary_md": "It updates online from the System menu.",
+          "source": {
+            "name": "AndroidPCTV",
+            "url": "https://androidpctv.com/batocera-44/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "**DreamCart 64**: a modder wires an N64 cartridge slot to a **Dreamcast** to play N64 carts",
+          "summary_md": "A microcontroller copies the cart's bus protocol to read game data.",
+          "source": {
+            "name": "GIGAZINE",
+            "url": "https://gigazine.net/gsc_news/en/20261120-nintendo-64-on-dreamcast/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "N64 emulator **gopher64 1.2.2** fixes integer scaling, Android flicker and audio, and improves its netplay lobby",
+          "summary_md": "HBMAME 0.289.6 also adds a batch of hacks and homebrew.",
+          "source": {
+            "name": "Planet Emulation",
+            "url": "https://www.planetemu.net/en/news"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": "**Domestic top 10, weekend Fri–Sun Nov 13–15, 2026 (Monday actuals)**: still the latest reported weekend; the Nov 20–22 estimates post Sunday.\n\n| # | Prev | Title | Wknd | Chg | Total | Wks | Thtrs | Dist | RT Crit | RT Aud | MC |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | new | [Ebenezer](https://www.rottentomatoes.com/m/ebenezer_2026) | $19.0m | new | $19.0m | 1 | 3.5k | Para. | 54% | 89% | 46 |\n| 2 | 2 ➖ | [The Cat in the Hat](https://www.rottentomatoes.com/m/the_cat_in_the_hat) | $11.3m | −44% | $38.1m | 2 | 4.0k | WB | 47% | 87% | 46 |\n| 3 | 1 🔴⬇ | [Godzilla Minus Zero](https://www.rottentomatoes.com/m/godzilla_minus_zero) | $8.5m | −72% | $49.1m | 2 | 3.2k | GKIDS | 90% | 95% | 74 |\n| 4 | 4 ➖ | [Ramayana](https://www.rottentomatoes.com/m/ramayana_rise_of_a_legend) | $5.8m | −35% | $24.4m | 2 | 1.1k | Sony | 77% | 93% | 58 |\n| 5 | 5 ➖ | [You Can See Everything](https://www.rottentomatoes.com/m/you_can_see_everything) | $5.4m | −37% | $88.9m | 5 | 1.8k | A24 | 97% | 95% | 97 |\n| 6 | new | [How to Rob a Bank](https://www.rottentomatoes.com/m/how_to_rob_a_bank_2026) | $5.2m | new | $5.2m | 1 | 2.8k | Amazon | 38% | 80% | 49 |\n| 7 | new | [Ghost Soldier](https://www.rottentomatoes.com/m/ghost_soldier) | $5.1m | new | $8.2m | 1 | 2.6k | Sony | 36% | 90% | 41 |\n| 8 | 8 ➖ | [Wild Horse Nine](https://www.rottentomatoes.com/m/wild_horse_nine) | $4.5m | −23% | $13.2m | 2 | 2.2k | Searchl. | 93% | 92% | 77 |\n| 9 | 6 🔴⬇ | [Wildwood](https://www.rottentomatoes.com/m/wildwood) | $4.4m | −39% | $48.4m | 4 | 2.2k | Fathom | 97% | 96% | 87 |\n| 10 | 7 🔴⬇ | [Clayface](https://www.rottentomatoes.com/m/clayface) | $3.7m | −45% | $63.6m | 4 | 2.3k | WB | 77% | 94% | 58 |\n\nPrev = last weekend's rank; titles link to Rotten Tomatoes; RT Crit/RT Aud = Rotten Tomatoes critics/audience; MC = Metacritic. Dropped out: Angel's **Drummer Boy** fell from No. 3 to No. 11 (−64%). Rechecked this morning: You Can See Everything corrected to $5.4m (−37%), $88.9m total per The Numbers; scores moved for Cat in the Hat (RT Aud 87%), How to Rob a Bank (RT Aud 80%, MC 49), Ghost Soldier (RT Crit 36%) and Clayface (RT Crit 77%). Sources: [The Numbers](https://www.the-numbers.com/box-office-chart/weekend/2026/11/13), [Box Office Mojo](https://www.boxofficemojo.com/weekend/2026W46/) (weeks and distributors, from the Nov 20 check), [Rotten Tomatoes](https://www.rottentomatoes.com/), [Metacritic](https://www.metacritic.com/).",
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Update: **Sunrise on the Reaping** makes **$51M** Friday (including $21M previews), tracking toward a **$110M+** opening",
+          "summary_md": "That's the series' fourth-best start, and possibly third if it isn't front-loaded, at 4,108 theaters.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Globally, **Sunrise** reaches about **$76M** by Friday and opens No. 1 in 66 of 67 markets",
+          "summary_md": "Deadline says a global opening of around $200M wouldn't be shocking.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "A **Home Alone** sequel is in early development at Disney, with **Macaulay Culkin**, Seth Rogen and Evan Goldberg on the script",
+          "summary_md": "Plot and casting are under wraps; Disney declined to comment.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/news/home-alone-reboot-disney-macaulay-culkin-seth-rogen-1236954344/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "**Sterling K. Brown** is in talks to star with **Nicolas Cage** in Paramount's new **Longlegs** movie",
+          "summary_md": "Osgood Perkins returns to direct; it's due Jan. 14, 2028.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/news/sterling-k-brown-new-longlegs-movie-nicolas-cage-1236954539/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "Anthropic mathematician **Levent Alpöge** says he and **Claude** proved the **Riemann hypothesis**, with a Lean-coded proof",
+          "summary_md": "Independent checkers say it's very likely correct, but the full verification isn't done yet.",
+          "source": {
+            "name": "Nature",
+            "url": "https://www.nature.com/articles/d41586-026-03812-7"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "Internal chats show Meta staff warned that its **Muse** agent read encrypted messages they didn't expect and mixed up users' conversations",
+          "summary_md": "Meta says the erratic outputs showing bank and bitcoin balances weren't real.",
+          "source": {
+            "name": "Ars Technica",
+            "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "Ads: **Microsoft** now shows ads next to **AI Overviews on Bing** in every market except China",
+          "summary_md": "They run through existing campaigns, including Performance Max and AI Max, with no extra setup.",
+          "source": {
+            "name": "Search Engine Land",
+            "url": "https://searchengineland.com/microsoft-advertising-brings-ads-to-ai-overviews-on-bing-502673"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "**Google** adds a sidebar of AI searches to its homepage, and hotel bookings and Lens now lead into **AI Mode**",
+          "summary_md": "Google's November core update was still rolling out on day ten.",
+          "source": {
+            "name": "LoopLoop",
+            "url": "https://www.getlooploop.com/news/google-pulls-search-into-ai-mode-as-bing-puts-ads-in-ai-answers"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": "It's Saturday, so US markets are closed and index futures reopen Sunday evening. Figures below are Friday's close unless noted.",
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Friday close (3:00 PM CT): **S&P 500 −3.70%** to 6,910.39, **Nasdaq −5.28%** to 22,617.73, **Dow −1.93%** to 48,147.33",
+          "summary_md": "The world stock index fell 8.1% on the week, its biggest drop since early 2020, and the VIX closed at its highest since April 2025.",
+          "source": {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/5f374b32b07b/world/china/global-markets-global-markets-2026-11-20/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Movers Friday: **chip stocks (SOX) −10.7%** (−17.1% on the week) and **Anthropic −9.1%** to **$88.30**, near its $83 IPO price",
+          "summary_md": "Nvidia fell about 13% (see B1).",
+          "source": {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/5f374b32b07b/world/china/global-markets-global-markets-2026-11-20/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Friday close: **gold −2.81%** to **$3,520.09**, a 14-month low; **WTI +1.49%** to $83.67; **Brent** $92.61; **10-year yield** 4.948%",
+          "summary_md": "Silver fell 4.22% to $40.95.",
+          "source": {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/5f374b32b07b/world/china/global-markets-global-markets-2026-11-20/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "Crypto at 5:08 AM CT Saturday: **Bitcoin $57,868**, **Ether $1,639**",
+          "summary_md": "Coinbase spot prices.",
+          "source": {
+            "name": "Coinbase",
+            "url": "https://www.coinbase.com/price/bitcoin"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "No ice storm or tornado threat for the St. Louis area in the next 7 days (NWS/SPC). No active NWS alerts at either point ([NWS alerts](https://api.weather.gov/alerts/active?point=38.7875,-90.6299)). NWS St. Louis expects light rain (generally 0.25\" or less) late tonight into Sunday as a cold front passes, with only a 10–15% thunder chance in far southeast Missouri; today's low-to-mid 70s are near records, then below-normal, dry weather, and \"confidence is high\" the area stays impact-free through Thanksgiving ([NWS St. Louis discussion](https://forecast.weather.gov/product.php?site=LSX&issuedby=LSX&product=AFD), 5:02 AM CT). SPC: today's severe risk is western Oklahoma into south-central Kansas ([Day 1](https://www.spc.noaa.gov/products/outlook/day1otlk.html)); Sunday's isolated severe chance is in the middle and lower Mississippi Valley, centered on Arkansas, north Louisiana and western Mississippi ([Day 2](https://www.spc.noaa.gov/products/outlook/day2otlk.html)); none Monday ([Day 3](https://www.spc.noaa.gov/products/outlook/day3otlk.html)) or in the Day 4–8 period ([Day 4–8](https://www.spc.noaa.gov/products/exper/day4-8/)). The 7-day NWS forecasts for both cities mention no snow, sleet or freezing rain. I didn't check the WPC winter outlooks, and the NWS API had no LSX Hazardous Weather Outlook.\n\n**Hourly chance of precipitation today (CT)**\n\n| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| St. Peters | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 0% | 0% | 0% | 0% | 0% | 0% | 1% |\n| Berkeley | 0% | 0% | 0% | 0% | 0% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 1% | 0% | 0% | 0% | 0% | 0% | 1% |\n\nSource: NWS forecastHourly (api.weather.gov, LSX grids 80,81 and 90,80), fetched at 5:07 AM CT. Sunny today and mostly clear tonight; the rain chance only climbs after midnight.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**St. Peters**: sunny, high near **73°** (easing to about 68° late afternoon), low around **53°** tonight; 30% chance of rain after 5 AM; no active alerts",
+          "summary_md": "Sunday: rain before 4 PM (100%), high near 60°; then sunny and cold, with Monday's high near 47° and Thanksgiving near 45°.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7875&lon=-90.6299"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Berkeley**: sunny, high near **73°**, partly cloudy tonight with a low around **55°**; no active alerts",
+          "summary_md": "Sunday: rain before 4 PM (100%), high near 62°, gusts to 23 mph; Monday's high near 48°, and Thanksgiving near 46°.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7545&lon=-90.3312"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "**The U.S. tech outage wave, explained**",
+          "summary_md": "A clear look at what was behind a week of failures across air travel, email and banking, and where AI does and doesn't fit in.",
+          "source": {
+            "name": "Foreign Policy via The Washington Post",
+            "url": "https://www.washingtonpost.com/ripple/2026/11/19/us-tech-outage-wave-explained/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
