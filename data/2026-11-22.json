@@ -1,0 +1,428 @@
+{
+  "date": "2026-11-22",
+  "title": "Morning Brief - Prem",
+  "intro_md": "Type \"more on G3\" (or any code) here, or tap **More info** on an item on the brief page and paste the request here, and I'll dig in.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "**Trump** says he wants a **\"permanent\"** deal with **Iran** that no future president could undo",
+          "summary_md": "\"Even if, in four, 15, or 20 years, we have an incompetent president, the agreement I reach will be permanent,\" he said Saturday.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/anadolu-post/morning-briefing-nov-22-2026/4133301"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Iran says an air-defense missile damaged a **US F-16** over the Gulf; **CENTCOM denies it**, saying all US fighters are accounted for",
+          "summary_md": "Iran's foreign minister said the **Strait of Hormuz** stays closed until the US accepts Iran's conditions.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/anadolu-post/morning-briefing-nov-22-2026/4133301"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "Iranian forces reportedly attack **three oil tankers** near the Strait of Hormuz as Iran shows off a new underground missile launcher",
+          "summary_md": "The UK's maritime security center reported no casualties.",
+          "source": {
+            "name": "AP",
+            "url": "https://lancasteronline.com/business/stock_market/ap-business-summarybrief-at-3-11-p-m-est/article_33574635-5329-5527-b394-68c6c69b8800.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "A fire at a candy factory in Indonesia's **Banten** province kills at least **3**, with **36 missing**",
+          "summary_md": "About 300 workers were inside; at least 15 were rescued and the cause is under investigation.",
+          "source": {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "**UNIFIL** begins handing positions in southern Lebanon to the Lebanese army before its mandate ends Dec. 31",
+          "summary_md": "Its chief stressed avoiding any security vacuum.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/anadolu-post/morning-briefing-nov-22-2026/4133301"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "**Trump** says the US will put a **\"tremendous tax\"** on American companies that build **data centers abroad**",
+          "summary_md": "Developers such as Equinix and Digital Realty run facilities overseas, and a penalty could complicate the global AI buildout.",
+          "source": {
+            "name": "Reuters via Business Standard",
+            "url": "https://www.business-standard.com/world-news/trump-says-us-govt-to-penalise-firms-building-data-centres-abroad-126112200097_1.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "**Amazon** is in advanced talks to buy AI startup **Decart** in a deal worth up to **$7.5B**, per the FT",
+          "summary_md": "It could be announced as early as next week.",
+          "source": {
+            "name": "Seeking Alpha",
+            "url": "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "Trump vows to work with the incoming **Democratic Congress** to cap **credit card rates at 10%**",
+          "summary_md": "The current median rate is 22.2%; researchers say a cap could save Americans $100B a year.",
+          "source": {
+            "name": "AP",
+            "url": "https://lancasteronline.com/business/stock_market/ap-business-summarybrief-at-3-11-p-m-est/article_33574635-5329-5527-b394-68c6c69b8800.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "Update: some **GTA VI** PS5 players report crashes with error **CE-108255-1**; Rockstar hasn't announced a fix",
+          "summary_md": "Reported via Numerama and GameSpot, after Take-Two's $3.79B day-one figure.",
+          "source": {
+            "name": "Warp Pipes",
+            "url": "https://warppipes.com/en/articles/video-game-news-digest-2026-11-21"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "Toby Fox says **Deltarune Chapter 6** is playable start to finish and aimed at **2027**; work on the final Chapter 7 has begun",
+          "summary_md": "From his fall newsletter, per Polygon and Kotaku.",
+          "source": {
+            "name": "Warp Pipes",
+            "url": "https://warppipes.com/en/articles/video-game-news-digest-2026-11-21"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "Nintendo will sell its **Zelda Ocarina** instruments (€34.99 / €49.99) in Europe **by invitation only**; sign-ups close **today**",
+          "summary_md": "You need 10+ hours of Ocarina of Time on Switch 2 before Nov 18 and a European-region account.",
+          "source": {
+            "name": "Warp Pipes",
+            "url": "https://warppipes.com/en/articles/video-game-news-digest-2026-11-21"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "Hyper-casual: **PlayDucky**'s founders buy out their first investor to become **majority owners**",
+          "summary_md": "The profitable studio raised $1M in 2021 for hyper-casual games and now centers on Melon Sandbox (110-person team).",
+          "source": {
+            "name": "PocketGamer.biz",
+            "url": "https://www.pocketgamer.biz/playducky-founders-buy-out-initial-investor-to-become-majority-owners/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: still public as [CafeRecomp](https://github.com/hardkiller2565123123/CafeRecomp) (BOTW first), and its [Releases page](https://github.com/hardkiller2565123123/CafeRecomp/releases) still has no tagged release. GTA VI: still no verified native-PC recomp or port; [Leonida](https://github.com/itsnotrexed/leonida) translates shaders and extracts assets but can't boot yet. Nov 21 builds include PCSX2 v2.9.186, RPCS3, Xenia/Xenia Edge, Dolphin 2609-301, DuckStation and Azahar 2127.0 rc5 ([EmuCR](https://www.emucr.com/2026_11_21_archive.html)).",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "**PS5**: **ZeraPS5 v0.1.1 (build 1080)** adds fixes for **Longshot** and **R-Type Delta HD** plus Vulkan/shader and memory work",
+          "summary_md": "It's an AI-assisted, experimental Windows PS5 emulator and can now read some .ffpfsc game images directly.",
+          "source": {
+            "name": "EmuCR",
+            "url": "https://www.emucr.com/2026/11/zeraps5-v011-build-1080.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "Update, **Switch 2**: **Hokkaido 0.7.1** for Android moves to **Banana Native v0.3.45** native ports, with Pokopia, Donkey Kong Bananza and Mario Tennis Fever fixes",
+          "summary_md": "Tested on Galaxy S24, S25 and S26 phones.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/pavelgajdo/Hokkaido/releases/tag/android-0.7.1"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "**RetroBat 8.4.0** goes stable, making **Sega Model 1** its own system and adding new systems and light-gun fixes",
+          "summary_md": "Pushed to GitHub Saturday night, two weeks after the beta.",
+          "source": {
+            "name": "Arcade Punks",
+            "url": "https://www.arcadepunks.com/retrobat-8-4-0-is-out-model-1-2-and-3-upgrades-gun-fixes-and-new-systems/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "NES emulator **FCEUX 2.8.0** adds **RetroAchievements**, a Lua debugger, a profiler and a gamepad-driven UI",
+          "summary_md": "The Qt GUI gains dark mode, dockable tools and saved layouts.",
+          "source": {
+            "name": "EmuCR",
+            "url": "https://www.emucr.com/2026/11/fceux-v280.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": "**Domestic top 10, weekend Fri–Sun Nov 13–15, 2026 (Monday actuals)**: still the latest reported weekend; the Nov 20–22 estimates post later today.\n\n| # | Prev | Title | Wknd | Chg | Total | Wks | Thtrs | Dist | RT Crit | RT Aud | MC |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | new | [Ebenezer](https://www.rottentomatoes.com/m/ebenezer_2026) | $19.0m | new | $19.0m | 1 | 3.5k | Para. | 54% | 89% | 46 |\n| 2 | 2 ➖ | [The Cat in the Hat](https://www.rottentomatoes.com/m/the_cat_in_the_hat) | $11.3m | −44% | $38.1m | 2 | 4.0k | WB | 47% | 87% | 46 |\n| 3 | 1 🔴⬇ | [Godzilla Minus Zero](https://www.rottentomatoes.com/m/godzilla_minus_zero) | $8.5m | −72% | $49.1m | 2 | 3.2k | GKIDS | 90% | 95% | 74 |\n| 4 | 4 ➖ | [Ramayana](https://www.rottentomatoes.com/m/ramayana_rise_of_a_legend) | $5.8m | −35% | $24.4m | 2 | 1.1k | Sony | 77% | 93% | 58 |\n| 5 | 5 ➖ | [You Can See Everything](https://www.rottentomatoes.com/m/you_can_see_everything) | $5.4m | −37% | $88.9m | 5 | 1.8k | A24 | 97% | 95% | 97 |\n| 6 | new | [How to Rob a Bank](https://www.rottentomatoes.com/m/how_to_rob_a_bank_2026) | $5.2m | new | $5.2m | 1 | 2.8k | Amazon | 38% | 80% | 49 |\n| 7 | new | [Ghost Soldier](https://www.rottentomatoes.com/m/ghost_soldier) | $5.1m | new | $8.2m | 1 | 2.6k | Sony | 36% | 90% | 41 |\n| 8 | 8 ➖ | [Wild Horse Nine](https://www.rottentomatoes.com/m/wild_horse_nine) | $4.5m | −23% | $13.2m | 2 | 2.2k | Searchl. | 93% | 92% | 77 |\n| 9 | 6 🔴⬇ | [Wildwood](https://www.rottentomatoes.com/m/wildwood) | $4.4m | −39% | $48.4m | 4 | 2.2k | Fathom | 97% | 96% | 87 |\n| 10 | 7 🔴⬇ | [Clayface](https://www.rottentomatoes.com/m/clayface) | $3.7m | −45% | $63.6m | 4 | 2.3k | WB | 77% | 94% | 58 |\n\nPrev = last weekend's rank; titles link to Rotten Tomatoes; RT Crit/RT Aud = Rotten Tomatoes critics/audience; MC = Metacritic. Dropped out: Angel's **Drummer Boy** fell from No. 3 to No. 11 (−64%). Rechecked this morning: You Can See Everything corrected to $5.4m (−37%), $88.9m total per The Numbers; scores moved for Cat in the Hat (RT Aud 87%), How to Rob a Bank (RT Aud 80%, MC 49), Ghost Soldier (RT Crit 36%) and Clayface (RT Crit 77%). Sources: [The Numbers](https://www.the-numbers.com/box-office-chart/weekend/2026/11/13), [Box Office Mojo](https://www.boxofficemojo.com/weekend/2026W46/) (weeks and distributors, from the Nov 20 check), [Rotten Tomatoes](https://www.rottentomatoes.com/), [Metacritic](https://www.metacritic.com/).",
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Update: **Sunrise on the Reaping** now projects a **$120M** opening after a $56M Friday, with an **A- CinemaScore**",
+          "summary_md": "PLF and Imax screens make up 47% of the weekend, and it's playing strong in the South and Midwest.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "This week: Disney's **Hexed** and Universal's **Focker-in-Law** open for Thanksgiving, tracking **$40M–$50M** each over five days",
+          "summary_md": "Deadline says Sunrise's second weekend could beat both.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/ariana-grande-focker-in-law-hexed-box-office-projections-1237215651/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "**Pinewood** says it's \"talking about\" hosting **Robert Pattinson**'s Bond film: \"We're the home of Bond\"",
+          "summary_md": "Nothing is confirmed yet under Amazon MGM.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/global/robert-pattinson-bond-movie-shoot-pinewood-studios-1236954829/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "**Jennifer Lopez** says she and **Jane Fonda** are \"talking about maybe doing another\" **Monster-in-Law**",
+          "summary_md": "From a Drew Barrymore Show clip.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/news/jennifer-lopez-jane-fonda-monster-in-law-follow-up-1236955143/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "Update: **two groups independently verify** Levent Alpöge's claim that **Claude** helped prove the **Riemann hypothesis**",
+          "summary_md": "They reviewed the Lean code he shared; he says it took about six weeks.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "Thinking Machines releases **Inkling 2 Mini**, a laptop-sized open-weights looped MoE model",
+          "summary_md": "It claims the lead among open models under 100B parameters on DeepSWE v1.1 (48.2%).",
+          "source": {
+            "name": "Thinking Machines",
+            "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "The **Gemini** Android app gets a redesigned inline camera, plus **GIF creation**",
+          "summary_md": "The new camera opens as a draggable bottom sheet.",
+          "source": {
+            "name": "9to5Google",
+            "url": "https://9to5google.com/2026/11/21/gemini-camera-redesign/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "The **FBI** is investigating an apparent breach of its **National Crime Information Center** database",
+          "summary_md": "It's the nationwide system linking federal, state and local police; the FBI hasn't commented.",
+          "source": {
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com/politics/justice-department/fbi-investigating-potential-breach-crime-database-rcna610536"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "App stores: Apple's age-rating questionnaire now asks about **shared location** and **dating** features, which can change an app's rating",
+          "summary_md": "In effect since Nov 16, by region.",
+          "source": {
+            "name": "iPhonePost",
+            "url": "https://www.iphonepost.com/app-store-age-rating-shared-location-dating-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Ads: **AppLovin** is reportedly in talks to buy ad-tech firm **Criteo**, per Reuters",
+          "summary_md": "No deal has been reached, and terms aren't known.",
+          "source": {
+            "name": "Mobile Marketing Reads",
+            "url": "https://www.mobilemarketingreads.com/applovin-reportedly-in-talks-to-acquire-criteo/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": "It's the weekend, so there are no US stock, futures, oil or gold quotes this morning.",
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Crypto at 5:08 AM CT: **Bitcoin $60,887 (+5.2%)**, **Ether $1,709.65 (+4.3%)** over 24 hours",
+          "summary_md": "A bounce after Friday's selloff.",
+          "source": {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/bitcoin"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Week recap: the **S&P 500** is in a **correction**, down more than 10% from its Oct. 6 high, after its worst week in over 18 months",
+          "summary_md": "The Nasdaq composite is now negative for the year.",
+          "source": {
+            "name": "AP",
+            "url": "https://lancasteronline.com/business/stock_market/ap-business-summarybrief-at-3-11-p-m-est/article_33574635-5329-5527-b394-68c6c69b8800.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "No ice storm or tornado threat for the St. Louis area in the next 7 days (NWS/SPC). No active NWS alerts at either point ([NWS alerts](https://api.weather.gov/alerts/active?point=38.7875,-90.6299)). NWS St. Louis says today's cold front brings rain and much cooler air, with afternoon \"highs\" only near 50° and northwest gusts up to 30 mph, then seasonably cool weather through the week; there's a slight chance (15–25%) of \"very light, non-accumulating, unimpactful snow\" Wednesday into early Thanksgiving Day ([NWS St. Louis discussion](https://forecast.weather.gov/product.php?site=LSX&issuedby=LSX&product=AFD), issued 1:34 AM CT). SPC: today's severe risk is in South Texas ([Day 1](https://www.spc.noaa.gov/products/outlook/day1otlk.html)); severe storms unlikely Monday ([Day 2](https://www.spc.noaa.gov/products/outlook/day2otlk.html)) and not expected Tuesday ([Day 3](https://www.spc.noaa.gov/products/outlook/day3otlk.html)); \"severe potential appears limited\" for Wed–Sun ([Day 4–8](https://www.spc.noaa.gov/products/exper/day4-8/)). I didn't check the WPC winter outlooks, and the LSX Hazardous Weather Outlook page came back empty.\n\n**Hourly chance of precipitation today (CT)**\n\n| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| St. Peters | 27% 🌧 | 70% 🌧 | 88% 🌧 | 100% 🌧 | 100% 🌧 | 82% 🌧 | 53% 🌧 | 27% 🌧 | 22% 🌧 | 11% | 5% | 2% | 1% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Berkeley | 14% | 45% 🌧 | 72% 🌧 | 88% 🌧 | 100% 🌧 | 95% 🌧 | 69% 🌧 | 37% 🌧 | 32% 🌧 | 20% 🌧 | 9% | 3% | 1% | 0% | 0% | 0% | 0% | 0% | 0% |\n\nSource: NWS forecastHourly (api.weather.gov, LSX grids 80,81 and 90,80), fetched at 5:07 AM CT. Rain peaks around 8–9 AM and ends by early afternoon.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**St. Peters**: rain before 2 PM (100%), high near **59°** early, falling to about 49° in the afternoon; low around **31°** tonight",
+          "summary_md": "SW wind gusting to 25 mph; no active alerts. Rain amounts weren't given.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7875&lon=-90.6299"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Berkeley**: rain before 3 PM (100%), high near **60°** early, falling to about 50°; low around **33°** tonight",
+          "summary_md": "SW wind gusting to 25 mph; no active alerts. Rain amounts weren't given.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7545&lon=-90.3312"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "**Anthropic's record IPO collides with tech's worst week since 2020**",
+          "summary_md": "A good read on the split-screen moment: a $93.5B debut that opened at $111.50 and closed Friday at $88.91, while Nvidia fell 23% for the week.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
