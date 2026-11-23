@@ -1,0 +1,483 @@
+{
+  "date": "2026-11-23",
+  "title": "Morning Brief - Prem",
+  "intro_md": "Type \"more on G3\" (or any code) here, or tap **More info** on an item on the brief page and paste the request here, and I'll dig in.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "**Trump** says he's inclined to **resume strikes on Iran after the New Year** if talks fail",
+          "summary_md": "He called Iran's negotiators \"professional tap dancers\" and warned vessels trying to breach the US blockade would be sunk, per Fox News.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-23-2026/4133974"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "**Zelenskyy** says Ukraine sank the Russian warship **Merkury** in **Benghazi**, Libya",
+          "summary_md": "Kyiv also claimed a drone attack on the cargo ship MV Angara; Libya's eastern government filed a UN complaint.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "**NATO** meets after **Russian missiles hit Poland**",
+          "summary_md": "Allies are set to discuss Friday's incursion, when Russian missiles and a drone came down in Poland.",
+          "source": {
+            "name": "NPR",
+            "url": "https://www.npr.org/2026/11/23/nx-s1-6045619/morning-news-brief"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "**COP31** in Antalya closes **without a deal**",
+          "summary_md": "Summit president Murat Kurum blamed some countries for a lack of flexibility; UN chief Guterres said he was \"deeply disappointed.\"",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-23-2026/4133974"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "Update: the Indonesia candy-factory fire death toll rises to **at least 24**, with dozens missing",
+          "summary_md": "Rescuers are still searching the wreckage of the factory in Banten, west of Jakarta.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W6",
+          "headline_md": "Democrats reach **258 House seats**, their biggest majority since **1992**",
+          "summary_md": "A recount win over Rep. Virginia Foxx in NC-5 brought their midterm gains to 44 seats, per AP results.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-23-2026/4133974"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "**CrowdStrike** to buy **Zscaler** for **$43.9B**",
+          "summary_md": "CEO George Kurtz says the deal aims to make it the world's largest \"AI security\" company.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "**South Korea, Taiwan and China** move to prop up stocks after the AI sell-off",
+          "summary_md": "Taiwan's stabilization fund entered the market, Korea readied its fund, and China lowered margin requirements.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "UK outsourcer **Capita** shares **halve** as its CEO departs",
+          "summary_md": "It cut 2027 profit guidance by £85m–£95m over civil-service pension contract costs and plans a ~£190m equity raise.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "The **EU** opens an antitrust probe into Coca-Cola bottler **CCEP**",
+          "summary_md": "Brussels will examine whether it blocked cheaper cross-border trade in soft drinks.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": "No new hyper-casual mobile news turned up in the last 24 hours.",
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "**The Binding of Isaac: Repentance+** pulls **AI-generated music** from its GTA-themed run",
+          "summary_md": "A player found Suno references in the audio; Nicalis patched PC Saturday, consoles pending.",
+          "source": {
+            "name": "Warp Pipes",
+            "url": "https://warppipes.com/en/articles/video-game-news-digest-2026-11-22"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "**GTA VI** holds a **99 Metascore**, but its user score drops to about **5.5/10**",
+          "summary_md": "Close to 45% of user ratings are negative, which looks like review-bombing, per Eurogamer and Numerama.",
+          "source": {
+            "name": "Warp Pipes",
+            "url": "https://warppipes.com/en/articles/video-game-news-digest-2026-11-22"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "**Darkest Dungeon II** reveals **The Butcher's Asylum**, a paid arena expansion due in **2027**",
+          "summary_md": "Red Hook released a gameplay trailer Saturday; there's no exact date yet.",
+          "source": {
+            "name": "Warp Pipes",
+            "url": "https://warppipes.com/en/articles/video-game-news-digest-2026-11-22"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "Black Friday: Housemarque's **Saros** is **$40** on PS5 disc (down from $70)",
+          "summary_md": "It's one of 2026's best-reviewed games, at 87 on Metacritic.",
+          "source": {
+            "name": "Game Unc",
+            "url": "https://www.gameunc.com/2026-11-22/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "No PS5 or Switch 2 emulation breakthrough with commercial games in the last 24–48 hours. Wii U lifter watch: [CafeRecomp](https://github.com/hardkiller2565123123/CafeRecomp) is still public, but its [Releases page](https://github.com/hardkiller2565123123/CafeRecomp/releases) still has no release. GTA VI: still no verified native-PC recomp or port. Nov 22 builds include PCSX2 v2.9.189, RPCS3, Xenia/Xenia Edge, Vita3K, Dolphin 2609-308 and FCEUX 2.8.0 ([EmuCR](https://www.emucr.com/2026_11_22_archive.html)). Reddit (r/emulation, r/decomps) couldn't be read this run (404 on RSS, timeout on old.reddit).",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "PS3 shooter **MAG** runs natively on Windows, macOS and Linux via **static recompilation**",
+          "summary_md": "Developer tekulvw built it with the ps3recomp SDK, and it supports community servers.",
+          "source": {
+            "name": "Emu Radar",
+            "url": "https://emu-radar.customfw.xyz/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "**BioShock 2** Xbox 360 recomp hits **v0.2.1**, adding offline bots and 60 FPS logic",
+          "summary_md": "It brings the Xbox 360 game to Windows as a static recompilation.",
+          "source": {
+            "name": "Emu Radar",
+            "url": "https://emu-radar.customfw.xyz/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "**Torchlight Recomp v1.0.0** brings the Xbox 360 ARPG to PC, Mac and Android",
+          "summary_md": "Built on the ReXGlue SDK, it translates the PowerPC executable to native C++; you supply your own XBLA files.",
+          "source": {
+            "name": "Emu Radar",
+            "url": "https://emu-radar.customfw.xyz/news/torchlight-recomp-v1-0-0-xbox-360-static-recompilation/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "PS2: **Maximo Rex** starts static-recompilation work on **Maximo vs. Army of Zin**",
+          "summary_md": "It's an early, source-only PS2Native project for the PAL version on Windows.",
+          "source": {
+            "name": "Emu Radar",
+            "url": "https://emu-radar.customfw.xyz/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "N64 **BattleTanx** gets a native Windows/Linux port via static recompilation (**btrecomp 0.1.5**)",
+          "summary_md": "Developer wootbeer released it, one of several new recomp ports today.",
+          "source": {
+            "name": "Emu Radar",
+            "url": "https://emu-radar.customfw.xyz/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E6",
+          "headline_md": "**openMSX 22.0** adds raster-beam debugging tools and more hardware support",
+          "summary_md": "It also brings VDP accuracy fixes and support for light guns, plotters and SM-X WiFi.",
+          "source": {
+            "name": "MSX Resource Center",
+            "url": "https://www.msx.org/news/en/openmsx-220-released"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": "**Domestic top 10, weekend Fri–Sun Nov 20–22, 2026 (Sunday studio estimates; Monday actuals not posted yet as of 5:10 AM CT)**\n\n| # | Prev | Title | Wknd | Chg | Total | Wks | Thtrs | Dist | RT Crit | RT Aud | MC |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | new | [The Hunger Games: Sunrise on the Reaping](https://www.rottentomatoes.com/m/the_hunger_games_sunrise_on_the_reaping) | $120.0m | new | $120.0m | 1 | 4.0k | Lionsg. | 69% | 94% | 56 |\n| 2 | 21 🟢⬆ | [I Play Rocky](https://www.rottentomatoes.com/m/i_play_rocky) | $9.3m | +1,789% | $10.4m | 3 | 2.5k | Amazon | 89% | 99% | 68 |\n| 3 | 1 🔴⬇ | [Ebenezer](https://www.rottentomatoes.com/m/ebenezer_2026) | $7.7m | −59% | $32.5m | 2 | 3.5k | Para. | 54% | 90% | 46 |\n| 4 | 2 🔴⬇ | [The Cat in the Hat](https://www.rottentomatoes.com/m/the_cat_in_the_hat) | $6.9m | −39% | $47.1m | 3 | 3.3k | WB | 48% | 87% | 46 |\n| 5 | 3 🔴⬇ | [Godzilla Minus Zero](https://www.rottentomatoes.com/m/godzilla_minus_zero) | $2.7m | −68% | $54.6m | 3 | 2.1k | GKIDS | 90% | 95% | 74 |\n| 6 | 5 🔴⬇ | [You Can See Everything](https://www.rottentomatoes.com/m/you_can_see_everything) | $2.5m | −53% | $93.5m | 6 | 1.3k | A24 | 97% | 95% | 97 |\n| 7 | 8 🟢⬆ | [Wild Horse Nine](https://www.rottentomatoes.com/m/wild_horse_nine) | $2.5m | −45% | $18.0m | 3 | 2.0k | Searchl. | 93% | 92% | 77 |\n| 8 | 7 🔴⬇ | [Ghost Soldier](https://www.rottentomatoes.com/m/ghost_soldier) | $2.4m | −54% | $12.5m | 2 | 2.6k | Sony | 39% | 90% | 41 |\n| 9 | 4 🔴⬇ | [Ramayana](https://www.rottentomatoes.com/m/ramayana_rise_of_a_legend) | $2.1m | −64% | $28.4m | 3 | 0.7k | Sony | 77% | 93% | 58 |\n| 10 | 9 🔴⬇ | [Wildwood](https://www.rottentomatoes.com/m/wildwood) | $1.9m | −57% | $52.0m | 5 | 1.3k | Fathom | 97% | 96% | 87 |\n\nPrev = last weekend's rank; titles link to Rotten Tomatoes; RT Crit/RT Aud = Rotten Tomatoes critics/audience; MC = Metacritic. Dropped out: Amazon's **How to Rob a Bank** fell from No. 6 to No. 11 (−68%); WB's **Clayface** fell from No. 10 to No. 13 (−65%). Scores rechecked this morning (Sunrise critics 69%, I Play Rocky audience 99%, Cat in the Hat critics 48%, Ghost Soldier critics 39%). Weeks from The Numbers' days in release. Sources: [The Numbers](https://www.the-numbers.com/box-office-chart/weekend/2026/11/20), [Rotten Tomatoes](https://www.rottentomatoes.com/), [Metacritic](https://www.metacritic.com/).",
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Update: **Sunrise on the Reaping** opens to **$225M worldwide**, Lionsgate's biggest global start in some time",
+          "summary_md": "It beat Wicked: For Good's $223M and topped 81 of its 84 markets, led by the UK at $17.4M.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "A24's **You Can See Everything** passes **$100M worldwide**, rare for a documentary",
+          "summary_md": "The Theranos doc made for about $7M is at $102.4M globally and opened to $3.2M in the UK.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/box-office/you-can-see-everything-crosses-100-million-global-box-office-1236955393/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "**Robert Eggers** says he's \"eager\" for a break from horror after **Werwulf**",
+          "summary_md": "Werwulf, with Aaron Taylor-Johnson, Lily-Rose Depp and Willem Dafoe, opens on Christmas Day.",
+          "source": {
+            "name": "The Hollywood Reporter",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-eggers-eager-break-horror-genre-werwulf-nosferatu-1236760762/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "**OpenAI**'s chief scientist proposes industry-wide **limits on AI development** tied to a \"perplexity\" metric",
+          "summary_md": "Jakub Pachocki says labs shouldn't cross agreed thresholds until monitoring catches up; Sam Altman backed it.",
+          "source": {
+            "name": "Reuters",
+            "url": "https://www.investing.com/news/stock-market-news/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric-5044174"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "**Sarvam** releases **Sarvam-105B-1711**, an open-weight model at **$0.15 per million tokens**",
+          "summary_md": "It's built for support, voice and agent work, and the company says it matches Gemini 3.5 Flash-Lite at far lower cost.",
+          "source": {
+            "name": "Sarvam AI",
+            "url": "https://www.sarvam.ai/blogs/sarvam-105b-1711"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "**Apple** starts rolling out **Siri AI** across its own apps",
+          "summary_md": "Calendar, Mail, Maps, Messages, Photos and more get it; third-party App Intents stay in developer preview, not allowed in App Store builds.",
+          "source": {
+            "name": "Yahoo Tech",
+            "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-starts-siri-ai-rollout-173210450.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "**Signal** will block **Siri** and **Gemini** from reading your chats on iOS 27 and Android",
+          "summary_md": "President Meredith Whittaker calls AI agents embedded in the OS \"an existential threat to Signal.\"",
+          "source": {
+            "name": "BleepingComputer",
+            "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "**Delta** fixes the weight-and-balance system glitch that delayed flights across the US",
+          "summary_md": "The fix comes ahead of Thanksgiving travel.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-23-2026/4133974"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Futures at 5:00 AM CT: **S&P 500 +2.6%**, **Dow +1.9%**, **Nasdaq-100 +3%**",
+          "summary_md": "It's a relief bounce after seven straight down days left the S&P and Dow in correction; the VIX is still at its highest since April 2025.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-091118583.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Premarket at 4:21 AM CT: **Nvidia +8.6%**, **Anthropic +4.47%**",
+          "summary_md": "Neoclouds also rebounded (Nebius +10.9%, CoreWeave +9.7%); the Nasdaq fell 10% last week.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Oil at 2:44 AM CT: **Brent $91.97 (−0.65%)**, **WTI $82.92 (−0.59%)**",
+          "summary_md": "Attacks on Gulf shipping are limiting the losses.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/23/oil-prices-fall-amid-equity-sell-off-though-iran-war-attacks-limit-losses.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "Gold at 2:25 AM CT: **$3,604.79/oz (+2.1%)**, rebounding from a 14-month low",
+          "summary_md": "It fell 9% last week; markets still price a 25-basis-point Fed hike in December.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/23/gold-rises-from-14-month-low-as-markets-await-us-inflation-data.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "Crypto at 5:09 AM CT: **Bitcoin $61,353 (+0.8%)**, **Ether $1,723.14 (+0.8%)** over 24 hours",
+          "summary_md": "These are spot prices from CoinGecko.",
+          "source": {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "No ice storm or tornado threat for the St. Louis area in the next 7 days (NWS/SPC). No active NWS alerts at either point ([NWS alerts](https://api.weather.gov/alerts/active?point=38.7875,-90.6299)). Heads-up for Thanksgiving: NWS St. Louis puts precipitation chances at 50–70% Wednesday night into Thanksgiving morning, mainly east of I-55, mostly rain with a possible brief rain/snow mix near sunrise, but says \"the potential for impacts from snow remains very low.\" Tuesday is the coolest day, with highs near 40 north to mid-40s south ([NWS St. Louis discussion](https://forecast.weather.gov/product.php?site=LSX&issuedby=LSX&product=AFD), issued 2:26 AM CT). SPC: severe storms unlikely today ([Day 1](https://www.spc.noaa.gov/products/outlook/day1otlk.html)), not expected Tuesday ([Day 2](https://www.spc.noaa.gov/products/outlook/day2otlk.html)), Wednesday's risk is in South Florida ([Day 3](https://www.spc.noaa.gov/products/outlook/day3otlk.html)), and \"severe potential appears limited\" Thu–Mon ([Day 4–8](https://www.spc.noaa.gov/products/exper/day4-8/)). I didn't check the WPC winter outlooks, and no LSX Hazardous Weather Outlook was issued recently.\n\n**Hourly chance of precipitation today (CT)**\n\n| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| St. Peters | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Berkeley | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\nSource: NWS forecastHourly (api.weather.gov, LSX grids 80,81 and 90,80), fetched at 5:08 AM CT. Dry all day under sunshine, then clouds build late tonight.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**St. Peters**: sunny, high near **45°**, low around **24°** tonight; **0%** rain or snow",
+          "summary_md": "Northwest wind around 9 mph; no active alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7875&lon=-90.6299"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Berkeley**: sunny, high near **46°** (falling to ~42° this afternoon), low around **27°**; **0%** rain or snow",
+          "summary_md": "North wind around 10 mph; no active alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7545&lon=-90.3312"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "**From mocked to mainstream: how Spain's far-right Vox transformed its fortunes**",
+          "summary_md": "It's a clear look at how a party that won 0.2% in 2016 is now polling near 20% and could join Spain's next government.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/23/vox-party-spain-far-right-mocked-to-mainstream"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
