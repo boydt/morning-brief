@@ -1,0 +1,560 @@
+{
+  "date": "2026-11-24",
+  "title": "Morning Brief - Prem",
+  "intro_md": "Type \"more on G3\" (or any code) here, or tap **More info** on an item on the brief page and paste the request here, and I'll dig in.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "Iran's IRGC Navy says **three oil tankers hit mines** in the **Strait of Hormuz**, setting all three on fire",
+          "summary_md": "It said US air cover failed to prevent the blasts and warned ships off \"unauthorized routes\"; Iran declared the strait closed on July 12.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-24-2026/4135240"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "**Russia rules out a new grain deal** as it and Ukraine clash at the UN over **Black Sea shipping** attacks",
+          "summary_md": "Moscow says Ukraine has targeted 200+ commercial vessels since July; Zelenskyy warned of new Russian strikes and asked for more Patriot missiles.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-24-2026/4135240"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "An Israeli drone strike on a **Gaza police post** in Khan Younis kills **three Palestinians**",
+          "summary_md": "It came a day after five were killed in drone strikes across Gaza, per a Nasser Hospital source.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-24-2026/4135240"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "The **EU** unveils a new **Russia sanctions package** hitting banks, crypto platforms and Moscow's role in European sports and culture",
+          "summary_md": "European Commission president announced it Monday.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-24-2026/4135240"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "**South Korea scrambles fighter jets** as Russian military aircraft enter its air-defense zone over the East Sea",
+          "summary_md": "Yonhap reported it early Tuesday, citing the military.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-24-2026/4135240"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W6",
+          "headline_md": "**FIFA** gives the **2031 Women's World Cup** to the **US, Mexico, Costa Rica and Jamaica**; the UK gets 2035",
+          "summary_md": "2031 will be the first 48-team Women's World Cup, with 104 matches.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-24-2026/4135240"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "**Nvidia reinstates Jensen Huang** as CEO, and lawmakers in both parties push back on Trump's role",
+          "summary_md": "Huang faces the Senate Banking Committee next Thursday; Sen. Warren called the move \"reckless,\" and Nvidia says the board consulted senior US officials.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "The US adds **Megaspeed**, the Singapore AI firm at the center of the Nvidia scandal, to its **trade blacklist**",
+          "summary_md": "Commerce cited national-security and foreign-policy concerns; Megaspeed has been probed since 2024 over possible chip diversion to China.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "**Trump** says China could buy **another 250 Boeing jets** on top of an initial 250",
+          "summary_md": "\"I sold 250 Boeings to China, and I think they're going to do another 250,\" he told CNBC.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-24-2026/4135240"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "Update: **Amazon** agrees to acquire **Decart**'s AI optimization tech and team, in a reported **$7.5B** deal",
+          "summary_md": "It could help Amazon run AI models more efficiently on its Trainium chips; on Nov 22 the deal was still in talks.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-24-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B5",
+          "headline_md": "Pre-Thanksgiving earnings: **Dell, Dollar Tree, HP, Best Buy and Dick's** report this week",
+          "summary_md": "Consumer confidence data is due today, and Analog Devices reports before the open.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "Sony calls **GTA VI** the **biggest launch in PlayStation history**, with **39M+** unique PS5 players in four days",
+          "summary_md": "Players logged about 683M hours Nov 19–22, and about 70% of newly connected PS5s played it first.",
+          "source": {
+            "name": "Swil-News",
+            "url": "https://news.supwil.com/en/news/gaming/2026-11-23"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "Mobile: **mobile game revenue in Germany fell 11%** after GTA VI launched, per **AppsFlyer**",
+          "summary_md": "Usage stayed mostly stable, but in-app purchase revenue dropped.",
+          "source": {
+            "name": "GamesMarket",
+            "url": "https://www.gamesmarket.global/gamesmarket-daily-23-nov-26-swiss-game-awards-gerald-farca-michal-amielanczyk-gta-vi-byterockers-funding-us-market/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "**Plug In Digital** buys indie publisher **Twin Sails** (News Tower) and forms a new publishing group",
+          "summary_md": "The group says it will fund projects with up to about €500,000 each, aiming for six to eight new games a year.",
+          "source": {
+            "name": "Swil-News",
+            "url": "https://news.supwil.com/en/news/gaming/2026-11-23"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "Nintendo details **Kirby and the World Beyond**, an open-ended 3D Kirby due **early 2027**",
+          "summary_md": "Copy abilities double as traversal tools; there's no exact date yet.",
+          "source": {
+            "name": "Swil-News",
+            "url": "https://news.supwil.com/en/news/gaming/2026-11-23"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G5",
+          "headline_md": "The **GTA VI footage leaker**, Arion Kurtaj, gets **seven years** but is released on licence for time already served",
+          "summary_md": "The Lapsus$ member pleaded guilty to six charges.",
+          "source": {
+            "name": "Anadolu",
+            "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-24-2026/4135240"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: still not public. u/Mindstormman's GitHub account has 0 public repos, and [CafeRecomp](https://github.com/hardkiller2565123123/CafeRecomp) still has no release (last push Oct 18). GTA VI: no real native-PC port. Emu Radar says AI-assisted work on a **leaked** Xbox executable reaches only setup screens, with nothing playable ([Emu Radar](https://emu-radar.customfw.xyz/)). r/decomps now bans GTA VI repo links and warns about fake-malware downloads, so steer clear of anything that claims to be a download. Also out: shadPS4's Nov 23 pre-release build and Triforce v0.6.0 (the Switch 2 Ocarina of Time recomp) on Linux. Reddit: the r/decomps front page loaded via web fetch; r/emulation didn't (RSS 404, JSON 403).",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "PS5: **Regaliant** runs the **PS5 Demon's Souls** remake natively on Windows, without CPU emulation",
+          "summary_md": "It runs the game's x86-64 code directly, reimplements PS5 libraries over Vulkan, and gets near 60 FPS in many areas on an RTX 4090 (v0.1.2; you need your own decrypted copy).",
+          "source": {
+            "name": "Emu Radar",
+            "url": "https://emu-radar.customfw.xyz/news/regaliant-demons-souls-ps5-windows-port/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "Switch 2: **SUNHOUND 0.1.0** statically recompiles Switch 2 **Star Fox** into a native Windows exe",
+          "summary_md": "It lifts ARM64 to C and translates NVN 2 to Vulkan 1.3, locked at 60 FPS up to 4K, from your own v1.0.2 dump.",
+          "source": {
+            "name": "Emu Radar",
+            "url": "https://emu-radar.customfw.xyz/news/sunhound-0-1-0-star-fox-switch-2-pc-static-recompilation/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "N64Recomp: **Zelda64 Recompiled** hits **Android 1.0** with touch layouts and gyro aim",
+          "summary_md": "It also bundles mods.",
+          "source": {
+            "name": "Emu Radar",
+            "url": "https://emu-radar.customfw.xyz/news/zelda64-recompiled-android-1-0/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "XenonRecomp: Xbox 360 **Call of Duty 4: Modern Warfare** reaches **Android** in v0.1.0",
+          "summary_md": "Campaign and multiplayer are both supported.",
+          "source": {
+            "name": "Emu Radar",
+            "url": "https://emu-radar.customfw.xyz/news/cod4-modern-warfare-android-recomp/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "**NieR Gestalt** gets a native **PC and Android** static recomp (Port 1.0)",
+          "summary_md": "KijenP built it with static recompilation and Renut.",
+          "source": {
+            "name": "Emu Radar",
+            "url": "https://emu-radar.customfw.xyz/news/nier-gestalt-recomp-pc-android/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": "**Domestic top 10, weekend Fri–Sun Nov 20–22, 2026 (Monday actuals, The Numbers)**\n\n| # | Prev | Title | Wknd | Chg | Total | Wks | Thtrs | Dist | RT Crit | RT Aud | MC |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | new | [The Hunger Games: Sunrise on the Reaping](https://www.rottentomatoes.com/m/the_hunger_games_sunrise_on_the_reaping) | $119.3m | new | $119.3m | 1 | 4.0k | Lionsg. | 68% | 94% | 55 |\n| 2 | – | [I Play Rocky](https://www.rottentomatoes.com/m/i_play_rocky) | $9.3m | +1,788% | $10.4m | 3 | 2.5k | Amazon | 90% | 98% | 68 |\n| 3 | 1 🔴⬇ | [Ebenezer](https://www.rottentomatoes.com/m/ebenezer_2026) | $7.8m | −59% | $32.6m | 2 | 3.5k | Para. | 55% | 90% | 46 |\n| 4 | 2 🔴⬇ | [The Cat in the Hat](https://www.rottentomatoes.com/m/the_cat_in_the_hat) | $6.7m | −41% | $47.0m | 3 | 3.3k | WB | 49% | 87% | 46 |\n| 5 | 3 🔴⬇ | [Godzilla Minus Zero](https://www.rottentomatoes.com/m/godzilla_minus_zero) | $2.8m | −67% | $54.7m | 3 | 2.1k | GKIDS | 91% | 95% | 74 |\n| 6 | 5 🔴⬇ | [You Can See Everything](https://www.rottentomatoes.com/m/you_can_see_everything) | $2.5m | −53% | $93.5m | 6 | 1.3k | A24 | 97% | 95% | 97 |\n| 7 | 8 🟢⬆ | [Wild Horse Nine](https://www.rottentomatoes.com/m/wild_horse_nine) | $2.5m | −46% | $17.9m | 3 | 2.0k | Searchl. | 93% | 92% | 77 |\n| 8 | 7 🔴⬇ | [Ghost Soldier](https://www.rottentomatoes.com/m/ghost_soldier) | $2.4m | −54% | $12.5m | 2 | 2.6k | Sony | 39% | 90% | 41 |\n| 9 | 4 🔴⬇ | [Ramayana](https://www.rottentomatoes.com/m/ramayana_rise_of_a_legend) | $2.2m | −63% | $28.5m | 3 | 0.7k | Sony | 77% | 93% | 58 |\n| 10 | 9 🔴⬇ | [Wildwood](https://www.rottentomatoes.com/m/wildwood) | $2.1m | −53% | $52.2m | 5 | 1.3k | Fathom | 97% | 96% | 87 |\n\nPrev = last weekend's rank; titles link to Rotten Tomatoes; RT Crit/RT Aud = Rotten Tomatoes critics/audience; MC = Metacritic. Dropped out: Amazon's **How to Rob a Bank** fell from No. 6 to No. 11 (−66%); WB's **Clayface** fell from No. 10 to No. 14 (−65%). The Numbers lists I Play Rocky with no prior-week rank, so Prev shows –. Scores fetched this morning. Sources: [The Numbers](https://www.the-numbers.com/box-office-chart/weekend/2026/11/20), [Rotten Tomatoes](https://www.rottentomatoes.com/), [Metacritic](https://www.metacritic.com/).",
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Update: Monday actuals trim **Sunrise on the Reaping** to **$119.3M**, fourth-best in Hunger Games history",
+          "summary_md": "That's just under Sunday's $120M estimate but still Lionsgate's best opening in 12 years; Deadline had Monday trending to $12M+, a franchise Monday record.",
+          "source": {
+            "name": "Previously",
+            "url": "https://www.watchpreviously.com/news/hunger-games-sunrise-opening-actuals/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Update: Thanksgiving tracking has **Focker In-Law** at about **$56M** over five days, ahead of Disney's **Hexed** (~**$36.5M**)",
+          "summary_md": "These are Box Office Theory's Nov 19 pinpoints; both open Wednesday, Nov 25, and Hexed would still beat Wish's 2023 Thanksgiving start.",
+          "source": {
+            "name": "The Disney Scoop",
+            "url": "https://thedisneyscoop.com/hexed-tracking-behind-focker-in-law-thanksgiving-weekend/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "**Spielberg** will direct a Western, **The Heart in Winter**, with **Cillian Murphy and Jessie Buckley**",
+          "summary_md": "Paul Thomas Anderson writes it for Focus Features, eyeing a 2028 release.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/news/steven-spielberg-western-cillian-murphy-jessie-buckley-1236956084/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "**Shawn Levy's 21 Laps** signs a rich overall film deal at **Sony** after a bidding war",
+          "summary_md": "It starts in fall 2027; Levy's Star Wars: Starfighter opens May 28, 2027.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/news/shawn-levy-21-overall-film-deal-sony-1236956043/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "**Oregon and Virginia sue SpaceX and X** over **Grok** making sexualized images of real people",
+          "summary_md": "The states say the companies misled users about safety, and they're seeking civil penalties.",
+          "source": {
+            "name": "AI.info",
+            "url": "https://ai.info/daily/2026-11-24"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "**Anthropic** launches **Claude Ship**, which reviews, fixes and approves pull requests when team policy allows",
+          "summary_md": "It's in beta for GitHub repos on Claude Team and Enterprise plans.",
+          "source": {
+            "name": "AI.info",
+            "url": "https://ai.info/daily/2026-11-24"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "**OpenAI and Cisco** open-source **Shirudo** to shield running Linux systems until patches land",
+          "summary_md": "It's pre-release, and production targets need specific kernel changes and hardware.",
+          "source": {
+            "name": "AI.info",
+            "url": "https://ai.info/daily/2026-11-24"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "**Google DeepMind**'s agent teams improve quantum algorithms for fusion research, cutting estimated compute costs **11.8x**",
+          "summary_md": "A math proof system checked their solutions.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-24-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A5",
+          "headline_md": "**GPT-6.2 Sol** rolls out in ChatGPT to Plus, Pro, Business and Enterprise users",
+          "summary_md": "OpenAI says it follows complex instructions better and reads small visual details more accurately.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-24-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": "No new App Store or Google Play policy changes in the last 24 hours ([Shipnod tracker](https://shipnod.com/changelog/)).",
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "Design tools: **Canva MCP** is now generally available, with new **REST APIs**, an expanded CLI and service accounts",
+          "summary_md": "Agents can make editable designs, images and video, remove backgrounds and use Magic Layers; nearly 500,000 people signed up via MCP since October.",
+          "source": {
+            "name": "Canva",
+            "url": "https://www.canva.com/newsroom/news/canva-mcp-update/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "Ads: **HUMAN** disrupts **BADBOX 3.0**, which used cheap Android TV boxes for up to **40B fake ad requests a day**",
+          "summary_md": "HUMAN says that's more than 4% of the CTV traffic it sees; the figure counts bid requests, not confirmed ad spend.",
+          "source": {
+            "name": "BleepingComputer",
+            "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "**Kagi** launches **Kagi Mail** in public beta: no ads, 50GB of storage and unlimited aliases",
+          "summary_md": "After a 60-day trial it's $99 a year; mobile apps are due in Q3 2027.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "**Meta's Muse** agent launches in the **UK**, with shopping deals with Sainsbury's, M&S and Currys",
+          "summary_md": "It arrives amid regulator warnings about how it handles private data.",
+          "source": {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/tech/1041084/metas-muse-agent-launches-in-the-uk"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": null,
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Futures at 5:03 AM CT: **S&P 500 −0.8%**, **Dow −0.4%**, **Nasdaq-100 −1.7%** after Monday's huge rally",
+          "summary_md": "Monday was Wall Street's best day since April 2025; traders now price a 95% chance of a December Fed hike.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/ES=F/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Premarket at 4:44 AM CT: **Nvidia −5.4%** after Monday's **31%** jump",
+          "summary_md": "Micron, Marvell, AMD and Arm were all down more than 3%.",
+          "source": {
+            "name": "CNBC",
+            "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "Asia rallied on Huang's return: **Taiwan's TW50 +9.5%**, **Kospi +6.5%**, **Nikkei ~+4%**; Hang Seng −0.73%",
+          "summary_md": "Europe's Stoxx 600 was down 0.25% this morning.",
+          "source": {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "Oil and gold at 5:03 AM CT: **WTI $79.89 (−0.35%)**, **Brent $86.74 (+0.07%)**, **gold $3,627.50 (−0.65%)**",
+          "summary_md": "Those are front-month futures.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/CL=F/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "Crypto at 5:12 AM CT: **Bitcoin $59,657 (−2.7%)**, **Ether $1,681.56 (−2.3%)** over 24 hours",
+          "summary_md": "Both are giving back part of their weekend gains.",
+          "source": {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "No active NWS alerts at either point ([NWS alerts](https://api.weather.gov/alerts/active?point=38.7875,-90.6299)). No severe-storm or ice threat: SPC shows no severe risk here Days 1–3 and \"stable conditions\" Days 4–8 ([SPC Day 4–8](https://www.spc.noaa.gov/products/exper/day4-8/)); WPC puts significant ice odds under 10% ([WPC](https://www.wpc.ncep.noaa.gov/discussions/hpcdiscussions.php?disc=qpfhsd)). No LSX Hazardous Weather Outlook was available this run.\n\n**Hourly chance of precipitation today (CT)**\n\n| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| St. Peters | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n| Berkeley | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% |\n\nSource: NWS forecastHourly (api.weather.gov, LSX grids 80,81 and 90,80), fetched at 5:10 AM CT. Dry and mostly cloudy all day at both spots.",
+      "items": [
+        {
+          "id": "X3",
+          "headline_md": "⚠️ **Thanksgiving snow**: snow likely **Wednesday night into Thanksgiving morning** in the St. Louis area, with a **40–50%** chance of minor travel impacts",
+          "summary_md": "NWS St. Louis says a narrow band could drop **3–5 inches** (likely in Illinois, exact spot uncertain), with 1–3 inches near the band; WPC gives east-central MO to eastern IL a 40–60% chance of more than 2 inches. It turns to rain Thursday and melts fast.",
+          "source": {
+            "name": "NWS St. Louis",
+            "url": "https://forecast.weather.gov/product.php?site=LSX&issuedby=LSX&product=AFD"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X1",
+          "headline_md": "**St. Peters**: mostly cloudy, high near **43°**, low around **26°** tonight; **0%** chance of rain or snow today",
+          "summary_md": "Wednesday night: snow likely (60%), around 1 inch possible; Thanksgiving: snow before 9 AM CT, then rain and snow (80%), high near 41°.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7875&lon=-90.6299"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Berkeley**: mostly cloudy, high near **44°**, low around **29°** tonight; **0%** chance of rain or snow today",
+          "summary_md": "Wednesday night: snow, then rain and snow (70%), 1–2 inches possible; Thanksgiving: snow before 9 AM CT, then rain (80%), high near 41°.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7545&lon=-90.3312"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "**AI employees sound alarm: models too powerful to ever release**",
+          "summary_md": "More than two dozen sources describe the debate inside Anthropic and OpenAI over whether their strongest unreleased models can ever be shipped safely, the clearest look yet at the stakes behind this month's AI headlines.",
+          "source": {
+            "name": "Axios",
+            "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
