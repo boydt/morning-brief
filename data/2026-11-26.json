@@ -1,0 +1,582 @@
+{
+ "date": "2026-11-26",
+ "title": "Morning Brief - Prem",
+ "intro_md": "Type \"more on G3\" (or any code) here, or tap More info on the brief page and paste the request here, and I'll dig into it.",
+ "sections": [
+  {
+   "id": "world",
+   "title": "World",
+   "icon": "🌍",
+   "body_md": null,
+   "items": [
+    {
+     "id": "W1",
+     "headline_md": "Overnight **Israeli strikes kill eight Palestinians** in Gaza City and central Gaza",
+     "summary_md": "Netanyahu and Defense Minister Katz said one strike killed Khaled Abu Nada, who oversaw Hamas' economic and education affairs in Gaza.",
+     "source": {
+      "name": "AP",
+      "url": "https://apnews.com/article/gaza-iran-israel-uae-hormuz-november-26-2026-522676f17532b878878ff7a4347d0e31"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W2",
+     "headline_md": "Update: Saudi-led coalition says it **intercepted two Houthi ballistic missiles** fired at **Riyadh** early Thursday",
+     "summary_md": "It also downed two drones over the Eastern Province; no word yet on casualties or damage.",
+     "source": {
+      "name": "Anadolu",
+      "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-26-2026/4138215"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W3",
+     "headline_md": "A **fuel tanker crash on Cairo's Ring Road** sets off a fire that kills at least **31** and injures 21",
+     "summary_md": "The blaze engulfed more than two dozen cars and motorcycles in Giza's Waraq neighborhood on Wednesday.",
+     "source": {
+      "name": "Indian Express",
+      "url": "https://indianexpress.com/article/world/world-news-live-updates-us-tariff-donald-trump-jensen-huang-nvidia-palestine-israel-10978933/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W4",
+     "headline_md": "Thailand's **Bangchak shuts its Bangkok refinery** after a fire injures at least **seven**",
+     "summary_md": "The blaze at the 120,000-barrel-a-day Phra Khanong plant was out within 30 minutes; the cause is under investigation.",
+     "source": {
+      "name": "Indian Express (Reuters)",
+      "url": "https://indianexpress.com/article/world/world-news-live-updates-us-tariff-donald-trump-jensen-huang-nvidia-palestine-israel-10978933/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W5",
+     "headline_md": "China launches **Shenzhou-24** to Tiangong with its **first foreign astronaut**, a Pakistani payload specialist",
+     "summary_md": "It's the first joint Chinese-foreign crew in China's human spaceflight program.",
+     "source": {
+      "name": "Xinhua",
+      "url": "https://english.news.cn/20261126/0bc98938aa46439e80be9d715c53074d/c.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "W6",
+     "headline_md": "**Nine miners found dead** in a flooded pit in Indonesia's **West Java**, with **17 still missing**",
+     "summary_md": "High water, narrow access and poor lighting are slowing the rescue in the roughly 100-meter-deep mine.",
+     "source": {
+      "name": "Xinhua",
+      "url": "https://english.news.cn/20261126/0bc98938aa46439e80be9d715c53074d/c.html"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "title": "Business",
+   "icon": "💼",
+   "body_md": null,
+   "items": [
+    {
+     "id": "B1",
+     "headline_md": "Update: The White House proposes **new tariffs on 14 trading partners**: up to **40% on China**, 35% on Vietnam, 20–25% for the rest",
+     "summary_md": "The rates won't stack on July's tariffs and likely won't hit until February or March, so global stocks rose on relief.",
+     "source": {
+      "name": "Reuters via Euronext",
+      "url": "https://live.euronext.com/en/financial-news/stocks-climb-traders-shrug-latest-us-tariff-salvo"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B2",
+     "headline_md": "**Nvidia halts server shipments** to **Malaysia, Singapore, Thailand and Indonesia**, the FT reports",
+     "summary_md": "Partners like Dell and Supermicro told buyers their orders can't ship; it's unclear if the pause is temporary while they work through new US export rules.",
+     "source": {
+      "name": "Indian Express (FT)",
+      "url": "https://indianexpress.com/article/world/world-news-live-updates-us-tariff-donald-trump-jensen-huang-nvidia-palestine-israel-10978933/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B3",
+     "headline_md": "**S&P puts Nvidia's credit rating on watch** for a possible downgrade, citing management and board oversight",
+     "summary_md": "Nvidia closed Wednesday down 3.9% at $149.30, $2.3 trillion below its October peak.",
+     "source": {
+      "name": "Reuters via Euronext",
+      "url": "https://live.euronext.com/en/financial-news/asia-shares-bounce-ai-and-tariffs-lurk-background"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B4",
+     "headline_md": "**Elon Musk** says every US child will get **two SpaceX shares**, a gift worth over **$18 billion**",
+     "summary_md": "One share comes from the company and one from Musk personally, he posted on X.",
+     "source": {
+      "name": "Indian Express",
+      "url": "https://indianexpress.com/article/world/world-news-live-updates-us-tariff-donald-trump-jensen-huang-nvidia-palestine-israel-10978933/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "B5",
+     "headline_md": "**AI data-center gear** keeps air cargo booming, says the CEO of **SATS**, the world's largest air cargo handler",
+     "summary_md": "Server racks and chips are the main driver, and the Americas are now SATS' fastest-growing region.",
+     "source": {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/5f374b32b07b/world/asia-pacific/air-cargo-demand-ai-data-centres-shows-no-sign-slowing-sats-ceo-says-2026-11-26/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "games",
+   "title": "Games & mobile",
+   "icon": "🎮",
+   "body_md": null,
+   "items": [
+    {
+     "id": "G1",
+     "headline_md": "Mobile: **Block Blast** leads iOS ad creatives, and Learnings' **Vita Mahjong, Amaze Go and Meowdoku** take Android's top three",
+     "summary_md": "Also: **Monopoly Go** passed **$8bn** lifetime, and six of Q3's top 10 hybrid-casual puzzlers by IAP were Pixel Flow-style flow puzzles.",
+     "source": {
+      "name": "Mobilegamer.biz",
+      "url": "https://mobilegamer.biz/data-digest-monopoly-go-hits-8bn-block-blast-and-vita-mahjong-lead-ad-charts-korea-stats-more/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G2",
+     "headline_md": "**EA Sports FC 27** adds **AI-recreated John Motson** commentary in today's 1.3.0 update",
+     "summary_md": "His family agreed and was paid; a voice-cloning campaigner objects that Motson never consented himself.",
+     "source": {
+      "name": "Warp Pipes",
+      "url": "https://warppipes.com/en/articles/video-game-news-digest-2026-11-26"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G3",
+     "headline_md": "**Tony Hawk's Pro Skater 3 + 4** leads December's **PS Plus** games, with Dragon Ball Xenoverse 2 and Amnesia: The Bunker",
+     "summary_md": "They're claimable Dec. 1 to Jan. 4, 2027.",
+     "source": {
+      "name": "Warp Pipes",
+      "url": "https://warppipes.com/en/articles/video-game-news-digest-2026-11-26"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G4",
+     "headline_md": "Team Cherry's **Silksong: Sea of Sorrow** update comes **Friday at 9 AM CT** in a Cherry Time! broadcast",
+     "summary_md": "Team Cherry promises \"a bunch of exciting announcements\"; the free expansion still has no release date.",
+     "source": {
+      "name": "Warp Pipes",
+      "url": "https://warppipes.com/en/articles/video-game-news-digest-2026-11-26"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "G5",
+     "headline_md": "**skate.** drops seasons, its pass and Tix currency on **Dec. 1**",
+     "summary_md": "Content will ship when ready; leftover Tix get one last auto-exchange, then are wiped.",
+     "source": {
+      "name": "Warp Pipes",
+      "url": "https://warppipes.com/en/articles/video-game-news-digest-2026-11-26"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "emulation",
+   "title": "Video Game Emulation",
+   "icon": "🕹️",
+   "body_md": "Wii U lifter watch: still not public. u/Mindstormman's GitHub has 0 public repos, the r/decomps new feed shows no release, and the other Wii U recompilers ([CafeRecomp](https://github.com/hardkiller2565123123/CafeRecomp), [RebrewU](https://github.com/ApfelTeeSaft/RebrewU), [nWiiURecomp](https://github.com/BlackLineInteractive/nWiiURecomp)) have no new pushes or releases.",
+   "items": [
+    {
+     "id": "E1",
+     "headline_md": "Update, GTA VI: private PC recomps reportedly hit **20–30 FPS** (one claim of 44), but there's **still no public, playable PC build**",
+     "summary_md": "Builders went private after Take-Two's DMCAs; treat any \"GTA 6 PC\" download as malware.",
+     "source": {
+      "name": "Wccftech",
+      "url": "https://wccftech.com/unofficial-grand-theft-auto-vi-pc-recompilations-20-30-fps/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E2",
+     "headline_md": "Switch 2: **Lichii Build 410**, an Eglantine fork, speeds up **Donkey Kong Bananza** and fixes AMD and GTX 10-series bugs",
+     "summary_md": "It also fixes a Kirby Switch 2 Edition crash on AMD and broken colors in Xenoblade Chronicles 2.",
+     "source": {
+      "name": "Emu Radar",
+      "url": "https://emu-radar.customfw.xyz/news/lichii-build-410-switch-2-emulator-fixes/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E3",
+     "headline_md": "N64Recomp: **Rogue Squadron 64 Recompiled** brings Star Wars: Rogue Squadron natively to Windows, Linux, Mac and Android",
+     "summary_md": "It adds widescreen, unlocked frame rates, 8x draw distance, optional ray tracing and VR; a web fork runs it in browsers.",
+     "source": {
+      "name": "Emu Radar",
+      "url": "https://emu-radar.customfw.xyz/news/rogue-squadron-64-recompiled/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E4",
+     "headline_md": "Legal: a **Nintendo DMCA** gets GitHub to disable **144 repos** for Picofly, SX Core and HWFLY Switch modchip firmware",
+     "summary_md": "Chips already installed keep working, but new setups and updates can't pull firmware from GitHub.",
+     "source": {
+      "name": "Emu Radar",
+      "url": "https://emu-radar.customfw.xyz/news/nintendo-dmca-takedown-picofly-switch-modchip-github/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "E5",
+     "headline_md": "**RPCS3** looks back on 2026: direct **disc-drive play**, ISO support, a handheld UI and **10%+ more playable games**",
+     "summary_md": "It also improved PS Move and microphone emulation and the macOS/arm64 builds.",
+     "source": {
+      "name": "Emu Radar",
+      "url": "https://emu-radar.customfw.xyz/news/rpcs3-2026-disc-drive-iso-handheld-ui/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "movies",
+   "title": "Movies",
+   "icon": "🎬",
+   "body_md": "**Domestic top 10, weekend Fri–Sun Nov 20–22, 2026 (Monday actuals, The Numbers; the Thanksgiving weekend chart comes Sunday)**\n\n| # | Prev | Title | Wknd | Chg | Total | Wks | Thtrs | Dist | RT Crit | RT Aud | MC |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | new | [The Hunger Games: Sunrise on the Reaping](https://www.rottentomatoes.com/m/the_hunger_games_sunrise_on_the_reaping) | $119.3m | new | $119.3m | 1 | 4.0k | Lionsg. | 67% | 94% | 55 |\n| 2 | – | [I Play Rocky](https://www.rottentomatoes.com/m/i_play_rocky) | $9.3m | +1,788% | $10.4m | 3 | 2.5k | Amazon | 90% | 98% | 68 |\n| 3 | 1 🔴⬇ | [Ebenezer](https://www.rottentomatoes.com/m/ebenezer_2026) | $7.8m | −59% | $32.6m | 2 | 3.5k | Para. | 55% | 90% | 46 |\n| 4 | 2 🔴⬇ | [The Cat in the Hat](https://www.rottentomatoes.com/m/the_cat_in_the_hat) | $6.7m | −41% | $47.0m | 3 | 3.3k | WB | 49% | 87% | 46 |\n| 5 | 3 🔴⬇ | [Godzilla Minus Zero](https://www.rottentomatoes.com/m/godzilla_minus_zero) | $2.8m | −67% | $54.7m | 3 | 2.1k | GKIDS | 91% | 95% | 74 |\n| 6 | 5 🔴⬇ | [You Can See Everything](https://www.rottentomatoes.com/m/you_can_see_everything) | $2.5m | −53% | $93.5m | 6 | 1.3k | A24 | 97% | 95% | 97 |\n| 7 | 8 🟢⬆ | [Wild Horse Nine](https://www.rottentomatoes.com/m/wild_horse_nine) | $2.5m | −46% | $17.9m | 3 | 2.0k | Searchl. | 93% | 92% | 77 |\n| 8 | 7 🔴⬇ | [Ghost Soldier](https://www.rottentomatoes.com/m/ghost_soldier) | $2.4m | −54% | $12.5m | 2 | 2.6k | Sony | 39% | 90% | 41 |\n| 9 | 4 🔴⬇ | [Ramayana](https://www.rottentomatoes.com/m/ramayana_rise_of_a_legend) | $2.2m | −63% | $28.5m | 3 | 0.7k | Sony | 78% | 93% | 58 |\n| 10 | 9 🔴⬇ | [Wildwood](https://www.rottentomatoes.com/m/wildwood) | $2.1m | −52% | $52.2m | 5 | 1.3k | Fathom | 97% | 96% | 87 |\n\nPrev = last weekend's rank; titles link to Rotten Tomatoes; RT Crit/RT Aud = Rotten Tomatoes critics/audience; MC = Metacritic. Dropped out: Amazon's **How to Rob a Bank** fell from No. 6 to No. 11 (−66%); WB's **Clayface** fell from No. 10 to No. 14 (−65%). The Numbers lists I Play Rocky with no prior-week rank, so Prev shows –. Scores checked 5:10 AM CT Nov 26. Sources: [The Numbers](https://www.the-numbers.com/box-office-chart/weekend/2026/11/20), [Rotten Tomatoes](https://www.rottentomatoes.com/), [Metacritic](https://www.metacritic.com/).",
+   "items": [
+    {
+     "id": "V1",
+     "headline_md": "Update: **Sunrise on the Reaping** looks like **$15.5M–$16.5M** Wednesday and **$85M+** over the five-day holiday",
+     "summary_md": "That would be the franchise's second-best Thanksgiving after Catching Fire's $109.9M, with about $233M domestic by Sunday.",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V2",
+     "headline_md": "Update: Disney's **Hexed** opens to about **$7.8M** Wednesday (with $2.1M in previews), pacing for **$35M–$40M** over five days",
+     "summary_md": "Deadline says the $200M original \"isn't Coco or Frozen.\"",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V3",
+     "headline_md": "Update: **Focker-in-Law** looks like a **$5.2M** Wednesday and **$36.1M** five-day, below the $45M forecast",
+     "summary_md": "Ebenezer and I Play Rocky round out the top five; Netflix's Cliff Booth is pacing for $5M over five days in 251 theaters.",
+     "source": {
+      "name": "Deadline",
+      "url": "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V4",
+     "headline_md": "**David Fincher** says AI re-lipped dialogue in **Cliff Booth** after early viewers spotted apparent generative-AI shots",
+     "summary_md": "He says only 5% of the film used traditional ADR; Netflix and Fincher haven't addressed the specific shots.",
+     "source": {
+      "name": "Variety",
+      "url": "https://variety.com/2026/film/news/david-fincher-explains-ai-use-cliff-booth-1236958022/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "V5",
+     "headline_md": "**Brad Pitt and Angelina Jolie settle** their Château Miraval winery suit",
+     "summary_md": "Terms weren't disclosed; Pitt's separate suit against Stoli owner Yuri Shefler goes on.",
+     "source": {
+      "name": "Variety",
+      "url": "https://variety.com/2026/film/news/brad-pitt-angelina-jolie-settlement-chateau-miraval-1236958440/"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI",
+   "icon": "🤖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "A1",
+     "headline_md": "The **FCC conditionally lets SpaceX deploy up to 1 million satellites** meant to be orbital AI data centers",
+     "summary_md": "The FCC held back a requested waiver on disposing of some satellites outside the atmosphere.",
+     "source": {
+      "name": "AI.info",
+      "url": "https://ai.info/daily/2026-11-26"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A2",
+     "headline_md": "**OpenAI** says proteins from **GPT-6.2** designs bound to all **five** intended targets in lab tests",
+     "summary_md": "Specialized AI models supplied the sequences and helped pick candidates; OpenAI also posted a protein-design preprint.",
+     "source": {
+      "name": "AI.info",
+      "url": "https://ai.info/daily/2026-11-26"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A3",
+     "headline_md": "**Anthropic and OpenAI** each publish a claimed proof that **VP and VNP differ**, a long-open algebraic-complexity problem",
+     "summary_md": "Both await independent checking; Anthropic says no human mathematician has checked its AI-written proof.",
+     "source": {
+      "name": "AI.info",
+      "url": "https://ai.info/daily/2026-11-26"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A4",
+     "headline_md": "**Phala** says an attacker could read **152,092 OpenRouter requests** sent to its experimental DeepSeek deployment",
+     "summary_md": "The attacker also got the root key of Phala's legacy cloud key-management service.",
+     "source": {
+      "name": "AI.info",
+      "url": "https://ai.info/daily/2026-11-26"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "A5",
+     "headline_md": "**Australia** passes a **digital duty of care** law that covers **AI chatbots** along with social media, games and apps",
+     "summary_md": "It replaces existing safety frameworks and expands the eSafety Commissioner's powers.",
+     "source": {
+      "name": "AI.info",
+      "url": "https://ai.info/daily/2026-11-26"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Tech, app stores & ads",
+   "icon": "📱",
+   "body_md": null,
+   "items": [
+    {
+     "id": "T1",
+     "headline_md": "App stores: **Apple pulls Talkie**, MiniMax's AI companion app, worldwide over \"sexual content\" after a child-safety investigation",
+     "summary_md": "It's still on Google Play, so parents of kids with Android phones should check.",
+     "source": {
+      "name": "Yuphora",
+      "url": "https://yuphora.com/news/tech-news-roundup-2026-11-26"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T2",
+     "headline_md": "App stores: **32 states plus DC**, and Microsoft, Spotify and Match, back **Epic** in Apple's Supreme Court appeal",
+     "summary_md": "Oral argument is set for **Jan. 11, 2027**.",
+     "source": {
+      "name": "Yuphora",
+      "url": "https://yuphora.com/news/tech-news-roundup-2026-11-26"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T3",
+     "headline_md": "**1Password** says an intruder used an employee's GitHub account to copy some **customer names and emails**",
+     "summary_md": "Vaults weren't touched and no password changes are needed, but expect convincing phishing.",
+     "source": {
+      "name": "Yuphora",
+      "url": "https://yuphora.com/news/tech-news-roundup-2026-11-26"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T4",
+     "headline_md": "Ads: **Backblaze**'s new privacy policy, effective **Dec. 1**, lets it share customer data with ad networks for targeting",
+     "summary_md": "You can opt out with the Your Privacy Choices link or Global Privacy Control, one browser at a time.",
+     "source": {
+      "name": "Yuphora",
+      "url": "https://yuphora.com/news/tech-news-roundup-2026-11-26"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "T5",
+     "headline_md": "A judge rules **Amazon must handle recalls** of **400,000+ products** sold through Fulfilled by Amazon",
+     "summary_md": "Amazon must email buyers and post the notices on Your Orders; it says it's \"reviewing our options.\"",
+     "source": {
+      "name": "Yuphora",
+      "url": "https://yuphora.com/news/tech-news-roundup-2026-11-26"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Markets",
+   "icon": "📈",
+   "body_md": "US stock markets are **closed today for Thanksgiving**; futures and crypto are trading.",
+   "items": [
+    {
+     "id": "M1",
+     "headline_md": "Futures at 4:55 AM CT: **S&P 500 +0.3%** (7,218), **Dow +0.2%** (50,307), **Nasdaq-100 +0.2%** (26,145)",
+     "summary_md": "These are changes from Wednesday's settles, after Wall Street clawed back most of Wednesday's early losses.",
+     "source": {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/ES=F/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M2",
+     "headline_md": "Wednesday's close (3 PM CT): **S&P 500 7,182.78 (−0.3%)**, **Dow 50,182.95 (+0.3%)**, **Nasdaq 23,585.80 (−0.6%)**",
+     "summary_md": "**Nvidia** fell **3.9%** to **$149.30** after S&P's credit watch.",
+     "source": {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M3",
+     "headline_md": "At 4:55 AM CT: **WTI $84.46 (+0.9%)**, **gold $3,586.50 (+1.4%)**, **Brent $90.92**",
+     "summary_md": "Brent's change isn't shown because Yahoo's front-month comparison looks distorted.",
+     "source": {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/CL=F/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M4",
+     "headline_md": "Crypto at 5:05 AM CT: **Bitcoin $60,413** and **Ether $1,691**, both about flat on the day",
+     "summary_md": "",
+     "source": {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/BTC-USD/"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "M5",
+     "headline_md": "Overseas Thursday: **Europe +1.6%** early, **Nikkei +1.6%**, **Kospi +1.9%**, MSCI world **+0.4%**",
+     "summary_md": "Investors read the new US tariffs as less damaging than feared.",
+     "source": {
+      "name": "Reuters via Euronext",
+      "url": "https://live.euronext.com/en/financial-news/stocks-climb-traders-shrug-latest-us-tariff-salvo"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "weather",
+   "title": "Weather",
+   "icon": "🌤️",
+   "body_md": "**Hourly chance of precipitation today (CT)**\n\n| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| St. Peters | 86% ❄ | 80% 🌧❄ | 74% 🌧❄ | 67% 🌧❄ | 74% 🌧❄ | 81% 🌧 | 82% 🌧 | 82% 🌧 | 83% 🌧 | 80% 🌧 | 76% 🌧 | 72% 🌧 | 67% 🌧 | 61% 🌧 | 54% 🌧 | 46% 🌧 | 39% 🌧 | 26% 🌧❄ | 13% |\n| Berkeley | 83% 🌧❄ | 81% 🌧❄ | 78% 🌧 | 75% 🌧 | 79% 🌧 | 83% 🌧 | 86% 🌧 | 90% 🌧 | 93% 🌧 | 96% 🌧 | 86% 🌧 | 76% 🌧 | 72% 🌧 | 68% 🌧❄ | 64% 🌧 | 59% 🌧❄ | 55% 🌧❄ | 38% 🌧❄ | 21% 🌧❄ |\n\nSource: [api.weather.gov hourly forecast](https://api.weather.gov/points/38.7875,-90.6299) (gridpoints for both cities), fetched 5:03 AM CT. 🌧 = rain, ❄ = snow, 🌧❄ = rain and snow. No ice, freezing rain or sleet in the NWS forecast for the next 7 days, and no severe-storm risk here Days 1–3 or Day 4 ([SPC](https://www.spc.noaa.gov/products/outlook/)); Sunday's front brings rain, not snow, per NWS St. Louis.",
+   "items": [
+    {
+     "id": "X3",
+     "headline_md": "⚠️ **Winter Storm Warning** until **noon CT today** for St. Peters and Berkeley: up to **2 more inches** of heavy, wet snow",
+     "summary_md": "NWS reported 6–9 in. overnight in a narrow band from Perryville to Chesterfield. Snow turns to rain by late afternoon; slick roads this morning, and 20–25 mph gusts could snap snow-loaded branches and cause scattered power outages.",
+     "source": {
+      "name": "NWS St. Louis",
+      "url": "https://forecast.weather.gov/product.php?site=LSX&issuedby=LSX&product=AFD"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X1",
+     "headline_md": "**St. Peters**: rain and snow early, then rain, high near **38°**, low around **33°** tonight; **83%** chance today",
+     "summary_md": "About **0.4 in.** of precipitation, with little or no new snow after the morning; north wind gusting to 25 mph.",
+     "source": {
+      "name": "NWS",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=38.7875&lon=-90.6299"
+     },
+     "details_md": null,
+     "details_updated": null
+    },
+    {
+     "id": "X2",
+     "headline_md": "**Berkeley**: rain and snow early, then rain, high near **37°**, low around **34°** tonight; **93%** chance today",
+     "summary_md": "About **0.5 in.** of precipitation, with little or no new snow after the morning; north wind gusting to 26 mph.",
+     "source": {
+      "name": "NWS",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=38.7545&lon=-90.3312"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  },
+  {
+   "id": "worth-reading",
+   "title": "Worth reading in full",
+   "icon": "📖",
+   "body_md": null,
+   "items": [
+    {
+     "id": "R1",
+     "headline_md": "**US chip curbs and a distillation crackdown threaten Chinese AI model development**",
+     "summary_md": "Reuters' exclusive shows Z.AI's GLM-5.5 slipping and Moonshot's release cycle possibly doubling, a rare inside look at whether US export controls are working.",
+     "source": {
+      "name": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveus-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say-5052154"
+     },
+     "details_md": null,
+     "details_updated": null
+    }
+   ]
+  }
+ ]
+}
