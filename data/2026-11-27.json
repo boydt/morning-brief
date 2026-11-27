@@ -1,0 +1,604 @@
+{
+  "date": "2026-11-27",
+  "title": "Morning Brief - Prem",
+  "intro_md": "Type \"more on G3\" (or any code) here, or tap More info on the brief page and paste the request here, and I'll dig into it.",
+  "sections": [
+    {
+      "id": "world",
+      "title": "World",
+      "icon": "🌍",
+      "body_md": null,
+      "items": [
+        {
+          "id": "W1",
+          "headline_md": "A **drone attack on a \"vital facility\" in Kuwait** kills **two Italian technicians**; Kuwait blames Iran, which denies it",
+          "summary_md": "Italy says the victims worked for Rheinmetall's Italian unit; Iran's foreign minister offered Kuwait a joint investigation.",
+          "source": {
+            "name": "Argus",
+            "url": "https://argus.yeomniverse.com/en/archive/2026-11-27/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W2",
+          "headline_md": "Iran's IRGC Navy says **two more tankers hit mines** north of Oman's Khasab port in the **Strait of Hormuz**",
+          "summary_md": "It says one was a supertanker carrying over 2 million barrels of crude that was abandoned burning.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261127/9d216d8566854814bcd68db31d50f3b6/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W3",
+          "headline_md": "A **Thanksgiving storm on the East Coast** leaves **800,000+ without power** and snarls flights",
+          "summary_md": "High-wind and flood warnings ran from Virginia Beach to New York City; the Macy's parade was moved to Saturday, its first postponement in 100 years (per THR).",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261127/9d216d8566854814bcd68db31d50f3b6/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W4",
+          "headline_md": "An **EU summit fails to agree** the 2028–2034 budget and a **€45 billion Ukraine loan** after 12+ hours",
+          "summary_md": "Macron said leaders will return to it on Dec. 17–18; Bulgaria, Czechia, Hungary and Slovakia objected to EU funds for military aid.",
+          "source": {
+            "name": "Argus",
+            "url": "https://argus.yeomniverse.com/en/archive/2026-11-27/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W5",
+          "headline_md": "Update: the Indonesia mine toll rises to **13 dead**, with **13 still missing** in a flooded West Java pit",
+          "summary_md": "Rescuers have been pumping water from the roughly 100-meter shaft since Wednesday.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261127/9d216d8566854814bcd68db31d50f3b6/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "W6",
+          "headline_md": "**Serbia** will hold an **early presidential election on Dec. 27**",
+          "summary_md": "Parliament Speaker Aleksandar Cupic announced the date in a televised address.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261127/9d216d8566854814bcd68db31d50f3b6/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "title": "Business",
+      "icon": "💼",
+      "body_md": null,
+      "items": [
+        {
+          "id": "B1",
+          "headline_md": "**Trump calls revised GDP numbers \"fake\"** and demands an investigation after Q3 growth was revised to **4.3%** from 3.4%",
+          "summary_md": "He offered no evidence for his claim that pre-election figures were deliberately under-reported, Bloomberg reports.",
+          "source": {
+            "name": "Yahoo Finance (Bloomberg)",
+            "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B2",
+          "headline_md": "Black Friday: NRF expects **182.7 million** Thanksgiving-weekend shoppers, down 2%, but Adobe sees **$47.5B+ online**, up 7%",
+          "summary_md": "A Bank of America survey found the share planning to concentrate buying on Black Friday fell from 25% to 17%.",
+          "source": {
+            "name": "Axios",
+            "url": "https://www.axios.com/2026/11/27/black-friday-online-holiday-deals-cyber-monday"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B3",
+          "headline_md": "Update: **China, Japan, the EU and others reject** the US case for new tariffs on **14 economies**",
+          "summary_md": "China, facing 20% that could double to 40%, reserved the right to retaliate; the US-China truce runs to Jan. 10, 2027.",
+          "source": {
+            "name": "10 Things",
+            "url": "https://www.10things.news/p/10-things-global-news-27th-november-49b"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B4",
+          "headline_md": "The **Bank of Korea raises its rate to 3.25%**, a two-year high and its third hike this year",
+          "summary_md": "The KOSPI rose 0.29% to 4,711.21 the same day.",
+          "source": {
+            "name": "Argus",
+            "url": "https://argus.yeomniverse.com/en/archive/2026-11-27/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B5",
+          "headline_md": "Spain's **Pablo Hernández de Cos** is set to be backed as the next **ECB president**, succeeding Lagarde",
+          "summary_md": "EU officials said leaders were expected to back him; he and the Netherlands' Klaas Knot were nominated on Nov. 6.",
+          "source": {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261127/9d216d8566854814bcd68db31d50f3b6/c.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "B6",
+          "headline_md": "Samsung's **Jay Y. Lee turned down Elon Musk's** offer of a long-term memory chip deal, even with Musk financing a new plant",
+          "summary_md": "SamMobile reported it citing The Wall Street Journal.",
+          "source": {
+            "name": "Yuphora",
+            "url": "https://yuphora.com/news/tech-news-roundup-2026-11-27"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Games & mobile",
+      "icon": "🎮",
+      "body_md": null,
+      "items": [
+        {
+          "id": "G1",
+          "headline_md": "Mobile: **Block Blast** tops Google Play's worldwide weekly installs (**+7.5M**), with Voodoo's **Paper.io 2** at No. 9",
+          "summary_md": "HungryStudio's Block Blast Lite (+3.1M) is No. 10 and Vita Mahjong (+3M) No. 12 for Nov. 20–27.",
+          "source": {
+            "name": "PlayStore Radar",
+            "url": "https://playstoreradar.com/charts"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G2",
+          "headline_md": "**Rockstar UK staff reject IWGB union recognition**, 75.3% against on a 93.2% turnout",
+          "summary_md": "The ballot of 1,544 voters ran Nov. 12–26, through the GTA VI launch; the union says it will keep organizing.",
+          "source": {
+            "name": "Warp Pipes",
+            "url": "https://warppipes.com/en/articles/video-game-news-digest-2026-11-27"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G3",
+          "headline_md": "**GTA VI** made **£32 million** at UK physical retail in three days, **74%** of all boxed sales",
+          "summary_md": "It's the biggest boxed first week since FIFA 20, even though the box holds only a code; PS5 sales rose 46%.",
+          "source": {
+            "name": "Warp Pipes",
+            "url": "https://warppipes.com/en/articles/video-game-news-digest-2026-11-27"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G4",
+          "headline_md": "**The Witcher 3 Remastered patch 5.02** fixes lighting, time-reversal and \"bald Geralt\" bugs",
+          "summary_md": "It's out on PC, PS5, Xbox Series X|S and Switch 2, and outdated mods now get disabled instead of crashing the game.",
+          "source": {
+            "name": "Warp Pipes",
+            "url": "https://warppipes.com/en/articles/video-game-news-digest-2026-11-27"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "G5",
+          "headline_md": "**Marvelous** seeks about **65 voluntary departures** in its game division",
+          "summary_md": "It's restructuring development to focus on titles that fit its strengths, Famitsu reports.",
+          "source": {
+            "name": "Games for Humans",
+            "url": "https://gamesforhumans.net/digest"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "emulation",
+      "title": "Video Game Emulation",
+      "icon": "🕹️",
+      "body_md": "Wii U lifter watch: still not public. u/Mindstormman's GitHub has 0 public repos and no general Wii U lifter has appeared; Reddit (r/decomps, r/emulation) blocked us today. New single-game Wii U recomps did show up (see E2 and [Native Splatoon 1 Recomp](https://github.com/xF4Mz/Native-Splatoon-1-Recomp-AMD-PORT), a dev-only AMD build).",
+      "items": [
+        {
+          "id": "E1",
+          "headline_md": "Update, GTA VI: Take-Two had GitHub disable the **Leonida** PC port and **3,007 repos**, and the **CGBJ** port vanished after hitting **25–30 fps**",
+          "summary_md": "GitHub's own X account praised the PS5-to-PC tool AnyPS5, then deleted the post; Rockstar has announced no PC version, so any PC copy is built on leaked files.",
+          "source": {
+            "name": "Yuphora",
+            "url": "https://yuphora.com/news/tech-news-roundup-2026-11-27"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E2",
+          "headline_md": "Wii U: **3dWorldRecomp**, a static recomp of **Super Mario 3D World** (RedCarpet.rpx) to native **Android and PC**, appears on GitHub",
+          "summary_md": "It translates the PowerPC code to C ahead of time and draws GX2 graphics with Vulkan, with no CPU or GPU emulation; bring your own dump.",
+          "source": {
+            "name": "GitHub",
+            "url": "https://github.com/BelmanteGu/3dWorldRecomp"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E3",
+          "headline_md": "Wii: **Other M Recompiled v1.0.1** adds Japanese voices, eight text languages and bloom options",
+          "summary_md": "The native Metroid: Other M port runs on Windows, Linux, Mac and (early) Android from your own USA disc image.",
+          "source": {
+            "name": "EmuNews",
+            "url": "https://www.emunews.fr/en/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E4",
+          "headline_md": "Switch recomps: **Moon River v0.3.0** (Bayonetta 2) adds controller rebinding, alongside **XC2 NS2 Recomp v0.2.7** and a **Yo-kai Watch 1** recomp beta",
+          "summary_md": "All three are native Windows builds; Moon River also runs on Linux.",
+          "source": {
+            "name": "EmuNews",
+            "url": "https://www.emunews.fr/en/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E5",
+          "headline_md": "**Xenia Edge** ships two builds with GPU pacing changes, and a **shadPS4** nightly rolls up **97 commits**",
+          "summary_md": "shadPS4's build fixes Windows text encoding, GT Sport audio and file handling; Xenia Edge drops its debugger and savestates.",
+          "source": {
+            "name": "EmuNews",
+            "url": "https://www.emunews.fr/en/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "E6",
+          "headline_md": "**5DO 1.19.0** adds direct-IP **netplay** to the 3DO emulator",
+          "summary_md": "Hosts send compressed machine states over TCP and inputs over UDP, and reconnects resume from the host's state.",
+          "source": {
+            "name": "EmuNews",
+            "url": "https://www.emunews.fr/en/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Movies",
+      "icon": "🎬",
+      "body_md": "**Domestic top 10, weekend Fri–Sun Nov 20–22, 2026 (Monday actuals, The Numbers; the Thanksgiving weekend chart comes Sunday)**\n\n| # | Prev | Title | Wknd | Chg | Total | Wks | Thtrs | Dist | RT Crit | RT Aud | MC |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| 1 | new | [The Hunger Games: Sunrise on the Reaping](https://www.rottentomatoes.com/m/the_hunger_games_sunrise_on_the_reaping) | $119.3m | new | $119.3m | 1 | 4.0k | Lionsg. | 67% | 94% | 55 |\n| 2 | – | [I Play Rocky](https://www.rottentomatoes.com/m/i_play_rocky) | $9.3m | +1,788% | $10.4m | 3 | 2.5k | Amazon | 90% | 98% | 68 |\n| 3 | 1 🔴⬇ | [Ebenezer](https://www.rottentomatoes.com/m/ebenezer_2026) | $7.8m | −59% | $32.6m | 2 | 3.5k | Para. | 55% | 90% | 46 |\n| 4 | 2 🔴⬇ | [The Cat in the Hat](https://www.rottentomatoes.com/m/the_cat_in_the_hat) | $6.7m | −41% | $47.0m | 3 | 3.3k | WB | 49% | 87% | 46 |\n| 5 | 3 🔴⬇ | [Godzilla Minus Zero](https://www.rottentomatoes.com/m/godzilla_minus_zero) | $2.8m | −67% | $54.7m | 3 | 2.1k | GKIDS | 91% | 95% | 74 |\n| 6 | 5 🔴⬇ | [You Can See Everything](https://www.rottentomatoes.com/m/you_can_see_everything) | $2.5m | −53% | $93.5m | 6 | 1.3k | A24 | 97% | 95% | 97 |\n| 7 | 8 🟢⬆ | [Wild Horse Nine](https://www.rottentomatoes.com/m/wild_horse_nine) | $2.5m | −46% | $17.9m | 3 | 2.0k | Searchl. | 93% | 92% | 77 |\n| 8 | 7 🔴⬇ | [Ghost Soldier](https://www.rottentomatoes.com/m/ghost_soldier) | $2.4m | −54% | $12.5m | 2 | 2.6k | Sony | 39% | 90% | 41 |\n| 9 | 4 🔴⬇ | [Ramayana](https://www.rottentomatoes.com/m/ramayana_rise_of_a_legend) | $2.2m | −63% | $28.5m | 3 | 0.7k | Sony | 78% | 93% | 58 |\n| 10 | 9 🔴⬇ | [Wildwood](https://www.rottentomatoes.com/m/wildwood) | $2.1m | −52% | $52.2m | 5 | 1.3k | Fathom | 97% | 96% | 87 |\n\nPrev = last weekend's rank; titles link to Rotten Tomatoes; RT Crit/RT Aud = Rotten Tomatoes critics/audience; MC = Metacritic. Dropped out: Amazon's **How to Rob a Bank** fell from No. 6 to No. 11; WB's **Clayface** fell from No. 10 to No. 14. The Numbers lists I Play Rocky with no prior-week rank, so Prev shows –. Scores re-checked 5:09 AM CT Nov 27 (no changes since yesterday). New this week: [Hexed](https://www.rottentomatoes.com/m/hexed_2026) 68% / 87% / MC 56; [Focker In-Law](https://www.rottentomatoes.com/m/focker_in_law) 31% / 87% / MC 40. Sources: [The Numbers](https://www.the-numbers.com/box-office-chart/weekend/2026/11/20), [Rotten Tomatoes](https://www.rottentomatoes.com/), [Metacritic](https://www.metacritic.com/).",
+      "items": [
+        {
+          "id": "V1",
+          "headline_md": "Update: **Sunrise on the Reaping** took **$15.1M** Wednesday, the franchise's second-best day before Thanksgiving",
+          "summary_md": "Only 2013's Catching Fire ($20.8M) did better; Deadline still sees a 3-day of $58M+ and $85M+ over five days.",
+          "source": {
+            "name": "Deadline",
+            "url": "https://deadline.com/2026/11/box-office-hunger-games-hexed-focker-in-law-thanksgiving-1237233281/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V2",
+          "headline_md": "Update: Disney's **Hexed** opened with **$7.6M** Wednesday, and its five-day outlook slips to **$31M–$35M**",
+          "summary_md": "Variety now expects the $200M-plus animated film to finish third behind Focker In-Law.",
+          "source": {
+            "name": "Variety",
+            "url": "https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-leads-thanksgiving-eve-focker-in-law-opening-day-1236958999/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V3",
+          "headline_md": "Update: **Focker-in-Law** grossed **$5.3M** on opening day with a **B+ CinemaScore**, pointing to about **$36.3M** over five days",
+          "summary_md": "That's below the $45M range first projected.",
+          "source": {
+            "name": "The Hollywood Reporter",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-box-office-thanksgiving-focker-hexed-1236764014/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V4",
+          "headline_md": "This year's **Thanksgiving frame** is expected to land below both 2024's record **$423M** and last year's **$290M**",
+          "summary_md": "THR also warns the East Coast storm could slow moviegoing, including on Black Friday.",
+          "source": {
+            "name": "The Hollywood Reporter",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-box-office-thanksgiving-focker-hexed-1236764014/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "V5",
+          "headline_md": "Fincher's **The Further Mis-Adventures of Cliff Booth** looks like about **$5M** over five days on **252 Imax screens**",
+          "summary_md": "The Netflix film starts streaming Dec. 23.",
+          "source": {
+            "name": "The Hollywood Reporter",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-box-office-thanksgiving-focker-hexed-1236764014/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "icon": "🤖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "A1",
+          "headline_md": "**OpenAI** fixed a billing bug, so ChatGPT users will hit **GPT-6.2 Astra** limits **40% faster** and **Sol** limits 25% faster",
+          "summary_md": "Eligible subscribers get an extra usage reset, Business users get free Fast Mode through 2026, and OpenAI is testing a combined Chat and Work experience.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A2",
+          "headline_md": "**Neuralink** gets **FDA approval** for a pivotal US trial of its brain implant in people with severe paralysis from **ALS**",
+          "summary_md": "The same day, the Bank of England warned that AI financing makes it more likely that financial stress spreads between markets.",
+          "source": {
+            "name": "AI.info",
+            "url": "https://ai.info/daily/2026-11-27"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A3",
+          "headline_md": "**Anthropic rewrote the Claude API in Rust**, cutting CPU per request by about **70%** and median time to first token by **20%**",
+          "summary_md": "Months of shadowing live traffic took the match rate to 99.6%, and an audit caught 100+ weakened test assertions.",
+          "source": {
+            "name": "AIToolsRecap",
+            "url": "https://aitoolsrecap.com/Blog/ai-news-november-27-2026"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A4",
+          "headline_md": "**Microsoft** ties hackers linked to **China and North Korea** to **ARTEX**, an agentic AI intrusion framework",
+          "summary_md": "Microsoft says weak defenses can be breached within minutes, following an earlier FBI warning on the tool.",
+          "source": {
+            "name": "Bright Coast AI",
+            "url": "https://www.brightcoast.ai/blog/daily-ai-intel-brief-2026-11-27"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "A5",
+          "headline_md": "**Canada** adds **C$700 million** to its AI Compute Access Fund, bringing it to **C$1 billion**",
+          "summary_md": "It will cover up to 80% of eligible compute costs for businesses that use qualifying sovereign cloud providers.",
+          "source": {
+            "name": "The Neuron",
+            "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-27-2026/"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech, app stores & ads",
+      "icon": "📱",
+      "body_md": null,
+      "items": [
+        {
+          "id": "T1",
+          "headline_md": "App stores: a judge orders **Apple to hand Epic 3,200 documents** it had marked not relevant, **by Dec. 8**",
+          "summary_md": "Judge Thomas Hixson said Apple's rate was \"so dramatically low that it raises red flags.\"",
+          "source": {
+            "name": "Yuphora",
+            "url": "https://yuphora.com/news/tech-news-roundup-2026-11-27"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T2",
+          "headline_md": "Ads: some **iPhone apps push ads through Live Activities and promo alerts**, despite App Store rules",
+          "summary_md": "AliExpress put ads in Live Activities, and DoorDash, Skip, McDonald's and Wendy's were flagged over promo notifications.",
+          "source": {
+            "name": "The Mac Observer",
+            "url": "https://www.macobserver.com/news/some-iphone-apps-are-sneaking-ads-into-live-activities-and-alerts/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T3",
+          "headline_md": "Ads: buyers **bid more on in-app ads that carry a device ID** in 3 of 4 regions, a Blasto report finds",
+          "summary_md": "In the EU, at most 69% of in-app ad requests carry all four signals buyers check.",
+          "source": {
+            "name": "PPC Land",
+            "url": "https://ppc.land/buyers-bid-more-on-app-ads-with-a-device-id-in-3-of-4-regions-blasto-finds/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T4",
+          "headline_md": "Remove any **Chrome extension called \"Google Sheets\"**: the **Remus** infostealer uses one to read Gmail",
+          "summary_md": "Changing your password doesn't stop it, Gen Digital found; removing the extension does.",
+          "source": {
+            "name": "Yuphora",
+            "url": "https://yuphora.com/news/tech-news-roundup-2026-11-27"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T5",
+          "headline_md": "**Amazon workers in 20+ countries** plan strikes and protests on Black Friday and Cyber Monday",
+          "summary_md": "Engadget reports Verdi strikes at 11 German sites and Teamsters protests in Los Angeles and Chicago.",
+          "source": {
+            "name": "Yuphora",
+            "url": "https://yuphora.com/news/tech-news-roundup-2026-11-27"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "T6",
+          "headline_md": "**Apple's Black Friday** gift-card offer runs **Nov. 27–30**, with cards up to **$300** in the US",
+          "summary_md": "Newer models, including the iPhone 18 Pro and MacBook Neo, are left out.",
+          "source": {
+            "name": "Yuphora",
+            "url": "https://yuphora.com/news/tech-news-roundup-2026-11-27"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "icon": "📈",
+      "body_md": "Shortened session today: stocks close at **12 PM CT**, CME equity futures at **12:15 PM CT**, bonds at **1 PM CT** ([QuantVPS](https://www.quantvps.com/market-hours/holidays)).",
+      "items": [
+        {
+          "id": "M1",
+          "headline_md": "Futures at 4:59 AM CT: **S&P 500 +1.9%** (7,334), **Dow +1.5%** (50,965), **Nasdaq-100 +2.6%** (26,785)",
+          "summary_md": "Tech is leading a rebound after November's AI selloff.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/ES=F/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M2",
+          "headline_md": "Premarket around 4:30 AM CT: **Nvidia +4.2%** ($155.20), **Micron +6.4%**, **Sandisk +10.8%**, **AMD +5%**",
+          "summary_md": "Anthropic rose 3.6% to $85.73, back above its $83 IPO price.",
+          "source": {
+            "name": "Forbes via Yahoo Finance",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/stock-futures-surge-battered-ai-102927864.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M3",
+          "headline_md": "At 4:59 AM CT: **gold $3,706.90 (+4.0%)**, **WTI $85.41 (+2.1%)**, **Brent $92.03 (+1.5%)**",
+          "summary_md": "Yahoo ties oil's gain to stepped-up Houthi attacks on Saudi energy sites.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/GC=F/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M4",
+          "headline_md": "Crypto at 5:09 AM CT: **Bitcoin $61,518 (+1.7%)** and **Ether $1,723.50 (+2.1%)**",
+          "summary_md": "Both are up from Thursday's close.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/BTC-USD/"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "M5",
+          "headline_md": "The **10-year Treasury yield** fell to about **4.84%**, per Yahoo at 5 AM CT",
+          "summary_md": "There's no major earnings or economic data today.",
+          "source": {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "icon": "🌤️",
+      "body_md": "**Hourly chance of precipitation today (CT)**\n\n| City | 5a | 6a | 7a | 8a | 9a | 10a | 11a | 12p | 1p | 2p | 3p | 4p | 5p | 6p | 7p | 8p | 9p | 10p | 11p |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| St. Peters | 5% | 4% | 3% | 2% | 1% | 1% | 1% | 1% | 1% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 1% |\n| Berkeley | 8% | 6% | 5% | 3% | 1% | 2% | 2% | 2% | 1% | 1% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 0% | 1% |\n\nSource: [api.weather.gov hourly forecast](https://api.weather.gov/points/38.7875,-90.6299) (gridpoints for both cities), fetched 5:07 AM CT. Dry today. No ice storm or tornado threat for St. Louis area in the next 7 days ([NWS St. Louis](https://forecast.weather.gov/product.php?site=LSX&issuedby=LSX&product=AFD), [SPC](https://www.spc.noaa.gov/products/outlook/)): no active alerts for either city, no freezing rain, sleet or snow in the NWS forecast, and SPC shows no severe areas Days 1–3 and low severe potential Days 4–8. Rain arrives Saturday night into Sunday, about **0.25–0.50 in.**, per NWS St. Louis.",
+      "items": [
+        {
+          "id": "X1",
+          "headline_md": "**St. Peters**: mostly cloudy, high near **42°** then falling to about 38° this afternoon, low around **31°** tonight; dry today",
+          "summary_md": "West wind 5–13 mph; rain is likely Saturday night (90%) and Sunday (80%), with no active alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7875&lon=-90.6299"
+          },
+          "details_md": null,
+          "details_updated": null
+        },
+        {
+          "id": "X2",
+          "headline_md": "**Berkeley**: mostly cloudy, high near **42°** then falling to about 38° this afternoon, low around **32°** tonight; dry today",
+          "summary_md": "West wind 7–14 mph; rain is likely Saturday night and Sunday (90%), with no active alerts.",
+          "source": {
+            "name": "NWS",
+            "url": "https://forecast.weather.gov/MapClick.php?lat=38.7545&lon=-90.3312"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    },
+    {
+      "id": "worth-reading",
+      "title": "Worth reading in full",
+      "icon": "📖",
+      "body_md": null,
+      "items": [
+        {
+          "id": "R1",
+          "headline_md": "**Cautious consumers gear up for Black Friday as inflation woes bite**",
+          "summary_md": "Reuters lays out the stress under healthy holiday forecasts: 3.8% inflation, toy prices up 13.2% this year, and why AI may push the best deals closer to Christmas.",
+          "source": {
+            "name": "Reuters via Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/cautious-consumers-gear-up-for-black-friday-as-inflation-woes-bite-5052778"
+          },
+          "details_md": null,
+          "details_updated": null
+        }
+      ]
+    }
+  ]
+}
